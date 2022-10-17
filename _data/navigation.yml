@@ -20,8 +20,14 @@ links:
       - title: Teaching & Non-Teaching Staff
         url: /our-gsps-family/staff/
   - title: Useful Links
-    url: /useful-links/
-    sublinks: []
+    url: /useful-links/for-pupils/
+    sublinks:
+      - title: For Pupils
+        url: /useful-links/for-pupils/
+      - title: For Parents
+        url: /useful-links/for-parents/
+      - title: For Staff
+        url: /useful-links/for-staff/
   - title: Our GSPS Experience
     url: /our-gsps-experience/
     sublinks: []
