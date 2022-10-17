@@ -2,4 +2,5 @@ collections:
   our-gsps-experience:
     output: true
     order:
+      - Staff Professional Development.md
       - Learning for Life Programme (LLP).md
