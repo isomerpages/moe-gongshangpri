@@ -4,7 +4,7 @@ permalink: /useful-links/for-pupils/learning-platforms/
 description: ""
 ---
 ### **Learning Platforms**
-*   [Edmodo](https://www.edmodo.com/)  
+*   [Edmodo](https://www.edmodo.com/) **website unavailable**
 *   [Kahoot](https://kahoot.it/)
 *   [KooBits](https://problemsums.koobits.com/)  
 *   [Quizizz](https://quizizz.com/)
