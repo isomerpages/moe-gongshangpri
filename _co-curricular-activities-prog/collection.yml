@@ -2,4 +2,5 @@ collections:
   co-curricular-activities-prog:
     output: true
     order:
+      - Uniformed Group/.keep
       - Clubs and Societies/.keep
