@@ -9,32 +9,32 @@ third_nav_title: Home Based Learning
 #### **Primary 1**
 
 **P1 HBL Class Timetable**<br>
-Click [here] to view your class HBL timetable for 27 September to 1 October.<br>
-Click [here] to view your class HBL timetable for 4 October to 7 October.
+Click [here](/files/p1a.pdf) to view your class HBL timetable for 27 September to 1 October.<br>
+Click [here](/files/p1b.pdf) to view your class HBL timetable for 4 October to 7 October.
 
 #### **Primary 2**
 
 **P2 HBL Class Timetable**<br>
-Click [here] to view your class HBL timetable for 27 September to 1 October.<br>
-Click [here] to view your class HBL timetable for 4 October to 7 October.
+Click [here](/files/p2a.pdf) to view your class HBL timetable for 27 September to 1 October.<br>
+Click [here](/files/p2b.pdf) to view your class HBL timetable for 4 October to 7 October.
 
 #### **Primary 3**
 
 **P3 HBL Class Timetable**<br>
-Click [here] to view your class HBL timetable for 27 September to 1 October.<br>
-Click [here] to view your class HBL timetable for 4 October to 7 October.
+Click [here](/files/p3a.pdf) to view your class HBL timetable for 27 September to 1 October.<br>
+Click [here](/files/p3b.pdf) to view your class HBL timetable for 4 October to 7 October.
 
 #### **Primary 4**
 
 **P4 HBL Class Timetable**<br>
-Click [here] to view your class HBL timetable for 27 September to 1 October.<br>
-Click [here] to view your class HBL timetable for 4 October to 7 October.
+Click [here](/files/p4a.pdf) to view your class HBL timetable for 27 September to 1 October.<br>
+Click [here](/files/p4b.pdf) to view your class HBL timetable for 4 October to 7 October.
 
 #### **Primary 5**
 
 **P5 HBL Class Timetable**<br>
-Click [here] to view your class HBL timetable for 27 September to 1 October.<br>
-Click [here] to view your class HBL timetable for 4 October to 7 October.
+Click [here](/files/p5a.pdf) to view your class HBL timetable for 27 September to 1 October.<br>
+Click [here](/files/p5b.pdf) to view your class HBL timetable for 4 October to 7 October.
 
 #### **Primary 6**
 
