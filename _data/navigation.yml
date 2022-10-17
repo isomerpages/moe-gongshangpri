@@ -29,8 +29,28 @@ links:
       - title: For Staff
         url: /useful-links/for-staff/
   - title: Our GSPS Experience
-    url: /our-gsps-experience/
-    sublinks: []
+    url: /our-gsps-experience/cce/
+    sublinks:
+      - title: Character and Citizenship Edu
+        url: /our-gsps-experience/cce/
+      - title: Co-Curricular Activities Prog
+        url: /our-gsps-experience/cca/
+      - title: English Language
+        url: /our-gsps-experience/english/
+      - title: Info & Communication Tech
+        url: /our-gsps-experience/ict/
+      - title: Mathematics
+        url: /our-gsps-experience/mathematics/
+      - title: Mother Tongue Language
+        url: /our-gsps-experience/mtl/
+      - title: Physical Education & Aesthetic
+        url: /our-gsps-experience/pe-and-aesthetics/
+      - title: Science
+        url: /our-gsps-experience/science/
+      - title: Staff Professional Development
+        url: /our-gsps-experience/staff-professional-development/
+      - title: Learning for Life Programme
+        url: /our-gsps-experience/llp/
   - title: MOE Kindergarten @ Gongshang
     url: /kindergarten/
     sublinks: []
