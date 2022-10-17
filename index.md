@@ -34,5 +34,5 @@ sections:
       subtitle: Parent Volunteer Scheme
       description: For more information
       button: Click here
-      url: /useful-links/for-parents/parent-volunteer-scheme/
+      url: /useful-links/for-parents/parent-volunteer-scheme-recruitment-exercise/
 ---
