@@ -20,9 +20,7 @@ contacts:
   - content:
       - phone: +65 6788 0004
       - email: ""
-      - other: "For any SLS account or password queries, please contact the following:
-          <br> 1. Your child's Form Teacher <br> 2. School-based Helpdesk at
-          67831191 ext 238"
+      - other: ""
     title: Fax
   - content:
       - phone: ""
@@ -35,4 +33,10 @@ contacts:
       - email: ""
       - other: Tampines MRT (EW2) <br> Walking 9 mins from Exit B to here
     title: Nearest MRT Station
+  - content:
+      - phone: ""
+      - email: ""
+      - other: "queries, please contact the following: <br> 1. Your child's Form Teacher
+          <br> 2. School-based Helpdesk at 67831191 ext 238"
+    title: SLS account or password
 ---
