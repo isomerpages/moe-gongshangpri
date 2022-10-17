@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Letters to Parents.md
       - Monthly Bulletin.md
       - MOE Financial Assistance Scheme (FAS).md
       - Parent Volunteer Scheme Recruitment Exercise 2022.md
