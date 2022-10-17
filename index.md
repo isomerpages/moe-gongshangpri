@@ -14,6 +14,15 @@ sections:
         - title: Announcements
           description: ""
           url: /announcements/
+        - title: Useful links for Pupils
+          description: ""
+          url: /useful-links/for-pupils/
+        - title: useful links for parents
+          description: ""
+          url: /useful-links/for-parents/
+        - title: useful links for staff
+          description: ""
+          url: /useful-links/for-staff/
   - infobar:
       title: Covid-19 Related Matters
       subtitle: FAQ
