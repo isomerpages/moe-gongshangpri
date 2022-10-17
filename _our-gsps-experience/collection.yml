@@ -2,6 +2,7 @@ collections:
   our-gsps-experience:
     output: true
     order:
+      - Physical Education & Aesthetic/.keep
       - Science/Science.md
       - Science/Programmes.md
       - Science/Assessment.md
