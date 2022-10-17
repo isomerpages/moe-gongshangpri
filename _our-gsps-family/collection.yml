@@ -1,4 +1,5 @@
 collections:
   our-gsps-family:
     output: true
-    order: []
+    order:
+      - Teaching & Non Teaching Staff.md
