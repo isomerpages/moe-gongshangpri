@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Parent Support Group
 ---
 ### **Join Us**
-## **Parent Support Group Membership**
+#### **Parent Support Group Membership**
 
 Calling out to all parents of Gongshangers! Make your parenting journey memorable by joining the GSPS Parent Support Group (PSG)! We are a vibrant and passionate group of parents, actively involved in our children’s learning journey to create stronger bonds between the school, parents and teachers. All parents / guardians of current Gongshang Primary School students are welcome to join PSG and/or PSG events. Use the link or scan the QR code to join our GSPS PSG and Facebook!
 
