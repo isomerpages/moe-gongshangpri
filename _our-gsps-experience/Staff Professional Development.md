@@ -29,6 +29,5 @@ Pulling from various literature reviews, the features consist of the following p
 #### **The Next Step: Leveraging Social Media for Professional Growth**
  Students’ learning modes will change when they enter secondary schools. With the advancement of digital media and learning skills that we need to develop for the new learning landscape,  there is a need for us to re-look at what the new technological world can offer us with new learning opportunities. With a vision of creating a common learning space for all staff and in view of the time and space constraints everyone is facing, the school is examining how social media can be leveraged for collaborative professional learning to take place any time, any place.  According to Thomas and Brown (2011), such “new culture of learning” taps on the massive information network that allow teaching and learning resources to be curated and shared in a “bounded and structured environment that allows for unlimited agency to build and experiment with things within those boundaries”. Moving forward, the school needs to re-think and re-imagine  how professional learning should take place, who we can learn with and what platforms can be used to maximise participation ownership. As Thomas and Brown (2011) has put it nicely, “we need to cultivate the imagination for a world of constant change” (2011).
  
- #### **Reference**
-Thomas, D., and Brown, JS. (2011). A New Culture of Learning: Cultivating the Imagination for a world of Constant Change. CreateSpace Independent Publishing Platform.    
-
+#### **Reference**
+Thomas, D., and Brown, JS. (2011). A New Culture of Learning: Cultivating the Imagination for a world of Constant Change. CreateSpace Independent Publishing Platform.
