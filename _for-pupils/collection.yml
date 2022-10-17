@@ -1,5 +1,4 @@
 collections:
   for-pupils:
     output: true
-    order:
-      - Home Based Learning/.keep
+    order: []
