@@ -1,0 +1,4 @@
+collections:
+  our-gsps-family:
+    output: true
+    order: []
