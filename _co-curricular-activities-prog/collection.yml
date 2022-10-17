@@ -2,6 +2,7 @@ collections:
   co-curricular-activities-prog:
     output: true
     order:
+      - Co Curricular Activities (CCA) Programme.md
       - Physical Sports/.keep
       - Visual and Performing Arts/.keep
       - Uniformed Group/.keep
