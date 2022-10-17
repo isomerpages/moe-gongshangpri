@@ -2,5 +2,6 @@ collections:
   our-gsps-experience:
     output: true
     order:
+      - Science/.keep
       - Staff Professional Development.md
       - Learning for Life Programme (LLP).md
