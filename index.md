@@ -35,4 +35,12 @@ sections:
       description: For more information
       button: Click here
       url: /useful-links/for-parents/parent-volunteer-scheme-recruitment-exercise/
+  - infopic:
+      title: Home-Based Learning
+      subtitle: Gongshang Primary School
+      description: Resources for Parents & Pupils
+      button: Click here
+      url: /useful-links/for-parents/hbl/
+      image: /images/hbl.jpg
+      alt: Image alt text
 ---
