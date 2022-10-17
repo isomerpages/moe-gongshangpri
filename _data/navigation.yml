@@ -1,8 +1,24 @@
 logo: /images/sch logo.jpg
 links:
   - title: Our GSPS Family
-    url: /our-gsps-family/
-    sublinks: []
+    url: /our-gsps-family/our-history/
+    sublinks:
+      - title: Our HIstory
+        url: /our-gsps-family/our-history/
+      - title: Our School Crest and Song
+        url: /our-gsps-family/our-school-crest-and-song/
+      - title: Our Ethos
+        url: /our-gsps-family/our-ethos/
+      - title: School Management Committee
+        url: /our-gsps-family/smc/
+      - title: School Advisory Committee
+        url: /our-gsps-family/sac/
+      - title: Parent Support Group(G*SPEARS)
+        url: /our-gsps-family/psg/
+      - title: Alumni
+        url: /our-gsps-family/alumni/
+      - title: Teaching & Non-Teaching Staff
+        url: /our-gsps-family/staff/
   - title: Useful Links
     url: /useful-links/
     sublinks: []
