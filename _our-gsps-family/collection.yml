@@ -2,6 +2,7 @@ collections:
   our-gsps-family:
     output: true
     order:
+      - Our School Crest and Song.md
       - Our Ethos.md
       - School Management Committee (SMC).md
       - School Advisory Committee (SAC).md
