@@ -2,6 +2,7 @@ collections:
   our-gsps-experience:
     output: true
     order:
+      - Science/Assessment.md
       - Science/Achievements.md
       - Science/.keep
       - Staff Professional Development.md
