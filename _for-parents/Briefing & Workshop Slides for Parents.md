@@ -18,3 +18,10 @@ description: ""
 
 ### **Primary One Orientation Slides**
 Click [here](/files/2021%20P1%20Orientation%20ppt%20slides%2012%20Nov%201.pdf) to view.
+
+### **Engagement Session on New PSLE Scoring for P4 Parents**
+
+Click [here](/files/Parents%20Engagement%20Deck%20on%20Changes%20to%20PSLE%20-%20for%202019%20P4%20Parents%20(handout).pdf) to view.
+
+### **PSLE Results 2021**
+Click [here](/files/PSLE%20Results%202021.pdf) for more information.
