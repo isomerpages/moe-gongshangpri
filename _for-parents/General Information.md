@@ -5,7 +5,7 @@ description: ""
 ---
 ### **General Information**
 #### **School Handbook (PDF)**
-Click [here](https://gongshangpri.moe.edu.sg/qql/slot/u523/For%20Parents/General%20Info%20for%20Parents/Parents%20Handbook/Parents%20Handbook%202022-PDF.pdf) to download our school handbook.
+Click [here](/files/parents%20general%20info%201.pdf) to download our school handbook.
 
 #### **Vendor Information**
 ##### **School Bookshop**
@@ -45,7 +45,7 @@ Relevant links:
 Click [here](https://pg.moe.edu.sg/faq) to view.
 
 #### **Parent kit: Starting School Right**
-Please click [here](https://gongshangpri.moe.edu.sg/qql/slot/u523/For%20Parents/General%20Info%20for%20Parents/Parent%20Kit%20-%20Starting%20School%20Right%20Jan%202020.pdf) for more information.
+Please click [here](/files/parents%20general%20info%202.pdf) for more information.
 
 #### **Parent kit: Transitioning Back to School**
-Please click [here](https://gongshangpri.moe.edu.sg/qql/slot/u523/For%20Parents/General%20Info%20for%20Parents/Parent%20Kit%20-%20Transitioning%20Back%20to%20School.pdf) for more information.
+Please click [here](/files/parents%20general%20info%203.pdf) for more information.
