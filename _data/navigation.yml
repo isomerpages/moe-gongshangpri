@@ -1,2 +1,16 @@
 logo: /images/sch logo.jpg
-links: []
+links:
+  - title: Our GSPS Family
+    url: /our-gsps-family/
+    sublinks: []
+  - title: Useful Links
+    url: /useful-links/
+    sublinks: []
+  - title: Our GSPS Experience
+    url: /our-gsps-experience/
+    sublinks: []
+  - title: MOE Kindergarten @ Gongshang
+    url: /kindergarten/
+    sublinks: []
+  - title: Contact Us
+    url: /contact-us/
