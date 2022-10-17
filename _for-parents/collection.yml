@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - PERI PLUS Upgrading Matters.md
       - Waiting List/Waiting List.md
       - Waiting List/MOE Financial Assistance Scheme (FAS).md
       - Waiting List/.keep
