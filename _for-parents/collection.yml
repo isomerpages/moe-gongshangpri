@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - "Home Based Learning :  Resources for Parents & Pupils.md"
       - Letters to Parents.md
       - Monthly Bulletin.md
       - MOE Financial Assistance Scheme (FAS).md
