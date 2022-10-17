@@ -2,8 +2,6 @@ collections:
   our-gsps-experience:
     output: true
     order:
-      - Character and Citizenship Edu/Character and Citizenship Education
-        (CCE).md
       - Character and Citizenship Edu/.keep
       - Co Curricular Activities Prog/.keep
       - English Language/English Language.md
