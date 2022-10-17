@@ -1,4 +1,5 @@
 collections:
   moe-kindergarten-at-gongshang:
     output: true
-    order: []
+    order:
+      - Contact Us.md
