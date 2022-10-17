@@ -2,5 +2,6 @@ collections:
   co-curricular-activities-prog:
     output: true
     order:
+      - Visual and Performing Arts/.keep
       - Uniformed Group/.keep
       - Clubs and Societies/.keep
