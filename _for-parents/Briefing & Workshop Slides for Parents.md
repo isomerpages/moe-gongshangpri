@@ -8,10 +8,13 @@ description: ""
 
 ### **Parents' Briefing**
 **Primary 1 & 2**<br>
-[P1/P2 Parents' Briefing 4 February 2022]
+[P1/P2 Parents' Briefing 4 February 2022](/files/p1p2.pdf)
 
 **Primary 3 & 4**<br>
-[P3 and P4 Parents' Briefing on 20 January 2022 (Zoom)]
+[P3 and P4 Parents' Briefing on 20 January 2022 (Zoom)](/files/p3p4.pdf)
 
 **Primary 5 & 6**<br>
-[P5 & P6 Parents' briefing slides 21 January 2022]
+[P5 & P6 Parents' briefing slides 21 January 2022](/files/p5p6.pdf)
+
+### **Primary One Orientation Slides**
+Click [here](/files/2021%20P1%20Orientation%20ppt%20slides%2012%20Nov%201.pdf) to view.
