@@ -52,7 +52,15 @@ links:
       - title: Learning for Life Programme
         url: /our-gsps-experience/llp/
   - title: MOE Kindergarten @ Gongshang
-    url: /kindergarten/
-    sublinks: []
+    url: /kindergarten/about-mk/
+    sublinks:
+      - title: About MOE Kindergarten (MK)
+        url: /kindergarten/about-mk/
+      - title: Staff
+        url: /kindergarten/staff/
+      - title: MK Curriculum
+        url: /kindergarten/mk-curriculum/
+      - title: Contact Us
+        url: /kindergarten/contact-us/
   - title: Contact Us
     url: /contact-us/
