@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Character and Citizenship Education (CCE).md
+      - Programmes/Pastoral Care.md
       - Programmes/Discipline.md
       - Programmes/Student Leadership.md
       - Programmes/Trips for International Experience (TIE).md
