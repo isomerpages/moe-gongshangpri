@@ -41,3 +41,11 @@ Relevant links:
 [GSPS-SchBusServices Info 2019](https://gongshangpri.moe.edu.sg/qql/slot/u523/For%20Parents/School%20Bus%20Service/GSPS-SchBusServices%20Info%20(2019).pdf)  
 [Request for School Bus Services 2019](https://gongshangpri.moe.edu.sg/qql/slot/u523/For%20Parents/General%20Info%20for%20Parents/Useful%20Links/Updated%20Request%20for%20School%20Bus%20Services%202019.pdf)
 
+#### **Parents Gateway (FAQ)**
+Click [here](https://pg.moe.edu.sg/faq) to view.
+
+#### **Parent kit: Starting School Right**
+Please click [here](https://gongshangpri.moe.edu.sg/qql/slot/u523/For%20Parents/General%20Info%20for%20Parents/Parent%20Kit%20-%20Starting%20School%20Right%20Jan%202020.pdf) for more information.
+
+#### **Parent kit: Transitioning Back to School**
+Please click [here](https://gongshangpri.moe.edu.sg/qql/slot/u523/For%20Parents/General%20Info%20for%20Parents/Parent%20Kit%20-%20Transitioning%20Back%20to%20School.pdf) for more information.
