@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Monthly Bulletin.md
       - MOE Financial Assistance Scheme (FAS).md
       - Parent Volunteer Scheme Recruitment Exercise 2022.md
       - PERI PLUS Upgrading Matters.md
