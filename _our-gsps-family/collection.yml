@@ -2,5 +2,6 @@ collections:
   our-gsps-family:
     output: true
     order:
+      - Parent Support Group/.keep
       - Alumni/.keep
       - Teaching & Non Teaching Staff.md
