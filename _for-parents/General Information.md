@@ -22,7 +22,7 @@ _Note: School House T-shirt is sold in the school bookshop._
 ##### **School Uniform**
 
 | **Name** | Chop Kong Chong |
-|:---:|---|
+|---|---|
 | **Address** | 604 Sembawang Road<br>Sembawang Shopping Centre #02-13<br>Singapore 758459 |
 | **Contact No.** | 6753 1489 (Tel) |
 |
@@ -32,13 +32,13 @@ _Note: School uniform will be available for purchase on the last Friday of Term 
 ##### **School Bus Service**
 
 | **Name** | Ng Hong Kok School Bus Services |
-|:---:|---|
+|---|---|
 | **Address** | Blk 172  Bedok South Road<br>#05-423<br><br>Singapore 460172 |
 | **Contact No.** | 6241 0350 (Tel) |
 |
 
 Relevant links:  
-[GSPS-SchBusServices Info 2019](/files/parents%20general%20info%204.pdf)
+[GSPS-SchBusServices Info 2019](/files/parents%20general%20info%204.pdf)<br>
 [Request for School Bus Services 2019](/files/parents%20general%20info%205.pdf)
 #### **Parents Gateway (FAQ)**
 Click [here](https://pg.moe.edu.sg/faq) to view.
