@@ -2,5 +2,6 @@ collections:
   moe-kindergarten-at-gongshang:
     output: true
     order:
+      - Staff.md
       - MK Curriculum.md
       - Contact Us.md
