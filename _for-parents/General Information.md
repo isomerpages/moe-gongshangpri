@@ -38,9 +38,8 @@ _Note: School uniform will be available for purchase on the last Friday of Term 
 |
 
 Relevant links:  
-[GSPS-SchBusServices Info 2019](https://gongshangpri.moe.edu.sg/qql/slot/u523/For%20Parents/School%20Bus%20Service/GSPS-SchBusServices%20Info%20(2019).pdf)  
-[Request for School Bus Services 2019](https://gongshangpri.moe.edu.sg/qql/slot/u523/For%20Parents/General%20Info%20for%20Parents/Useful%20Links/Updated%20Request%20for%20School%20Bus%20Services%202019.pdf)
-
+[GSPS-SchBusServices Info 2019](/files/parents%20general%20info%204.pdf)
+[Request for School Bus Services 2019](/files/parents%20general%20info%205.pdf)
 #### **Parents Gateway (FAQ)**
 Click [here](https://pg.moe.edu.sg/faq) to view.
 
