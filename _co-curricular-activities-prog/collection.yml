@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Co Curricular Activities (CCA) Programme.md
+      - Physical Sports/Modular Sports.md
       - Physical Sports/Rugby.md
       - Physical Sports/Track and Field.md
       - Physical Sports/Wushu.md
