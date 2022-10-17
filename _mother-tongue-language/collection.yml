@@ -2,5 +2,6 @@ collections:
   mother-tongue-language:
     output: true
     order:
+      - MTL Fortnight.md
       - Chinese Language Department/.keep
       - Malay Language Department/.keep
