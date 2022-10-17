@@ -5,3 +5,13 @@ description: ""
 ---
 ### **Briefing/Workshop Slides for Parents**
 [Please refer to left menu bar for briefing/workshop slides for parents.](/files/P34%20Parents%20Briefing%2020%20Jan%202022.pdf)
+
+### **Parents' Briefing**
+**Primary 1 & 2**<br>
+[P1/P2 Parents' Briefing 4 February 2022]
+
+**Primary 3 & 4**<br>
+[P3 and P4 Parents' Briefing on 20 January 2022 (Zoom)]
+
+**Primary 5 & 6**<br>
+[P5 & P6 Parents' briefing slides 21 January 2022]
