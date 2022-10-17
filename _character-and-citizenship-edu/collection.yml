@@ -2,6 +2,6 @@ collections:
   character-and-citizenship-edu:
     output: true
     order:
-      - Programmes/Programmes.md
-      - Programmes/.keep
       - Character and Citizenship Education (CCE).md
+      - Programmes/.keep
+      - Programmes/Programmes.md
