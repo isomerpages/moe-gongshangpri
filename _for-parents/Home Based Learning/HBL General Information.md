@@ -52,3 +52,16 @@ Username: 1st 5 letters of your child's name in upper case + last 5 characters o
 Password: gsps2021
 
 **5\. eZhishi**<br>
+URL: [www.ezhishi.net](www.ezhishi.net)<br>
+User ID and password is the same (for e.g. GS3CL833)<br>
+Once you have logged in, you can change the password.<br>
+For assistance, please email or class dojo your child’s CL teacher.
+
+**6\. Nearpod**<br>
+URL: [nearpod.com](nearpod.com)
+
+**7.  Student iCON**<br>
+URL:  [https://workspace.google.com/dashboard](https://workspace.google.com/dashboard)
+
+#### **Home-based Learning Resources for Parents & Pupils**
+[Click here for Resources for Parents & Pupils](https://staging.d2j3cxv28bap5s.amplifyapp.com/useful-links/for-parents/hbl/)
