@@ -16,4 +16,4 @@ Citizen with Purpose
 
 #### **Values**
 
-<img src="/images/values.jpg" style="width:65%">
+<img src="/images/values.jpg" style="width:85%">
