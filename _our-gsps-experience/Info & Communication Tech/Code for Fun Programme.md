@@ -28,14 +28,14 @@ All participating pupils will complete 20 hours of coding training over a period
 
 ![](/images/codeforfun1.jpg)
 
-### **Code for Fun Programme for Primary 6 (2020)**
+#### **Code for Fun Programme for Primary 6 (2020)**
 This is a collaboration between MOE and IMDA.
 
-#### **MOE's Desired Outcomes**
+##### **MOE's Desired Outcomes**
 * To develop, in majority of students, the basic computing literacy and skills that would enable them to become informed and responsible users of computing technology.  
 * To grow a pool of students who have the talent and interest in Computing, so that they will take up the subject and subsequently pursue careers in related fields.
 
-#### **Overview of Programme**
+##### **Overview of Programme**
 Fundamentals of Computational Thinking and Exposure to Emerging Technologies.<br>
 Includes:  
 * Hands-on coding with block programming languages;  
@@ -45,7 +45,7 @@ Includes:
 
 All our Primary 6 students went through 10 hours of training for the Code for Fun Programme after PSLE.  All safe management measures including social distancing were adhered to.
 
-#### **Pupils at Work**
+##### **Pupils at Work**
 
 <img src="/images/code1.jpeg" style="width:30%;margin-right:15px;" align = "left">
 <img src="/images/code2.jpeg" style="width:30%;margin-right:15px;" align = "left">
