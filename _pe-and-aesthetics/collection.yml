@@ -2,5 +2,6 @@ collections:
   pe-and-aesthetics:
     output: true
     order:
+      - Visual Arts.md
       - Music and Performance.md
       - Programme for Active Learning (PAL).md
