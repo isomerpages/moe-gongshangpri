@@ -30,15 +30,9 @@ third_nav_title: Malay Language Department
 
 | KERTAS | KOMPONEN |
 |---|---|
-| **KERTAS 1<br>KARANGAN** | **PENULISAN** |
-|  | <br>PENULISAN KARANGAN<br>Karangan berdasarkan tajuk<br>Karangan Bergambar<br>(Tidak kurang daripada 120 perkataan) |
-| **KERTAS 2 <br>Buku A & Buku B** | **PENGGUNAAN BAHASA & PEMAHAMAN** |
-|  | **BUKU A**<br>1. Imbuhan<br>2. Peribahasa<br>3. Golongan Kata<br>4. Kefahaman 1<br><br> |
-|  | **BUKU B**<br>1. Frasa<br>2. Rangsangan Grafik<br>3. Kefahaman 2<br> |
-| **KERTAS 3** | **LISAN DAN KEFAHAMAN MENDENGAR** |
-|  | **BAHAGIAN A**<br>Bacaan Lantang |
-|  | **BAHAGIAN B**<br>Menonton klip video dan berbual dengan pemeriksa lisan berkaitan dengan klip video yang ditonton |
-|  | **BAHAGIAN D**<br>Kefahaman Mendengar |
+| <br>**KERTAS 1<br>KARANGAN** | **PENULISAN**<br><br>PENULISAN KARANGAN<br>Karangan berdasarkan tajuk<br>Karangan Bergambar<br>(Tidak kurang daripada 120 perkataan) |
+| <br><br><br>**KERTAS 2 <br>Buku A & Buku B** | **PENGGUNAAN BAHASA & PEMAHAMAN**<br><br>**BUKU A**<br>1. Imbuhan<br>2. Peribahasa<br>3. Golongan Kata<br>4. Kefahaman 1<br><br>**BUKU B**<br>1. Frasa<br>2. Rangsangan Grafik<br>3. Kefahaman 2<br> |
+| <br><br><br><br>**KERTAS 3** | **LISAN DAN KEFAHAMAN MENDENGAR**<br><br>**BAHAGIAN A**<br>Bacaan Lantang<br><br>**BAHAGIAN B**<br>Menonton klip video dan berbual dengan pemeriksa lisan berkaitan dengan klip video yang ditonton<br><br>**BAHAGIAN D**<br>Kefahaman Mendengar |
 |
 
 #### **Primary 5 (EYE) / Primary 6 (MYE & EYE) Higher Malay Language Assessment**
@@ -47,8 +41,5 @@ third_nav_title: Malay Language Department
 |---|---|
 | **Kertas 1<br>KARANGAN** | 1. Karangan berdasarkan topik dan senario<br>2. Menulis cerita menggunakan permulaan yang diberikan |
 |  | **Penggunaan Bahasa Dan Kefahaman** |
-| **Kertas 2<br>PENGGUNAAN BAHASA & KEFAHAMAN** | Peribahasa |
-|  | Mengedit Teks |
-|  | Kefahaman 1<br> |
-|  | Kefahaman 2 |
+| **Kertas 2<br>PENGGUNAAN BAHASA & KEFAHAMAN** | Peribahasa<br>Mengedit Teks<br>Kefahaman 1<br>Kefahaman 2 |
 |
