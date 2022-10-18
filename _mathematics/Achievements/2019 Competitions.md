@@ -18,3 +18,27 @@ The school sent a group of boys for the solo category and **1 of them received 
 <img src="/images/19comp1.jpg" style="width:65%">
 
 <img src="/images/19comp2.jpg" style="width:45%">
+
+#### **National Mathematical Olympiad of Singapore 2019**
+Congratulations to the following students for achieving "Bronze" for this competition!  
+  
+\- TAN JIE MIN (P5.1)<br>
+\- ETHAN CHAN (P5.1)<br>
+\- JASON WANG (P5.2)<br>
+\- YANG HUAISEN (P5.3)
+
+<img src="/images/19comp3.jpg" style="width:65%">
+
+#### **Annual Mathlympics 2019**
+Congratulations to the following students for achieving the awards!  
+  
+Silver Award:<br>
+\- Tan Jie Min (P5.1)<br>
+\- Wang Shuangqi (P4.1)  
+  
+Bronze Award:<br>
+\- Chloe Lim (P5.1)<br>
+\- Ethan Chan (P5.1)<br>
+\- Jason Wang (P5.2)
+
+<img src="/images/19comp4.jpg" style="width:65%">
