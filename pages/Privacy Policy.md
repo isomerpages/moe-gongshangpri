@@ -3,6 +3,7 @@ title: Privacy Policy
 permalink: /privacy/
 description: ""
 ---
+### **Privacy Policy**
 
 This is **Gongshang Primary School**‘s website. Thank you for examining our privacy statement.
 
