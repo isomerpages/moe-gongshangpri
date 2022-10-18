@@ -18,3 +18,14 @@ The following table shows the themes covered in the respective levels.
 |  Primary 5 |   |   |  ♥ |  ♥ |  ♥ |
 | Primary 6  |   |  ♥ |   |   |  ♥ |
 |
+
+#### **Every Child A Seed (In partnership with NParks)**
+Every child in Primary 3 will be given a starter kit provided by NParks. This starter kit allows them to grow their own plant, caring for it from the germination of the seed till the adult stage. The programme ties in with the pupils’ learning of plant parts in the Science curriculum.
+
+#### **Earth Day 2021**
+The school commemorated Earth Day on 22 April to celebrate the planet's environment and to raise public awareness about environmental issues. The theme of this year’s Earth Day is “Restore Our Earth”. Through the various programmes arranged, the pupils have come to an understanding that every action, no matter how small it may seem, counts towards restoring our earth.
+
+**Project ‘Give-and-Share’:** The pupils have generously donated their pre-loved books and these books are given a new lease of life in their class library. Through this project, it has helped to instil the value of thrift as well as inculcate a culture of reading in our pupils.
+
+
+
