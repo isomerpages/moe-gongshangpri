@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Gongshang Primary School
 locations:
   - address:
       - 1 Tampines Street 42
