@@ -19,7 +19,7 @@ third_nav_title: Mathematics
 |  |  |  |
 |:---:|:---:|:---:|
 | Booklet A  | 15 Multiple-Choice Questions  | 2 marks each  |
-| <br>Booklet B | 18 Short-Answer Questions<br><br>6 Long - Answer Questions | 8 x 1-mark <br>10 x 2-marks<br><br>2 x 3-marks<br>4 x 4-marks |
+| <br><br>Booklet B | 18 Short-Answer Questions<br><br>6 Long - Answer Questions | 8 x 1-mark <br>10 x 2-marks<br><br>2 x 3-marks<br>4 x 4-marks |
 |  | Total = 80 marks<br>Total Duration = 1h 45min |  |
 | Multiplication<br> Assessment | 50 Questions | 1-mark each |
 |  | Total = 50 marks<br>Total Duration = 5 min |  |
@@ -30,7 +30,7 @@ third_nav_title: Mathematics
 |  |  |  |
 |:---:|:---:|:---:|
 | Booklet A  | 15 Multiple-Choice Questions  | 2 marks each  |
-| <br>Booklet B | 18 Short-Answer Questions<br><br>6 Long - Answer Questions | 8 x 1-mark <br>10 x 2-marks<br><br>2 x 3-marks<br>4 x 4-marks |
+| <br><br>Booklet B | 18 Short-Answer Questions<br><br>6 Long - Answer Questions | 8 x 1-mark <br>10 x 2-marks<br><br>2 x 3-marks<br>4 x 4-marks |
 |  | Total = 80 marks<br>Total Duration = 1h 45min |  |
 | Multiplication Assessment | 50 Questions | 1-mark each |
 |  | Total = 50 marks<br>Total Duration = 5 min |  |
