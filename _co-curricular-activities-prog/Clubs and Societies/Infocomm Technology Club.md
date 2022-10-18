@@ -12,7 +12,7 @@ A self-directed and collaborative learner who is able to leverage ICT in his/her
 
 #### **Long-term Goals**
 *   Equip our young ICT technologists with relevant ICT skills to enable them to collaborate on digital media projects meaningfully and creatively.  
-*   Provide a variety of platforms to develop our ICT technologists into proficient users of ICT, allowing them to be            actively engaged in tasks that foster their thinking and collaborative skills. 
+*   Provide a variety of platforms to develop our ICT technologists into proficient users of ICT, allowing them to be actively engaged in tasks that foster their thinking and collaborative skills. 
 *   Cultivate our young ICT technologists to be ethical and responsible cyberspace citizens.
 
 #### **Teachers in Charge**
