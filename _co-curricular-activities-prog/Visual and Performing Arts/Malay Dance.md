@@ -6,7 +6,15 @@ third_nav_title: Visual and Performing Arts
 ---
 ### **Malay Dance**
 
+<img src="/images/md1.jpg" style="width:65%">
 
+<img src="/images/md2.jpg" style="width:65%">
+
+<img src="/images/md3.jpg" style="width:65%">
+
+<img src="/images/md4.jpg" style="width:65%">
+
+<img src="/images/md5.jpg" style="width:65%">
 
 Malay Dance @ Gongshang has been around since the 80’s. It is an active performing arts group. We believe we could ignite passion in our dancers and unleash their talents. Our Malay Dance dancers comprise of pupils from Primary 3 to Primary 6. Weekly trainings are conducted by our dedicated instructor, a local dance enthusiast who has given our dancers the exposure to the various genre of Malay Dance.
 
