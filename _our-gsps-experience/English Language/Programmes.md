@@ -18,3 +18,11 @@ Teaching Strategies:
 * Literacy Centres (LC)
 * Explicit teaching of language items, structures and skills
 * Show and Tell
+
+<img src="/images/eng1.jpg" style="width:49%" align=left>
+<img src="/images/eng2.jpg" style="width:49%" align=right>
+
+<br clear="left">
+
+<img src="/images/eng3.jpg" style="width:49%" align=left>
+<img src="/images/eng4.jpg" style="width:49%" align=right>
