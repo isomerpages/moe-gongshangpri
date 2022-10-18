@@ -25,5 +25,5 @@ In Gongshang Primary, our NML lessons are woven into our lessons. Our students a
 
 #### **New Media Literacies**
 
-<img src="/images/baselineict.png" style="width:40%;margin-right:15px;" align = "left">_'New Media Literacies are defined as the abilities to curate, create and connect with others in the digital networked environment.  
+<img src="/images/baselineict.png" style="width:45%;margin-right:15px;" align = "left">_'New Media Literacies are defined as the abilities to curate, create and connect with others in the digital networked environment.  
 Regular engagement in these interactions will enable students to develop an understanding of the social practices (tacit norms and skills) governing the digital networked environment. - Toolkit for Baseline ICT Standards, New Media Literacies'_
