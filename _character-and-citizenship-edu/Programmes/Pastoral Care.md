@@ -21,3 +21,6 @@ To encourage positive relationships among pupils, the following initiatives have
 * Friends@Gongshang
 * Knowledge, Interaction, Teamwork, Exploration & Skills (KITES)
 * Bridging Curious Learners
+
+<img src="/images/pastoral1.jpg" style="width:49%" align=left>
+<img src="/images/pastoral2.jpg" style="width:49%" align=right>
