@@ -14,3 +14,5 @@ The activities and games help to develop teamwork and foster interaction amongst
 | Wednesday | MR HAZMI BIN HASAN (OIC) |  [hazmi_hasan@moe.edu.sg](mailto:hazmi_hasan@moe.edu.sg) |
 | 2.30 p.m. - 4.00 p.m.<br>(face-to-face) | MDM NG CHOR LENG |  [ng_chor_leng@moe.edu.sg](mailto:ng_chor_leng@moe.edu.sg) |
 |
+
+![](/images/modular.jpg)
