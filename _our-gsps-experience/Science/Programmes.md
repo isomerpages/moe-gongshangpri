@@ -35,7 +35,7 @@ The school commemorated Earth Day on 22 April to celebrate the planet's environm
 
 Also, we are pleased to showcase photos of several activities carried out by different groups of pupils at our Earth Day Corner in the school library. Do click on the attachments below for photos of the winning art pieces of the ‘Restore Our Earth Character Design Challenge’ and some of the winners of the Earth Day Quiz!
 
-1\. [2021 Restore Our Earth Character Design Challenge (collaboration with Art Department)](https://gongshangpri.moe.edu.sg/qql/slot/u523/Departments/Science/Earth%20Day/Earth%20Day%202021/2021%20Restore%20Our%20Earth%20Character%20Design%20Challenge.pdf) **file more than 5mb**
+1\. [2021 Restore Our Earth Character Design Challenge (collaboration with Art Department)](https://gongshangpri.moe.edu.sg/qql/slot/u523/Departments/Science/Earth%20Day/Earth%20Day%202021/2021%20Restore%20Our%20Earth%20Character%20Design%20Challenge.pdf) **file more than 5mb**<br>
 2\. [2021 Earth Day Quiz Winners](/files/sci2.pdf)
 
 #### **Inches for Pocket Money (In partnership with SPH)**
