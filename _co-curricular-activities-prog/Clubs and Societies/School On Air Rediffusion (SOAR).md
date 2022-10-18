@@ -37,5 +37,5 @@ Our pupil Gu Ting Yuan (P4.1) was one of 16 out of 216 participants who qualifie
 
 <br clear="left">
 
-<img src="/images/soar6.jpg" style="width:49%" align=left>
-<img src="/images/soar7.jpg" style="width:49%" align=right>
+<img src="/images/soar6.jpg" style="width:47%" align=left>
+<img src="/images/soar7.jpg" style="width:51%" align=right>
