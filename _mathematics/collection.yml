@@ -2,9 +2,9 @@ collections:
   mathematics:
     output: true
     order:
-      - Programmes/Programmes.md
-      - Programmes/.keep
-      - Achievements/Achievements.md
-      - Achievements/.keep
       - Mathematics.md
+      - Programmes/.keep
+      - Programmes/Programmes.md
       - Assessment.md
+      - Achievements/.keep
+      - Achievements/Achievements.md
