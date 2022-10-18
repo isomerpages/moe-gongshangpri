@@ -106,6 +106,8 @@ Primary 2 in ISH 4
 <img src="/images/pe16.jpg" style="width:49%" align=left>
 <img src="/images/pe17.jpg" style="width:49%" align=right>
 
+<br clear="left">
+
 #### **Sports Day**
 
 <img src="/images/pe18.jpg" style="width:30%;margin-right:15px;" align = "left">
@@ -159,4 +161,3 @@ Primary 2 in ISH 4
 
 <img src="/images/pe35.jpg" style="width:49%" align=left>
 <img src="/images/pe36.jpeg" style="width:49%" align=right>
-
