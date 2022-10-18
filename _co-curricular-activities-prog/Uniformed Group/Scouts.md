@@ -35,3 +35,5 @@ Mrs Sabrina Neo
 <iframe width="480" height="360" src="https://www.youtube.com/embed/GKZM8ns0wxQ" title="The 9 Uniformed Groups in Singapore" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="480" height="360" src="https://www.youtube.com/embed/YCHK2KPLiUw" title="Bicengennial Hike 2019" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="480" height="360" src="https://www.youtube.com/embed/Ftx1e_oIWxk" title="East Area Explorer camp 2018" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
