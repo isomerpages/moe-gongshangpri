@@ -23,3 +23,6 @@ Please click [here to view the FAQ](/files/PERI%20PLUS%20faq.pdf) regarding ou
 #### **October bulletin**
 
 Please click [here](/files/monthlybullettin228.pdf) for our October bulletin.
+
+#### **Term 3 Maths Quiz**
+Click [here](https://forms.gle/eYPYxYBmH6GELbEA9) to take part!
