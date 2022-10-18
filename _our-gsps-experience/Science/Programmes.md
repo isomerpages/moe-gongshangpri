@@ -11,7 +11,7 @@ Guided by the Primary Science Syllabus 2014, we aim to design learning experienc
 
 The following table shows the themes covered in the respective levels.
 
-| Diversity | Interactions | Systems  |  Cycles | Energy |  |
+| | Diversity | Interactions | Systems  |  Cycles | Energy |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |  Primary 3  | ♥ | ♥ | ♥  |   |  |
 | Primary 4 |  |  |   |  ♥ | ♥ |
@@ -26,6 +26,3 @@ Every child in Primary 3 will be given a starter kit provided by NParks. This st
 The school commemorated Earth Day on 22 April to celebrate the planet's environment and to raise public awareness about environmental issues. The theme of this year’s Earth Day is “Restore Our Earth”. Through the various programmes arranged, the pupils have come to an understanding that every action, no matter how small it may seem, counts towards restoring our earth.
 
 **Project ‘Give-and-Share’:** The pupils have generously donated their pre-loved books and these books are given a new lease of life in their class library. Through this project, it has helped to instil the value of thrift as well as inculcate a culture of reading in our pupils.
-
-
-
