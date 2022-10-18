@@ -4,9 +4,10 @@ permalink: /our-gsps-experience/cca/uniformed-group/scouts/
 description: ""
 third_nav_title: Uniformed Group
 ---
+### **Scouts**
+
 <img src="/images/scout1.png" style="width:20%" align=left> 
 
-### **Scouts**
 
 <br clear="left">
 
