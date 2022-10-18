@@ -38,7 +38,12 @@ third_nav_title: Mathematics
 
 #### **Primary 4 Mathematics<br>Examination Format (SA2)**
 
-
+|  |  |  |
+|:---:|:---:|:---:|
+| Booklet A | 18 Multiple-Choice Questions | 2 marks each |
+|<br> Booklet B | 20 Short-Answer Questions<br><br>7 Long- Answer Questions | 2 marks each<br><br>4 x 3-marks<br>3 x 4-marks |
+|  | Total = 100 marks<br>Total Duration = 1h 45min |  |
+|
 
 #### **Primary 5 Mathematics<br>Examination Format (SA1 & SA2)**
 
