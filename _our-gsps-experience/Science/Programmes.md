@@ -37,3 +37,13 @@ Also, we are pleased to showcase photos of several activities carried out by dif
 
 1\. [2021 Restore Our Earth Character Design Challenge (collaboration with Art Department)](https://gongshangpri.moe.edu.sg/qql/slot/u523/Departments/Science/Earth%20Day/Earth%20Day%202021/2021%20Restore%20Our%20Earth%20Character%20Design%20Challenge.pdf) **file more than 5mb**
 2\. [2021 Earth Day Quiz Winners](/files/sci2.pdf)
+
+#### **Inches for Pocket Money (In partnership with SPH)**
+Primary 4 classes will observe the life cycle of a plant (Lady’s finger plant) through growing their own seed and caring for it. This is a meaningful project as every inch of the longest fruit produced will help raise funds for the less fortunate.
+
+#### **Enrichment Programmes and Competitions**
+Selected Primary 4 - 6 pupils who display a high interest and ability in Science will be introduced to enrichment activities and competitions to further develop their critical thinking and communication skills.
+
+<img src="/images/science3.jpg" style="width:65%">
+
+Pupils attending an Aerodynamics workshop at NUSH with hands-on activities to learn how planes fly.
