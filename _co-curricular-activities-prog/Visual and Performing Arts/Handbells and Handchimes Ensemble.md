@@ -15,3 +15,11 @@ In Handbells and Handchimes Ensemble, we strongly believe in teamwork and valuin
 | **Instructor:** | Mrs Anna Tay |
 | **CCA Timings:** | Mondays, 3.00p.m. to 5.00 p.m. (Semester 1)<br><br>Wednesdays, 2.30 p.m. to  4.00 p.m. <br>(Semester 1 and 2) |
 |
+
+<img src="/images/handbell1.jpeg" style="width:65%">
+
+<img src="/images/handbell2.jpeg" style="width:65%">
+
+<img src="/images/handbell3.jpeg" style="width:65%">
+
+<img src="/images/handbell4.jpeg" style="width:65%">
