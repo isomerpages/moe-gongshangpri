@@ -8,4 +8,3 @@ third_nav_title: Uniformed Group
 Adiji Chief Scout event is the official event which is dedicated to welcome our Chief Scout, President of Singapore. Every Singapore President is the Chief Scout of the Singapore Scout Association. Mdm Halimah Yacob was welcomed to to be the Chief Scout on Saturday 7 April 2018.
 
 The Cub Scout Field Day was also carried out on the same day. It is the cub scout version of sports day for all cub scouts in every school in Singapore.
-
