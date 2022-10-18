@@ -43,4 +43,12 @@ third_nav_title: Malay Language Department
 
 #### **Primary 5 (EYE) / Primary 6 (MYE & EYE) Higher Malay Language Assessment**
 
-
+| KERTAS | KOMPONEN |
+|---|---|
+| **Kertas 1<br>KARANGAN** | 1. Karangan berdasarkan topik dan senario<br>2. Menulis cerita menggunakan permulaan yang diberikan |
+|  | **Penggunaan Bahasa Dan Kefahaman** |
+| **Kertas 2<br>PENGGUNAAN BAHASA & KEFAHAMAN** | Peribahasa |
+|  | Mengedit Teks |
+|  | Kefahaman 1<br> |
+|  | Kefahaman 2 |
+|
