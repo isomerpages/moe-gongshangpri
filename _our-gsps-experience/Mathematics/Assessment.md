@@ -29,19 +29,17 @@ third_nav_title: Mathematics
 
 |  |  |  |
 |:---:|:---:|:---:|
-| Booklet A  | 15 Multiple-Choice Questions  | 2 marks each  |
-| <br><br>Booklet B | 18 Short-Answer Questions<br><br>6 Long - Answer Questions | 8 x 1-mark <br>10 x 2-marks<br><br>2 x 3-marks<br>4 x 4-marks |
-|  | Total = 80 marks<br>Total Duration = 1h 45min |  |
-| Multiplication Assessment | 50 Questions | 1-mark each |
-|  | Total = 50 marks<br>Total Duration = 5 min |  |
+| Booklet A | 18 Multiple-Choice Questions | 2 marks each |
+|<br> Booklet B | 20 Short-Answer Questions<br><br>7 Long- Answer Questions | 2 marks each<br><br>4 x 3-marks<br>3 x 4-marks |
+|  | Total = 100 marks<br>Total Duration = 1h 45min |  |
 |
 
 #### **Primary 4 Mathematics<br>Examination Format (SA2)**
 
 |  |  |  |
 |:---:|:---:|:---:|
-| Booklet A | 18 Multiple-Choice Questions | 2 marks each |
-|<br> Booklet B | 20 Short-Answer Questions<br><br>7 Long- Answer Questions | 2 marks each<br><br>4 x 3-marks<br>3 x 4-marks |
+| Booklet A  |  16 Multiple-Choice Questions | 2 marks each  |
+| <br>Booklet B | 20 Short-Answer Questions<br><br>8 Long- Answer Questions | 2 marks each<br><br>4 x 3-marks<br>4 x 4-marks |
 |  | Total = 100 marks<br>Total Duration = 1h 45min |  |
 |
 
