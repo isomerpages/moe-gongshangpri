@@ -54,8 +54,6 @@ The school also organizes internal art competitions that are open to all pupils.
 
 <img src="/images/ac9.jpg" style="width:85%">
 
-<br clear="left">
-
 <img src="/images/ac10.jpg" style="width:49%" align=left>
 <img src="/images/ac11.jpg" style="width:49%" align=right>
 
