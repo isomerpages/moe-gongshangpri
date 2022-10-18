@@ -13,6 +13,8 @@ In Gongshang Primary School, the school library actively promotes the Joy of Rea
 <img src="/images/lib2.jpg" style="width:30%;margin-right:15px;" align = "left">
 <img src="/images/lib3.jpg" style="width:30%;margin-right:15px;" align = "left">
 
+<br clear="left">
+
 ####  **Library Opening Hours**
 
 | Day | Time | Librarian's Lunch Time (Closed) |
