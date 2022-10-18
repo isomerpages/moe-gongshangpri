@@ -13,8 +13,8 @@ Singapore Math Kangaroo Competition (SMKC) is a unique competition, and it is di
 
 SMKC questions are set during Annual Math Kangaroo Conference by 150 educators from 70 countries. With all that math brainpower focused on creating interesting problems, SMKC has the best math problems in the world for all students to enjoy solving.
 
-<img src="/images/20comp2.png" style="width:65%">
+<img src="/images/20comp2.png" style="width:85%">
 
-<img src="/images/20comp3.png" style="width:65%">
+<img src="/images/20comp3.png" style="width:85%">
 
-<img src="/images/20comp4.png" style="width:65%">
+<img src="/images/20comp4.png" style="width:85%">
