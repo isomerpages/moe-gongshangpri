@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Mathematics.md
+      - Programmes/Formative Assessments.md
       - Programmes/Learning Support in Mathematics (LSM).md
       - Programmes/Improving Confidence and Achievement in Numeracy (ICAN).md
       - Programmes/Excellence 2000 Mathematics (E2K).md
