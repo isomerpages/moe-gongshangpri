@@ -15,3 +15,38 @@ third_nav_title: Visual Arts
 | **Internal Exhibitions** | Earth Day Art Exhibition<br>National Day Art Exhibition |
 |
 
+<img src="/images/va1.jpeg" style="width:49%" align=left>
+<img src="/images/va2.jpg" style="width:49%" align=right>
+
+<br clear="left">
+
+|  |  |
+|:---:|:---:|
+| Paper mache | Relief clay |
+
+<img src="/images/va3.jpg" style="width:49%" align=left>
+<img src="/images/va4.jpg" style="width:49%" align=right>
+
+<br clear="left">
+
+|  |  |
+|:---:|:---:|
+| Self-portrait	 | Sharing discussion |
+
+<img src="/images/va5.jpg" style="width:49%" align=left>
+<img src="/images/va6.jpg" style="width:49%" align=right>
+
+<br clear="left">
+
+|  |  |
+|:---:|:---:|
+| Slab clay | Earth Day exhibition |
+
+<img src="/images/va7.jpg" style="width:49%" align=left>
+<img src="/images/va8.jpg" style="width:49%" align=right>
+
+<br clear="left">
+
+|  |  |
+|:---:|:---:|
+| Learning Journey to National Gallery | Mass art activity for Chinese New Year |
