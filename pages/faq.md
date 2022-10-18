@@ -2,6 +2,7 @@
 title: FAQ
 permalink: /faq/
 ---
+### **FAQ**
 
 This FAQ page has the answers to some of the commonly asked questions. If you would like to find out any other information regarding a school-related matter, please contact us via phone at 67831191 or drop us an email at [contact@gsps.moe.edu.sg](mailto:contact@gsps.moe.edu.sg)
 
@@ -97,4 +98,3 @@ To apply to join the Gongshang Alumni, please contact any of the following via e
 Information for Alumni may be found under Our GSPS Family/Alumni on the school website.
 
 You may also visit the Alumni Facebook page at [https://www.facebook.com/gongshangprimaryalumni/](https://www.facebook.com/gongshangprimaryalumni/)
-
