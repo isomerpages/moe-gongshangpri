@@ -18,3 +18,40 @@ We hope your child will have a fruitful and enriching time picking up new badmin
 We look forward to your kind co-operation and fullest support in our pursuit of sporting excellence.
 
 For any clarifications, feel free to drop Mr Tan an email at [tan_chuan_song@moe.edu.sg](mailto:tan_chuan_song@moe.edu.sg).
+
+<figure>
+<figcaption><strong>  P3 and P4 players
+	</strong></figcaption>	
+<img src="/images/bmt1.jpg" style="width:65%">
+</figure>	
+
+<figure>
+<figcaption><strong>  P3 and 4 players during training
+	</strong></figcaption>
+<img src="/images/bmt2.jpg" style="width:65%">
+</figure>	
+
+<figure>
+<figcaption><strong> P4 boys
+	</strong></figcaption>
+<img src="/images/bmt3.jpg" style="width:65%">
+</figure>	
+
+<figure>
+<figcaption><strong>  P4 girls
+	</strong></figcaption>
+<img src="/images/bmt4.jpg" style="width:65%">
+</figure>	
+
+<figure>
+<figcaption><strong>  P6 boys
+	</strong></figcaption>
+<img src="/images/bmt5.jpg" style="width:65%">
+</figure>	
+
+<figure>
+<figcaption><strong>  P6 girls
+	</strong></figcaption>
+<img src="/images/bmt6.jpg" style="width:65%">
+</figure>		
+
