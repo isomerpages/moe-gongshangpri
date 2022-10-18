@@ -12,10 +12,9 @@ Guided by the Primary Science Syllabus 2014, we aim to design learning experienc
 The following table shows the themes covered in the respective levels.
 
 | Diversity | Interactions | Systems  |  Cycles | Energy |  |
-|:---:|:---:|:---:|:---:|:---:|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |  Primary 3  | ♥ | ♥ | ♥  |   |  |
 | Primary 4 |  |  |   |  ♥ | ♥ |
 |  Primary 5 |   |   |  ♥ |  ♥ |  ♥ |
 | Primary 6  |   |  ♥ |   |   |  ♥ |
 |
-
