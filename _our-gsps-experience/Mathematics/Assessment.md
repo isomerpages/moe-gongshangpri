@@ -70,7 +70,7 @@ third_nav_title: Mathematics
 #### **Primary 6 Foundation Mathematics <br>Examination Format (SA1 & Prelims)**
 
 |  |  |  |
-|---|---|---|
+|:---:|:---:|:---:|
 | Paper 1<br>(Calculator NOT allowed) | 20 Multiple-Choice Questions | 10 x 1-mark <br>10 x 2-marks  |
 |  | 10 Short-Answer Questions | 2 marks each |
 |  | Total = 50 marks<br>Total Duration = 1h |  |
