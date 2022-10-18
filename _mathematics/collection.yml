@@ -3,14 +3,14 @@ collections:
     output: true
     order:
       - Mathematics.md
+      - Programmes/.keep
+      - Programmes/Programmes.md
       - Programmes/Formative Assessments.md
       - Programmes/Learning Support in Mathematics (LSM).md
       - Programmes/Improving Confidence and Achievement in Numeracy (ICAN).md
       - Programmes/Excellence 2000 Mathematics (E2K).md
       - Programmes/Fun With Math (FWM).md
       - Programmes/Termly Maths Quiz.md
-      - Programmes/.keep
-      - Programmes/Programmes.md
       - Assessment.md
       - Achievements/.keep
       - Achievements/Achievements.md
