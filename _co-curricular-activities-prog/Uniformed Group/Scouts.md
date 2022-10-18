@@ -31,3 +31,7 @@ Mrs Sabrina Neo
 <iframe width="480" height="360" src="https://www.youtube.com/embed/KGTIjB1VGp0" title="Singapore Scout Animations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="480" height="360" src="https://www.youtube.com/embed/mhi8gLgZtrU" title="Uniformed Groups" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="480" height="360" src="https://www.youtube.com/embed/GKZM8ns0wxQ" title="The 9 Uniformed Groups in Singapore" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="480" height="360" src="https://www.youtube.com/embed/YCHK2KPLiUw" title="Bicengennial Hike 2019" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
