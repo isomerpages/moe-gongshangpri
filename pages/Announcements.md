@@ -26,3 +26,6 @@ Please click [here](/files/monthlybullettin228.pdf) for our October bulletin.
 
 #### **Term 3 Maths Quiz**
 Click [here](https://forms.gle/eYPYxYBmH6GELbEA9) to take part!
+
+#### **Parent Volunteer Scheme – Recruitment Exercise 2022**
+Please click [here](https://staging.d2j3cxv28bap5s.amplifyapp.com/useful-links/for-parents/parent-volunteer-scheme-recruitment-exercise/) for more information.
