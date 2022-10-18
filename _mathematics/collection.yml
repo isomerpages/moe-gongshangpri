@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Mathematics.md
+      - Programmes/Improving Confidence and Achievement in Numeracy (ICAN).md
       - Programmes/Excellence 2000 Mathematics (E2K).md
       - Programmes/Fun With Math (FWM).md
       - Programmes/Termly Maths Quiz.md
