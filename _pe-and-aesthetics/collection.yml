@@ -2,6 +2,7 @@ collections:
   pe-and-aesthetics:
     output: true
     order:
+      - Physical Education & Aesthetics.md
       - Physical Education.md
       - Visual Arts.md
       - Music and Performance.md
