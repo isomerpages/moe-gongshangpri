@@ -50,4 +50,3 @@ This year, our training sessions have been resumed with safe management measures
 <br clear="left">
 
 <img src="/images/wushu7.jpg" style="width:49%" align=left>
-
