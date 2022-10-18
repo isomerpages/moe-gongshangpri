@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Mathematics.md
+      - Programmes/Fun With Math (FWM).md
       - Programmes/Termly Maths Quiz.md
       - Programmes/.keep
       - Programmes/Programmes.md
