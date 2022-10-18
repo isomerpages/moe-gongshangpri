@@ -4,13 +4,13 @@ collections:
     order:
       - Character and Citizenship Edu/.keep
       - Co Curricular Activities Prog/.keep
-      - English Language/English Language Programmes.md
-      - English Language/Programmes for Intervention.md
+      - English Language/.keep
       - English Language/English Language.md
       - English Language/Programmes.md
+      - English Language/Programmes for Intervention.md
+      - English Language/English Language Programmes.md
       - English Language/Assessment.md
       - English Language/Achievements.md
-      - English Language/.keep
       - Info & Communication Tech/Information & Communication Technology (ICT).md
       - Info & Communication Tech/Programmes.md
       - Info & Communication Tech/.keep
