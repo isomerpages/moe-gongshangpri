@@ -22,4 +22,26 @@ Some of the highlights of our club activities include:
 | **TEACHERS- IN- CHARGE** | Mdm Bindiya Aswani<br>Mdm Habibah Tahar |
 |
 
+<figure>
+<img src="/images/scoop1.jpeg" style="width:75%">
+<figcaption>  Jotting down our thoughts
+ </figcaption>
+</figure>
 
+<figure>
+<img src="/images/scoop2.jpeg" style="width:55%">
+<figcaption>  Presenting our ideas to our team
+ </figcaption>
+</figure>
+
+<figure>
+<img src="/images/scoop3.jpeg" style="width:75%">
+<figcaption>  Thinking out of the box with our cowboy hats
+ </figcaption>
+</figure>
+
+<figure>
+<img src="/images/scoop4.jpeg" style="width:75%">
+<figcaption>  Time to be creative!
+ </figcaption>
+</figure>
