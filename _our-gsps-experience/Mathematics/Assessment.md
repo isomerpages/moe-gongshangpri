@@ -11,7 +11,7 @@ third_nav_title: Mathematics
 |:---:|:---:|:---:|
 | Booklet A | 15 Multiple-Choice Questions | 10 x 1-mark<br>5 x 2-marks  |
 | <br>Booklet B | 15 Short-Answer Questions <br><br><br>6 Long- Answer Questions | 10 x 1-mark <br>5 x 2-marks <br><br> 4 x 3-marks<br>2 x 4-marks |
-|  | Total = 60 marks<br>Total Duration = 1 h 30 min |  |
+|  | Total = 60 marks<br>Total Duration = 1h 30min |  |
 |
 
 #### **Primary 3 Mathematics<br>Examination Format (SA2)**
