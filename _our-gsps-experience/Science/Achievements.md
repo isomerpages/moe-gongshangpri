@@ -9,7 +9,7 @@ third_nav_title: Science
 
 | Year | Event | Achievements | Remarks |
 |---|---|---|---|
-| <br><br><br>2020 | <br><br>e-THINK© CHALLENGE<br>by Temasek Junior College | Bronze Award <br><br><br>Honourable Mention<br><br><br>Honourable Mention| Javier Tan Jing An<br>(Primary 5 Thrift)<br><br>Jerald Toh Yew Ern<br>(Primary 5 Thrift)<<br><br>Skyler Ong<br>(Primary 5 Perseverance) |
+| <br><br><br>2020 | <br><br>e-THINK© CHALLENGE<br>by Temasek Junior College | Bronze Award <br><br><br>Honourable Mention<br><br><br>Honourable Mention| Javier Tan Jing An<br>(Primary 5 Thrift)<br><br>Jerald Toh Yew Ern<br>(Primary 5 Thrift)<br><br>Skyler Ong<br>(Primary 5 Perseverance) |
 |
 
 **Javier Tan Jing An**<br>
