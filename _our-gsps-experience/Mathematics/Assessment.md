@@ -57,6 +57,24 @@ third_nav_title: Mathematics
 
 #### **Primary 6 Standard Mathematics  <br>Examination Format (SA1 & Prelims)**
 
-
+|  |  |  |
+|:---:|:---:|:---:|
+| Paper 1<br>(Calculator NOT allowed) | 15 Multiple-Choice Questions | 10 x 1-mark<br>5 x 2-marks  |
+|  | 15 Short-Answer Questions | 5 x 1-mark<br>10 x 2-marks |
+|  | Total = 45 marks<br>Total Duration = 1h |  |
+| Paper 2 <br>(Calculator allowed) | 5 Short-Answer Questions | 2 marks each |
+|  | 12 Long- Answer Questions | 6 x 3-marks <br>3 x 4-marks <br>3 x 5-marks |
+|  | Total = 55 marks<br>Total Duration = 1h 30min |  |
+|
 
 #### **Primary 6 Foundation Mathematics <br>Examination Format (SA1 & Prelims)**
+
+|  |  |  |
+|---|---|---|
+| Paper 1<br>(Calculator NOT allowed) | 20 Multiple-Choice Questions | 10 x 1-mark <br>10 x 2-marks  |
+|  | 10 Short-Answer Questions | 2 marks each |
+|  | Total = 50 marks<br>Total Duration = 1h |  |
+| Paper 2 <br>(Calculator allowed) | 10 Short-Answer Questions | 2 marks each |
+|  | 6 Long- Answer Questions | 4 x 3-marks <br>2 x 4-marks  |
+|  | Total = 40 marks<br>Total Duration = 1h |  |
+|
