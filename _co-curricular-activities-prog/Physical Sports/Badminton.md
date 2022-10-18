@@ -17,4 +17,4 @@ We hope your child will have a fruitful and enriching time picking up new badmin
 
 We look forward to your kind co-operation and fullest support in our pursuit of sporting excellence.
 
-For any clarifications, feel free to drop Mr Tan an email at tan_chuan_song@moe.edu.sg.
+For any clarifications, feel free to drop Mr Tan an email at [tan_chuan_song@moe.edu.sg.](mailto:tan_chuan_song@moe.edu.sg.).
