@@ -2,4 +2,5 @@ collections:
   mathematics:
     output: true
     order:
+      - Assessment.md
       - Achievements.md
