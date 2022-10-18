@@ -26,3 +26,14 @@ Every child in Primary 3 will be given a starter kit provided by NParks. This st
 The school commemorated Earth Day on 22 April to celebrate the planet's environment and to raise public awareness about environmental issues. The theme of this year’s Earth Day is “Restore Our Earth”. Through the various programmes arranged, the pupils have come to an understanding that every action, no matter how small it may seem, counts towards restoring our earth.
 
 **Project ‘Give-and-Share’:** The pupils have generously donated their pre-loved books and these books are given a new lease of life in their class library. Through this project, it has helped to instil the value of thrift as well as inculcate a culture of reading in our pupils.
+
+<img src="/images/science1.jpg" style="width:65%">
+
+‘**Save That Pen’ programme:** A collaboration with the scouts to recycle unwanted or used pens so that they can be given to underprivileged pupils in Singapore.
+
+<img src="/images/science2.jpg" style="width:65%">
+
+Also, we are pleased to showcase photos of several activities carried out by different groups of pupils at our Earth Day Corner in the school library. Do click on the attachments below for photos of the winning art pieces of the ‘Restore Our Earth Character Design Challenge’ and some of the winners of the Earth Day Quiz!
+
+1\. [2021 Restore Our Earth Character Design Challenge (collaboration with Art Department)](https://gongshangpri.moe.edu.sg/qql/slot/u523/Departments/Science/Earth%20Day/Earth%20Day%202021/2021%20Restore%20Our%20Earth%20Character%20Design%20Challenge.pdf) **file more than 5mb**
+2\. [2021 Earth Day Quiz Winners](/files/sci2.pdf)
