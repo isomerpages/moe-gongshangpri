@@ -4,8 +4,8 @@ permalink: /our-gsps-experience/mtl/chinese/programmes/reading-star/
 description: ""
 third_nav_title: Chinese Language Department
 ---
-
-### **Reading Star 阅读之星**
+### **Programmes**
+#### **Reading Star 阅读之星**
 
 <img src="/images/chi1.jpg" style="width:85%">
 
