@@ -3,7 +3,7 @@ title: Privacy Policy
 permalink: /privacy/
 description: ""
 ---
-### **Privacy Policy**
+
 This is **Gongshang Primary School**‘s website. Thank you for examining our privacy statement.
 
 Photograph(s) or video image(s) of you and your child / ward or you and your parents may be captured during school activities and events such as classroom lessons, CCAs, school camps and school concerts. The school may use and publish such photographs and / or video recordings in school publications, websites, social media channels, and other communication channels.
