@@ -19,3 +19,7 @@ More information can be found [here](https://staging.d2j3cxv28bap5s.amplifyapp.
 
 #### **PERI Upgrading FAQ**
 Please click [here to view the FAQ](/files/PERI%20PLUS%20faq.pdf) regarding our school's PERI upgrading project.
+
+#### **October bulletin**
+
+Please click [here](/files/monthlybullettin228.pdf) for our October bulletin.
