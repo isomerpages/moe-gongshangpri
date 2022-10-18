@@ -48,9 +48,5 @@ Password:  Moe@DDMMYYYY(DDMMYYYY is the DOB of students) as default password for
 
 ![](/images/lib5.jpg)
 
-<figure>
-	<figcaption><strong> Link to NLB discoverReads:<br></strong>
-		
+**Link to NLB discoverReads:**<br>
 [https://childrenandteens.nlb.gov.sg](https://childrenandteens.nlb.gov.sg)
-	</figcaption>
-</figure>
