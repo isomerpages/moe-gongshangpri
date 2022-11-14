@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Gongshang Primary School
-      background: /images/hero.gif
+      background: /images/banner.gif
       url: /contact-us/
       key_highlights:
         - title: Announcements
@@ -44,4 +44,3 @@ sections:
       image: /images/hbl.jpg
       alt: Image alt text
 ---
-
