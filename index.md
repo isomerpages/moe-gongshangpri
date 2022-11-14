@@ -2,7 +2,7 @@
 layout: homepage
 title: Gongshang Primary School
 description: Brief site description here
-image: /images/sch logo.jpg
+image: /images/logo.jpg
 permalink: /
 notification: ""
 sections:
@@ -44,3 +44,4 @@ sections:
       image: /images/hbl.jpg
       alt: Image alt text
 ---
+
