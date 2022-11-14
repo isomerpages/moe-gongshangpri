@@ -1,6 +1,6 @@
 title: Gongshang Primary School
 url: https://gongshangpri.sg
-favicon: /images/sch logo.jpg
+favicon: /images/logo.jpg
 colors:
   primary-color: "#002841"
   secondary-color: "#ff720c"
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d2j3cxv28bap5s.amplifyapp.com
 prod: https://master.d2j3cxv28bap5s.amplifyapp.com
-shareicon: /images/sch logo.jpg
+shareicon: /images/logo.jpg
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
