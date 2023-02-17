@@ -28,10 +28,10 @@ description: ""
 |  |  |
 | **Executive & Administrative Staff** | **Email Address/Designation** |
 | Mr Nasir Bin Mohamad (Operations Manager)<br>Mr Muhammad Danial Bin Mohd Yusoff (Operations Manager)<br>Mr Eric Tham Weng Wah (Administration Manager)<br>Mr Mohd Faizal bin Mohd Firoz (ICT Manager)<br>Mdm Jenny Thay (Administrative Executive)<br>Mdm Azlina Binte Sajam (Administrative Executive)<br>Mdm Christine Lim (Corporate Support Officer)<br>Mdm Ermayani Binte Djamin (Corporate Support Officer)<br>Mdm Li Sai Eng<br>Mdm Tan Whatt Kiaw<br>Mdm Pang Geok Giat<br>Mdm Yap Kim Lin Alice | [nasir_mohamad@moe.edu.sg](mailto:nasir_mohamad@moe.edu.sg)<br>[muhammad\_danial\_mohamed\_yusoff@moe.edu.sg](mailto:muhammad\_danial\_mohamed\_yusoff@moe.edu.sg)<br>[Tham\_Weng\_Wah@schools.gov.sg](mailto:Tham\_Weng\_Wah@schools.gov.sg)<br>[mohd\_faizal\_mohd\_firoz@moe.edu.sg](mailto:mohd\_faizal\_mohd\_firoz@moe.edu.sg)<br>[thay\_suat\_cheng\_jenny@moe.edu.sg](mailto:thay\_suat\_cheng\_jenny@moe.edu.sg)<br>[azlina\_sajam@moe.edu.sg](mailto:azlina\_sajam@moe.edu.sg)<br>[lim\_eng\_buay@schools.gov.sg](mailto:lim\_eng\_buay@schools.gov.sg)<br>[Ermayani\_DJAMIN@schools.gov.sg](mailto:Ermayani\_DJAMIN@schools.gov.sg)<br>Operation Support Officer<br>Operation Support Officer<br>Operation Support Officer<br>Operation Support Officer |
-| **Allied Educators** | **Email Address** |
-| Ms Ng Xin Hui (School Counsellor)<br>Mdm Ruzanna Binte Abdul Manap (Teaching & Learning)<br>Mrs Soh-Ng Kah Fung (Teaching & Learning)<br>Miss Noor Adzlin binte Apandi (LBS)<br>Mdm Lizda Binte Mohamed (LBS) | [ng_xin_hui_a@moe.edu.sg](mailto:ng_xin_hui_a@moe.edu.sg)<br>[ruzanna_abdul_manap@moe.edu.sg](mailto:ruzanna_abdul_manap@moe.edu.sg)<br>[ng_kah_fung@moe.edu.sg](mailto:ng_kah_fung@moe.edu.sg)<br>[noor_adzlin_apandi@moe.edu.sg](mailto:noor_adzlin_apandi@moe.edu.sg)<br>[lizda_mohamed@moe.edu.sg](mailto:lizda_mohamed@moe.edu.sg) |
+| **School Counsellor/SEN Officers/AEDs (T & L)** | **Email Address** |
+| Ms Ng Xin Hui (School Counsellor)<br>Mrs Soh-Ng Kah Fung(AED, Teaching & Learning)<br>Mdm Ruzanna Binte Abdul Manap (AED, Teaching & Learning)<br>Miss Noor Adzlin binte Apandi (SEN Officer)<br>Mdm Lizda Binte Mohamed (SEN Officer) | [ng\_xin\_hui\_a@moe.edu.sg](mailto:ng\_xin\_hui\_a@moe.edu.sg)<br>[ng\_kah\_fung@moe.edu.sg](mailto:ng\_kah\_fung@moe.edu.sg)<br>[ruzanna\_abdul\_manap@moe.edu.sg](mailto:ruzanna\_abdul\_manap@moe.edu.sg)<br>[noor\_adzlin\_apandi@moe.edu.sg](mailto:noor\_adzlin\_apandi@moe.edu.sg)<br>[lizda_mohamed@moe.edu.sg](mailto:lizda_mohamed@moe.edu.sg) |
 | **Support Staff** |   |
-| Mdm Chang Chuan Ping (Library Assistant)<br>Mdm Sohana Binte Abdul Halim (Admin Operations Officer)<br>Mr Woo Hon Yew  (Science Lab Assistant) |  |
+| Mr Sim Chay Heng (Library Assistant)<br>Mr Woo Hon Yew  (Science Lab Assistant) |  |
 |
 
- *Denotes internal appointment
+ _\*Denotes internal appointment   ^Assistant Form Teacher_
