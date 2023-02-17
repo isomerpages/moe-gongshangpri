@@ -11,3 +11,11 @@ Objectives: 
 * To develop a sustainable interest in the game of floorball 
 * To develop basic techniques and skills to enjoy the game of floorball
 * To learn the values of fair play and to conduct ourselves in accordance with our school values
+
+| Teachers-in-charge | Email Address |
+|:---:|:---:|
+| Mr Hazmi B Hasan (OIC) | [hazmi_hasan@moe.edu.sg](mailto:hazmi_hasan@moe.edu.sg) |
+| Mr Sunil Rai (2IC) | [sunil_rai@moe.edu.sg](mailto:sunil_rai@moe.edu.sg) |
+| Mdm Sri Asilah Subari | [sri_asilah_subari@moe.edu.sg](mailto:sri_asilah_subari@moe.edu.sg) |
+|  Mrs Angie Wong | [pang_yong_hiang_angie@moe.edu.sg](mailto:pang_yong_hiang_angie@moe.edu.sg) |
+|
