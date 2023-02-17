@@ -22,4 +22,4 @@ Pupils will need to assemble for attendance taking at the designated areas as st
 |
 
 **Training Schedule**<br>
-[Please click here for the training schedule for Term 1 2022]
+[Please click here for the training schedule for Term 1 2022](/files/rugbytraining.pdf)
