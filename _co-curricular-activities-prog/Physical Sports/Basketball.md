@@ -16,12 +16,12 @@ Through Basketball CCA, our pupils will learn fundamental basketball skills, bas
 | Teachers-in-charge | Email Address |
 |:---:|:---:|
 | Mrs Kwok Lili (OIC) | [soon_li_li@moe.edu.sg](mailto:soon_li_li@moe.edu.sg) |
-| Mr Sunil Rai (2IC) | [sunil_rai@moe.edu.sg](mailto:sunil_rai@moe.edu.sg) |
-| Mrs Natalie Neo |  [loh_hui_zhi_natalie@moe.edu.sg](mailto:loh_hui_zhi_natalie@moe.edu.sg) |
-| Mr Lim Kwee Hock  | [lim_kwee_hock_a@moe.edu.sg](mailto:lim_kwee_hock_a@moe.edu.sg)  |
+| Mdm Kuah Siew Eng (2IC) | [kuah_siew_eng@moe.edu.sg](mailto:kuah_siew_eng@moe.edu.sg) |
+| Mdm Amizah Bt Mohd Amin |  [amizah_mohd_amin@moe.edu.sg](mailto:amizah_mohd_amin@moe.edu.sg) |
+| Mr Bryan Chua | [chua_aik_ching_bryan@moe.edu.sg](mailto:chua_aik_ching_bryan@moe.edu.sg) |
 |  Mrs Ng-Thiam Siow Foon | [ng-thiam_siow_foon@moe.edu.sg](mailto:ng-thiam_siow_foon@moe.edu.sg)  |
-| Mdm Lee Seok Meng Stella | [lee_seok_meng@moe.edu.sg](mailto:lee_seok_meng@moe.edu.sg) |
-| Mdm Amizah Bt Mohd Amin  | [amizah_mohd_amin@moe.edu.sg](mailto:amizah_mohd_amin@moe.edu.sg) |
+| Mdm Marsita Bte Omar | [marsita_omar@moe.edu.sg](mailto:marsita_omar@moe.edu.sg) |
+| Mdm Ruzanna Binte Abdul Manap | [ruzanna_abdul_manap@moe.edu.sg](mailto:ruzanna_abdul_manap@moe.edu.sg) |
 |  Mrs Yap Loy Sim Lan | [loy_sim_lan@moe.edu.sg](mailto:loy_sim_lan@moe.edu.sg)  |
 |
 
