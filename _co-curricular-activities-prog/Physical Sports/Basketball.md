@@ -30,9 +30,8 @@ Through Basketball CCA, our pupils will learn fundamental basketball skills, bas
 |  |  |  |
 |:---:|:---:|:---:|
 | Day | Time | Pupils Involved |
-| Monday | 3.00 p.m. - 5.00 p.m.<br>(Face-to-face) | Selected P6 boys and girls<br>Selected P4 and P5 boys |
-| Wednesday | 2.30 p.m. - 4.00 p.m.<br>(Face-to-face) | All P3 boys and girls<br>P4 and P5 boys and girls<br>P6 boys |
-| Wednesday   |  3.00 p.m. - 4.30 p.m. <br>(eCCA online Zoom) | Selected P6 boys and girls<br>Selected P4 and P5 boys  |
+| Tuesday |3.00 p.m. - 5.00 p.m. | Selected P4, P5 and P6 Basketball Players |
+| Thursday | 3.00 p.m. - 5.00 p.m. | All P3 Basketball Players<br>All P4 to P6 Basketball Players |
 |
 
 \*Pupils are to refer to their own schedules given in the letter sent via Parents Gateway.
