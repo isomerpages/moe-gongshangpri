@@ -16,37 +16,18 @@ Due to the Covid-19 situation, the group events had to be cancelled. Howev
 
 This year, our training sessions have been resumed with safe management measures. We look forward to an exciting year ahead!
 
-<figure>
-<figcaption><strong>  Training Schedule 
-	</strong></figcaption>
-</figure>	
+**Training Schedule**
 
-<figure>
-<figcaption> The training schedule for the Wushu School Team & Developmental Team are as follows:
-</figcaption>
-</figure>	
-
-<br clear="left">
+The training schedule for the Wushu School Team & Developmental Team are as follows:
 
 | Day | Time | Teachers-in-charge |
-|:---:|---|---|
-| Monday (School Team) | 3.00 p.m. - 5.00 p.m. | Mrs Amelia Tan<br>Mdm Lu Yanyu<br>Mdm Suryati  |
-| Wednesday<br>(School Team & Development Team) | 2.30 p.m. - 4.00 p.m.  | Mdm Jennifer Jacob<br>Mdm Ng Bee San <br>Mdm Ruzanna |
+|:---:|:---:|:---:|
+| Monday (School Team)  | 3.00 p.m. - 5.00 p.m. | Mdm Lu Yanyu<br>Mdm Lee Ser Meei |
+| Wednesday<br>(School Team & Development Team)  | 2.15 p.m. - 3.45 p.m. <br>  | Mdm Jennifer Jacob<br>Mdm Ng Bee San <br>Mdm Lee Huiyi |
 |
 
-<img src="/images/wushu1.jpg" style="width:49%" align=left>
-<img src="/images/wushu2.jpg" style="width:49%" align=right>
+<img src="/images/ws1.jpeg" style="width:65%">
 
-<br clear="left">
+<img src="/images/ws2.jpeg" style="width:65%">
 
-<img src="/images/wushu3.jpg" style="width:49%" align=left>
-<img src="/images/wushu4.jpeg" style="width:49%" align=right>
-
-<br clear="left">
-
-<img src="/images/wushu5.jpg" style="width:49%" align=left>
-<img src="/images/wushu6.jpg" style="width:49%" align=right>
-
-<br clear="left">
-
-<img src="/images/wushu7.jpg" style="width:49%" align=left>
+<img src="/images/ws3.jpeg" style="width:65%">
