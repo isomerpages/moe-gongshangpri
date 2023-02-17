@@ -10,9 +10,8 @@ The mission of the Gongshang Rugby Team is to build character (such as resilienc
 Gongshang Ruggers United is a name created by the teachers and pupils to identify themselves as to them, Rugby is not just a CCA but a passion. This can be felt when the pupils perform the GSP United haka, a haka which was created by ourselves, for ourselves. To the teachers, winning is not as important as imparting the desirable values in the players. We believe in teaching the pupils through fun and games, disciplining them when necessary and providing an environment where they can experience the joy and satisfaction of winning through hard work, and the perseverance that comes with defeat. Indeed, the Gongshang Rugby Team will provide an invaluable and unforgettable experience in a child's primary school life.
 
 **Teachers-in-charge:**<br>
-Mr Daniel Vaithilingam (OIC)<br>
-Mr Chua Aik Ching Bryan (TIC)<br>
-Ms Fong Shiyan Dorcas (TIC)
+Ms Fong Shiyan Dorcas (OIC)<br>
+Mr Chua Aik Ching Bryan (2IC)
 
 Pupils will need to assemble for attendance taking at the designated areas as stated below:
 
