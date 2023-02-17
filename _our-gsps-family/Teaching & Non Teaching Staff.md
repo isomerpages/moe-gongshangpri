@@ -34,4 +34,5 @@ description: ""
 | Mr Sim Chay Heng (Library Assistant)<br>Mr Woo Hon Yew  (Science Lab Assistant) |  |
 |
 
- _\*Denotes internal appointment   ^Assistant Form Teacher_
+ _\*Denotes internal appointment <br>
+^Assistant Form Teacher_
