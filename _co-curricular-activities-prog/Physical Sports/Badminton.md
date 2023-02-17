@@ -19,38 +19,18 @@ We look forward to your kind co-operation and fullest support in our pursuit of 
 
 For any clarifications, feel free to drop Mr Tan an email at [tan_chuan_song@moe.edu.sg](mailto:tan_chuan_song@moe.edu.sg).
 
-<figure>
-<figcaption><strong>  P3 and P4 players
-	</strong></figcaption>	
-<img src="/images/bmt1.jpg" style="width:65%">
-</figure>	
+<img src="/images/badminton1.jpg" style="width:65%">
 
-<figure>
-<figcaption><strong>  P3 and 4 players during training
-	</strong></figcaption>
-<img src="/images/bmt2.jpg" style="width:65%">
-</figure>	
+<img src="/images/badminton2.jpg" style="width:65%">
 
-<figure>
-<figcaption><strong> P4 boys
-	</strong></figcaption>
-<img src="/images/bmt3.jpg" style="width:65%">
-</figure>	
+<img src="/images/badminton3.jpg" style="width:65%">
 
-<figure>
-<figcaption><strong>  P4 girls
-	</strong></figcaption>
-<img src="/images/bmt4.jpg" style="width:65%">
-</figure>	
+<img src="/images/badminton4.jpg" style="width:65%">
 
-<figure>
-<figcaption><strong>  P6 boys
-	</strong></figcaption>
-<img src="/images/bmt5.jpg" style="width:65%">
-</figure>	
+<img src="/images/badminton5.jpg" style="width:65%">
 
-<figure>
-<figcaption><strong>  P6 girls
-	</strong></figcaption>
-<img src="/images/bmt6.jpg" style="width:65%">
-</figure>
+<img src="/images/badminton6.jpg" style="width:65%">
+
+<img src="/images/badminton7.jpg" style="width:65%">
+
+<img src="/images/badminton8.jpg" style="width:65%">
