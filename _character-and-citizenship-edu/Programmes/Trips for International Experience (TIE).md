@@ -36,3 +36,5 @@ In 2019, the school organised 3 overseas trips for the P5 students.  Selected s
 </figure>	
 
 <img src="/images/tie5.jpg" style="width:65%">
+
+<img src="/images/tie7.jpg" style="width:65%">
