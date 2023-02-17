@@ -17,8 +17,8 @@ Pupils will need to assemble for attendance taking at the designated areas as st
 
 | Day | Time | Venue | Remarks |
 |:---:|:---:|:---:|:---:|
-| Monday<br>(for P3-P6) | 3.00 p.m. - 5.00 p.m. | School Field | Meet outside ISH 1 at 2.50 p.m. |
-| Wednesday<br>(for P3-P6) | 2.30 p.m. - 4.00 p.m. | School Field | Meet outside ISH 1 at 2.20 p.m. |
+| Monday<br>(for P6) | 3.00 p.m. - 5.00 p.m. | ISH 1 | Meet outside ISH 1 at 2.50 p.m.|
+| Wednesday<br>(for P6)	| 2.15 p.m. - 3.45 p.m.	| ISH 1 | Meet outside ISH 1 at 2.10 p.m.
 |
 
 _Note: Due to Covid-19 restrictions, training times and modes (face to face or zoom) will be updated according to current Safe Management Measures._
