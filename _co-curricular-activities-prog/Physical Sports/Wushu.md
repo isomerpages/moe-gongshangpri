@@ -8,11 +8,11 @@ third_nav_title: Physical Sports
 
 _Never give up - A little progress each day adds up to big results._
 
-With determination and hard work, our school Wushu team has been improving steadily over the years despite a short history of only seventeen years. 
+ With determination and hard work, our Wushu team has been improving steadily over the years, overcoming many challenges during the pandemic. 
 
-At the National Primary School Wushu Championship in 2021, our school team did us proud by achieving a total of 4 bronze medals for individual events. Due to Covid situation the group events have to be cancelled. However, both our junior and senior groups for Group Wushu and Group Weapons, have trained hard for their events, we are very proud of them. It is our belief that our Wushu team would continue to grow from strength to strength and scale greater heights in the years to come with the help of our teachers, coaches and the ardent support of the parents.  
+ At the National School Games Wushu Championships in 2022, our school team did us proud by achieving a total of 2 bronze medals in the individual events. 
 
-The COVID pandemic situation brought our training plans to a temporary halt in 2021, but not for long. Undeterred, our teachers and coaches went online, conducting training sessions via zoom. 
+Due to the Covid-19 situation, the group events had to be cancelled. However, both our junior and senior groups for Group Wushu and Group Weapons, continued to train hard for their events even though they knew that they would not be participating in the competition. We are indeed very proud of the resilience and discipline which they had displayed. It is our belief that our Wushu team would continue to grow from strength to strength and scale to greater heights in the years to come with the help of our teachers, coaches and the ardent support of the parents.
 
 This year, our training sessions have been resumed with safe management measures. We look forward to an exciting year ahead!
 
