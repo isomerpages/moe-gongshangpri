@@ -6,7 +6,7 @@ third_nav_title: Physical Sports
 ---
 ### **Wushu**
 
-_Success is the sum of small efforts, repeated day in and day out._
+_Never give up - A little progress each day adds up to big results._
 
 With determination and hard work, our school Wushu team has been improving steadily over the years despite a short history of only seventeen years. 
 
