@@ -13,9 +13,9 @@ description: ""
 | **Year Heads** | **Email Address** |
 | Ms Fadzillah Bte Aslam Khan(Year Head – P1/P2)<br>Mrs How-Quek Jia Min (Year Head – P3/P4)<br>Mrs Angie Wong (Assistant Year Head P3/P4)<br>Mrs Shirley Puay (Year Head – P5/P6)<br>Mr Yusri B Yunos (Assistant Year Head P5/P6)*  | [fadzillah_aslam_khan@moe.edu.sg](mailto:fadzillah_aslam_khan@moe.edu.sg)<br>[quek_jia_min@moe.edu.sg](mailto:quek_jia_min@moe.edu.sg)<br>[pang_yong_hiang_angie@moe.edu.sg](mailto:pang_yong_hiang_angie@moe.edu.sg)<br>[lee_yuet_sim@moe.edu.sg](mailto:lee_yuet_sim@moe.edu.sg)<br>[yusri_yunos@moe.edu.sg](mailto:yusri_yunos@moe.edu.sg) |
 | **Primary 1 Form Teachers** | **Email Address** |
-|   |  |
+|  |  |
 | **Primary 2 Form Teachers** | **Email Address** |
-|  |   |
+|  |  |
 | **Primary 3 Form Teachers** | **Email Address** |
 |  |  |
 | **Primary 4 Form Teachers** | **Email Address** |
