@@ -19,3 +19,21 @@ Objectives: 
 | Mdm Sri Asilah Subari | [sri_asilah_subari@moe.edu.sg](mailto:sri_asilah_subari@moe.edu.sg) |
 |  Mrs Angie Wong | [pang_yong_hiang_angie@moe.edu.sg](mailto:pang_yong_hiang_angie@moe.edu.sg) |
 |
+
+**Training Schedule\***
+
+| Day | Time |
+|:---:|:---:|
+| Monday | 3.00 p.m. – 5.00 p.m. |
+| Wednesday | 2.15pm – 3.45pm |
+|
+
+\*Pupils may refer to their own schedules given in the letter sent via Parents Gateway.
+
+<img src="/images/floorball1.jpg" style="width:65%">
+
+<img src="/images/floorball2.jpg" style="width:65%">
+
+<img src="/images/floorball3.jpg" style="width:65%">
+
+<img src="/images/floorball4.jpg" style="width:65%">
