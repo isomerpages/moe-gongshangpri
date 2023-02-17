@@ -21,7 +21,5 @@ Pupils will need to assemble for attendance taking at the designated areas as st
 | Wednesday<br>(for P6)	| 2.15 p.m. - 3.45 p.m.	| ISH 1 | Meet outside ISH 1 at 2.10 p.m.
 |
 
-_Note: Due to Covid-19 restrictions, training times and modes (face to face or zoom) will be updated according to current Safe Management Measures._
-
 **Training Schedule**<br>
-[Please click here for the training schedule for Term 1 2022](/files/rugby%20training.pdf)
+[Please click here for the training schedule for Term 1 2022]
