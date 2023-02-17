@@ -23,3 +23,11 @@ Pupils will need to assemble for attendance taking at the designated areas as st
 
 **Training Schedule**<br>
 [Please click here for the training schedule for Term 1 2022](/files/rugbytraining.pdf)
+
+<img src="/images/rugby1.jpg" style="width:49%" align=left>
+<img src="/images/rugby2.jpg" style="width:49%" align=right>
+
+<br clear="left">
+
+<img src="/images/rugby3.jpg" style="width:49%" align=left>
+<img src="/images/rugby4.jpg" style="width:49%" align=right>
