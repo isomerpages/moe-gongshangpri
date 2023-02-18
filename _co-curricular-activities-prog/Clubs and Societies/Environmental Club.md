@@ -5,23 +5,24 @@ description: ""
 third_nav_title: Clubs and Societies
 ---
 ### **Environmental Club**
-In Environmental Club, we focus on investigating our environment through using various scientific equipment to acquire important life skills to work collaboratively with their peers in their projects. The members will learn to promote environmental awareness and care for the environment through the 3Rs- reduce, reuse and recycle.    
+In Environmental Science Club, members will learn about the environment and science phenomenon through using various scientific equipment and investigative techniques.  Through these projects, our members will acquire important life skills such as working collaboratively, problem-solving and teamwork. 
 
-At each weekly meeting, the members learn how they can play a part in caring for the environment through hands-on ‘green’ activities such as craft work using recycled materials, collecting recyclable materials, gardening to increase biodiversity in the school ground etc. The members will have the opportunity to participate in hands-on and challenging science-related activities that demonstrate scientific concepts and learn the subject in a fun and enjoyable way.
+Our Club also participates in advocating environmental awareness and through the work we do, members will learn to show care and acquire a sense of responsibility for their environment. For example, members will carry out scientific investigations and explore how they can play a part through hands-on ‘green’ activities. Through these authentic activities, members will learn the subject in a fun and experiential way.
 
-| Day | Wednesdays |
+|  |  |
 |---|---|
-|  Time |  2.30 p.m. - 4.00 p.m. |
-| Venue | P3 and P4: Science Room<br>P5 and P6: D1-07 |
-| Teachers-in-charge | Mdm Widayu Bte Kemat<br>Mrs Wendy Chu |
+| **Day** | Wednesdays |
+| **Time** |  2.15 p.m. - 3.45 p.m. |
+| **Venue** | Science Laboratory<br>E1-11 |
+| **Teachers-in-charge** | Mrs Jessie Ong (Overall-in-charge)<br><br>Mrs Wendy Chu |
 |
 
-<img src="/images/ec1.jpg" style="width:49%" align=left>
-<img src="/images/ec2.jpg" style="width:49%" align=right>
+<img src="/images/environmentalclub1.jpg" style="width:85%">
 
-<br clear="left">
+<img src="/images/environmentalclub2.jpg" style="width:85%">
 
-<img src="/images/ec3.jpg" style="width:49%" align=left>
-<img src="/images/ec4.jpg" style="width:49%" align=right>
+<img src="/images/environmentalclub3.jpg" style="width:85%">
 
-<br clear="left">
+<img src="/images/environmentalclub4.jpg" style="width:85%">
+
+<img src="/images/environmentalclub5.jpg" style="width:85%">
