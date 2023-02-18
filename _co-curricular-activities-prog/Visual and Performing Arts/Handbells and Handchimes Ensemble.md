@@ -5,21 +5,19 @@ description: ""
 third_nav_title: Visual and Performing Arts
 ---
 ### **Handbells and Handchimes Ensemble**
-Since the inception of Handbells and Handchimes in 2005, we have been participating in the Singapore Youth Festival (SYF) and had clinched various awards. In 2018, we clinched the Certificate of Accomplishment. This is made possible through the pupils’ hard work and diligence as well as the strong support we receive from parents as our partners. We look forward to our performance and our strong parental support for the SYF in April 2022.
+Since the inception of Handbells and Handchimes in 2005, we have been participating in the Singapore Youth Festival (SYF) and had clinched various awards. This is made possible through the pupils’ hard work and diligence as well as the strong support we have received from parents as our partners. We look forward to parents’ continued support for their children’s participation in CCA as well as school’s performances.
 
-In Handbells and Handchimes Ensemble, we strongly believe in teamwork and valuing individual’s strengths. Through this, we are able to achieve excellence in our performances.
-
-| | |
-|---|:---:|
-| **Teachers-in-Charge:** | Mrs Shelly Lee<br>Mrs Pearlyn Ang |
+|  |  |
+|---|---|
+| **Teachers-in-Charge:** | Mdm Ng Chor Leng<br>Mrs Pearlyn Ang |
 | **Instructor:** | Mrs Anna Tay |
-| **CCA Timings:** | Mondays, 3.00p.m. to 5.00 p.m. (Semester 1)<br><br>Wednesdays, 2.30 p.m. to  4.00 p.m. <br>(Semester 1 and 2) |
+| **CCA Timings:** | Wednesdays 2.15 pm to 3.45 pm (Semester 1 and 2)<br><br>Mondays 3.00 pm to 5.00 pm             (additional practice in Semester 2) |
 |
 
-<img src="/images/handbell1.jpeg" style="width:65%">
+<img src="/images/hhe1.jpeg" style="width:65%">
 
-<img src="/images/handbell2.jpeg" style="width:65%">
+<img src="/images/hhe2.jpeg" style="width:65%">
 
-<img src="/images/handbell3.jpeg" style="width:65%">
+<img src="/images/hhe3.jpeg" style="width:65%">
 
-<img src="/images/handbell4.jpeg" style="width:65%">
+<img src="/images/hhe4.jpeg" style="width:65%">
