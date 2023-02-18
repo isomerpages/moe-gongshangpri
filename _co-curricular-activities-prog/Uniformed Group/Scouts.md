@@ -15,14 +15,15 @@ third_nav_title: Uniformed Group
 Mr Azhari (OIC)<br>
 Mdm Norizah (2IC)<br>
 Mrs Yoges Singh<br>
-Mrs Sabrina Neo
+Mdm Chang Yating<br>
+Mr Gavin Bi
 
 #### **Schedule**
 
 | Day | Time | Venue | Remarks |
 |:---:|:---:|:---:|:---:|
-| Monday | 3.00 p.m. - 5.00 p.m. | D1-07 | Only for Sixers Council (P5/P6) |
-| Wednesday | 2.30 p.m. - 4.00 p.m. | Field beside Gate 7 |  |
+| Monday | 3.00 p.m. - 4.30 p.m. | CCA Room B1-03 | Semester 1: P6 only<br>Semester 2: P5 only |
+| Wednesday | 2.00 p.m. - 4.00 p.m. | CCA Room B1-03 | For all Cub Scouts |
 |
 
 ##### **Scout Youtube links**
