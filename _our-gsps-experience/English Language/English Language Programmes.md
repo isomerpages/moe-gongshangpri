@@ -57,8 +57,8 @@ This programme aims to develop pupils who can communicate effectively and become
 \- Help pupils’ present factual information clearly and logically.<br>
 \- Develop speaking and listening skills, poise and confidence through fun and meaningful activities.
 
-<img src="/images/englishlanguageprogrammes10.jpg" style="width:40%;margin-left:65px;" align = "left">
-<img src="/images/englishlanguageprogrammes11.jpg" style="width:40%;margin-right:65px;" align = "right">
+<img src="/images/englishlanguageprogrammes10.jpg" style="width:38%;margin-left:65px;" align = "left">
+<img src="/images/englishlanguageprogrammes11.jpg" style="width:42.5%;margin-right:65px;" align = "right">
 
 <br clear="left">
 
