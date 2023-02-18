@@ -45,8 +45,8 @@ In this programme, our school will be participating in an even called Read for B
 #### **Little Red Dot and The Straits Times Online (Primary 4-6)**
 Little Red Dot is a special publication by The Straits Times specially catered for students. Students are exposed to current affairs and world events that allow for discussion in the classroom. These discussions encourage practical application of knowledge learned in real contexts. This programme also encourages students to read widely for knowledge and for enjoyment.
 
-<img src="/images/englishlanguageprogrammes8.jpg" style="width:40%;margin-left:65px;" align = "left">
-<img src="/images/englishlanguageprogrammes9.jpg" style="width:40%;margin-right:65px;" align = "right">
+<img src="/images/englishlanguageprogrammes8.jpg" style="width:46%;margin-left:65px;" align = "left">
+<img src="/images/englishlanguageprogrammes9.jpg" style="width:35%;margin-right:65px;" align = "right">
 
 <br clear="left">
 
