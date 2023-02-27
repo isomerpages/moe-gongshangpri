@@ -19,7 +19,7 @@ Please click [here](/character-and-citizenship-education-cce/programmes/moe-sex
 Please click [here](https://docs.google.com/forms/d/e/1FAIpQLSfFnXrmIXcgQ733bsFORIkFJzb-VPiXsDgw_23TKUeaoAS1Pw/viewform) for the quiz.
 
 #### **P1 Orientation briefing for Y2023 P1 pupils**
-Click [here](http://gongshangpri-moe-edu-sg-admin.cwp.sg/qql/slot/u523/For%20Parents/Briefing%20Sildes%20for%20Parents/2022/17%20Nov%202022%20P1%20Orientation%20briefing%20for%20Y2023%20P1.pdf) for the briefing slides.
+Click [here](https://file.for.edu.sg/flb225.pdf) for the briefing slides.
 
 
 #### **Parent Volunteer Scheme – Recruitment Exercise 2023**
@@ -42,4 +42,3 @@ Please click [here to view the FAQ](/files/GSPS%20PERI%20Upgrading%20FAQ%20(dat
 
 #### **February bulletin**
 Please click [here](/files/February%202023%20Bulletin.pdf) for our February bulletin.
-
