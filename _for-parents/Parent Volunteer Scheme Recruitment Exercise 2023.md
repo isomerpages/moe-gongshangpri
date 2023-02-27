@@ -3,8 +3,6 @@ title: Parent Volunteer Scheme Recruitment Exercise 2023
 permalink: /useful-links/for-parents/parent-volunteer-scheme-recruitment-exercise/
 description: ""
 ---
-
-### **Parent Volunteer Scheme -Recruitment Exercise 2023**
 Dear Parents,
 
 Parent volunteer recruitment exercise for children who are born between 2 Jan 2018 and 1 Jan 2019 (both dates inclusive) is now open. Applications can be done via this link [https://go.gov.sg/gsps-parentsvolunteer2023](https://go.gov.sg/gsps-parentsvolunteer2023). The closing date for submitting an application is **28 February 2023**.
