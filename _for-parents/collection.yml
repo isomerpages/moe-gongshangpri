@@ -1,0 +1,23 @@
+collections:
+  for-parents:
+    output: true
+    order:
+      - General Information.md
+      - MOE Edusave Character Award (ECHA) 2022.md
+      - Assessments.md
+      - Briefing & Workshop Slides for Parents.md
+      - COVID 19.md
+      - Home Based Learning/HBL General Information.md
+      - Home Based Learning/Home Based Learning 27 September 2021 to 7 Octoboer
+        2021.md
+      - "Home Based Learning/Home Based Learning :  Resources for Parents &
+        Pupils.md"
+      - Home Based Learning/.keep
+      - Letters to Parents.md
+      - Monthly Bulletin.md
+      - MOE Financial Assistance Scheme (FAS).md
+      - Parent Volunteer Scheme Recruitment Exercise 2023.md
+      - PERI PLUS Upgrading Matters.md
+      - Waiting List/Waiting List.md
+      - Waiting List/MOE Financial Assistance Scheme (FAS).md
+      - Waiting List/.keep

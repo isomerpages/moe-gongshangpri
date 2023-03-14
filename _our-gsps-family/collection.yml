@@ -1,0 +1,21 @@
+collections:
+  our-gsps-family:
+    output: true
+    order:
+      - Our History.md
+      - Our School Crest and Song.md
+      - Our Ethos.md
+      - School Management Committee (SMC).md
+      - School Advisory Committee (SAC).md
+      - Parent Support Group/Parent Support Group (GSPEARS).md
+      - Parent Support Group/PSG Orgnanisation Chart.md
+      - Parent Support Group/Fathers @ Gongshang.md
+      - Parent Support Group/Members' Guidelines.md
+      - Parent Support Group/Join Us.md
+      - Parent Support Group/.keep
+      - Alumni/Alumni Association.md
+      - Alumni/Alumni Organisational Chart.md
+      - Alumni/Homecoming.md
+      - Alumni/Application Forms.md
+      - Alumni/.keep
+      - Teaching & Non Teaching Staff.md

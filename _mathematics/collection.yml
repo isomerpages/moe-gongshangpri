@@ -1,0 +1,20 @@
+collections:
+  mathematics:
+    output: true
+    order:
+      - Mathematics.md
+      - Programmes/.keep
+      - Programmes/Programmes.md
+      - Programmes/Formative Assessments.md
+      - Programmes/Learning Support in Mathematics (LSM).md
+      - Programmes/Improving Confidence and Achievement in Numeracy (ICAN).md
+      - Programmes/Excellence 2000 Mathematics (E2K).md
+      - Programmes/Fun With Math (FWM).md
+      - Programmes/Termly Maths Quiz.md
+      - Assessment.md
+      - Achievements/.keep
+      - Achievements/Achievements.md
+      - Achievements/2021 Competitions.md
+      - Achievements/2020 Competitions.md
+      - Achievements/2019 Competitions.md
+      - Achievements/2018 Competitions.md
