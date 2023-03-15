@@ -21,7 +21,7 @@ Please click [here](https://docs.google.com/forms/d/e/1FAIpQLSfFnXrmIXcgQ733bsF
 #### **P1 Orientation briefing for Y2023 P1 pupils**
 Click [here](https://file.for.edu.sg/flb225.pdf) for the briefing slides.
 
-#### **P2 Parents’ Briefing 30 January 20**
+#### **P2 Parents’ Briefing 30 January 2023**
 
 Click [here](https://file.for.edu.sg/ruq4ky.pdf) for the briefing slides.
 
