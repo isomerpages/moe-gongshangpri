@@ -25,8 +25,7 @@ Click [here](https://file.for.edu.sg/flb225.pdf) for the briefing slides.
 
 Click [here](https://file.for.edu.sg/ruq4ky.pdf) for the briefing slides.
 
-#### **P1 & P2 Parents’ Briefing**
-30 January 2023**
+#### **P1 & P2 Parents’ Briefing 30 January 2023**
 
 Click [here](https://file.for.edu.sg/vxaxbt.pdf) for the briefing slides.
 
