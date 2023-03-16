@@ -30,7 +30,7 @@ Click [here](https://file.for.edu.sg/ruq4ky.pdf) for the briefing slides.
 Click [here](https://file.for.edu.sg/vxaxbt.pdf) for the briefing slides.
 
 #### **Parent Volunteer Scheme – Recruitment Exercise 2023**
-Please click [here](/useful-links/for-parents/parent-volunteer-scheme-recruitment-exercise-2023) for more information.
+Please click [here](https://www.gongshangpri.moe.edu.sg/useful-links/for-parents/parent-volunteer-scheme-recruitment-exercise/) for more information.
 
 #### **PSLE results 2022**
 
