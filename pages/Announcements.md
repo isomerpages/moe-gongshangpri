@@ -12,7 +12,7 @@ Please click [here](/moe-kindergarten-at-gongshang/whats-happening) for more i
 Click [here](https://www.scamalert.sg/) to learn more about scams and how to avoid being a victim of one.
 
 #### **MOE Sexuality Education Programme for P5 and P6 pupils**
-Please click [here](/character-and-citizenship-education-cce/programmes/moe-sexuality-education-in-schools) for more information.
+Please click [here](https://www.gongshangpri.moe.edu.sg/our-gsps-experience/cce/programmes/sex-edu/) for more information.
 
 #### **Term 1 Maths Quiz**
 
@@ -30,7 +30,7 @@ Click [here](https://file.for.edu.sg/ruq4ky.pdf) for the briefing slides.
 Click [here](https://file.for.edu.sg/vxaxbt.pdf) for the briefing slides.
 
 #### **Parent Volunteer Scheme – Recruitment Exercise 2023**
-Please click [here](/useful-links/for-parents/parent-volunteer-scheme-recruitment-exercise-2023) for more information.
+Please click [here](https://www.gongshangpri.moe.edu.sg/useful-links/for-parents/parent-volunteer-scheme-recruitment-exercise/) for more information.
 
 #### **PSLE results 2022**
 
