@@ -30,7 +30,7 @@ sections:
       button: click here
       url: https://www.moe.gov.sg/faqs-covid-19-infection
   - infobar:
-      title: Recruitment Exercise 2022
+      title: Recruitment Exercise 2023
       subtitle: Parent Volunteer Scheme
       description: For more information
       button: Click here
