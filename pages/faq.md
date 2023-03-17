@@ -60,7 +60,7 @@ You can also purchase the school uniform on every last Friday of the month (Feb-
 The Primary One Registration Exercise is generally conducted from June to September every year. Parents should refer to the registration phases and procedures to find out which phase their children are eligible for, how to register and the documents required for registration posted on the MOE website.
 
 For more information on the Primary One Registration Exercise, please refer to the following website:  
-[https://www.moe.gov.sg/admissions/primary-one-registration](https://www.moe.gov.sg/admissions/primary-one-registration) **website unavailable**
+https://www.moe.gov.sg/primary/p1-registration
 
 ##### **SCHOOL-HOME PARTNERSHIP**
 
@@ -93,7 +93,7 @@ Please approach any of the General Office staff to find out more or you can clic
 To apply to join the Gongshang Alumni, please contact any of the following via email:
 *   Miss Ada Lye ([lye\_kit\_yeng\_ada@moe.edu.sg](mailto:lye\_kit\_yeng\_ada@moe.edu.sg))
 *   Mdm Teo Shaw Ping ([teo\_shaw\_ping@moe.edu.sg](mailto:teo\_shaw\_ping@moe.edu.sg))
-*   Mrs Sabrina Neo ([seah\_jia\_fen\_sabrina@moe.edu.sg](mailto:seah\_jia\_fen\_sabrina@moe.edu.sg))
+
 
 Information for Alumni may be found under Our GSPS Family/Alumni on the school website.
 
