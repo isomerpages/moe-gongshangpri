@@ -111,7 +111,7 @@ Primary 2 in ISH 4
 
 <br clear="left">
 
-#### **Primary 3 Swimsafer 2.0 Programme**
+#### **SwimSafer Programme**
 
 <img src="/images/pe27.jpg" style="width:30%;margin-right:15px;" align = "left">
 
