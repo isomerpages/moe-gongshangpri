@@ -63,7 +63,7 @@ third_nav_title: Physical Education
 
 
 <img src="/images/LPGD 1.jpg" style="width:%" align=left>
-<img src="/images/LGPD 2.jpg" style="width:%" align=right>
+<img src="/images/LGPD 2.jpg" style="width:%" align=left>
 
 <br clear="left">
 
