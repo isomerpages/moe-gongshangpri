@@ -71,16 +71,15 @@ third_nav_title: Physical Education
 <img src="/images/LPGD 4.jpeg" style="width:%" align=left>
 
 
-
 <br clear="left">
 
 #### **Games Day**
 
-<img src="/images/PE_gamesday1.jpg" style="width:80%;margin-right:15px;" align = "left">
+<img src="/images/PE_Aesthetics/PE_gamesday1.jpg" style="width:80%;margin-right:15px;" align = "left">
 
-<img src="/images/PE_gamesday2.jpg" style="width:80%;margin-right:15px;" align = "left">
+<img src="/images/PE_Aesthetics/PE_gamesday2.jpg" style="width:80%;margin-right:15px;" align = "left">
 
-<img src="/PE_gamesday3.jpg" style="width:80%;margin-right:15px;" align = "left">
+<img src="/images/PE_Aesthetics/PE_gamesday3.jpg" style="width:80%;margin-right:15px;" align = "left">
 
 
 
