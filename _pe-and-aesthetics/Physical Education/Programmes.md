@@ -56,31 +56,8 @@ third_nav_title: Physical Education
 </tbody>
 </table>
 
-#### **Healthy Lifestyle Fiesta**
 
-<img src="/images/pe1.jpg" style="width:30%;margin-right:15px;" align = "left">
 
-<img src="/images/pe2.jpg" style="width:30%;margin-right:15px;" align = "left">
-
-<img src="/images/pe3.jpg" style="width:30%;margin-right:15px;" align = "left">
-
-<br clear="left">
-
-<img src="/images/pe4.jpg" style="width:30%;margin-right:15px;" align = "left">
-
-<img src="/images/pe5.jpg" style="width:30%;margin-right:15px;" align = "left">
-
-<img src="/images/pe6.jpg" style="width:30%;margin-right:15px;" align = "left">
-
-<br clear="left">
-
-<img src="/images/pe7.jpg" style="width:30%;margin-right:15px;" align = "left">
-
-<img src="/images/pe8.jpg" style="width:30%;margin-right:15px;" align = "left">
-
-<img src="/images/pe9.jpg" style="width:30%;margin-right:15px;" align = "left">
-
-<br clear="left">
 
 #### **Primary 1 & 2 Lower Primary Games Day 2020**
 
