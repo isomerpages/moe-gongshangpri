@@ -91,19 +91,21 @@ third_nav_title: Physical Education
 
 #### **SwimSafer Programme**
 
-<img src="/images/pe27.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/PE_Aesthetics/pe27.jpg" style="width:80%;margin-bottom:15px;" align = "left">
 
-<img src="/images/pe28.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/PE_Aesthetics/pe28.jpg" style="width:80%;margin-bottom:15px;" align = "left">
 
-<img src="/images/pe29.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/PE_Aesthetics/pe29.jpg" style="width:80%;margin-bottom:15px;" align = "left">
 
 <br clear="left">
 
-<img src="/images/pe30.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/PE_Aesthetics/pe32.jpg" style="width:80%;margin-right:15px;" align = "left">
 
-<img src="/images/pe31.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/PE_Aesthetics/pe30.jpg" style="width:40%;margin-right:15px;" align = "left">
 
-<img src="/images/pe32.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/PE_Aesthetics/pe31.jpg" style="width:38%;margin-bottom:15px;" align = "left">
+
+
 
 <br clear="left">
 
