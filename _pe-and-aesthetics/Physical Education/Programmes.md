@@ -63,12 +63,12 @@ third_nav_title: Physical Education
 
 
 <img src="/images/LPGD 1.jpg" style="width:%" align=left>
-<img src="/images/LGPD 2.jpg" style="width:%" align=left>
+<img src="/images/LPGD 2.jpg" style="width:%" align=left>
 
 <br clear="left">
 
-<img src="/images/pe12.jpg" style="width:49%" align=left>
-<img src="/images/pe13.jpg" style="width:49%" align=right>
+<img src="/images/LPGD 3.jpg" style="width:%" align=left>
+<img src="/images/LPGD 4.jpg" style="width:%" align=left>
 
 
 
