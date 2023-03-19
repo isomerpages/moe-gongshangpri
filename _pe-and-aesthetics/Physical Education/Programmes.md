@@ -62,7 +62,7 @@ third_nav_title: Physical Education
 #### **Lower Primary Games Day 2022**
 
 
-<img src="/images/pe10.jpg" style="width:49%" align=left>
+<img src="/images/LPGD 1.jpg" style="width:49%" align=left>
 <img src="/images/pe11.jpg" style="width:49%" align=right>
 
 <br clear="left">
