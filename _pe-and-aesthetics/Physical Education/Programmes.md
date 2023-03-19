@@ -111,10 +111,8 @@ third_nav_title: Physical Education
 
 #### **Outdoor Experiential Learning Camp**
 
-<img src="/images/pe33.jpeg" style="width:49%" align=left>
-<img src="/images/pe34.jpg" style="width:49%" align=right>
+<img src="/images/PE_Aesthetics/pe33.jpeg" style="width:80%; margin-bottom:15px" align=left>
+<img src="/images/PE_Aesthetics/pe34.jpg" style="width:80%; margin-bottom:15px" align=left>
 
-<br clear="left">
-
-<img src="/images/pe35.jpg" style="width:49%" align=left>
-<img src="/images/pe36.jpeg" style="width:49%" align=right>
+<img src="/images/PE_Aesthetics/pe35.jpg" style="width:80%; margin-bottom:15px" align=left>
+<img src="/images/PE_Aesthetics/pe36.jpeg" style="width:80%' align=left>
