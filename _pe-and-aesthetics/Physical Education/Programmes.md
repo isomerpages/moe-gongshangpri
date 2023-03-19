@@ -93,21 +93,7 @@ Primary 2 in ISH 4
 
 <img src="/PE_gamesday3.jpg" style="width:30%;margin-right:15px;" align = "left">
 
-<br clear="left">
 
-<img src="/images/pe21.jpg" style="width:30%;margin-right:15px;" align = "left">
-
-<img src="/images/pe22.jpg" style="width:30%;margin-right:15px;" align = "left">
-
-<img src="/images/pe23.jpg" style="width:30%;margin-right:15px;" align = "left">
-
-<br clear="left">
-
-<img src="/images/pe24.jpg" style="width:30%;margin-right:15px;" align = "left">
-
-<img src="/images/pe25.jpg" style="width:30%;margin-right:15px;" align = "left">
-
-<img src="/images/pe26.jpg" style="width:30%;margin-right:15px;" align = "left">
 
 <br clear="left">
 
