@@ -75,13 +75,17 @@ third_nav_title: Physical Education
 
 #### **Games Day**
 
-<img src="/images/PE_Aesthetics/PE_gamesday1.jpg" style="width:80%;margin-right:15px;" align = "left">
+<img src="/images/PE_Aesthetics/PE_gamesday1.jpg" style="width:80%;margin-bottom:15px;" align = "left">
 
-<img src="/images/PE_Aesthetics/PE_gamesday2.jpg" style="width:80%;margin-right:15px;" align = "left">
+<img src="/images/PE_Aesthetics/PE_gamesday2.jpg" style="width:80%;margin-bottom:15px;" align = "left">
 
-<img src="/images/PE_Aesthetics/PE_gamesday3.jpg" style="width:80%;margin-right:15px;" align = "left">
+<img src="/images/PE_Aesthetics/PE_gamesday3.jpeg" style="width:80%;margin-bottom:15px;" align = "left">
 
+<img src="/images/PE_Aesthetics/PE_gamesday4.jpeg" style="width:80%;margin-bottom:15px;" align = "left">
 
+<img src="/images/PE_Aesthetics/PE_gamesday5.jpeg" style="width:80%;margin-bottom:15px;" align = "left">
+
+<img src="/images/PE_Aesthetics/PE_gamesday6.jpg" style="width:80%;margin-right:15px;" align = "left">
 
 <br clear="left">
 
