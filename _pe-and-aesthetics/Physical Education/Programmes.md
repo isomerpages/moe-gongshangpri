@@ -61,7 +61,6 @@ third_nav_title: Physical Education
 
 #### **Lower Primary Games Day 2022**
 
-Primary 1 in ISH 1
 
 <img src="/images/pe10.jpg" style="width:49%" align=left>
 <img src="/images/pe11.jpg" style="width:49%" align=right>
@@ -71,17 +70,7 @@ Primary 1 in ISH 1
 <img src="/images/pe12.jpg" style="width:49%" align=left>
 <img src="/images/pe13.jpg" style="width:49%" align=right>
 
-<br clear="left">
 
-Primary 2 in ISH 4
-
-<img src="/images/pe14.jpg" style="width:49%" align=left>
-<img src="/images/pe15.jpg" style="width:49%" align=right>
-
-<br clear="left">
-
-<img src="/images/pe16.jpg" style="width:49%" align=left>
-<img src="/images/pe17.jpg" style="width:49%" align=right>
 
 <br clear="left">
 
