@@ -59,7 +59,7 @@ third_nav_title: Physical Education
 
 
 
-#### **Primary 1 & 2 Lower Primary Games Day 2020**
+#### **Lower Primary Games Day 2022**
 
 Primary 1 in ISH 1
 
