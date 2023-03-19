@@ -85,11 +85,11 @@ Primary 2 in ISH 4
 
 <br clear="left">
 
-#### **Sports Day**
+#### **Games Day**
 
-<img src="/images/pe18.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/PE_gamesday1.jpg" style="width:40%;margin-right:15px;" align = "left">
 
-<img src="/images/pe19.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/PE_gamesday2.jpg" style="width:30%;margin-right:15px;" align = "left">
 
 <img src="/images/pe20.jpg" style="width:30%;margin-right:15px;" align = "left">
 
