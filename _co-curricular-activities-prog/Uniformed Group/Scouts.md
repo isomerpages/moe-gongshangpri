@@ -53,3 +53,8 @@ The Explorer Camp is organised to provide avenue for the cub scouts to complete 
 
 <iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRhrBy2UgeQxuFWfJTIuW3oJYMI7PQl6Fa2bNWd91P5E0yZQD0VmK413qTvvhIIGNQaNEYpOYZdPRkD/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
+### **Reminders**
+##### **Scout Uniform**
+
+<img src="/images/sch%20uniform.jpg" style="width:65%">
+
