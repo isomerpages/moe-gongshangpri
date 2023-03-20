@@ -16,12 +16,12 @@ Modern Dance will give students the opportunity to express their imagination and
 | TEACHERS- IN- CHARGE | Mdm Rosilah Bte Abdullah<br>Mdm Roslinda Bte Johari |
 |
 
-<img src="/images/moderndance1.jpg" style="width:65%">
+<img src="/images/moderndance1.jpg" style="width:80%; margin-bottom:15px">
 
-<img src="/images/moderndance2.jpg" style="width:65%">
+<img src="/images/moderndance2.jpg" style="width:80%; margin-bottom:15px">
 
-<img src="/images/moderndance3.jpg" style="width:65%">
+<img src="/images/moderndance3.jpg" style="width:80%; margin-bottom:15px">
 
-<img src="/images/moderndance4.jpg" style="width:65%">
+<img src="/images/moderndance4.jpg" style="width:80%; margin-bottom:15px">
 
-<img src="/images/moderndance5.jpg" style="width:65%">
+<img src="/images/moderndance5.jpg" style="width:80%">
