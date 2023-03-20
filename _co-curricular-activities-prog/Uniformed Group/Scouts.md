@@ -47,3 +47,9 @@ The Cub Scout Field Day was also carried out on the same day. It is the cub scou
 
 <iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQZvpQ2y6tDn-O4ujFxw9pKB9BS2kd_0nnOygXnwrpuj7RFKdFCfy4LgKVTkvt__9fAqnkFeD5MwSm4/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
+
+### **Explorer Camp**
+The Explorer Camp is organised to provide avenue for the cub scouts to complete their badgeworks while enjoying outdoor learning. The camp aims to inculcate values and provide skills for life to cub scouts.
+
+<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRhrBy2UgeQxuFWfJTIuW3oJYMI7PQl6Fa2bNWd91P5E0yZQD0VmK413qTvvhIIGNQaNEYpOYZdPRkD/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
