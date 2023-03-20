@@ -30,10 +30,10 @@ Objectives: 
 
 \*Pupils may refer to their own schedules given in the letter sent via Parents Gateway.
 
-<img src="/images/floorball1.jpg" style="width:65%">
+<img src="/images/floorball1.jpg" style="width:80%; margin-bottom:15px">
 
-<img src="/images/floorball2.jpg" style="width:65%">
+<img src="/images/floorball2.jpg" style="width:80%;margin-bottom:15px">
 
-<img src="/images/floorball3.jpg" style="width:65%">
+<img src="/images/floorball3.jpg" style="width:80%;margin-bottom:15px">
 
-<img src="/images/floorball4.jpg" style="width:65%">
+<img src="/images/floorball4.jpg" style="width:80%">
