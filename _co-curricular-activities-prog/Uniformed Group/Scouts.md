@@ -6,7 +6,7 @@ third_nav_title: Uniformed Group
 ---
 ### **Scouts**
 
-<img src="/images/scout1.png" style="width:50%" align=left> 
+<img src="/images/scout1.png" style="width:35%" align=left> 
 
 
 <br clear="left">
@@ -26,7 +26,7 @@ Mr Gavin Bi
 | Wednesday | 2.00 p.m. - 4.00 p.m. | CCA Room B1-03 | For all Cub Scouts |
 |
 
-##### **Scout Youtube links**
+##### **Scouts Youtube links**
 
 <iframe width="700" height="350" src="https://www.youtube.com/embed/RlYZWS1sLn4" title="The Singapore Scout Association" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

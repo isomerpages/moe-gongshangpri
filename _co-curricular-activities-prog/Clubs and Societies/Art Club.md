@@ -16,7 +16,7 @@ In Art Club, students are given the opportunity to explore various art-making ac
 
 #### **Stamp Story Art Competition**
 
-<img src="/images/artclub1.jpg" style="width:85%">
+<img src="/images/artclub1.jpg" style="width:90% align=left">
 
 #### **Crea8 Sustainability Art Competition**
 
@@ -32,9 +32,11 @@ In Art Club, students are given the opportunity to explore various art-making ac
 
 #### **Mural Painting**
 
-<img src="/images/artclub2.jpg" style="width:85%">
+<img src="/images/artclub2.jpg" style="width:85%; margin-bottom:15px" align=left>
 
-<img src="/images/artclub3.jpg" style="width:85%">
+<img src="/images/artclub3.jpg" style="width:85%" align=left>
+
+<br clear="left">
 
 #### **Competitions**
 \*The availability of competitions is dependent on external organizations.
@@ -49,12 +51,12 @@ The school also organizes internal art competitions that are open to all pupils.
 
 #### **Pupils and teachers in action**
 
-<img src="/images/ac9.jpg" style="width:85%">
+<img src="/images/ac9.jpg" style="width:85%; margin-bottom:15px" align=left>
 
-<img src="/images/ac10.jpg" style="width:49%" align=left>
-<img src="/images/ac11.jpg" style="width:49%" align=right>
+<img src="/images/ac10.jpg" style="width:85%; margin-bottom:15px" align=left>
+<img src="/images/ac11.jpg" style="width:85%; margin-bottom:15px" align=left>
 
 <br clear="left">
 
-<img src="/images/ac12.jpg" style="width:49%" align=left>
-<img src="/images/ac13.jpg" style="width:49%" align=right>
+<img src="/images/ac12.jpg" style="width:85%; margin-bottom:15px" align=left>
+<img src="/images/ac13.jpg" style="width:85%" align=left>

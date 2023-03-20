@@ -15,7 +15,7 @@ A self-directed and collaborative learner who is able to leverage ICT in his/her
 *   Provide a variety of platforms to develop our ICT technologists into proficient users of ICT, allowing them to be actively engaged in tasks that foster their thinking and collaborative skills. 
 *   Cultivate our young ICT technologists to be ethical and responsible cyberspace citizens.
 
-#### **Teachers in Charge**
+#### **Teachers-in-Charge**
 1\. Mr Azman B Mohammed Noh<br>
 2\. Mr Yusri B Yunos<br>
 3\. Mr Henry Lee
@@ -27,10 +27,10 @@ A self-directed and collaborative learner who is able to leverage ICT in his/her
 | Wednesday | 2.15p.m. - 3.45p.m. | Autumn Lab |
 |
 
-<img src="/images/itc1.jpg" style="width:49%" align=left>
-<img src="/images/itc2.jpg" style="width:49%" align=right>
+<img src="/images/itc1.jpg" style="width:85%; margin-bottom:15px" align=left>
+<img src="/images/itc2.jpg" style="width:85%; margin-bottom:15px" align=left>
 
 <br clear="left">
 
-<img src="/images/itc3.jpg" style="width:49%" align=left>
-<img src="/images/itc4.jpg" style="width:49%" align=right>
+<img src="/images/itc3.jpg" style="width:85%; margin-bottom:15px" align=left>
+<img src="/images/itc4.jpg" style="width:85%" align=left>
