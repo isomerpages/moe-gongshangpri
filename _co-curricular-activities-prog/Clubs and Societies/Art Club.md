@@ -16,7 +16,7 @@ In Art Club, students are given the opportunity to explore various art-making ac
 
 #### **Stamp Story Art Competition**
 
-<img src="/images/artclub1.jpg" style="width:90%">
+<img src="/images/artclub1.jpg" style="width:90% align=left">
 
 #### **Crea8 Sustainability Art Competition**
 
@@ -32,9 +32,11 @@ In Art Club, students are given the opportunity to explore various art-making ac
 
 #### **Mural Painting**
 
-<img src="/images/artclub2.jpg" style="width:85%; margin-bottom:15px">
+<img src="/images/artclub2.jpg" style="width:85%; margin-bottom:15px" align=left>
 
-<img src="/images/artclub3.jpg" style="width:85%">
+<img src="/images/artclub3.jpg" style="width:85%" align=left>
+
+<br clear="left">
 
 #### **Competitions**
 \*The availability of competitions is dependent on external organizations.
