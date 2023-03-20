@@ -44,9 +44,7 @@ The RRP caters to supporting P3 students who still face difficulties in reading 
 
 The MOE's School-based Dyslexia Remediation programme is a two-year intervention programme catered exclusively for Primary 3 and 4 students. These students are identified for support through a systematic screening process for dyslexia that is conducted at the end of Primary 2 by trained specialists. This after school programme is conducted in small groups by a trained school teacher using the remediation curriculum specifically designed by MOE Reading Specialists.
 
-
 <br clear="left">
-
 
 #### **English Language Fiesta**
 Theme: Books bring us together
