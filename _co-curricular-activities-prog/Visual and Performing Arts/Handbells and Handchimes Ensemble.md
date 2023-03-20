@@ -5,7 +5,14 @@ description: ""
 third_nav_title: Visual and Performing Arts
 ---
 ### **Handbells and Handchimes Ensemble**
-Since the inception of Handbells and Handchimes in 2005, we have been participating in the Singapore Youth Festival (SYF) and had clinched various awards. This is made possible through the pupils’ hard work and diligence as well as the strong support we have received from parents as our partners. We look forward to parents’ continued support for their children’s participation in CCA as well as school’s performances.
+The Handbell Ensemble is a unique performing art group which leverages on teamwork. 
+
+Each member is responsible for ringing his/her assigned bells for some particular notes in a piece of music. Playing handbells boosts auditory skills such as sound awareness, stimulates the brain and builds up memory and gross coordination skills. As each ringer is an integral part of the Handbell Ensemble, members of the ensemble have to work together and be attentive to one another to create successful music. 
+
+Handbells Ensemble in Gongshang participates in the Singapore Youth Festival (SYF). 
+
+The harmonious chimes of handbells are the result of an intimate collaboration and concerted effort among all members.  Through our CCA, we hope that pupils will learn to appreciate Arts and culture better as well as team spirit.
+
 
 |  |  |
 |---|---|
@@ -14,10 +21,10 @@ Since the inception of Handbells and Handchimes in 2005, we have been participat
 | **CCA Timings:** | Wednesdays 2.15 pm to 3.45 pm (Semester 1 and 2)<br><br>Mondays 3.00 pm to 5.00 pm             (additional practice in Semester 2) |
 |
 
-<img src="/images/hhe1.jpeg" style="width:65%">
+<img src="/images/hhe1.jpeg" style="width:80%; margin-bottom:15px">
 
-<img src="/images/hhe2.jpeg" style="width:65%">
+<img src="/images/hhe2.jpeg" style="width:80%; margin-bottom:15px">
 
-<img src="/images/hhe3.jpeg" style="width:65%">
+<img src="/images/hhe3.jpeg" style="width:80%; margin-bottom:15px">
 
-<img src="/images/hhe4.jpeg" style="width:65%">
+<img src="/images/hhe4.jpeg" style="width:80%">

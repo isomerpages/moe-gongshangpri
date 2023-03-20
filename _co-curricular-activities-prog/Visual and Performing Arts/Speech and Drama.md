@@ -22,10 +22,10 @@ This fun and exciting new CCA will give students the opportunity to express thei
 | TEACHERS- IN- CHARGE | Mdm Bindiya Aswani<br>Mdm Habibah Tahar |
 |
 
-<img src="/images/snd1.jpg" style="width:45%">
+<img src="/images/snd1.jpg" style="width:80%;margin-bottom:15px">
 
-<img src="/images/snd2.jpg" style="width:45%">
+<img src="/images/snd2.jpg" style="width:80%;margin-bottom:15px">
 
-<img src="/images/snd3.jpg" style="width:45%">
+<img src="/images/snd3.jpg" style="width:80%;margin-bottom:15px">
 
-<img src="/images/snd4.jpg" style="width:45%">
+<img src="/images/snd4.jpg" style="width:80%">
