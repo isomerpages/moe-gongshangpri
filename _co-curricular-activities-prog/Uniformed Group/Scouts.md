@@ -58,3 +58,7 @@ The Explorer Camp is organised to provide avenue for the cub scouts to complete 
 
 <img src="/images/sch%20uniform.jpg" style="width:65%">
 
+### **Uniform Badge placement**
+
+<img src="/images/badge1.jpg" style="width:55%">
+<img src="/images/badge2.jpg" style="width:55%">
