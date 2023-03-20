@@ -26,8 +26,8 @@ The training schedule for the Wushu School Team & Developmental Team are as foll
 | Wednesday<br>(School Team & Development Team)  | 2.15 p.m. - 3.45 p.m. <br>  | Mdm Jennifer Jacob<br>Mdm Ng Bee San <br>Mdm Lee Huiyi |
 |
 
-<img src="/images/ws1.jpeg" style="width:65%">
+<img src="/images/ws1.jpeg" style="width:80%; margin-bottom:15px">
 
-<img src="/images/ws2.jpeg" style="width:65%">
+<img src="/images/ws2.jpeg" style="width:80%;margin-bottom:15px">
 
-<img src="/images/ws3.jpeg" style="width:65%">
+<img src="/images/ws3.jpeg" style="width:80% ">
