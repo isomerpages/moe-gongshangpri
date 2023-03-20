@@ -45,13 +45,3 @@ MOE Kindergarten is guided by MOE's corporate values:
 |  Address |  1 Tampines Street 42, Singapore 529176 |
 |
 
-#### **MOE Kindergarten 2023 K1**
-The MOE Kindergarten online registration exercise for 2023 K1 admission is closed. Parents who have missed the registration exercise and would like to apply for MOE Kindergarten at Gongshang, please submit the Waitlist Application and supporting documents via [https://for.edu.sg/mkgs-waitlist](https://for.edu.sg/mkgs-waitlist) 
-
-If you have any queries regarding MK@Gongshang, you may contact the school at mk\_gongshang@moe.edu.sg / 67831191.
-
-We look forward to welcoming you and your child in 2023
-
-
-
-
