@@ -25,10 +25,10 @@ Pupils will need to assemble for attendance taking at the designated areas as st
 
 [Please click here for Semester 1 training schedule](CCA Schedule 2023_rugby.pdf)
 
-<img src="/images/rugby1.jpg" style="width:49%" align=left>
-<img src="/images/rugby2.jpg" style="width:49%" align=right>
+<img src="/images/rugby1.jpg" style="width:80%" align=left>
+<img src="/images/rugby2.jpg" style="width:80%" align=left>
 
 <br clear="left">
 
-<img src="/images/rugby3.jpg" style="width:49%" align=left>
-<img src="/images/rugby4.jpg" style="width:49%" align=right>
+<img src="/images/rugby3.jpg" style="width:80%" align=left>
+<img src="/images/rugby4.jpg" style="width:80%" align=left>
