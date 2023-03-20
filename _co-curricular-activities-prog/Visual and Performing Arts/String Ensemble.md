@@ -18,16 +18,16 @@ The String Ensemble performs for school events every year on Teachers’ Day. Ev
 
 **SYF 2022 at SOTA**
 
-<img src="/images/stringensemble1.jpg" style="width:65%">
+<img src="/images/stringensemble1.jpg" style="width:80%; margin-bottom:15px">
 
-<img src="/images/stringensemble2.jpg" style="width:65%">
+<img src="/images/stringensemble2.jpg" style="width:80%; margin-bottom:15px">
 
-<img src="/images/stringensemble3.jpg" style="width:65%">
+<img src="/images/stringensemble3.jpg" style="width:80%">
 
 **We enjoy playing music!**
 
-<img src="/images/stringensemble4.jpg" style="width:65%">
+<img src="/images/stringensemble4.jpg" style="width:80%; margin-bottom:15px">
 
-<img src="/images/stringensemble5.jpg" style="width:45%">
+<img src="/images/stringensemble5.jpg" style="width:80%; margin-bottom:15px">
 
-<img src="/images/stringensemble6.jpg" style="width:45%">
+<img src="/images/stringensemble6.jpg" style="width:80%">
