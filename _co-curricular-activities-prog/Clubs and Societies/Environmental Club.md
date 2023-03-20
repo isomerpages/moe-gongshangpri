@@ -17,12 +17,12 @@ Our Club also participates in advocating environmental awareness and through the
 | **Teachers-in-charge** | Mrs Jessie Ong (Overall-in-charge)<br><br>Mrs Wendy Chu |
 |
 
-<img src="/images/environmentalclub1.jpg" style="width:65%">
+<img src="/images/environmentalclub1.jpg" style="width:85%; margin-bottom:15px">
 
-<img src="/images/environmentalclub2.jpg" style="width:65%">
+<img src="/images/environmentalclub2.jpg" style="width:85%; margin-bottom:15px">
 
-<img src="/images/environmentalclub3.jpg" style="width:65%">
+<img src="/images/environmentalclub3.jpg" style="width:85%; margin-bottom:15px">
 
-<img src="/images/environmentalclub4.jpg" style="width:65%">
+<img src="/images/environmentalclub4.jpg" style="width:85%; margin-bottom:15px">
 
-<img src="/images/environmentalclub5.jpg" style="width:65%">
+<img src="/images/environmentalclub5.jpg" style="width:85%">
