@@ -11,18 +11,18 @@ third_nav_title: Physical Sports
 	</strong></figcaption>
 </figure>	
 
-<img src="/images/tnf1.jpg" style="width:49%" align=left>
-<img src="/images/tnf2.jpg" style="width:49%" align=right>
+<img src="/images/tnf1.jpg" style="width:80%; margin-bottom:15px" align=left>
+<img src="/images/tnf2.jpg" style="width:80%; margin-bottom:15px" align=left>
 
 <br clear="left">
 
-<img src="/images/tnf3.jpg" style="width:49%" align=left>
-<img src="/images/tnf4.jpg" style="width:49%" align=right>
+<img src="/images/tnf3.jpg" style="width:80%; margin-bottom:15px" align=left>
+<img src="/images/tnf4.jpg" style="width:80%; margin-bottom:15px" align=left >
 
 <br clear="left">
 
-<img src="/images/tnf5.jpg" style="width:49%" align=left>
-<img src="/images/tnf6.jpg" style="width:49%" align=right>
+<img src="/images/tnf5.jpg" style="width:80%; margin-bottom:15px" align=left>
+<img src="/images/tnf6.jpg" style="width:80%" align=left>
 
 <br clear="left">
 
