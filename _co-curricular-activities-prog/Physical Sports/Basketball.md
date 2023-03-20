@@ -36,10 +36,11 @@ Through Basketball CCA, our pupils will learn fundamental basketball skills, bas
 
 \*Pupils are to refer to their own schedules given in the letter sent via Parents Gateway.
 
-<img src="/images/basketball1.jpg" style="width:49%" align=left>
-<img src="/images/basketball2.jpg" style="width:49%" align=right>
+<img src="/images/basketball1.jpg" style="width:80%; margin-bottom:15px" align=left>
+<img src="/images/basketball2.jpg" style="width:80%; margin-bottom:15px" align=left>
 
 <br clear="left">
 
-<img src="/images/basketball3.jpg" style="width:49%" align=left>
-<img src="/images/basketball4.jpg" style="width:49%" align=right>
+<img src="/images/basketball3.jpg" style="width:80%;margin-bottom:15px" align=left>
+<img src="/images/basketball4.jpg" style="width:80%" align=left>
+
