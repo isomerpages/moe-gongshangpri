@@ -6,7 +6,7 @@ third_nav_title: Uniformed Group
 ---
 ### **Scouts**
 
-<img src="/images/scout1.png" style="width:20%" align=left> 
+<img src="/images/scout1.png" style="width:50%" align=left> 
 
 
 <br clear="left">
@@ -56,9 +56,9 @@ The Explorer Camp is organised to provide avenue for the cub scouts to complete 
 ### **Reminders**
 ##### **Scout Uniform**
 
-<img src="/images/sch%20uniform.jpg" style="width:65%">
+<img src="/images/sch%20uniform.jpg" style="width:80%">
 
 ### **Uniform Badge placement**
 
-<img src="/images/badge1.jpg" style="width:55%">
-<img src="/images/badge2.jpg" style="width:55%">
+<img src="/images/badge1.jpg" style="width:80%; margin-bottom:15px">
+<img src="/images/badge2.jpg" style="width:80%">
