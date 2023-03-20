@@ -6,7 +6,7 @@ third_nav_title: Uniformed Group
 ---
 ### **Scouts**
 
-<img src="/images/scout1.png" style="width:50%" align=left> 
+<img src="/images/scout1.png" style="width:35%" align=left> 
 
 
 <br clear="left">
