@@ -12,5 +12,4 @@ The MOE Kindergarten online registration exercise for 2024 K1 admission is close
 
 [https://go.gov.sg/waitlist-mkgongshang](https://go.gov.sg/waitlist-mkgongshang).
 
-If you have any queries regarding MK@Gongshang, you may email the MK at [mk_gongshang@moe.edu.sg](mailto:mk_gongshang@moe.edu.sg) or  
-call 6783 1191.
+If you have any queries regarding MK@Gongshang, you may email the MK at [mk_gongshang@moe.edu.sg](mailto:mk_gongshang@moe.edu.sg) or  call 67831191.
