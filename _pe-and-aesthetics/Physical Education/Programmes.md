@@ -56,108 +56,66 @@ third_nav_title: Physical Education
 </tbody>
 </table>
 
-#### **Healthy Lifestyle Fiesta**
 
-<img src="/images/pe1.jpg" style="width:30%;margin-right:15px;" align = "left">
 
-<img src="/images/pe2.jpg" style="width:30%;margin-right:15px;" align = "left">
 
-<img src="/images/pe3.jpg" style="width:30%;margin-right:15px;" align = "left">
+#### **Lower Primary Games Day 2022**
 
-<br clear="left">
 
-<img src="/images/pe4.jpg" style="width:30%;margin-right:15px;" align = "left">
-
-<img src="/images/pe5.jpg" style="width:30%;margin-right:15px;" align = "left">
-
-<img src="/images/pe6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/LPGD 1.jpg" style="width:80%; margin-bottom:15px" align=left>
+<img src="/images/LPGD 2.jpg" style="width:80%; margin-bottom:15px"align=left>
 
 <br clear="left">
 
-<img src="/images/pe7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/LPGD 3.jpg" style="width:80%; margin-bottom:15px" align=left>
+<img src="/images/LPGD 4.jpeg" style="width:80%" align=left>
 
-<img src="/images/pe8.jpg" style="width:30%;margin-right:15px;" align = "left">
-
-<img src="/images/pe9.jpg" style="width:30%;margin-right:15px;" align = "left">
 
 <br clear="left">
 
-#### **Primary 1 & 2 Lower Primary Games Day 2020**
+#### **Games Day**
 
-Primary 1 in ISH 1
+<img src="/images/PE_Aesthetics/PE_gamesday1.jpg" style="width:80%;margin-bottom:15px;" align = "left">
 
-<img src="/images/pe10.jpg" style="width:49%" align=left>
-<img src="/images/pe11.jpg" style="width:49%" align=right>
+<img src="/images/PE_Aesthetics/PE_gamesday2.jpg" style="width:80%;margin-bottom:15px;" align = "left">
 
-<br clear="left">
+<img src="/images/PE_Aesthetics/PE_gamesday3.jpeg" style="width:80%;margin-bottom:15px;" align = "left">
 
-<img src="/images/pe12.jpg" style="width:49%" align=left>
-<img src="/images/pe13.jpg" style="width:49%" align=right>
+<img src="/images/PE_Aesthetics/PE_gamesday4.jpeg" style="width:80%;margin-bottom:15px;" align = "left">
 
-<br clear="left">
+<img src="/images/PE_Aesthetics/PE_gamesday5.jpeg" style="width:80%;margin-bottom:15px;" align = "left">
 
-Primary 2 in ISH 4
-
-<img src="/images/pe14.jpg" style="width:49%" align=left>
-<img src="/images/pe15.jpg" style="width:49%" align=right>
+<img src="/images/PE_Aesthetics/PE_gamesday6.jpg" style="width:80%;margin-right:15px;" align = "left">
 
 <br clear="left">
 
-<img src="/images/pe16.jpg" style="width:49%" align=left>
-<img src="/images/pe17.jpg" style="width:49%" align=right>
+#### **SwimSafer Programme**
+
+<img src="/images/PE_Aesthetics/pe27.jpg" style="width:80%;margin-bottom:15px;" align = "left">
+
+<img src="/images/PE_Aesthetics/pe28.jpg" style="width:80%;margin-bottom:15px;" align = "left">
+
+<img src="/images/PE_Aesthetics/pe29.jpg" style="width:80%;margin-bottom:15px;" align = "left">
 
 <br clear="left">
 
-#### **Sports Day**
+<img src="/images/PE_Aesthetics/pe32.jpg" style="width:80%;margin-right:15px;" align = "left">
 
-<img src="/images/pe18.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/PE_Aesthetics/pe30.jpg" style="width:40%;margin-right:15px;" align = "left">
 
-<img src="/images/pe19.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/PE_Aesthetics/pe31.jpg" style="width:38%;margin-bottom:15px;" align = "left">
 
-<img src="/images/pe20.jpg" style="width:30%;margin-right:15px;" align = "left">
-
-<br clear="left">
-
-<img src="/images/pe21.jpg" style="width:30%;margin-right:15px;" align = "left">
-
-<img src="/images/pe22.jpg" style="width:30%;margin-right:15px;" align = "left">
-
-<img src="/images/pe23.jpg" style="width:30%;margin-right:15px;" align = "left">
-
-<br clear="left">
-
-<img src="/images/pe24.jpg" style="width:30%;margin-right:15px;" align = "left">
-
-<img src="/images/pe25.jpg" style="width:30%;margin-right:15px;" align = "left">
-
-<img src="/images/pe26.jpg" style="width:30%;margin-right:15px;" align = "left">
-
-<br clear="left">
-
-#### **Primary 3 Swimsafer 2.0 Programme**
-
-<img src="/images/pe27.jpg" style="width:30%;margin-right:15px;" align = "left">
-
-<img src="/images/pe28.jpg" style="width:30%;margin-right:15px;" align = "left">
-
-<img src="/images/pe29.jpg" style="width:30%;margin-right:15px;" align = "left">
-
-<br clear="left">
-
-<img src="/images/pe30.jpg" style="width:30%;margin-right:15px;" align = "left">
-
-<img src="/images/pe31.jpg" style="width:30%;margin-right:15px;" align = "left">
-
-<img src="/images/pe32.jpg" style="width:30%;margin-right:15px;" align = "left">
 
 <br clear="left">
 
 #### **Outdoor Experiential Learning Camp**
 
-<img src="/images/pe33.jpeg" style="width:49%" align=left>
-<img src="/images/pe34.jpg" style="width:49%" align=right>
+<img src="/images/PE_Aesthetics/Camp 1.jpg" style="width:80%; margin-bottom:15px" align=left>
+<img src="/images/PE_Aesthetics/Camp 2.jpg" style="width:80%; margin-bottom:15px" align=left>
 
-<br clear="left">
+<img src="/images/PE_Aesthetics/Camp 3.jpg" style="width:80%; margin-bottom:15px" align=left>
 
-<img src="/images/pe35.jpg" style="width:49%" align=left>
-<img src="/images/pe36.jpeg" style="width:49%" align=right>
+<img src="/images/PE_Aesthetics/Camp 4.jpg" style="width:80%; margin-bottom:15px" align=left>
+<img src="/images/PE_Aesthetics/Camp 5.jpg" style="width:80%; margin-bottom:15px" align=left>
+
+<img src="/images/PE_Aesthetics/Camp 6.jpg" style="width:80%; margin-bottom:15px" align=left>
