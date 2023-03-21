@@ -8,8 +8,8 @@ third_nav_title: English Language
 #### **Mythos (Junior Orators) Storytelling Competition**
 Conducted by the Anglo-Chinese Junior College (ACJC) Debate and Oratorical Society, this competition allows students the opportunity to build on their speaking abilities. Students who have participated in this competition have gone on to become passionate and articulate speakers.  The competition consists of 2 preliminary rounds, a semi-finals and a grand finals. All rounds will be based on the story-telling format. All rounds will be asynchronous and video submission based. In 2021, we finished in the Top 20 out of a total of 128 participating schools.
 
-<img src="/images/eng13.jpeg" style="width:30%;margin-left:95px;;margin-right:15px;" align=left>
-<img src="/images/eng14.jpeg" style="width:31.5%" align=left>
+<img src="/images/eng13.jpeg" style="width:38%;margin-left:1px;;margin-right:15px;" align=left>
+<img src="/images/eng14.jpeg" style="width:40%" align=left>
 
 <br clear="left">
 
