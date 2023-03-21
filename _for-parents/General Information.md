@@ -38,8 +38,8 @@ _Note: School uniform will be available for purchase on the last Friday of Term 
 |
 
 Relevant links:  
-[GSPS-SchBusServices Info 2019](/files/parents%20general%20info%204.pdf)<br>
-[Request for School Bus Services 2019](/files/parents%20general%20info%205.pdf)
+[Info Sheet on School Bus Services 2023](/files/Info%20Sheet%20on%20School%20Bus%20Services%202023%20Letterhead.pdf)<br>
+[Request for School Bus Services 2022](/files/Request%20for%20School%20Bus%20Services_2022_Gongshang%20Primary.pdf)
 #### **Parents Gateway (FAQ)**
 Click [here](https://pg.moe.edu.sg/faq) to view.
 
