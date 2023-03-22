@@ -24,23 +24,9 @@ sections:
           description: ""
           url: /useful-links/for-staff/
   - infobar:
-      title: Covid-19 Related Matters
-      subtitle: FAQ
-      description: For more information on Covid-19 related matters by MOE
-      button: click here
-      url: https://www.moe.gov.sg/faqs-covid-19-infection
-  - infobar:
       title: Recruitment Exercise 2023
       subtitle: Parent Volunteer Scheme
       description: For more information
       button: Click here
       url: /useful-links/for-parents/parent-volunteer-scheme-recruitment-exercise/
-  - infopic:
-      title: Home-Based Learning
-      subtitle: Gongshang Primary School
-      description: Resources for Parents & Pupils
-      button: Click here
-      url: /useful-links/for-parents/hbl/
-      image: /images/hbl.jpg
-      alt: Image alt text
 ---
