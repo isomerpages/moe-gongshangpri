@@ -16,11 +16,11 @@ In 2022, Qisha Qaisara Binte Muhamad Shadick of 5 Perseverance and Mu’adz Bin 
 #### **Student Ambassador for Malay Language, 'Rakan Bahasa' 2021**
 Two of our pupils, Abdul Aryaan Bin Abdul Rapik and Muhammad Ashaz S/O Neeraj from 5 Integrity have been appointed as the student ambassadors for Malay language, ‘Rakan Bahasa’ of 2021. As Rakan Bahasa or Malay Language Ambassador, their roles are to encourage the use and appreciation of the Malay Language and culture amongst family and friends. They are actively involved in the activities/competitions and national events to promote the use of Malay Language and culture.
 
-<img src="/images/malay%20achievement%201.jpeg" style="width:31%;margin-right:15px;" align = "left">
+<img src="/images/malay%20achievement%201.jpeg" style="width:50%;margin-bottom:10px;" align = "left">
 
-<img src="/images/malay%20achievement%202.jpeg" style="width:31%;margin-right:15px;" align = "left">
+<img src="/images/malay%20achievement%202.jpeg" style="width:50%;margin-bottom:10px;" align = "left">
 
-<img src="/images/malay%20achievement%203.jpeg" style="width:29.5%;margin-right:15px;" align = "left">
+<img src="/images/malay%20achievement%203.jpeg" style="width:50%;" align = "left">
 
 <br clear="left">
 
