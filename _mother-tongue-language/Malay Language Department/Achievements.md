@@ -9,7 +9,9 @@ third_nav_title: Malay Language Department
 #### **Peraduan Penterjemah Pintar 2022 (Rakan Bahasa Translation Competition)**
 In 2022, Qisha Qaisara Binte Muhamad Shadick of 5 Perseverance and Mu’adz Bin Ahmad Khushairi of 5 Courage had represented Gongshang Primary School in the Penterjemah Pintar competition. This competition was opened to Rakan Bahasa (Friends of the language) from primary schools and aims to promote the relevance and importance of effective bilingualism in daily contexts through translation. Both Qisha and Mu’adz excelled and won 3rd place in the competition.
 
+![](/images/MLdept1_.jpg)
 
+![](/images/MLdept2.jpg)
 
 #### **Student Ambassador for Malay Language, 'Rakan Bahasa' 2021**
 Two of our pupils, Abdul Aryaan Bin Abdul Rapik and Muhammad Ashaz S/O Neeraj from 5 Integrity have been appointed as the student ambassadors for Malay language, ‘Rakan Bahasa’ of 2021. As Rakan Bahasa or Malay Language Ambassador, their roles are to encourage the use and appreciation of the Malay Language and culture amongst family and friends. They are actively involved in the activities/competitions and national events to promote the use of Malay Language and culture.
