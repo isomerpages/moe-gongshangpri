@@ -59,10 +59,8 @@ Cultural day camp at Pulau Ubin was organised for Primary 5 and 6 Malay language
 
 Online E-Dictionary : 
 https://prpm.dbp.gov.my/
-Apps: Kamus Pro (Insert Apps icon)
-Printed Dictionary: 
-	Kamus Pelajar Bahasa Melayu Dewan
-	Kamus Komprehensif Bahasa Melayu
+
+
 •	Reading Materials
 For Primary 1: https://mllpc.sg/publications/3
 For Primary 2: https://mllpc.sg/publications/4
@@ -71,3 +69,13 @@ For Primary 4: https://mllpc.sg/publications/9
 For Primary 5 and Primary 6: https://mllpc.sg/publications/11
 For Primary 5 and Primary 6: https://mllpc.sg/publications/12
 
+Printed Dictionary: 
+
+	
+![](/images/Kamus%20Komprehensif%20Bahasa%20Melayu.jpg)
+
+
+![](/images/Kamus%20Pelajar%20Bahasa%20Melayu%20Dewan%20Edisi%20Kedua.jpg)
+
+Kamus Pro App icon
+![](/images/Kamus%20Pro%20apps%20icon.jpg)
