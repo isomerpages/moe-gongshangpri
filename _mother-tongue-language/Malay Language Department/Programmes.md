@@ -30,8 +30,9 @@ The Malay Language department uses student-centered approach, which focuses on t
 
 <img src="/images/Parent-pupil%20Reading%20Together%20Session%2002.jpg" style="width:80%;margin-bottom:10px;" align = "left">
 
-<img src="/Parent-pupil%20Reading%20Together%20Session%2003.jpg" style="width:80%;margin-bottom:10px" align = "left">
+<img src="/images/Parent-pupil%20Reading%20Together%20Session%2003.jpg" style="width:80%;margin-bottom:10px" align = "left">
 
+<img src="/images/Reading%20an%20e-book%20with%20Parents.jpg" style="width:80%;margin-bottom:10px;" align = "left">
 
 <br clear="left">
 
