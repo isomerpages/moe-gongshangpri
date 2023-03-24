@@ -16,7 +16,7 @@ third_nav_title: Malay Language Department
 | **Kertas 4<br>Lisan** | Bacaan Lantang<br>Penerangan Berdasarkan Gambar<br>Perbualan Berkaitan dengan Gambar |
 |
 
-#### **Primary 4 Malay Language Assessment (MYE  & EYE)**
+#### **Primary 4 Malay Language Assessment (EYE)**
 
 | Kertas | Komponen |
 |---|---|
@@ -26,7 +26,7 @@ third_nav_title: Malay Language Department
 | **Kertas 4<br>Lisan** | Bacaan Lantang<br>Penerangan Berdasarkan Gambar<br>Perbualan Berkaitan dengan Gambar |
 |
 
-#### **Primary 5  (EYE) & Primary 6 (MYE & EYE) Malay Language Assessment**
+#### **Primary 5  (EYE) & Primary 6 (Prelim) Malay Language Assessment**
 
 | KERTAS | KOMPONEN |
 |---|---|
@@ -35,7 +35,7 @@ third_nav_title: Malay Language Department
 | <br><br><br><br>**KERTAS 3** | **LISAN DAN KEFAHAMAN MENDENGAR**<br><br>**BAHAGIAN A**<br>Bacaan Lantang<br><br>**BAHAGIAN B**<br>Menonton klip video dan berbual dengan pemeriksa lisan berkaitan dengan klip video yang ditonton<br><br>**BAHAGIAN D**<br>Kefahaman Mendengar |
 |
 
-#### **Primary 5 (EYE) / Primary 6 (MYE & EYE) Higher Malay Language Assessment**
+#### **Primary 5 (EYE) / Primary 6 (Prelim) Higher Malay Language Assessment**
 
 | KERTAS | KOMPONEN |
 |---|---|
