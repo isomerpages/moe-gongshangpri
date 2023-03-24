@@ -51,3 +51,22 @@ Cultural day camp at Pulau Ubin was organised for Primary 5 and 6 Malay language
 <img src="/images/malay6.jpg" style="width:30%;margin-right:15px;" align = "left">
 
 <img src="/images/malay7.jpg" style="width:30%;margin-right:15px;" align = "left">
+
+<br clear="left">
+
+### **Recommended Resources**
+**Malay Dictionaries**
+
+Online E-Dictionary : 
+https://prpm.dbp.gov.my/
+Apps: Kamus Pro (Insert Apps icon)
+Printed Dictionary: 
+	Kamus Pelajar Bahasa Melayu Dewan
+	Kamus Komprehensif Bahasa Melayu
+•	Reading Materials
+For Primary 1: https://mllpc.sg/publications/3
+For Primary 2: https://mllpc.sg/publications/4
+For Primary 3: https://mllpc.sg/publications/8
+For Primary 4: https://mllpc.sg/publications/9
+For Primary 5 and Primary 6: https://mllpc.sg/publications/11
+o	For Primary 5 and Primary 6: https://mllpc.sg/publications/12
