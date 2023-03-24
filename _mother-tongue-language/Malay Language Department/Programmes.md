@@ -16,6 +16,10 @@ _Picture adapted from the 2015 Primary Malay Language Syllabus_
 
 The Malay Language department uses student-centered approach, which focuses on teaching Malay Language in a fun and interactive manner.  This will help pupils to be active and competent users of the language. Differentiated learning is adopted to cater to pupils with different learning profile and ability. This is to gradually build up pupils’ competency and understanding in the language. Explicit teaching of Malay Language will help pupils to improve on their mastery of the language.
 
+
+### **P1 MTL Read with Me Programme(ML session)**
+
+
 ### **P4 Cultural Learning Journey to Lorong Buangkok**
 A group of 60 Primary 4 pupils went to Kampong Lorong Buangkok for a cultural immersion programme. Kampong Lorong Buangkok is one of the surviving kampongs in modern Singapore. For those pupils who have never experienced kampong life, this was an opportunity for them to experience it.  They learnt about the kampong life and the structure of the kampong house.  Pupils also learnt about traditional Malay kueh and how traditional Malay flower potpourri, ‘bunga rampai’ was made.
 
