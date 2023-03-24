@@ -42,19 +42,19 @@ A group of 60 Primary 4 pupils went to Kampong Lorong Buangkok for a cultural im
 ### **P5 & P6 Cultural Camp at Pulau Ubin**
 Cultural day camp at Pulau Ubin was organised for Primary 5 and 6 Malay language pupils.   Pupils experienced the traditional kampong life so that they can appreciate and learn more about our Malay culture.  Various activities  such as Batik Painting and learning about Malay traditional food were conducted. Pupils had the opportunity to explore the kampong life in Pulau Ubin and Chek Jawa Discovery boardwalk.
 
-<img src="/images/malay2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/malay2.jpg" style="width:80%;margin-bottom:10px;" align = "left">
 
-<img src="/images/malay3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/malay3.jpg" style="width:80%;margin-bottom:10px;" align = "left">
 
-<img src="/images/malay4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/malay4.jpg" style="width:80%;margin-bottom:10px;" align = "left">
 
 <br clear="left">
 
-<img src="/images/malay5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/malay5.jpg" style="width:80%;margin-bottom:10px;" align = "left">
 
-<img src="/images/malay6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/malay6.jpg" style="width:80%;margin-bottom:10px;" align = "left">
 
-<img src="/images/malay7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/malay7.jpg" style="width:80%;margin-bottom:10px;" align = "left">
 
 <br clear="left">
 
