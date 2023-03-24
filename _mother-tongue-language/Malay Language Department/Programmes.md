@@ -23,19 +23,19 @@ The Malay Language department uses student-centered approach, which focuses on t
 ### **P4 Cultural Learning Journey to Lorong Buangkok**
 A group of 60 Primary 4 pupils went to Kampong Lorong Buangkok for a cultural immersion programme. Kampong Lorong Buangkok is one of the surviving kampongs in modern Singapore. For those pupils who have never experienced kampong life, this was an opportunity for them to experience it.  They learnt about the kampong life and the structure of the kampong house.  Pupils also learnt about traditional Malay kueh and how traditional Malay flower potpourri, ‘bunga rampai’ was made.
 
-<img src="/images/malay8.jpeg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/malay8.jpeg" style="width:80%;margin-bottom:10px;" align = "left">
 
-<img src="/images/malay9.jpeg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/malay9.jpeg" style="width:80%;margin-bottom:10px;" align = "left">
 
-<img src="/images/malay10.jpeg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/malay10.jpeg" style="width:80%;margin-bottom:10px;" align = "left">
 
 <br clear="left">
 
-<img src="/images/malay11.jpeg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/malay11.jpeg" style="width:80%;margin-bottom:15px;" align = "left">
 
-<img src="/images/malay12.jpeg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/malay12.jpeg" style="width:80%;margin-right:15px;" align = "left">
 
-<img src="/images/malay13.jpeg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/malay13.jpeg" style="width:80%;margin-right:15px;" align = "left">
 
 <br clear="left">
 
