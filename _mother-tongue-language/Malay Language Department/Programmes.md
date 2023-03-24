@@ -31,9 +31,9 @@ A group of 60 Primary 4 pupils went to Kampong Lorong Buangkok for a cultural im
 
 <br clear="left">
 
-<img src="/images/malay11.jpeg" style="width:80%;margin-bottom:15px;" align = "left">
+<img src="/images/malay11.jpeg" style="width:80%;margin-bottom:10px;" align = "left">
 
-<img src="/images/malay12.jpeg" style="width:80%;margin-right:15px;" align = "left">
+<img src="/images/malay12.jpeg" style="width:80%;margin-bottom:10px;" align = "left">
 
 <img src="/images/malay13.jpeg" style="width:80%;margin-right:15px;" align = "left">
 
