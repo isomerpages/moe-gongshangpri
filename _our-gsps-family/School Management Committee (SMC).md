@@ -21,14 +21,13 @@ description: ""
 | Mrs How-Quek Jia Min | Year Head – P3/P4 |
 | Mrs Angie Wong           | Assistant Year Head P3/P4 |
 | Mrs Shirley Puay | Year Head – P5/P6  |
-| Mrs Pearlyn Ang  | Assistant Year Head P5 & P6     |
+| Mrs Pearlyn Ang  | SH/Student Well-being     |
 | Mr Chua Aik Ching Bryan | LH/Mathematics     |
 | Miss Melissa Chan | LH/English Language |
 | Mrs Wendy Chu | LH/Science  |
 | Mrs Yap-Loy Sim Lan  | LH/Chinese Language |
 | Mdm Foo Tseh Chyn | LH/Physical Education  |
 | Mr Henry Lee  | SH/ICT |
-| Mdm Roslinda Binte Johari           | SH/Malay Language |
 | Mrs Ng-Thiam Siow Foon | SH/Discipline  |
 | Mr Tham Weng Wah Eric | Administration Manager        |
 | Mr Nasir Bin Mohamad  | Operations Manager |
