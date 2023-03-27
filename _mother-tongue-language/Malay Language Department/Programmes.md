@@ -97,11 +97,12 @@ For Primary 5 and 6: [https://mllpc.sg/publications/12](https://mllpc.sg/publica
 
 **Printed Dictionary** 
 
-<img src="/images/Kamus%20Komprehensif%20Bahasa%20Melayu.jpg" style="width:80%;margin-bottom:10px;" align = "left">
+<img src="/images/Kamus%20Komprehensif%20Bahasa%20Melayu.jpg" style="width:60%;margin-bottom:10px;" align = "left">
 
-<img src="/images/Kamus%20Pelajar%20Bahasa%20Melayu%20Dewan%20Edisi%20Kedua.jpg" style="width:80%;margin-bottom:10px;" align = "left">
+<img src="/images/Kamus%20Pelajar%20Bahasa%20Melayu%20Dewan%20Edisi%20Kedua.jpg" style="width:60%;margin-bottom:10px;" align = "left">
 
 <br clear="left">
 
 Kamus Pro App icon
-<img src="/images/Kamus%20Pro%20apps%20icon.jpg" style="width:80%;margin-bottom:10px;" align = "left">
+
+<img src="/images/Kamus%20Pro%20apps%20icon.jpg" style="width:60%;margin-bottom:10px;" align = "left">
