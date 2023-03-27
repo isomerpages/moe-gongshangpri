@@ -14,9 +14,9 @@ Click [here](https://www.scamalert.sg/) to learn more about scams and how to a
 #### **MOE Sexuality Education Programme for P5 and P6 pupils**
 Please click [here](https://www.gongshangpri.moe.edu.sg/our-gsps-experience/cce/programmes/sex-edu/) for more information.
 
-#### **Term 1 Maths Quiz**
+#### **Term 2 Maths Quiz**
 
-Please click [here](https://docs.google.com/forms/d/e/1FAIpQLSfFnXrmIXcgQ733bsFORIkFJzb-VPiXsDgw_23TKUeaoAS1Pw/viewform) for the quiz.
+Please click [here](https://forms.gle/CScRqVeBwC5FnS8n8) for the quiz.
 
 #### **P1 Orientation briefing for Y2023 P1 pupils**
 Click [here](https://file.for.edu.sg/flb225.pdf) for the briefing slides.

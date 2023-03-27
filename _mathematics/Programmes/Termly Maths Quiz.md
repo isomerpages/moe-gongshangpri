@@ -5,6 +5,6 @@ description: ""
 third_nav_title: Programmes
 ---
 ### **Termly Maths Quiz**
-[Click here for Term 3 Maths Quiz](https://forms.gle/eYPYxYBmH6GELbEA9) **no longer accepting response**
+Click [here](https://forms.gle/CScRqVeBwC5FnS8n8) for Term 2 2023 Quiz!
 
 ![](/images/Term%203%20Maths%20Quiz.jpg)
