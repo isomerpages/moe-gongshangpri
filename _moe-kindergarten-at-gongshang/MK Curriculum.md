@@ -37,6 +37,6 @@ WoW projects provide children with an opportunity to work together to investigat
 
 #### **K1 Orientation 2022**  
   
-*    [Briefing slides for MK]([https://for.edu.sg/y5ozml](https://for.edu.sg/y5ozml))
+*    [Briefing slides for MK](https://go.gov.sg/k12023orientationslides)
 
 *    [Briefing slides for KCare](https://go.gov.sg/kcaregsps2022briefing)
