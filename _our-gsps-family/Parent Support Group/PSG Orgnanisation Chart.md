@@ -6,5 +6,4 @@ third_nav_title: Parent Support Group
 ---
 ### **PSG Organisation Chart**
 
-<img src="/images/psgorgchart1.png" 
-     style="width:85%">
+![](/images/psg%20org%20chart.JPG)
