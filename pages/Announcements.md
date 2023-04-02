@@ -48,4 +48,4 @@ More information can be found [here](/useful-links/for-parents/covid-19).
 Please click [here to view the FAQ](/files/GSPS%20PERI%20Upgrading%20FAQ%20(dated%2013%20March%202020).pdf) regarding our school's PERI upgrading project.
 
 #### **April bulletin**
-Please click [here](/files/april%202023%20bulletin.pdf) for our April bulletin.
+Please click [here](/files/april%202023%20bulletin.pdf) for our April bulletin.
