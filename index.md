@@ -7,8 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Gongshang Primary School
-      background: /images/banner.gif
+      background: /images/gsps ani.gif
       url: /contact-us/
       key_highlights:
         - title: Announcements
