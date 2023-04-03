@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/gsps ani.gif
+      background: /images/banner.gif
       url: /contact-us/
       key_highlights:
         - title: Announcements
