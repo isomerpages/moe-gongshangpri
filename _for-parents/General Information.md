@@ -5,7 +5,7 @@ description: ""
 ---
 ### **General Information**
 #### **School Handbook (PDF)**
-Click [here](/files/parents%20general%20info%201.pdf) to download our school handbook.
+Click [here](https://go.gov.sg/gspsparentshandbook2023) to download our school handbook.
 
 #### **Vendor Information**
 ##### **School Bookshop**
@@ -41,10 +41,10 @@ Relevant links:
 [Info Sheet on School Bus Services 2023](/files/Info%20Sheet%20on%20School%20Bus%20Services%202023%20Letterhead.pdf)<br>
 [Request for School Bus Services 2022](/files/Request%20for%20School%20Bus%20Services_2022_Gongshang%20Primary.pdf)
 #### **Parents Gateway (FAQ)**
-Click [here](https://pg.moe.edu.sg/faq) to view.
+Click&nbsp;[here](https://pg.moe.edu.sg/faq)&nbsp;to view.
 
 #### **Parent kit: Starting School Right**
-Please click [here](/files/parents%20general%20info%202.pdf) for more information.
+Please click&nbsp;[here](/files/parents%20general%20info%202.pdf) for more information.
 
 #### **Parent kit: Transitioning Back to School**
-Please click [here](/files/parents%20general%20info%203.pdf) for more information.
+Please click&nbsp;[here](/files/parents%20general%20info%203.pdf)&nbsp;for more information.
