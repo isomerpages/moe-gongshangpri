@@ -15,7 +15,7 @@ description: ""
 | Mrs Jannie Lee  | HOD/English Language |
 | Mrs Loy-Chow Yoke Yeong  | HOD/Science  |
 | Mdm Sarifah Rahmah Binte Ahmad  | HOD/CCE |
-| Mdm Mehrun Nisha | HOD/PE/Aesthetics/CCA  |
+| Mdm Mehrun Nisha | HOD/PE/CCA/Aesthetics  |
 | Mr Poon Yain Ping   | School Staff Developer |
 | Ms Fadzillah Bte Aslam Khan   | Year Head – P1/P2 |
 | Mrs How-Quek Jia Min | Year Head – P3/P4 |
@@ -28,7 +28,7 @@ description: ""
 | Mdm Foo Tseh Chyn | LH/Physical Education  |
 | Mrs Pearlyn Ang  | SH/Student Well-being     |
 | Mr Henry Lee  | SH/ICT |
-| Mrs Ng-Thiam Siow Foon | SH/Discipline  |
+| Mrs Ng-Thiam Siow Foon | SH/Student Management  |
 | Mr Tham Weng Wah Eric | Administration Manager        |
 | Mr Nasir Bin Mohamad  | Operations Manager |
 | Mr Muhammad Danial Bin Mohamed Yusoff | Operations Manager |
