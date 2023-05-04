@@ -3,6 +3,12 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
+
+#### **Information on Full Subject-Based Banding in Secondary schools(FSBB)**
+Please click [here](/files/psle%20fsbb%20microsite%20and%20other%20resources.pdf) for more information on FSBB
+
+
+
 #### **MOE Kindergarten Open House 2023**
 
 Please click [here](/moe-kindergarten-at-gongshang/whats-happening) for more information.
