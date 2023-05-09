@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - General Information.md
-      - School Canteen Advertisement.md
       - Assessments.md
       - Information on secondary schools.md
       - Briefing & Workshop Slides for Parents.md
