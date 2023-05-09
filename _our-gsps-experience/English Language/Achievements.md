@@ -57,6 +57,7 @@ Objective of this competition: Inspiring Children to Write Better
 | 2023     |  Li Sixuan   | Category 2 (Primary 5 &amp; 6) – First Prize    |
 
 
-
+<img src="/images/Stefanie.jpeg" style="width:38%;margin-left:1px;;margin-right:15px;" align="left">
+<img src="/images/Sixuan.jpeg" style="width:40%" align="left">
 
 
