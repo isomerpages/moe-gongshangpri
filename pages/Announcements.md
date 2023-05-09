@@ -3,3 +3,59 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
+#### **Information on Full Subject-Based Banding in Secondary schools (FSBB)**
+
+Please click [here](/files/psle%20fsbb%20microsite%20and%20other%20resources.pdf)
+
+#### **MOE Kindergarten Open House 2023**
+
+Please click [here](moe-kindergarten-at-gongshang/whats-happening) for more information.
+
+#### **Stay safe from scams!**
+
+Click \[here\](https://www.scamalert.sg/) to learn more about scams and how to avoid being a victim of one.
+
+#### **MOE Sexuality Education Programme for P5 and P6 pupils**
+
+Please click [here](https://www.gongshangpri.moe.edu.sg/our-gsps-experience/cce/programmes/sex-edu/)
+
+#### **Term 2 Maths Quiz**
+
+Please click [here](https://forms.gle/CScRqVeBwC5FnS8n8) for the quiz.
+
+#### **P1 Orientation briefing for Y2023 P1 pupils**
+
+Click [here](https://file.for.edu.sg/flb225.pdf) for the briefing slides.
+
+#### **P2 Parents’ Briefing 30 January 2023**
+
+Click [[here](https://file.for.edu.sg/ruq4ky.pdf)](https://file.for.edu.sg/ruq4ky.pdf) for the briefing slides.
+
+#### **P1 & P2 Parents’ Briefing 30 January 2023**
+
+Click [here](https://file.for.edu.sg/vxaxbt.pdf) for the briefing slides.
+
+#### **Parent Volunteer Scheme – Recruitment Exercise 2023**
+
+Please click [here](https://www.gongshangpri.moe.edu.sg/useful-links/for-parents/parent-volunteer-scheme-recruitment-exercise/) for more information.
+
+#### **PSLE results 2022**
+
+Please click [here](/files/PSLE%20Results%202022_Principals%20Slides.pdf) for our Principal's briefing on 23 November 2022.
+
+#### **FAQs - Covid-19 Related Matters**
+
+Click [here](https://www.moe.gov.sg/faqs-covid-19-infection) for more information on Covid-19 related matters by MOE.
+
+#### **Student Vaccination Exercise**
+
+More information can be found [here](/useful-links/for-parents/covid-19).
+
+#### **PERI Upgrading FAQ**
+
+Please click [here](/files/GSPS%20PERI%20Upgrading%20FAQ%20(dated%2013%20March%202020).pdf) to view the FAQ regarding our school's PERI upgrading project.
+
+#### **May/June bulletin**
+
+Please click [here](/files/mayjune%202023%20bulletin.pdf) for our May/June bulletin.
+
