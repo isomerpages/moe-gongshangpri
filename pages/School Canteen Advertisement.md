@@ -5,7 +5,7 @@ description: ""
 ---
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Japanese Style Cooked Food     | 24 May 2023     | Rice and/or Noodle     |
+| Japanese Style Cooked Food     | 26 May 2023     | Rice and/or Noodle     |
 
 
 
