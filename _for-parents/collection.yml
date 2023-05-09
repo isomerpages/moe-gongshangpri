@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Information on secondary schools.md
       - General Information.md
       - School Canteen Advertisement.md
       - MOE Edusave Character Award (ECHA) 2022.md
