@@ -3,8 +3,8 @@ title: Assessments
 permalink: /useful-links/for-parents/assessments/
 description: ""
 ---
-### **Assessments**
+### **Assessments** ###
 
-[Schedule for Reporting P1 Students’ Learning Progress 2021](/files/assessment1.pdf)<br>
-[Schedule for Reporting P2 Students’ Learning Progress 2021](/files/assessment2.pdf)<br>
-[Schedule for Primary 6 Mid-Year Examination (MYE) 2021](/files/assessment3.pdf)<br>
+Click [here](/files/p5_weighted%20assessments_sem%201_2023.pdf) for P5 weighted assessment information
+
+Click [here](/files/p6_non%20weighted%20assessments_2023.pdf) for P6 non-weighted assessment information
