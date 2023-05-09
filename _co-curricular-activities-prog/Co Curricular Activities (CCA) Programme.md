@@ -23,5 +23,5 @@ To cater to the diverse interests and needs of our students, the school provides
 | - Badminton<br>- Basketball<br>- Modular Sports<br>- Rugby*<br>- Track &amp; Field^<br>- Wushu | - Chinese Dance<br>- Handbell/ Handchime<br>- Malay Dance<br>- String Ensemble | - Scouts<br><br><br><br> | - Art and Craft Club<br>- Environmental Club<br>- Media Resource Library<br>- Infocomm Technology Club<br>- Journalism Broadcasting-SCOOP!<br>- School-On-Air Rediffusion (SOAR) |
 |
 
-\^ Niche sport<br>
-\*Only for P6 in Semester 1 2023
+^ Niche sport<br>
+*Only for P6 in Semester 1 2023
