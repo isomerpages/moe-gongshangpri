@@ -35,7 +35,27 @@ This digital storytelling competition is open to all Singapore Primary Schools. 
 | 2022     | Merit Award    |
 | 2023     | Bronze Award (Click [here](https://drive.google.com/file/d/11wU8kl7xnd98Ge5pCdzE_FHvoK5DeCZU/view?usp=sharing  ) to watch the video)    |
 
-<img src="/images/moo-o 1.jpg" style="width:38%;margin-left:1px;;margin-right:15px;" align="left">
-<img src="/images/eng14.jpeg" style="width:40%" align="left">
+<img src="/images/moo-o 1.JPG" style="width:80%;margin-left:1px;;margin-right:15px;" align="left">
+
+<br>
+
+<img src="/images/moo-o 2.JPG" style="width:50%" align="left">
 
 <br clear="left">
+
+#### **5th National English Writing Competition**
+
+Organised by the Young Writers Press, the National English Writing Competition (NEW-C) is an on-the-spot writing competition held in Singapore for students between 8-12 years old.
+
+Objective of this competition: Inspiring Children to Write Better
+
+
+
+| Year | Name of student | Achievements |
+| -------- | -------- | -------- |
+| 2023     | Tan Hui En Stefanie     | Category 1 (Primary 3 &amp; 4) – Second Prize     |
+| 2023     |  Li Sixuan   | Category 2 (Primary 5 &amp; 6) – First Prize    |
+
+
+<img src="/images/stefanie.jpg" style="width:40%;margin-left:1px;;margin-right:12px;" align="left">
+<img src="/images/sixuan.jpg" style="width:40%" align="left">
