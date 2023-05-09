@@ -33,5 +33,5 @@ sections:
       subtitle: Advertisement
       description: For more information
       button: Click here
-      url: /useful-links//for-parents/school-canteen-adv/
+      url: /for-parents/school-canteen-adv/
 ---

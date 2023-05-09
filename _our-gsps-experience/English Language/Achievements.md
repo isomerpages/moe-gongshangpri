@@ -6,18 +6,36 @@ third_nav_title: English Language
 ---
 ### **Achievements**
 #### **Mythos (Junior Orators) Storytelling Competition**
-Conducted by the Anglo-Chinese Junior College (ACJC) Debate and Oratorical Society, this competition allows students the opportunity to build on their speaking abilities. Students who have participated in this competition have gone on to become passionate and articulate speakers.  The competition consists of 2 preliminary rounds, a semi-finals and a grand finals. All rounds will be based on the story-telling format. All rounds will be asynchronous and video submission based. In 2021, we finished in the Top 20 out of a total of 128 participating schools.
+Conducted by the Anglo-Chinese Junior College (ACJC) Debate and Oratorical Society, this competition allows students the opportunity to build on their speaking abilities. Students who have participated in this competition have gone on to become passionate and articulate speakers.&nbsp; The competition consists of 2 preliminary rounds, a semi-finals and a grand finals. All rounds will be based on the story-telling format. All rounds will be asynchronous and video submission based. 
 
-<img src="/images/eng13.jpeg" style="width:38%;margin-left:1px;;margin-right:15px;" align=left>
-<img src="/images/eng14.jpeg" style="width:40%" align=left>
+
+| Year | Achievements | 
+| -------- | -------- | 
+| 2021     |  Top 20 out of 128 participating schools    | 
+
+
+
+<img src="/images/eng13.jpeg" style="width:38%;margin-left:1px;;margin-right:15px;" align="left">
+<img src="/images/eng14.jpeg" style="width:40%" align="left">
 
 <br clear="left">
 
 #### **Moo-O Speaking Competition**
-This digital storytelling competition is open to all Singapore Primary Schools. Participants will use the Moo-O software to record themselves as story characters, reading their scripts. The objectives of this completion include: 
+This digital storytelling competition is open to all Singapore Primary Schools. Participants will use the Moo-O software to record themselves as story characters, reading their scripts. The objectives of this completion include:&nbsp;
 
 * To motivate students to read and speak fluently and expressively in English.
 * To cultivate a love for the English language through a fun, engaging and immersive way of reading.
 
-In 2020, we achieved the Gold award in the Singapore Moo-O awards. <br>
-Click [here](https://www.dropbox.com/sh/5a1el3rmu84boze/AACZm0aY01QmlIsvF4xjyuG8a?dl=0&lst=&preview=+GOLD+Team+10+GONGSHANG+PRIMARY+SCHOOL.mp4) to watch our award winning video.
+
+
+| Year | Achievements | 
+| -------- | -------- | 
+| 2020     | Gold Award  (Click [here](https://www.dropbox.com/sh/5a1el3rmu84boze/AACZm0aY01QmlIsvF4xjyuG8a?dl=0&amp;lst=&amp;preview=+GOLD+Team+10+GONGSHANG+PRIMARY+SCHOOL.mp4) to watch the video)   | 
+| 2021     | Merit Award     | 
+| 2022     | Merit Award    |
+| 2023     | Bronze Award (Click [here](https://drive.google.com/file/d/11wU8kl7xnd98Ge5pCdzE_FHvoK5DeCZU/view?usp=sharing  ) to watch the video)    |
+
+<img src="/images/moo-o 1.jpg" style="width:38%;margin-left:1px;;margin-right:15px;" align="left">
+<img src="/images/eng14.jpeg" style="width:40%" align="left">
+
+<br clear="left">
