@@ -28,9 +28,11 @@ This digital storytelling competition is open to all Singapore Primary Schools. 
 
 
 
-| Column 1 | Column 2 | 
+| Year | Achievements | 
 | -------- | -------- | 
-| Text     | Text     | 
-| Text     | Text     | 
-| Text     | Text     | 
+| 2020     | Gold Award  (Click [here](https://www.dropbox.com/sh/5a1el3rmu84boze/AACZm0aY01QmlIsvF4xjyuG8a?dl=0&amp;lst=&amp;preview=+GOLD+Team+10+GONGSHANG+PRIMARY+SCHOOL.mp4) to watch the video)   | 
+| 2021     | Merit Award     | 
+| 2022     | Merit Award    |
+| 2023     | Bronze Award (Click [here](https://drive.google.com/file/d/11wU8kl7xnd98Ge5pCdzE_FHvoK5DeCZU/view?usp=sharing  ) to watch the video)    |
+
 
