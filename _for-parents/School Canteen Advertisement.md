@@ -29,7 +29,7 @@ description: ""
 
 * Contact No: +65 6783 1191
 
-* Email: Muhammad_danial_MOHAMED_YUSOFF@schools.gov.sg
+* Email: gsps@moe.edu.sg
 
 * Contact Person: Mr. Danial
 
