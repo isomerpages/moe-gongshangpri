@@ -29,9 +29,9 @@ description: ""
 
 * Contact No: +65 6783 1191
 
-* Email: Muhammad_danial_MOHAMED_YUSOFF@moe.edu.sg
+* Email: Muhammad_danial_MOHAMED_YUSOFF@schools.gov.sg
 
-* Contact Person: Mr Danial
+* Contact Person: Mr. Danial
 
 **How to get there?**
 
