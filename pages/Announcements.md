@@ -9,11 +9,11 @@ Please click [here](/files/psle%20fsbb%20microsite%20and%20other%20resources.pdf
 
 #### **MOE Kindergarten Open House 2023**
 
-Please click [here](moe-kindergarten-at-gongshang/whats-happening) for more information.
+Please click [here]([here](/moe-kindergarten-at-gongshang/whats-happening/)) for more information.
 
 #### **Stay safe from scams!**
 
-Click \[here\](https://www.scamalert.sg/) to learn more about scams and how to avoid being a victim of one.
+Click [here](https://www.scamalert.sg/) to learn more about scams and how to avoid being a victim of one.
 
 #### **MOE Sexuality Education Programme for P5 and P6 pupils**
 
@@ -29,7 +29,7 @@ Click [here](https://file.for.edu.sg/flb225.pdf) for the briefing slides.
 
 #### **P2 Parents’ Briefing 30 January 2023**
 
-Click [[here](https://file.for.edu.sg/ruq4ky.pdf)](https://file.for.edu.sg/ruq4ky.pdf) for the briefing slides.
+Click [here](https://file.for.edu.sg/ruq4ky.pdf) for the briefing slides.
 
 #### **P1 & P2 Parents’ Briefing 30 January 2023**
 
@@ -58,4 +58,3 @@ Please click [here](/files/GSPS%20PERI%20Upgrading%20FAQ%20(dated%2013%20March%
 #### **May/June bulletin**
 
 Please click [here](/files/mayjune%202023%20bulletin.pdf) for our May/June bulletin.
-
