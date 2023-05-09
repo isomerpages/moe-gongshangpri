@@ -3,7 +3,6 @@ title: School Canteen Advertisement
 permalink: /for-parents/school-canteen-adv/
 description: ""
 ---
-
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
 | Japanese Style Cooked Food     | 24 May 2023     | Rice and/or Noodle     |
@@ -14,7 +13,7 @@ description: ""
 
 1\. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 
-Application Form
+[Application Form](files/school canteen application form.pdf)
 
 2\. Attached the following documents together with the application form:
 
