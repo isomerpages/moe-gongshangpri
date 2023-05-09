@@ -35,7 +35,10 @@ This digital storytelling competition is open to all Singapore Primary Schools. 
 | 2022     | Merit Award    |
 | 2023     | Bronze Award (Click [here](https://drive.google.com/file/d/11wU8kl7xnd98Ge5pCdzE_FHvoK5DeCZU/view?usp=sharing  ) to watch the video)    |
 
-<img src="/images/moo-o 1.jpg" style="width:38%;margin-left:1px;;margin-right:15px;" align="left">
-<img src="/images/eng14.jpeg" style="width:40%" align="left">
+<img src="/images/moo-o 1.JPG" style="width:80%;margin-left:1px;;margin-right:15px;" align="left">
+
+<br>
+
+<img src="/images/moo-o 2.JPG" style="width:80%" align="left">
 
 <br clear="left">
