@@ -9,7 +9,7 @@ Please click [here](/files/psle%20fsbb%20microsite%20and%20other%20resources.pdf
 
 #### **MOE Kindergarten Open House 2023**
 
-Please click [here]([here](/moe-kindergarten-at-gongshang/whats-happening/)) for more information.
+Please click [here](/moe-kindergarten-at-gongshang/whats-happening/) for more information.
 
 #### **Stay safe from scams!**
 
