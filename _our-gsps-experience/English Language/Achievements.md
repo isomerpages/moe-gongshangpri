@@ -39,7 +39,7 @@ This digital storytelling competition is open to all Singapore Primary Schools. 
 
 <br>
 
-<img src="/images/moo-o 2.JPG" style="width:80%" align="left">
+<img src="/images/moo-o 2.JPG" style="width:50%" align="left">
 
 <br clear="left">
 
