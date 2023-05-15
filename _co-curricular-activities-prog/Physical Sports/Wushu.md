@@ -37,6 +37,9 @@ This year, our training sessions have been resumed with safe management measures
 | Monday  | 3.00 p.m. - 5.00 p.m. | 
 | Wednesday  | 2.15 p.m. - 3.45 p.m. | 
 
+*Pupils may refer to their own schedules given in the letter sent via Parents Gateway.
+
+
 <img src="/images/ws1.jpeg" style="width:80%; margin-bottom:15px">
 
 <img src="/images/ws2.jpeg" style="width:80%;margin-bottom:15px">
