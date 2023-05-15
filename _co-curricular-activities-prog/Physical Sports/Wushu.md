@@ -31,15 +31,11 @@ This year, our training sessions have been resumed with safe management measures
 
 **Training Schedule**
 
-The training schedule for the Wushu School Team &amp; Developmental Team are as follows:
 
-
-
-| Day | Time | Teachers-in-charge |
-|:---:|:---:|:---:|
-| Monday (School Team)  | 3.00 p.m. - 5.00 p.m. | Mdm Lu Yanyu<br>Mdm Lee Ser Meei |
-| Wednesday<br>(School Team &amp; Development Team)  | 2.15 p.m. - 3.45 p.m. <br>  | Mdm Jennifer Jacob<br>Mdm Ng Bee San <br>Mdm Lee Huiyi |
-|
+| Day | Time | 
+|:---:|:---:|
+| Monday  | 3.00 p.m. - 5.00 p.m. | 
+| Wednesday  | 2.15 p.m. - 3.45 p.m. | 
 
 <img src="/images/ws1.jpeg" style="width:80%; margin-bottom:15px">
 
