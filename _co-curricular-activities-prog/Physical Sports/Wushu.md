@@ -18,9 +18,22 @@ Due to&nbsp;the&nbsp;Covid-19&nbsp;situation,&nbsp;the group events&nbsp;had to 
 
 This year, our training sessions have been resumed with safe management measures. We look forward to an exciting year ahead!
 
+
+
+
+| Teachers-in-charge | Email address | 
+| -------- | -------- | 
+|   Mdm Lu Yanyu  (OIC)  | lu_yanyu@moe.edu.sg      | 
+|    Mdm Lee Ser Meei (2IC) |  lee_ser_meei@moe.edu.sg    | 
+|    Mdm Ng Bee San  |  ng_bee_san@moe.edu.sg    | 
+|    Mdm Jennifer Jacob |  jennifer_jacob@moe.edu.sg    | 
+|    Mdm Lee Huiyi  |  lee_huiyi@moe.edu.sg    | 
+
 **Training Schedule**
 
 The training schedule for the Wushu School Team &amp; Developmental Team are as follows:
+
+
 
 | Day | Time | Teachers-in-charge |
 |:---:|:---:|:---:|
