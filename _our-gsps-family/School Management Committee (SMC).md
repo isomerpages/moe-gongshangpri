@@ -16,7 +16,7 @@ description: ""
 | Mrs Jannie Lee  | HOD/English Language |
 | Mrs Loy-Chow Yoke Yeong  | HOD/Science  |
 | Ms Hamidah Bte Abdullah |  HOD/Character & Citizenship Education|
-| Ms Jennifer Yeo | HOD/Student Management  |
+| Ms Yeo Soh Fang Jennifer | HOD/Student Management  |
 | Mdm Mehrun Nisha | HOD/PE/CCA/Aesthetics  |
 | Ms Fadzillah Bte Aslam Khan   | Year Head – P1/P2 |
 | Mrs How-Quek Jia Min | Year Head – P3/P4 |
