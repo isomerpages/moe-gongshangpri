@@ -10,13 +10,14 @@ description: ""
 | Mrs Soh-Lim Tzyy Shiuan | Principal |
 | Mrs Selina Lee | Vice Principal |
 | Mr Fong Wai Khin | Vice Principal, Administration |
+| Mr Poon Yain Ping   | School Staff Developer |
 | Mdm Jenny Tan (Mrs Chan) | HOD/Mathematics |
 | Mr Isaac Foo Yong Wei  | HOD/Mother Tongue Language |
 | Mrs Jannie Lee  | HOD/English Language |
 | Mrs Loy-Chow Yoke Yeong  | HOD/Science  |
-| Ms Abdullah Hamidah  | HOD/CCE |
+| Ms Hamidah Abdullah  | HOD/CCE |
+| Ms Jennifer Yeo | HOD/Student Management  |
 | Mdm Mehrun Nisha | HOD/PE/CCA/Aesthetics  |
-| Mr Poon Yain Ping   | School Staff Developer |
 | Ms Fadzillah Bte Aslam Khan   | Year Head – P1/P2 |
 | Mrs How-Quek Jia Min | Year Head – P3/P4 |
 | Mrs Angie Wong           | Assistant Year Head P3/P4 |
