@@ -753,7 +753,7 @@ tr:nth-child(even) {
     <td>Miss Noor Adzlin binte Apandi (SEN Officer)</td>
     <td>noor_adzlin_apandi@moe.edu.sg</td>
     
-      </tr><tr>
+ </tr><tr>
     <td>Ms Raye Tan Wei Wei (SEN Officer)</td>
     <td>raye_tan_wei_wei@moe.edu.sg</td>
        
