@@ -21,6 +21,7 @@ description: ""
 | Mrs How-Quek Jia Min | Year Head – P3/P4 |
 | Mrs Angie Wong           | Assistant Year Head P3/P4 |
 | Mrs Shirley Puay | Year Head – P5/P6  |
+| Mr Yusri Yunos | Assistant Year Head – P5/P6  |
 | Mr Chua Aik Ching Bryan | LH/Mathematics     |
 | Miss Melissa Chan | LH/English Language |
 | Mrs Wendy Chu | LH/Science  |
