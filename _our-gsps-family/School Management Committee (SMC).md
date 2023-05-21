@@ -15,7 +15,7 @@ description: ""
 | Mr Isaac Foo Yong Wei  | HOD/Mother Tongue Language |
 | Mrs Jannie Lee  | HOD/English Language |
 | Mrs Loy-Chow Yoke Yeong  | HOD/Science  |
-| Ms Hamidah Abdullah  | HOD/CCE |
+| Ms Hamidah Bte Abdullah |  HOD/Character & Citizenship Education|
 | Ms Jennifer Yeo | HOD/Student Management  |
 | Mdm Mehrun Nisha | HOD/PE/CCA/Aesthetics  |
 | Ms Fadzillah Bte Aslam Khan   | Year Head – P1/P2 |
