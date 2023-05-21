@@ -547,7 +547,7 @@ tr:nth-child(even) {
     
     
   </tr><tr>
-    <td>6 Respect Mr Yusri B Yunos (Assistant Year Head P5/P6)*</td>
+    <td>6 Respect Mr Yusri B Yunos (Assistant Year Head P5/P6)</td>
     <td>yusri_yunos@moe.edu.sg</td>
     
     
