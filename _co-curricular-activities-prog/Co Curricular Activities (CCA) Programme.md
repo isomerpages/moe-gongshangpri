@@ -8,7 +8,7 @@ description: ""
 
 The CCA Programme forms an integral part in the holistic education of all Gongshangers. We strongly believe in providing an all-round education for every child to discover their interests and maximize his optimal potential. In addition, the CCA programme provides opportunities for students to exhibit our school values and to live up to the school vision of “Active Learner, Confident Learners, Gracious Citizens.”&nbsp; It is also a platform for students to develop a sense of identity and belonging to the school and for friendships to be forged and characters to be moulded.
 
-The CCA programme aims to:
+The CCA Programme aims to:
 
 1\. Develop in students knowledge, skills, values and attitudes related to their chosen CCA.
 
