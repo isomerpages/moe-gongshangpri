@@ -1,5 +1,5 @@
 ---
-title: Teaching &amp; Non Teaching Staff
+title: Teaching & Non Teaching Staff
 permalink: /our-gsps-family/staff/
 description: ""
 ---
@@ -131,7 +131,7 @@ tr:nth-child(even) {
     
      
   </tr><tr>
-    <td>Mr Yusri B Yunos (Assistant Year Head P5/P6)*</td>
+    <td>Mr Yusri B Yunos (Assistant Year Head P5/P6)</td>
     <td>yusri_yunos@moe.edu.sg</td>
     
          
@@ -437,7 +437,7 @@ tr:nth-child(even) {
     
      
   </tr><tr>
-    <td>4 Harmony Mdm Lu Yanyu (Senior Teacher/Chinese Language)*</td>
+    <td>4 Harmony Mdm Lu Yanyu (Senior Teacher/Chinese Language)</td>
     <td>lu_yanyu@moe.edu.sg</td>
     
     
@@ -491,7 +491,7 @@ tr:nth-child(even) {
     
          
   </tr><tr>
-    <td>5 Courage Mr Bryan Chua (LH/Mathematics)*</td>
+    <td>5 Courage Mr Bryan Chua (LH/Mathematics)</td>
     <td>chua_aik_ching_bryan@moe.edu.sg</td>
     
      
@@ -547,7 +547,7 @@ tr:nth-child(even) {
     
     
   </tr><tr>
-    <td>6 Respect Mr Yusri B Yunos (Assistant Year Head P5/P6)*</td>
+    <td>6 Respect Mr Yusri B Yunos (Assistant Year Head P5/P6)</td>
     <td>yusri_yunos@moe.edu.sg</td>
     
     
@@ -753,7 +753,9 @@ tr:nth-child(even) {
     <td>Miss Noor Adzlin binte Apandi (SEN Officer)</td>
     <td>noor_adzlin_apandi@moe.edu.sg</td>
     
-    
+ </tr><tr>
+    <td>Ms Raye Tan Wei Wei (SEN Officer)</td>
+    <td>raye_tan_wei_wei@moe.edu.sg</td>
        
   </tr><tr>
     <th>Support staff</th>
@@ -773,6 +775,3 @@ tr:nth-child(even) {
     
   </tr>
 </tbody></table>
-
-
-
