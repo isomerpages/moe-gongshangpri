@@ -7,7 +7,7 @@ third_nav_title: Visual and Performing Arts
 ### **Handbells and Handchimes Ensemble**
 The Handbell and Handchime Ensemble is a unique performing art group which leverages on teamwork. Each member is responsible for ringing his/her assigned bells for some particular notes in a piece of music. Playing the handbells boosts auditory skills such as sound awareness, stimulates the brain and builds up memory and gross coordination skills. As each ringer is an integral part of the musical ensemble, members of the ensemble have to work together and be attentive to one another to create successful music. The harmonious chimes of the handbells and handchimes are the result of an intimate collaboration and concerted effort among all members.  
 
-**Objectives:**
+**Objectives of CCA:**
 
 * To develop a sustainable interest in the learning a musical instrument 
 * To develop basic techniques and skills of playing the handbells and handchimes
