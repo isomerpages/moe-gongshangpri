@@ -70,4 +70,5 @@ The school also organizes internal art competitions that are open to all pupils.
 <img src="/images/ac13.jpg" style="width:85%;margin-bottom:15px" align="left">
 
 <br clear="left">
-<img src="/images/artclub1.jpg" style="width:85%;margin-bottom:15px" align="left">
+<img src="images/Art Club/scottartclub1.jpg" style="width:85%;margin-bottom:15px" align="left">
+
