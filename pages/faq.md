@@ -62,32 +62,31 @@ For more information on the Primary One Registration Exercise, please refer to t
 
 ##### **SCHOOL-HOME PARTNERSHIP**
 
-1. How can I communicate with my child/ward's teachers? |
-| --- |
+**1. How can I communicate with my child/ward's teachers?**
+
 Your child/ward will receive a letter from his/her Form Teacher at the start of the academic year. In the letter, the Form Teacher will provide his/her email address. Do keep the teacher's letter for reference. You may also make use of the student's Learning Journal to communicate with the teacher through handwritten notes. You may also call the General Office and leave a message for the teacher concerned.
 
-| 2\. What must I do if I need to fetch my child/ward from school early? |
-| --- |
+**2. What must I do if I need to fetch my child/ward from school early?**
+
  Students will only be allowed to leave the school premises early if accompanied by an authorized adult. The adult fetching the child must report to the General Office and fill in the necessary form(s) before leaving the school compound. Please do inform the Form Teacher in advance if you know that you need to fetch your child/ward early. Students are not allowed to leave the school on their own even if they have valid reasons to do so.
 
-| 3\. Can my child/ward bring a mobile phone to school?&nbsp; |
-| --- |
+**3. Can my child/ward bring a mobile phone to school?**
+
 The school discourages students from bringing their mobile phones to school so that they do not distract themselves and others during school hours. Such items are brought at the students' own risk and the school will not be responsible for any loss or damage. 
 
-| 4\. How can I sign up as a Parent Volunteer?&nbsp; |
-| --- |
+**4. How can I sign up as a Parent Volunteer?**
+
 You can go to the Useful Links/For Parents tab on our website. Please contact the school at gsps@moe.edu.sg for more information on signing up as a Parent Volunteer.
 
 ##### **FINANCE**
 
-| 1\. Financial Assistance Scheme |
-| --- |
+1. Financial Assistance Scheme 
 Please approach any of the General Office staff to find out more or you can click&nbsp;[here](https://beta.moe.gov.sg/fees-assistance-awards-scholarships/)&nbsp;to find out more about it.
 
 ##### **ALUMNI**
 
-| 1\. How can I join the Gongshang Primary Alumni? |
-| --- |
+**1. How can I join the Gongshang Primary Alumni?**
+
 To apply to join the Gongshang Alumni, please contact any of the following via email:
 *   Miss Ada Lye ([lye\_kit\_yeng\_ada@moe.edu.sg](mailto:lye\_kit\_yeng\_ada@moe.edu.sg))
 *   Mdm Teo Shaw Ping ([teo\_shaw\_ping@moe.edu.sg](mailto:teo\_shaw\_ping@moe.edu.sg))
