@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Clubs and Societies
 ---
 ### **Art and Craft Club**
-In Art Club, students are given the opportunity to explore various art-making activities. These activities allow them to enhance their creative and visual skills. Students are taught to not only develop their visual arts skills, but to also appreciate Art as a medium to express themselves. Budding artists in the Art Club seek to sharpen their artistic perspective, as well as to cultivate perseverance, patience and diligence. Activities include working with watercolour, acrylics and 3D sculptures.
+In Art Club, students are given the opportunity to explore various art-making activities. These activities allow them to enhance their creative and visual skills. Students are taught not only to develop their visual arts skills, but also to appreciate Art as a medium to express themselves. Budding artists in the Art Club seek to sharpen their artistic perspective, as well as to cultivate perseverance, patience and diligence. Activities include working with watercolour, acrylics and 3D sculptures.
 
 **Objectives of CCA:**
 
