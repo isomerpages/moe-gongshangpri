@@ -7,18 +7,19 @@ third_nav_title: Clubs and Societies
 ### **Art and Craft Club**
 In Art Club, students are given the opportunity to explore various art-making activities. These activities allow them to enhance their creative and visual skills. Students are taught to not only develop their visual arts skills, but to also appreciate Art as a medium to express themselves. Budding artists in the Art Club seek to sharpen their artistic perspective, as well as to cultivate perseverance, patience and diligence. Activities include working with watercolour, acrylics and 3D sculptures.
 
-**Objectives:**
+**Objectives of CCA:**
 
 * To develop skills and leadership potential in students through art making.
 * Students will train their creativity through a variety of tasks and materials.
 
 
-|  |  |
-|:---:|:---:|
-| **Time** | 3.00 p.m. – 4.30 p.m. (Monday) SYF<br>2.15 p.m. – 3.45 p.m. (Wednesday) |
-| **Venue** | Primary 3 &amp; 4s: Art Room 1 (E1-12)<br>Primary 5 &amp; 6s : Art Room 2 (E1-10)  |
-| **Teachers-in-charge** | Mr Lai Yao Khuan (OIC)<br>Mdm Ho Yee Wah (2IC)<br>Mrs Natalie Neo |
-|
+
+| Teachers-in-charge | Email address | 
+| -------- | -------- | 
+|   Mr Scott Lai (OIC)   | lai_yao_khuan@moe.edu.sg   | 
+|  Mrs Natalie Neo (2IC)    | loh_hui_zhi_natalie@moe.edu.sg |
+
+
 
 #### **Stamp Story Art Competition**
 
