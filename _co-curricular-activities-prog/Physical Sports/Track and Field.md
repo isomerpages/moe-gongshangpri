@@ -56,4 +56,3 @@ Pupils who show potential are provided with additional training to harness their
 <img src="/images/tnf6.jpg" style="width:80%" align="left">
 
 <br clear="left">
-
