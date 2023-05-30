@@ -19,7 +19,7 @@ In Environmental Science Club, members will learn about the environment and scie
 | **Day** | Wednesdays* |
 | **Time** |  2.15 p.m. - 3.45 p.m. |
 | **Venue** | Science Laboratory<br>E1-11 |
-| **Teachers-in-charge** | Mrs Jessie Ong (Overall-in-charge)<br><br>Mrs Wendy Chu |
+| **Teachers-in-charge** | Mrs Jessie Ong (OIC)<br><br>Mrs Wendy Chu (2IC) |
 |
 
 \* Pupils may refer to their own schedules given in the letter sent via Parents Gateway.
