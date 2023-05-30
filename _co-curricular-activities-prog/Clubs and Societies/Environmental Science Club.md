@@ -49,4 +49,3 @@ Putting in fertiliser for our edibles
 
 ![EnvSci6](/images/6%20-%20won%203rd%20place%20in%20the%20presentation%20category%20for%20singapore%20amazing%20flying%20maching%20competition%202023.jpeg)
 Our pupils won 3rd place in the presentation category for Singapore Amazing Flying Machine Competition 2023
-
