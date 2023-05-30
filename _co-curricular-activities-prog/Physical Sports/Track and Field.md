@@ -27,7 +27,14 @@ Pupils who show potential are provided with additional training to harness their
 |   Mr Muhd Fadzly B Zainal   |   muhamad_fadzly_zainal@moe.edu.sg   | 
 | Mrs Soh-Ng Kah Fung    |  ng_kah_fung@moe.edu.sg    | 
 
+**Training schedule:***
 
+| Day | Time | 
+| -------- | -------- | 
+|   Monday   | 3.00 p.m. - 5.00 p.m.     | 
+|   Wednesday   | 2.15 p.m. - 3.45 p.m.     | 
+
+*Pupils may refer to their own schedules given in the letter sent via Parents Gateway.
 
 
 <figure>
