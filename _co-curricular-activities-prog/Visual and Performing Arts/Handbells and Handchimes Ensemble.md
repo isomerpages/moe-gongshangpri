@@ -18,6 +18,14 @@ The Handbell and Handchime Ensemble is a unique performing art group which lever
 |   Mdm Ng Chor Leng (OIC)   |  ng_chor_leng@moe.edu.sg   | 
 |   Mrs Pearlyn Ang (2IC)   |    chee_siew_fong@moe.edu.sg  | 
 
+**Training schedule:***
+
+| Day | Time | 
+| -------- | -------- | 
+|   Monday   | 3.00 p.m. - 5.00 p.m.     | 
+|   Wednesday   | 2.15 p.m. - 3.45 p.m.     | 
+
+
 
 <img src="/images/hhe1.jpeg" style="width:80%; margin-bottom:15px">
 
