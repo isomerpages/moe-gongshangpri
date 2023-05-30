@@ -30,12 +30,23 @@ In Environmental Science Club, members will learn about the environment and scie
 
 
 \* Pupils may refer to their own schedules given in the letter sent via Parents Gateway.
-<img src="/images/environmentalclub1.jpg" style="width:85%; margin-bottom:15px">
 
-<img src="/images/environmentalclub2.jpg" style="width:85%; margin-bottom:15px">
+![EnvSci1](/images/1%20-%20building%20up%20a%20tower%20using%20just%20recycled%20papers.jpg)
+Building up a tower using just recycled paper
 
-<img src="/images/environmentalclub3.jpg" style="width:85%; margin-bottom:15px">
+![EnvSci2](/images/2%20-%20participating%20in%20the%20singapore%20amazing%20flying%20maching%20competition%202023.jpeg)
+Participating in the Singapore Amazing Flying Machine Competition 2023
 
-<img src="/images/environmentalclub4.jpg" style="width:85%; margin-bottom:15px">
+![EnvSci3](/images/3%20-%20extracting%20dna%20from%20strawberries.jpeg)
+Extracting DNA from strawberries
 
-<img src="/images/environmentalclub5.jpg" style="width:85%">
+
+![EnvSci4](/images/4%20-%20growing%20our%20own%20edibles.jpeg)
+Growing our own edibles
+
+![EnvSci5](/images/5%20-%20putting%20in%20fertilisers%20for%20our%20edibles.jpeg)
+Putting in fertiliser for our edibles
+
+![EnvSci6](/images/6%20-%20won%203rd%20place%20in%20the%20presentation%20category%20for%20singapore%20amazing%20flying%20maching%20competition%202023.jpeg)
+Our pupils won 3rd place in the presentation category for Singapore Amazing Flying Machine Competition 2023
+
