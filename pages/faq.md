@@ -27,15 +27,17 @@ Gongshang Primary operates as a single-session school and the school hours are a
 *For P3-P6 pupils<br>
 Parents will be informed for all co-curricular activities and remedial/supplementary lessons that take place after school hours.
 
-**3. When are the recess times?**
-| | |
-|---|---|
-| P1 | 8.30 a.m. - 9.00 a.m. |
-| P2 | 9.00 a.m. - 9.30 a.m. |
-| P3  | 9.30 a.m. - 10.00 a.m.  |
-| P4  | 10.00 a.m. - 10.30 a.m.  |
-| P5  | 10.30 a.m. - 11.00 a.m.  |
-| P6  | 11.00 a.m. - 11.30 a.m.  |
+**3. What are the recess timings?**
+
+| Level | Time | 
+| -------- | -------- | 
+| P1    | 8.30 a.m. - 9.00 a.m.     | 
+| P2     | 9.00 a.m. - 9.30 a.m.     | 
+| P3     | 9.30 a.m. - 10.00 a.m.     | 
+| P4     | 10.00 a.m. - 10.30 a.m.     | 
+| P5    | 10.30 a.m. - 11.00 a.m.     | 
+| P6    | 11.00 a.m. - 11.30 a.m.     | 
+
 
 **4. What time can parents enter the school premises to make purchases from the school bookshop?**
 
