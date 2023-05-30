@@ -18,14 +18,14 @@ Pupils who show potential are provided with additional training to harness their
 
 
 | Teachers-in-charge | Email address | 
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
+| -------- | -------- | 
+| Mdm Syahirah Mohd Said (OIC)     |   syahirah_mohd_said@moe.edu.sg   | 
+|  Mr Ismail Jemaah (2IC)    |  ismail_jemaah@moe.edu.sg    | 
+| Mdm Foo Tseh Chyn     |  foo_tseh_chyn@moe.edu.sg    | 
+|  Ms Ling Joelle    |  ling_joelle@moe.edu.sg   | 
+|  Mdm Goh Chwee Yin Sarah (Mrs Ang)   |  goh_chwee_yin_sarah@moe.edu.sg     | 
+|   Mr Muhd Fadzly B Zainal   |   muhamad_fadzly_zainal@moe.edu.sg   | 
+| Mrs Soh-Ng Kah Fung    |  ng_kah_fung@moe.edu.sg    | 
 
 
 
