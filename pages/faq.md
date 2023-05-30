@@ -8,12 +8,12 @@ This FAQ page has the answers to some of the commonly asked questions. If you wo
 
 #####  **GENERAL INFORMATION**
 
-| 1\. What are the operating hours of the General Office? |
-| --- |
+**1. What are the operating hours of the General Office?**
+
 We are open from Monday to Friday, 7.00 a.m. to 5.30 p.m. excluding weekends and public holidays.
 
-| 2\. What are the school hours?* |
-| --- |
+**2. What are the school hours?*** 
+
 Gongshang Primary operates as a single-session school and the school hours are as follow:
 
 |Day | Time|
@@ -23,12 +23,11 @@ Gongshang Primary operates as a single-session school and the school hours are a
 |  Wednesday | 7.30 a.m. - 1.30 p.m. 
 | Thursday | 7.30 a.m. - 1.30 p.m.  |
 |  Friday | 7.30 a.m. - 1.30 p.m.  |
-|
 
 *For P3-P6 pupils<br>
 Parents will be informed for all co-curricular activities and remedial/supplementary lessons that take place after school hours.
 
-**3\. When are the recess times?**
+**3. When are the recess times?**
 | | |
 |---|---|
 | P1 | 8.30 a.m. - 9.00 a.m. |
@@ -38,12 +37,11 @@ Parents will be informed for all co-curricular activities and remedial/supplemen
 | P5  | 10.30 a.m. - 11.00 a.m.  |
 | P6  | 11.00 a.m. - 11.30 a.m.  |
 
-| 4\. What time can parents enter the school premises to make purchases from the school bookshop?&nbsp; |
-| --- |
+**4. What time can parents enter the school premises to make purchases from the school bookshop?**
+
 Parents are allowed to come into the school premises to make purchases at the bookshop after school hours. 
 
-| 5\. Where can I buy school uniform for my child/ward?&nbsp; |
-| --- |
+**5. Where can I buy school uniform for my child/ward?**
 
 You can buy the school uniform from the address below:<br>
 Chop Kong Chong<br>
@@ -55,8 +53,8 @@ You can also purchase the school uniform on every last Friday of the month (Feb-
 
 ##### **ADMISSION**
 
-| 1\. How do I register my child/ward for Primary One in Gongshang Primary School? |
-| --- |
+**1. How do I register my child/ward for Primary One in Gongshang Primary School?**
+
 The Primary One Registration Exercise is generally conducted from June to September every year. Parents should refer to the registration phases and procedures to find out which phase their children are eligible for, how to register and the documents required for registration posted on the MOE website.
 
 For more information on the Primary One Registration Exercise, please refer to the following website:  
@@ -64,7 +62,7 @@ For more information on the Primary One Registration Exercise, please refer to t
 
 ##### **SCHOOL-HOME PARTNERSHIP**
 
-| 1\. How can I communicate with my child/ward's teachers? |
+1. How can I communicate with my child/ward's teachers? |
 | --- |
 Your child/ward will receive a letter from his/her Form Teacher at the start of the academic year. In the letter, the Form Teacher will provide his/her email address. Do keep the teacher's letter for reference. You may also make use of the student's Learning Journal to communicate with the teacher through handwritten notes. You may also call the General Office and leave a message for the teacher concerned.
 
