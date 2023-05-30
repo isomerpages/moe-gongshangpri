@@ -82,8 +82,9 @@ You can go to the Useful Links/For Parents tab on our website. Please contact th
 
 ##### **FINANCE**
 
-1. Financial Assistance Scheme 
-Please approach any of the General Office staff to find out more or you can click&nbsp;[here](https://beta.moe.gov.sg/fees-assistance-awards-scholarships/)&nbsp;to find out more about it.
+**Financial Assistance Scheme**
+
+Please approach any of the General Office staff to find out more or you can click [here](https://www.moe.gov.sg/financial-matters/financial-assistance) to find out more about it.
 
 ##### **ALUMNI**
 
