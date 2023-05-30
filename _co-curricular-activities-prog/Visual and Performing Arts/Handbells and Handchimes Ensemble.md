@@ -25,7 +25,7 @@ The Handbell and Handchime Ensemble is a unique performing art group which lever
 |   Monday   | 3.00 p.m. - 5.00 p.m.     | 
 |   Wednesday   | 2.15 p.m. - 3.45 p.m.     | 
 
-
+*Pupils may refer to their own schedules given in the letter sent via Parents Gateway.
 
 <img src="/images/hhe1.jpeg" style="width:80%; margin-bottom:15px">
 
