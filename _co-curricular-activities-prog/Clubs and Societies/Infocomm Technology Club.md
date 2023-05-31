@@ -26,10 +26,18 @@ InfoComm Technology Club aims to develop our young aspirants to be junior Info-c
 | -------- | -------- | -------- |
 | Wednesday     | 2.15 p.m. - 3.45 p.m.     | Autumn Lab     |
 
-![](/images/itc1.jpg)
+![](/images/Infocomm%20Technology%20Club/hackathon@peihwa1.jpg)
 
-![](/images/itc2.jpg)
+![](/images/Infocomm%20Technology%20Club/hackathon@peihwa2.jpg)
 
-![](/images/itc3.jpg)
+![](/images/Infocomm%20Technology%20Club/hackathon@peihwa3.jpg)
 
-![](/images/itc4.jpg)
+
+![](/images/Infocomm%20Technology%20Club/hackathon@mjs.jpg)
+
+![](/images/Infocomm%20Technology%20Club/hackathon@mjs2.jpg)
+
+![](/images/Infocomm%20Technology%20Club/itc1.jpg)
+
+![](/images/Infocomm%20Technology%20Club/itc3.jpg)
+
