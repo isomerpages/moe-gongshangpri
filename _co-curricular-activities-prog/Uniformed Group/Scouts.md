@@ -6,7 +6,7 @@ third_nav_title: Uniformed Group
 ---
 ### **Scouts**
 
-<img src="/images/scout1.png" style="width:35%" align=left> 
+<img src="/images/scout1.png" style="width:35%" align="left"> 
 
 
 <br clear="left">
@@ -18,7 +18,7 @@ Mrs Yoges Singh<br>
 Mdm Chang Yating<br>
 Mr Gavin Bi
 
-#### **Schedule**
+**Training session:**
 
 | Day | Time | Venue | Remarks |
 |:---:|:---:|:---:|:---:|
@@ -28,17 +28,17 @@ Mr Gavin Bi
 
 ##### **Scouts Youtube links**
 
-<iframe width="700" height="350" src="https://www.youtube.com/embed/RlYZWS1sLn4" title="The Singapore Scout Association" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="350" src="https://www.youtube.com/embed/RlYZWS1sLn4" title="The Singapore Scout Association" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-<iframe width="700" height="350" src="https://www.youtube.com/embed/KGTIjB1VGp0" title="Singapore Scout Animations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="350" src="https://www.youtube.com/embed/KGTIjB1VGp0" title="Singapore Scout Animations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-<iframe width="700" height="350" src="https://www.youtube.com/embed/mhi8gLgZtrU" title="Uniformed Groups" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="350" src="https://www.youtube.com/embed/mhi8gLgZtrU" title="Uniformed Groups" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-<iframe width="700" height="350" src="https://www.youtube.com/embed/GKZM8ns0wxQ" title="The 9 Uniformed Groups in Singapore" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="350" src="https://www.youtube.com/embed/GKZM8ns0wxQ" title="The 9 Uniformed Groups in Singapore" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-<iframe width="700" height="350" src="https://www.youtube.com/embed/YCHK2KPLiUw" title="Bicengennial Hike 2019" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="350" src="https://www.youtube.com/embed/YCHK2KPLiUw" title="Bicengennial Hike 2019" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-<iframe width="700" height="350" src="https://www.youtube.com/embed/Ftx1e_oIWxk" title="East Area Explorer camp 2018" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="350" src="https://www.youtube.com/embed/Ftx1e_oIWxk" title="East Area Explorer camp 2018" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ### **Adiji 2018**
 Adiji Chief Scout event is the official event which is dedicated to welcome our Chief Scout, President of Singapore. Every Singapore President is the Chief Scout of the Singapore Scout Association. Mdm Halimah Yacob was welcomed to to be the Chief Scout on Saturday 7 April 2018.
