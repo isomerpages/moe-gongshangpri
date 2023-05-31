@@ -36,3 +36,4 @@ Through Basketball CCA, our pupils will learn fundamental basketball skills, bas
 
 *Pupils are to refer to their own schedules given in the letter sent via Parents Gateway.
 
+![](/images/Basketball/photo%201.JPG)
