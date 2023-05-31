@@ -14,13 +14,21 @@ This fun and exciting new CCA will give students the opportunity to express thei
 * Public speaking – to build confidence to take the stage and present their ideas
 * ICT – to use technological tools to express and share their ideas
 
-|  |  |
-|:---:|:---:|
-| DAY |  Wednesdays |
-| TIME | 2.15 pm – 3.45 pm |
-| VENUE | School Library |
-| TEACHERS- IN- CHARGE | Mdm Bindiya Aswani<br>Mdm Habibah Tahar |
-|
+
+
+| Teachers-in-charge | Email address | 
+| -------- | -------- | 
+|Mdm Bindiya Aswani (OIC)   |  bindiya_vaswani@moe.edu.sg    |
+|Mdm Habibah Tahar (2IC)   | habibah_tahar@moe.edu.sg     |
+
+
+**Training schedule:**
+
+| Day | Time | Venue |
+| -------- | -------- | ------ |
+| Wednesday     | 2.15 p.m. - 3.45 p.m. | Library
+
+
 
 <img src="/images/snd1.jpg" style="width:80%;margin-bottom:15px">
 
