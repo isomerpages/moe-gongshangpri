@@ -11,6 +11,16 @@ third_nav_title: Uniformed Group
 
 <br clear="left">
 
+
+
+| Teachers-in-charge | Email address | 
+| -------- | -------- | 
+| Mr Mohd Azhari B Dzulkifli    | mohammad_azhari_dzulkifli@moe.edu.sg    | 
+| Mdm Norizah Bte Maakiap    |norizah_maakiap@moe.edu.sg    | 
+| Mrs Yoges Wari d/o Nadarajah Singh    | yoges_wari_nadarajah@moe.edu.sg     | 
+| Mr Gavin Bi    | gavin_bi@moe.edu.sg     | 
+
+
 #### **Teachers-in-charge**
 Mr Azhari (OIC)<br>
 Mdm Norizah (2IC)<br>
