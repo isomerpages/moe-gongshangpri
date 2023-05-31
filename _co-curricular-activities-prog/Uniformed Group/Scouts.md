@@ -21,17 +21,10 @@ third_nav_title: Uniformed Group
 | Mr Gavin Bi    | gavin_bi@moe.edu.sg     | 
 
 
-#### **Teachers-in-charge**
-Mr Azhari (OIC)<br>
-Mdm Norizah (2IC)<br>
-Mrs Yoges Singh<br>
-Mdm Chang Yating<br>
-Mr Gavin Bi
-
-**Training session:**
+**Training schedule:***
 
 | Day | Time | Venue | Remarks |
-|:---:|:---:|:---:|:---:|
+|---|---|---|---|
 | Monday | 3.00 p.m. - 4.30 p.m. | CCA Room B1-03 | Semester 1: P6 only<br>Semester 2: P5 only |
 | Wednesday | 2.00 p.m. - 4.00 p.m. | CCA Room B1-03 | For all Cub Scouts |
 |
