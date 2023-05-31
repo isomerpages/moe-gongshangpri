@@ -29,7 +29,7 @@ This year, our training sessions have been resumed with safe management measures
 |    Mdm Jennifer Jacob |  jennifer_jacob@moe.edu.sg    | 
 |    Mdm Lee Huiyi  |  lee_huiyi@moe.edu.sg    | 
 
-**Training Schedule**
+**Training Schedule***
 
 
 | Day | Time | 
