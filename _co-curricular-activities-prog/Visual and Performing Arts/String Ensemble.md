@@ -27,7 +27,7 @@ The String Ensemble performs for school events every year on Teachers’ Day. Ev
 | Wednesday     | 2.15 p.m. - 3.45 p.m.     |  Music Rooms(E2-10/E2-12)    |
 
 
-
+*Pupils may refer to their own schedules given in the letter sent via Parents Gateway.
 
 **SYF 2022 at SOTA**
 
