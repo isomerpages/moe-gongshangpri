@@ -27,7 +27,8 @@ third_nav_title: Uniformed Group
 |---|---|---|---|
 | Monday | 3.00 p.m. - 4.30 p.m. | CCA Room B1-03 | Semester 1: P6 only<br>Semester 2: P5 only |
 | Wednesday | 2.00 p.m. - 4.00 p.m. | CCA Room B1-03 | For all Cub Scouts |
-|
+
+
 
 ##### **Scouts Youtube links**
 
