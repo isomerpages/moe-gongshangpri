@@ -40,6 +40,8 @@ We look forward to your kind co-operation and fullest support in our pursuit of 
 | Monday    | P5 – P6    | 3.00 p.m. – 5.00 p.m.   |
 | Wednesday    | P3 – P4   | 2.15 p.m. – 3.45 p.m.   |
 
+
+
 <img src="/images/badminton1.jpg" style="width:80%; margin-bottom:15px">
 
 <img src="/images/badminton2.jpg" style="width:80%; margin-bottom:15px">
