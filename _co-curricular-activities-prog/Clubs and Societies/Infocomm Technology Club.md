@@ -19,19 +19,26 @@ InfoComm Technology Club aims to develop our young aspirants to be junior Info-c
 | Mr Yusri B Yunos   | yusri_yunos@moe.edu.sg     | 
 | Mr Henry Lee    | lee_hung_tong_henry@moe.edu.sg   | 
 
-**Training session**
+**Training schedule:**
 
 
 | Day | Time | Venue |
 | -------- | -------- | -------- |
 | Wednesday     | 2.15 p.m. - 3.45 p.m.     | Autumn Lab     |
 
+![](/images/Infocomm%20Technology%20Club/hackathon@peihwa1.jpg)
+
+![](/images/Infocomm%20Technology%20Club/hackathon@peihwa2.jpg)
+
+![](/images/Infocomm%20Technology%20Club/hackathon@peihwa3.jpg)
 
 
-<img src="/images/itc1.jpg" style="width:85%; margin-bottom:15px" align="left">
-<img src="/images/itc2.jpg" style="width:85%; margin-bottom:15px" align="left">
+![](/images/Infocomm%20Technology%20Club/hackathon@mjs.jpg)
 
-<br clear="left">
+![](/images/Infocomm%20Technology%20Club/hackathon@mjs2.jpg)
 
-<img src="/images/itc3.jpg" style="width:85%; margin-bottom:15px" align="left">
-<img src="/images/itc4.jpg" style="width:85%" align="left">
+![](/images/Infocomm%20Technology%20Club/itc1.jpg)
+
+![](/images/Infocomm%20Technology%20Club/itc3.jpg)
+
+![](/images/Infocomm%20Technology%20Club/img-20230125-wa0010.jpg)

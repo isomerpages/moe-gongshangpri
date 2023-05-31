@@ -20,6 +20,14 @@ In Art Club, students are given the opportunity to explore various art-making ac
 |  Mrs Natalie Neo (2IC)    | loh_hui_zhi_natalie@moe.edu.sg |
 
 
+**Training schedule:**
+
+| Day | Time| Venue|
+| -------- | -------- | -------- |
+| Wednesday     | 2.15 p.m. - 3.45 p.m.     | Art Room 1/2     |
+
+
+
 
 #### **Stamp Story Art Competition**
 
