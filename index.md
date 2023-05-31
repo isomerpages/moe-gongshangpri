@@ -28,10 +28,4 @@ sections:
       description: For more information
       button: Click here
       url: /useful-links/for-parents/parent-volunteer-scheme-recruitment-exercise/
-  - infobar:
-      title: School Canteen
-      subtitle: Advertisement
-      description: For more information
-      button: Click here
-      url: /school-canteen-adv/
 ---
