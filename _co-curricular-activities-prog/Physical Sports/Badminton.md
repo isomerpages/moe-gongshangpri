@@ -40,4 +40,14 @@ We look forward to your kind co-operation and fullest support in our pursuit of 
 | Monday    | P5 – P6    | 3.00 p.m. – 5.00 p.m.   |
 | Wednesday    | P3 – P4   | 2.15 p.m. – 3.45 p.m.   |
 
+*Pupils may refer to their own schedules given in the letter sent via Parents Gateway.
 
+![](/images/Badminton/badminton1.jpg)
+
+![](/images/Badminton/badminton2.jpg)
+
+![](/images/Badminton/badminton%203.jpg)
+
+![](/images/Badminton/badminton4.jpg)
+
+![](/images/Badminton/badminton5.jpg)
