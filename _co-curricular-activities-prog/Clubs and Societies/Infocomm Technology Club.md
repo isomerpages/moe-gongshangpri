@@ -40,3 +40,5 @@ InfoComm Technology Club aims to develop our young aspirants to be junior Info-c
 ![](/images/Infocomm%20Technology%20Club/itc1.jpg)
 
 ![](/images/Infocomm%20Technology%20Club/itc3.jpg)
+
+![](/images/Infocomm%20Technology%20Club/img-20230125-wa0010.jpg)
