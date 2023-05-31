@@ -9,12 +9,25 @@ Our String Ensemble is a music group that comprises of pupils with a passion for
 
 The String Ensemble performs for school events every year on Teachers’ Day. Every two years, we will participate in the Singapore Youth Festival Presentation (SYF)
 
-|  |  |
-|:---:|:---:|
-| Day / Time | Monday(3.00 p.m. to 5.00 p.m.)<br> Wednesday(2.15 p.m. to 3.45 p.m.) |
-| Venue | Music rooms<br> E2-10/E2-12 |
-| Teachers-in-charge | Mdm Liu Shuang (Overall-in-charge)<br>Mdm Shahanaz Begum<br>Mrs Ling Jia Ying |
-|
+
+
+| Teachers-in-charge | Email address |
+| -------- | -------- | 
+| Mdm Liu Shuang (OIC)     | shuang_liu@moe.edu.sg     | 
+| Mdm Shahanaz Begum    | shahanaz_begum@moe.edu.sg     | 
+|   Mrs Ling Jia Ying   | seng_jia_ying@moe.edu.sg    | 
+
+
+**Training schedule:***
+
+
+| Day | Time | Venue |
+| -------- | -------- | -------- |
+| Monday     | 3.00 - 5.00 p.m.     | Music Rooms(E2-10/E2-12)     |
+| Wednesday     | 2.15 p.m. - 3.45 p.m.     |  Music Rooms(E2-10/E2-12)    |
+
+
+
 
 **SYF 2022 at SOTA**
 
