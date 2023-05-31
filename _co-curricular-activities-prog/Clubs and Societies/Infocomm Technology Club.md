@@ -26,12 +26,10 @@ InfoComm Technology Club aims to develop our young aspirants to be junior Info-c
 | -------- | -------- | -------- |
 | Wednesday     | 2.15 p.m. - 3.45 p.m.     | Autumn Lab     |
 
+![](/images/itc1.jpg)
 
+![](/images/itc2.jpg)
 
-<img src="/images/itc1.jpg" style="width:85%; margin-bottom:15px" align="left">
-<img src="/images/itc2.jpg" style="width:85%; margin-bottom:15px" align="left">
+![](/images/itc3.jpg)
 
-<br clear="left">
-
-<img src="/images/itc3.jpg" style="width:85%; margin-bottom:15px" align="left">
-<img src="/images/itc4.jpg" style="width:85%" align="left">
+![](/images/itc4.jpg)
