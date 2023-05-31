@@ -26,7 +26,7 @@ This fun and exciting new CCA will give students the opportunity to express thei
 
 | Day | Time | Venue |
 | -------- | -------- | ------ |
-| Wednesday     | 2.15 p.m. - 3.45 p.m.     | Library
+| Wednesday     | 2.15 p.m. - 3.45 p.m. | Library
 
 
 
