@@ -22,12 +22,14 @@ A self-directed and collaborative learner who is able to leverage ICT in his/her
 | Mr Yusri B Yunos   | yusri_yunos@moe.edu.sg     | 
 | Mr Henry Lee    | lee_hung_tong_henry@moe.edu.sg   | 
 
-#### 	**Schedule**
+**Training session**
+
 
 | Day | Time | Venue |
-|:---:|:---:|:---:|
-| Wednesday | 2.15p.m. - 3.45p.m. | Autumn Lab |
-|
+| -------- | -------- | -------- |
+| Wednesday     | 2.15 p.m. - 3.45 p.m.     | Autumn Lab     |
+
+
 
 <img src="/images/itc1.jpg" style="width:85%; margin-bottom:15px" align="left">
 <img src="/images/itc2.jpg" style="width:85%; margin-bottom:15px" align="left">
