@@ -5,15 +5,12 @@ description: ""
 third_nav_title: Clubs and Societies
 ---
 ### **Infocomm Technology Club**
-InfoComm Technology Club aims to develop our young aspirants to be junior Info-communication (ICT) Technologists competent with ICT skills and 21st Century Competencies. Members are given opportunities to explore the world of information and communication technology. Among the training we provide for our young technologists include:&nbsp; &nbsp; &nbsp;&nbsp;\-&nbsp;Coding and Programming,&nbsp;Digital animation (eg. Flash animation and gif animation)&nbsp; and&nbsp;Cyber-wellness and web-based collaboration.
+InfoComm Technology Club aims to develop our young aspirants to be junior Info-communication (ICT) Technologists competent with ICT skills and 21st Century Competencies. Members are given opportunities to explore the world of information and communication technology. Among the training we provide for our young technologists include Coding and Digital animation. We aim to cultivate self-directed and collaborative learners who are able to leverage ICT in his/her pursuit of meaningful learning.
 
-#### **Vision**
-A self-directed and collaborative learner who is able to leverage ICT in his/her pursuit of meaningful learning.
-
-#### **Long-term Goals**
-*   Equip our young ICT technologists with relevant ICT skills to enable them to collaborate on digital media projects meaningfully and creatively.&nbsp;&nbsp;
-*   Provide a variety of platforms to develop our ICT technologists into proficient users of ICT, allowing them to be actively engaged in tasks that foster their thinking and collaborative skills.&nbsp;
-*   Cultivate our young ICT technologists to be ethical and responsible cyberspace citizens.
+**Objectives of CCA:**
+*   To equip our young ICT technologists with relevant ICT skills to enable them to collaborate on digital media projects meaningfully and creatively.&nbsp;&nbsp;
+*   To provide a variety of platforms to develop our ICT technologists into proficient users of ICT, allowing them to be actively engaged in tasks that foster their thinking and collaborative skills.&nbsp;
+*   To cultivate our young ICT technologists to be ethical and responsible cyberspace citizens.
 
 
 | Teachers-in-charge | Email address | 
