@@ -19,7 +19,7 @@ InfoComm Technology Club aims to develop our young aspirants to be junior Info-c
 | Mr Yusri B Yunos   | yusri_yunos@moe.edu.sg     | 
 | Mr Henry Lee    | lee_hung_tong_henry@moe.edu.sg   | 
 
-**Training session**
+**Training session:**
 
 
 | Day | Time | Venue |
