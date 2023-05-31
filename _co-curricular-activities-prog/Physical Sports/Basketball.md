@@ -7,11 +7,11 @@ third_nav_title: Physical Sports
 ### **Basketball**
 Through Basketball CCA, our pupils will learn fundamental basketball skills, basketball rules and regulations, territorial invasion games concept as well as develop physical fitness. Besides learning skills and know-how, the teachers believe in imparting values required to shape our pupils’ character and thus, we place much emphasis on discipline and nurturing sporting values such as perseverance, resilience and teamwork. In the pursuit of the very best in each and every pupil, pupils will also have ample opportunities for leadership development.
 
-<img src="/images/bball1.png" style="width:65%">
+**Objectives of CCA:**
+* To make every member a better player and a better person.
+* To develop fundamental basketball skills and game concepts.
+* To foster and develop self-discipline, resilience, team spirit and leadership.
 
-<img src="/images/bball2.png" style="width:65%">
-
-<img src="/images/bball3.png" style="width:65%">
 
 | Teachers-in-charge | Email Address |
 |:---:|:---:|
@@ -25,22 +25,29 @@ Through Basketball CCA, our pupils will learn fundamental basketball skills, bas
 |  Mrs Yap Loy Sim Lan | [loy_sim_lan@moe.edu.sg](mailto:loy_sim_lan@moe.edu.sg)  |
 |
 
-**Training Schedule***
+**Training Schedule:***
 
-|  |  |  |
-|:---:|:---:|:---:|
-| Day | Time | Pupils Involved |
-| Tuesday |3.00 p.m. - 5.00 p.m. | Selected P4, P5 and P6 Basketball Players |
-| Thursday | 3.00 p.m. - 5.00 p.m. | All P3 Basketball Players<br>All P4 to P6 Basketball Players |
-|
 
-\*Pupils are to refer to their own schedules given in the letter sent via Parents Gateway.
 
-<img src="/images/basketball1.jpg" style="width:80%; margin-bottom:15px" align=left>
-<img src="/images/basketball2.jpg" style="width:80%; margin-bottom:15px" align=left>
+| Day | Time | Pupils involved |
+| -------- | -------- | -------- |
+| Tuesday     | 3.00 p.m. - 5.00 p.m.      | Selected P4, P5 and P6 Basketball Players     |
+| Thursday     | 3.00 p.m. - 5.00 p.m.     | All P3 Basketball Players<br>All P4 to P6 Basketball Players     
 
-<br clear="left">
+*Pupils are to refer to their own schedules given in the letter sent via Parents Gateway.
 
-<img src="/images/basketball3.jpg" style="width:80%;margin-bottom:15px" align=left>
-<img src="/images/basketball4.jpg" style="width:80%" align=left>
+![](/images/Basketball/photo%201.JPG)
 
+![](/images/Basketball/photo%202.JPG)
+
+![](/images/Basketball/photo%203.JPG)
+
+![](/images/Basketball/photo%204.jpg)
+
+![](/images/Basketball/photo%205.JPG)
+
+![](/images/Basketball/photo%206.jpg)
+
+![](/images/Basketball/photo%207.jpg)
+
+![](/images/Basketball/photo%208.jpg)
