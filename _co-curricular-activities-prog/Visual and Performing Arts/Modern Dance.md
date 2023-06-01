@@ -5,14 +5,19 @@ description: ""
 third_nav_title: Visual and Performing Arts
 ---
 ### **Modern Dance**
-Warmest greetings!&nbsp;&nbsp;<br>
-Modern Dance will give students the opportunity to express their imagination and creativity through movement. Our dancers will also gain poise, confidence and creative thinking skills that will help them throughout their academic pursuits. The instructor will prepare the students for performances in school as well as in the Singapore Youth Festival (SYF). We hope our dancers will have a fruitful and enriching experience this year!
+Welcome to GSPS Modern Dance Club.  Our Club comprises of Primary 3 to Primary 6 students who have a passion for dance. Our dancers are given the opportunity to discover and explore the different dance techniques and choreography in various genres including Hip Hop, K-Pop, Modern and Contemporary Dance.
+Here at GSPS Modern Dance, our dancers learn to build their resilience and discipline as they synthesize movements and dance techniques into their performances. They will be exposed to various activities and performances at both internal and external events, such as our Teacher’s Day celebration and our Annual Awards Presentation. Our dancers will also get to participate in the biennial Singapore Youth Festival Arts Presentation. 
+
+**Objectives of CCA:**
+* To develop confidence and creative thinking skills that will help the students throughout their academic pursuits 
+* To give students the opportunity to express their imagination and creativity through movement
+
 
 
 | Teachers-in-charge | Email address | 
 | -------- | -------- | 
 | Mdm Rosilah Bte Abdullah (OIC)    | rosilah_abdullah@moe.edu.sg     | 
-| Mdm Roslinda Bte Johari    | roslinda_johari@moe.edu.sg    | 
+| Mdm Roslinda Bte Johari (2IC)    | roslinda_johari@moe.edu.sg    | 
 
 **Training session:**
 
