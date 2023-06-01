@@ -19,13 +19,16 @@ Here at GSPS Modern Dance, our dancers learn to build their resilience and disci
 | Mdm Rosilah Bte Abdullah (OIC)    | rosilah_abdullah@moe.edu.sg     | 
 | Mdm Roslinda Bte Johari (2IC)    | roslinda_johari@moe.edu.sg    | 
 
-**Training session:**
+**Training session:***
 
 
 
 | Day | Time | Venue |
 | -------- | -------- | -------- |
+| Monday (Term 3 onwards)     | 3.00 p.m. - 5.00 p.m.     | Dance Studio (K2-03) Gongshang Primary School     
 | Wednesday     | 2.15 p.m. - 3.45 p.m.     | Dance Studio (K2-03) Gongshang Primary School     |
+
+
 
 
 
