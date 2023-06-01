@@ -25,7 +25,7 @@ Gongshang Primary operates as a single-session school and the school hours are a
 |  Friday | 7.30 a.m. - 1.30 p.m.  |
 
 *For P3-P6 pupils<br>
-Parents will be informed for all co-curricular activities and remedial/supplementary lessons that take place after school hours.
+Parents will be informed for all co-curricular activities and remedial/supplementary lessons that take place after school hours. Do ensure your Parents Gateway(PG) app's notifications settings are set to receive notifications from the school. 
 
 **3. What are the recess timings?**
 
