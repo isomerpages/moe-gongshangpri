@@ -28,16 +28,16 @@ Here at GSPS Modern Dance, our dancers learn to build their resilience and disci
 | Monday (Term 3 onwards)     | 3.00 p.m. - 5.00 p.m.     | Dance Studio (K2-03) Gongshang Primary School     
 | Wednesday     | 2.15 p.m. - 3.45 p.m.     | Dance Studio (K2-03) Gongshang Primary School     |
 
+*Pupils may refer to their own schedules given in the letter sent via Parents Gateway.
 
 
 
+<img src="/images/moderndance1.jpg" style="width:100%; margin-bottom:15px">
 
-<img src="/images/moderndance1.jpg" style="width:80%; margin-bottom:15px">
+<img src="/images/moderndance2.jpg" style="width:100%; margin-bottom:15px">
 
-<img src="/images/moderndance2.jpg" style="width:80%; margin-bottom:15px">
+<img src="/images/moderndance3.jpg" style="width:100%; margin-bottom:15px">
 
-<img src="/images/moderndance3.jpg" style="width:80%; margin-bottom:15px">
+<img src="/images/moderndance4.jpg" style="width:100%; margin-bottom:15px">
 
-<img src="/images/moderndance4.jpg" style="width:80%; margin-bottom:15px">
-
-<img src="/images/moderndance5.jpg" style="width:80%">
+<img src="/images/moderndance5.jpg" style="width:100%">
