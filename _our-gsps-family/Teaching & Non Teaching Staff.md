@@ -766,7 +766,9 @@ tr:nth-child(even) {
     <td>Internal appointment*, Assistant Form Teacher^</td>
     <td></td>
        
-  
+  </tr><tr>
+    <td>Last updated: 1 July 2023</td>
+    <td></td>
     
     
   </tr>
