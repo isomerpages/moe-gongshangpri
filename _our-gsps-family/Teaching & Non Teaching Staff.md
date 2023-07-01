@@ -711,15 +711,22 @@ tr:nth-child(even) {
       
        
   </tr><tr>
-    <td>Mdm Pang Geok Giat</td>
+    <td>Mdm Pang Geok Giat(Janet)</td>
     <td>Operation Support Officer</td>
     
          
   </tr><tr>
-    <td>Mdm Yap Kim Lin Alice</td>
+    <td>Mdm Yap Kim Lin (Alice)</td>
     <td>Operation Support Officer</td>
     
-    
+</tr><tr>
+<td>Mdm Lan Xiuni (Shirley)</td>
+    <td>Operation Support Officer</td>  
+		
+</tr><tr>
+ <td>Mdm Rozanah Bte Adon</td>
+ <td>Operation Support Officer(MK)</td>	
+		
        
   </tr><tr>
     <th>School Counsellor/SEN Officers/AEDs (T &amp; L)</th>
