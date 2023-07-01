@@ -238,7 +238,9 @@ tr:nth-child(even) {
     <td>2 Thrift Mrs Kwok Li Li (Senior Teacher/ Physical Education)</td>
     <td>soon_li_li@moe.edu.sg</td>
     
-    
+   </tr><tr>
+   <td>2 Thrift Ms Melissa Chan(LH/ English)</td>
+   <td>chan_beng_neo_melissa@moe.edu.sg</td>
          
   </tr><tr>
     <td>2 Thrift Mdm Ruzanna Binte Abdul Manap (AED, Teaching &amp; Learning)^</td>
