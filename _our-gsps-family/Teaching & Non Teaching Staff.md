@@ -678,13 +678,6 @@ tr:nth-child(even) {
     <td>mohd_faizal_mohd_firoz@moe.edu.sg</td>
     
     
-       
-  </tr><tr>
-    <td>Mdm Jenny Thay (Administrative Executive)</td>
-    <td>thay_suat_cheng_jenny@moe.edu.sg</td>
-    
-      
-      
   </tr><tr>
     <td>Mdm Azlina Binte Sajam (Administrative Executive)</td>
     <td>azlina_sajam@moe.edu.sg</td>
@@ -693,6 +686,12 @@ tr:nth-child(even) {
  </tr><tr>
     <td> Mdm Rogayah Bte Manop (Administrative Executive)</td>
     <td>rogayah_manop@moe.edu.sg</td>
+		
+		
+</tr><tr>
+ <td>Mdm Jenny Thay (Administrative Executive)(MK)</td>
+ <td>thay_suat_cheng_jenny@moe.edu.sg</td>	
+		
 		
   </tr><tr>
     <td>Mdm Christine Lim (Corporate Support Officer)</td>
