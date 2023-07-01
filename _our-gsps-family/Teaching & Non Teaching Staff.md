@@ -582,6 +582,14 @@ tr:nth-child(even) {
     <th>Email address</th>
     
    
+</tr><tr>
+ <td>Mdm Chow Yoke Yeong (Mrs Loy)(HOD/Science)</td>
+ <td>chow_yoke_yeong@moe.edu.sg</td>	
+		
+</tr><tr>
+ <td>Mdm Foo Tseh Chyn(LH/PE)</td>
+ <td>foo_tseh_chyn@moe.edu.sg</td>	
+		
    </tr><tr>
   <td> Mdm Ho Yee Wah</td>
    <td>ho_yee_wah@moe.edu.sg</td>
