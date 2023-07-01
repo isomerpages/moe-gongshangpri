@@ -581,30 +581,16 @@ tr:nth-child(even) {
     <th>Non-form teachers</th>
     <th>Email address</th>
     
-       
-  </tr><tr>
-    <td>Mrs How-Quek Jia Min (Year Head – P3/P4)</td>
-    <td>quek_jia_min@moe.edu.sg</td>
-    
-    
-       
-  </tr><tr>
-    <td>Mdm Loy Sim Lan (LH/Chinese Language)</td>
-    <td>loy_sim_lan@moe.edu.sg</td>
-    
-    
-       
-  </tr><tr>
-    <td>Ms Melissa Chan (LH/English Language)</td>
-    <td>chan_beng_neo_melissa@moe.edu.sg</td>
-    
-          
-  </tr><tr>
-    <td>Ms Siti Fadhilah Binte Saneb</td>
-    <td>siti_fadhilah_saneb@moe.edu.sg</td>
-    
-    
-      
+   
+   </tr><tr>
+  <td> Mdm Ho Yee Wah</td>
+   <td>ho_yee_wah@moe.edu.sg</td>
+		
+</tr><tr>
+ <td>Mdm Lee Huiyi </td>
+ <td>lee_huiyi@moe.edu.sg</td>	
+		
+		
   </tr><tr>
     <td>Ms Wong Mai Ling</td>
     <td>wong_mai_ling@moe.edu.sg</td>
