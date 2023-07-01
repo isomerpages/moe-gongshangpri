@@ -762,11 +762,27 @@ tr:nth-child(even) {
     <th>Support staff</th>
     <th>Designation</th>
     
-        
+ </tr><tr>
+ <td>	Mdm Sumiryati Binti Supiyari </td>
+ <td>Admin Ops officer</td>	
+		
+	
+
+</tr><tr>
+ <td>Ms Siti Hajar Bte Ahmad</td>
+ <td>Desktop Engineer</td>	
+		
   </tr><tr>
     <td>Mr Daniel Woo</td>
     <td>Science Lab assistant</td>
-    
+    	
+</tr><tr>
+<td>Ms Catherine Foo</td>
+<td>Library assistant</td>
+		
+
+		
+		
  </tr><tr>
     <td>Internal appointment*, Assistant Form Teacher^</td>
     <td></td>
