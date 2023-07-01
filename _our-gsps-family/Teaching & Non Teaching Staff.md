@@ -158,12 +158,10 @@ tr:nth-child(even) {
     <td>1 Thrift Mdm Ho Jia Xin Jessie (Mrs Ong)</td>
     <td>ho_jia_xin_jessie@moe.edu.sg</td>
     
-    
+   </tr><tr>
+    <td>1 Thrift Mrs Soh-Ng Kah Fung (AED, Teaching &amp; Learning)^</td>
+    <td>ng_kah_fung@moe.edu.sg</td>
       
-  </tr><tr>
-    <td>1 Thrift Mdm Mehrun Nisha (HOD/PE/CCA/Aesthetics)</td>
-    <td>mehrun_nisha@moe.edu.sg</td>
-    
      
   </tr><tr>
     <td>1 Integrity Ms Ling Joelle</td>
@@ -268,13 +266,7 @@ tr:nth-child(even) {
     <td>2 Respect Mdm Lee Huiyi</td>
     <td>lee_huiyi@moe.edu.sg</td>
     
-    
-         
-  </tr><tr>
-    <td>2 Respect Mrs Soh-Ng Kah Fung (AED, Teaching &amp; Learning)^</td>
-    <td>ng_kah_fung@moe.edu.sg</td>
-    
-   
+
         
       
   </tr><tr>
