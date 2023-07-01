@@ -538,8 +538,8 @@ tr:nth-child(even) {
     
          
   </tr><tr>
-    <td>6 Integrity Mdm Foo Tseh Chyn (SH/Physical Education)</td>
-    <td>foo_tseh_chyn@moe.edu.sg</td>
+    <td>6 Integrity Mdm How-Quek Jia Min(Year Head P3/P4)</td>
+    <td>quek_jia_min@moe.edu.sg</td>
     
      
   </tr><tr>
