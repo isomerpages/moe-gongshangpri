@@ -650,7 +650,7 @@ tr:nth-child(even) {
    <td>badrul_hisham@moe.edu.sg</td> 
         
   </tr><tr>
-    <th>Executive &amp; Administrative Staff</th>
+    <th>School Admin Team</th>
     <th>Email address/Designation</th>
     
     
