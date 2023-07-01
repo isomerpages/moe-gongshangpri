@@ -265,8 +265,8 @@ tr:nth-child(even) {
     
      
   </tr><tr>
-    <td>2 Respect Mdm Lee Huiyi</td>
-    <td>lee_huiyi@moe.edu.sg</td>
+    <td>2 Respect Mdm Loy Sim Lan (Mrs Yap)(LH/Chinese Language)</td>
+    <td>loy_sim_lan@moe.edu.sg</td>
     
 
         
