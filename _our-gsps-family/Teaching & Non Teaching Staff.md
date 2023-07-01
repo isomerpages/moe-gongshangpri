@@ -426,7 +426,12 @@ tr:nth-child(even) {
     <td>4 Courage  Mdm Syahirah Mohd Said</td>
     <td>syahirah_mohd_said@moe.edu.sg</td>
     
-          
+     
+  </tr><tr>
+    <td>4 Courage  Ms Peggy Low</td>
+    <td>low_peggy@moe.edu.sg</td>		
+		
+		
   </tr><tr>
     <td>4 Harmony Mdm Siti Normalis Bte Mohamed Ismail</td>
     <td>siti_normalis_mohamed_is@moe.edu.sg</td>
@@ -482,8 +487,8 @@ tr:nth-child(even) {
     
         
   </tr><tr>
-    <td>5 Respect Mrs Loy-Chow Yoke Yeong (HOD/Science)</td>
-    <td>chow_yoke_yeong@moe.edu.sg</td>
+    <td>5 Respect Mr Ngiam Song Wee (HOD/ICT)</td>
+    <td>ngiam_song_wee@moe.edu.sg</td>
     
          
   </tr><tr>
@@ -692,12 +697,6 @@ tr:nth-child(even) {
   </tr><tr>
     <td>Mdm Christine Lim (Corporate Support Officer)</td>
     <td>lim_eng_buay@schools.gov.sg</td>
-    
-    
-       
-  </tr><tr>
-    <td>Mdm Ermayani Binte Djamin (Corporate Support Officer)</td>
-    <td>Ermayani_DJAMIN@schools.gov.sg</td>
     
          
   </tr><tr>
