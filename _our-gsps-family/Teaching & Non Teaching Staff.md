@@ -101,7 +101,9 @@ tr:nth-child(even) {
     <td>Ms Yeo Soh Fang Jennifer (HOD/Student Management)</td>
     <td>yeo_soh_fang@moe.edu.sg</td>
     
-    
+   </tr><tr>
+   <td>Mr Ngiam Song Wee (HOD/ICT)</td>
+   <td>ngiam_song_wee@moe.edu.sg</td>
       
   </tr><tr>
     <th>Year Heads</th>
