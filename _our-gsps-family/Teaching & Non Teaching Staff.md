@@ -648,10 +648,12 @@ tr:nth-child(even) {
        
   </tr><tr>
     <td>Mdm Noorfizah Bte A B Rahman</td>
-    <td></td>
+    <td>noorfizah_a_b_rahman@moe.edu.sg</td>
     
-    
-    
+
+   </tr><tr>
+   <td> Mdm Noorjahan Bte Abdul Salam Khan (Mrs Badrul)</td>
+   <td>badrul_hisham@moe.edu.sg</td> 
         
   </tr><tr>
     <th>Executive &amp; Administrative Staff</th>
