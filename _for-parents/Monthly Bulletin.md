@@ -5,6 +5,8 @@ description: ""
 ---
 ### **Monthly Bulletin**
 
+[July 2023](/files/july%20bulletin%202023.pdf)
+
 [May/June 2023](/files/mayjune%202023%20bulletin.pdf)
  <br><br>
 [April 2023](/files/april%202023%20bulletin.pdf)

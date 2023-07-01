@@ -101,7 +101,9 @@ tr:nth-child(even) {
     <td>Ms Yeo Soh Fang Jennifer (HOD/Student Management)</td>
     <td>yeo_soh_fang@moe.edu.sg</td>
     
-    
+   </tr><tr>
+   <td>Mr Ngiam Song Wee (HOD/ICT)</td>
+   <td>ngiam_song_wee@moe.edu.sg</td>
       
   </tr><tr>
     <th>Year Heads</th>
@@ -156,12 +158,10 @@ tr:nth-child(even) {
     <td>1 Thrift Mdm Ho Jia Xin Jessie (Mrs Ong)</td>
     <td>ho_jia_xin_jessie@moe.edu.sg</td>
     
-    
+   </tr><tr>
+    <td>1 Thrift Mrs Soh-Ng Kah Fung (AED, Teaching &amp; Learning)^</td>
+    <td>ng_kah_fung@moe.edu.sg</td>
       
-  </tr><tr>
-    <td>1 Thrift Mdm Mehrun Nisha (HOD/PE/CCA/Aesthetics)</td>
-    <td>mehrun_nisha@moe.edu.sg</td>
-    
      
   </tr><tr>
     <td>1 Integrity Ms Ling Joelle</td>
@@ -238,7 +238,9 @@ tr:nth-child(even) {
     <td>2 Thrift Mrs Kwok Li Li (Senior Teacher/ Physical Education)</td>
     <td>soon_li_li@moe.edu.sg</td>
     
-    
+   </tr><tr>
+   <td>2 Thrift Ms Melissa Chan(LH/ English)</td>
+   <td>chan_beng_neo_melissa@moe.edu.sg</td>
          
   </tr><tr>
     <td>2 Thrift Mdm Ruzanna Binte Abdul Manap (AED, Teaching &amp; Learning)^</td>
@@ -263,16 +265,10 @@ tr:nth-child(even) {
     
      
   </tr><tr>
-    <td>2 Respect Mdm Lee Huiyi</td>
-    <td>lee_huiyi@moe.edu.sg</td>
+    <td>2 Respect Mdm Loy Sim Lan (Mrs Yap)(LH/Chinese Language)</td>
+    <td>loy_sim_lan@moe.edu.sg</td>
     
-    
-         
-  </tr><tr>
-    <td>2 Respect Mrs Soh-Ng Kah Fung (AED, Teaching &amp; Learning)^</td>
-    <td>ng_kah_fung@moe.edu.sg</td>
-    
-   
+
         
       
   </tr><tr>
@@ -430,7 +426,12 @@ tr:nth-child(even) {
     <td>4 Courage  Mdm Syahirah Mohd Said</td>
     <td>syahirah_mohd_said@moe.edu.sg</td>
     
-          
+     
+  </tr><tr>
+    <td>4 Courage  Ms Peggy Low</td>
+    <td>low_peggy@moe.edu.sg</td>		
+		
+		
   </tr><tr>
     <td>4 Harmony Mdm Siti Normalis Bte Mohamed Ismail</td>
     <td>siti_normalis_mohamed_is@moe.edu.sg</td>
@@ -486,8 +487,8 @@ tr:nth-child(even) {
     
         
   </tr><tr>
-    <td>5 Respect Mrs Loy-Chow Yoke Yeong (HOD/Science)</td>
-    <td>chow_yoke_yeong@moe.edu.sg</td>
+    <td>5 Respect Mr Ngiam Song Wee (HOD/ICT)</td>
+    <td>ngiam_song_wee@moe.edu.sg</td>
     
          
   </tr><tr>
@@ -506,8 +507,8 @@ tr:nth-child(even) {
     
           
   </tr><tr>
-    <td>5 Harmony Mdm Ho Yee Wah</td>
-    <td>ho_yee_wah@moe.edu.sg</td>
+    <td>5 Harmony Ms Siti Fadhilah Binte Saneb</td>
+    <td>siti_fadhilah_saneb@moe.edu.sg</td>
     
      
   </tr><tr>
@@ -537,8 +538,8 @@ tr:nth-child(even) {
     
          
   </tr><tr>
-    <td>6 Integrity Mdm Foo Tseh Chyn (SH/Physical Education)</td>
-    <td>foo_tseh_chyn@moe.edu.sg</td>
+    <td>6 Integrity Mdm How-Quek Jia Min(Year Head P3/P4)</td>
+    <td>quek_jia_min@moe.edu.sg</td>
     
      
   </tr><tr>
@@ -580,30 +581,24 @@ tr:nth-child(even) {
     <th>Non-form teachers</th>
     <th>Email address</th>
     
-       
-  </tr><tr>
-    <td>Mrs How-Quek Jia Min (Year Head – P3/P4)</td>
-    <td>quek_jia_min@moe.edu.sg</td>
-    
-    
-       
-  </tr><tr>
-    <td>Mdm Loy Sim Lan (LH/Chinese Language)</td>
-    <td>loy_sim_lan@moe.edu.sg</td>
-    
-    
-       
-  </tr><tr>
-    <td>Ms Melissa Chan (LH/English Language)</td>
-    <td>chan_beng_neo_melissa@moe.edu.sg</td>
-    
-          
-  </tr><tr>
-    <td>Ms Siti Fadhilah Binte Saneb</td>
-    <td>siti_fadhilah_saneb@moe.edu.sg</td>
-    
-    
-      
+   
+</tr><tr>
+ <td>Mdm Chow Yoke Yeong (Mrs Loy)(HOD/Science)</td>
+ <td>chow_yoke_yeong@moe.edu.sg</td>	
+		
+</tr><tr>
+ <td>Mdm Foo Tseh Chyn(LH/PE)</td>
+ <td>foo_tseh_chyn@moe.edu.sg</td>	
+		
+   </tr><tr>
+  <td> Mdm Ho Yee Wah</td>
+   <td>ho_yee_wah@moe.edu.sg</td>
+		
+</tr><tr>
+ <td>Mdm Lee Huiyi </td>
+ <td>lee_huiyi@moe.edu.sg</td>	
+		
+		
   </tr><tr>
     <td>Ms Wong Mai Ling</td>
     <td>wong_mai_ling@moe.edu.sg</td>
@@ -647,13 +642,15 @@ tr:nth-child(even) {
        
   </tr><tr>
     <td>Mdm Noorfizah Bte A B Rahman</td>
-    <td></td>
+    <td>noorfizah_a_b_rahman@moe.edu.sg</td>
     
-    
-    
+
+   </tr><tr>
+   <td> Mdm Noorjahan Bte Abdul Salam Khan (Mrs Badrul)</td>
+   <td>badrul_hisham@moe.edu.sg</td> 
         
   </tr><tr>
-    <th>Executive &amp; Administrative Staff</th>
+    <th>School Admin Team</th>
     <th>Email address/Designation</th>
     
     
@@ -681,27 +678,24 @@ tr:nth-child(even) {
     <td>mohd_faizal_mohd_firoz@moe.edu.sg</td>
     
     
-       
-  </tr><tr>
-    <td>Mdm Jenny Thay (Administrative Executive)</td>
-    <td>thay_suat_cheng_jenny@moe.edu.sg</td>
-    
-      
-      
   </tr><tr>
     <td>Mdm Azlina Binte Sajam (Administrative Executive)</td>
     <td>azlina_sajam@moe.edu.sg</td>
     
-        
+   
+ </tr><tr>
+    <td> Mdm Rogayah Bte Manop (Administrative Executive)</td>
+    <td>rogayah_manop@moe.edu.sg</td>
+		
+		
+</tr><tr>
+ <td>Mdm Jenny Thay (Administrative Executive)(MK)</td>
+ <td>thay_suat_cheng_jenny@moe.edu.sg</td>	
+		
+		
   </tr><tr>
     <td>Mdm Christine Lim (Corporate Support Officer)</td>
     <td>lim_eng_buay@schools.gov.sg</td>
-    
-    
-       
-  </tr><tr>
-    <td>Mdm Ermayani Binte Djamin (Corporate Support Officer)</td>
-    <td>Ermayani_DJAMIN@schools.gov.sg</td>
     
          
   </tr><tr>
@@ -717,15 +711,22 @@ tr:nth-child(even) {
       
        
   </tr><tr>
-    <td>Mdm Pang Geok Giat</td>
+    <td>Mdm Pang Geok Giat(Janet)</td>
     <td>Operation Support Officer</td>
     
          
   </tr><tr>
-    <td>Mdm Yap Kim Lin Alice</td>
+    <td>Mdm Yap Kim Lin (Alice)</td>
     <td>Operation Support Officer</td>
     
-    
+</tr><tr>
+<td>Mdm Lan Xiuni (Shirley)</td>
+    <td>Operation Support Officer</td>  
+		
+</tr><tr>
+ <td>Mdm Rozanah Bte Adon</td>
+ <td>Operation Support Officer(MK)</td>	
+		
        
   </tr><tr>
     <th>School Counsellor/SEN Officers/AEDs (T &amp; L)</th>
@@ -761,16 +762,34 @@ tr:nth-child(even) {
     <th>Support staff</th>
     <th>Designation</th>
     
-        
+ </tr><tr>
+ <td>	Mdm Sumiryati Binti Supiyari </td>
+ <td>Admin Ops officer</td>	
+		
+	
+
+</tr><tr>
+ <td>Ms Siti Hajar Bte Ahmad</td>
+ <td>Desktop Engineer</td>	
+		
   </tr><tr>
     <td>Mr Daniel Woo</td>
     <td>Science Lab assistant</td>
-    
+    	
+</tr><tr>
+<td>Ms Catherine Foo</td>
+<td>Library assistant</td>
+		
+
+		
+		
  </tr><tr>
     <td>Internal appointment*, Assistant Form Teacher^</td>
     <td></td>
        
-  
+  </tr><tr>
+    <td>Last updated: 1 July 2023</td>
+    <td></td>
     
     
   </tr>
