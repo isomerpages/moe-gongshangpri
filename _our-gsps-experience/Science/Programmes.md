@@ -15,6 +15,14 @@ The programme, launched in 2013 as a key activity to commemorate 50 Years of Gre
  
 We have planned for the programme to complement the Primary 3 Science topic on the life cycles of plants. Each Primary 3 pupil will receive a plant starter kit comprising a Plant Journal, a pot, seeds and potting mix. The Plant Journal contains simple instructions to teach the pupils how to grow and care for their plants. It also has simple activity sheets which the pupils can do. They can also share their plant stories with their classmates. 
 
+![picture1](/images/Science/picture1.jpg)
+
+![picture2](/images/Science/picture2.jpg)
+
+![picture3](/images/Science/picture3.jpg)
+
+![picture4](/images/Science/picture4.jpg)
+
 #### **Earth Day**
 On the first Earth Day on 22 April 1970, environmental rallies were held in Philadelphia, Chicago, Los Angeles and other American cities. Since 1970, Earth Day celebrations have grown. In 1990, Earth Day went global, with 200 million people in over 140 nations participating, according to the Earth Day Network (EDN), a non-profit organization that coordinates Earth Day activities. Today, more than 1 billion people are involved in Earth Day activities, making it the largest secular civic event in the world.
 As part of the school's Earth Day commemoration event, we want to educate pupils about taking “Earthly” actions. Each of us play a small part, but together we can make a big difference to restore nature and build a healthy planet Earth for our children and their children. There is a wide variety of activities organized for pupils to participate in every year. For instance, the E-waste disposal programme in partnership with ALBA Recycling Company, Recycled Artwork Display by the Art Department, Green Issues Showcase by the Environmental Science Club and Save the Pen project by the Scouts CCA.
@@ -49,4 +57,3 @@ From 2021, we have worked with scientists from various fields to expose pupils t
 
 #### **Staff professional development**
 The Science Department organizes many professional development opportunities for teachers. We believe that in-service training is essential for teachers to stay relevant, whilst embracing the expanding impact of science to the future of our civilization. Yearly in-house workshops and learning journeys seek to build teachers’ capacity in the subject matter knowledge and pedagogical content knowledge. Peer to peer teacher interactions also foster camaraderie and synergy to develop ideas, analyze strategies and gather evidence to improve their classroom teaching and learning.
-
