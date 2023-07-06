@@ -28,6 +28,7 @@ On the first Earth Day on 22 April 1970, environmental rallies were held in Phil
 As part of the school's Earth Day commemoration event, we want to educate pupils about taking “Earthly” actions. Each of us play a small part, but together we can make a big difference to restore nature and build a healthy planet Earth for our children and their children. There is a wide variety of activities organized for pupils to participate in every year. For instance, the E-waste disposal programme in partnership with ALBA Recycling Company, Recycled Artwork Display by the Art Department, Green Issues Showcase by the Environmental Science Club and Save the Pen project by the Scouts CCA.
 
 Recycled Artwork Display
+![picture5](/images/Science/picture5.png)
 
 
 Save the Pen
