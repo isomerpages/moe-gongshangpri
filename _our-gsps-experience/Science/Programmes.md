@@ -30,12 +30,21 @@ As part of the school's Earth Day commemoration event, we want to educate pupils
 Recycled Artwork Display
 ![picture5](/images/Science/picture5.png)
 
+![picture6](/images/Science/picture6.png)
+
+![picture7](/images/Science/picture7.jpg)
+
+![picture8](/images/Science/picture8.jpg)
+
 
 Save the Pen
+![picture9](/images/Science/picture9.jpg)
+
+![picture10](/images/Science/picture10.png)
 
 
 Green Issues Showcase
-
+![picture11](/images/Science/picture11.png)
 
 E-Waste Disposal Programme
 
