@@ -5,45 +5,104 @@ description: ""
 third_nav_title: Science
 ---
 ### **Programmes**
-The Science Department recognises that pupils need to be given a conducive environment and right guidance to be nurtured as critical thinkers and be driven to deeper learning in the areas they are passionate about. As such, the department strives to focus on the key strategic partnerships (the pupils, teachers and parents) to bring about learning success of the pupils.
+Guided by the Primary Science Syllabus 2023, we aim to design learning experiences to prepare our pupils to be self-directed and collaborative learners, one who is able to acquire and manage information to meet challenges of globalisation and increased international competitiveness. Our Science learning programmes aim to provide opportunities for pupils to acquire scientific concepts and develop process skills and positive attitudes in alignment with curriculum needs and pupils’ interest and abilities. 
+(Primary School Science Syllabus updated Oct 2022)
+https://www.moe.gov.sg/-/media/files/primary/syllabus/2023-primary-science.ashx
 
-Guided by the Primary Science Syllabus 2014, we aim to design learning experiences to prepare our pupils to be self-directed and collaborative learners, one who is able to acquire and manage information to meet challenges of globalisation and increased international competitiveness. Our Science learning programmes aim to provide opportunities for pupils to acquire scientific concepts and develop process skills and positive attitudes in alignment with curriculum needs and pupils’ interest and abilities.
-
-The following table shows the themes covered in the respective levels.
-
-| | Diversity | Interactions | Systems  |  Cycles | Energy |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|  Primary 3  | ♥ | ♥ | ♥  |   |  |
-| Primary 4 |  |  |   |  ♥ | ♥ |
-|  Primary 5 |   |   |  ♥ |  ♥ |  ♥ |
-| Primary 6  |   |  ♥ |   |   |  ♥ |
-|
 
 #### **Every Child A Seed (In partnership with NParks)**
-Every child in Primary 3 will be given a starter kit provided by NParks. This starter kit allows them to grow their own plant, caring for it from the germination of the seed till the adult stage. The programme ties in with the pupils’ learning of plant parts in the Science curriculum.
+The programme, launched in 2013 as a key activity to commemorate 50 Years of Greening, is one of the programmes organised by NParks to involve school pupils in appreciating greenery. Through the programme, we seek to share with your child that Singapore’s greenery is a result of every Singaporean’s dedicated effort and that they too, can play a part in maintaining our City in a Garden.
+ 
+We have planned for the programme to complement the Primary 3 Science topic on the life cycles of plants. Each Primary 3 pupil will receive a plant starter kit comprising a Plant Journal, a pot, seeds and potting mix. The Plant Journal contains simple instructions to teach the pupils how to grow and care for their plants. It also has simple activity sheets which the pupils can do. They can also share their plant stories with their classmates. 
 
-#### **Earth Day 2021**
-The school commemorated Earth Day on 22 April to celebrate the planet's environment and to raise public awareness about environmental issues. The theme of this year’s Earth Day is “Restore Our Earth”. Through the various programmes arranged, the pupils have come to an understanding that every action, no matter how small it may seem, counts towards restoring our earth.
+![picture1](/images/Science/picture1.jpg)
 
-**Project ‘Give-and-Share’:** The pupils have generously donated their pre-loved books and these books are given a new lease of life in their class library. Through this project, it has helped to instil the value of thrift as well as inculcate a culture of reading in our pupils.
+![picture2](/images/Science/picture2.jpg)
 
-<img src="/images/science1.jpg" style="width:65%">
+![picture3](/images/Science/picture3.jpg)
 
-‘**Save That Pen’ programme:** A collaboration with the scouts to recycle unwanted or used pens so that they can be given to underprivileged pupils in Singapore.
+![picture4](/images/Science/picture4.jpg)
 
-<img src="/images/science2.jpg" style="width:65%">
+#### **Earth Day**
+On the first Earth Day on 22 April 1970, environmental rallies were held in Philadelphia, Chicago, Los Angeles and other American cities. Since 1970, Earth Day celebrations have grown. In 1990, Earth Day went global, with 200 million people in over 140 nations participating, according to the Earth Day Network (EDN), a non-profit organization that coordinates Earth Day activities. Today, more than 1 billion people are involved in Earth Day activities, making it the largest secular civic event in the world.
+As part of the school's Earth Day commemoration event, we want to educate pupils about taking “Earthly” actions. Each of us play a small part, but together we can make a big difference to restore nature and build a healthy planet Earth for our children and their children. There is a wide variety of activities organized for pupils to participate in every year. For instance, the E-waste disposal programme in partnership with ALBA Recycling Company, Recycled Artwork Display by the Art Department, Green Issues Showcase by the Environmental Science Club and Save the Pen project by the Scouts CCA.
 
-Also, we are pleased to showcase photos of several activities carried out by different groups of pupils at our Earth Day Corner in the school library. Do click on the attachments below for photos of the winning art pieces of the ‘Restore Our Earth Character Design Challenge’ and some of the winners of the Earth Day Quiz!
+Recycled Artwork Display
+![picture5](/images/Science/picture5.png)
 
-1\. [2021 Restore Our Earth Character Design Challenge (collaboration with Art Department)](https://gongshangpri.moe.edu.sg/qql/slot/u523/Departments/Science/Earth%20Day/Earth%20Day%202021/2021%20Restore%20Our%20Earth%20Character%20Design%20Challenge.pdf) **file more than 5mb**<br>
-2\. [2021 Earth Day Quiz Winners](/files/sci2.pdf)
+![picture6](/images/Science/picture6.png)
 
-#### **Inches for Pocket Money (In partnership with SPH)**
-Primary 4 classes will observe the life cycle of a plant (Lady’s finger plant) through growing their own seed and caring for it. This is a meaningful project as every inch of the longest fruit produced will help raise funds for the less fortunate.
+![picture7](/images/Science/picture7.jpg)
 
-#### **Enrichment Programmes and Competitions**
-Selected Primary 4 - 6 pupils who display a high interest and ability in Science will be introduced to enrichment activities and competitions to further develop their critical thinking and communication skills.
+![picture8](/images/Science/picture8.jpg)
 
-<img src="/images/science3.jpg" style="width:65%">
 
-Pupils attending an Aerodynamics workshop at NUSH with hands-on activities to learn how planes fly.
+Save the Pen
+![picture9](/images/Science/picture9.jpg)
+
+![picture10](/images/Science/picture10.png)
+
+
+Green Issues Showcase
+![picture11](/images/Science/picture11.png)
+
+E-Waste Disposal Programme
+![picture12](/images/Science/picture12.png)
+
+#### **Hydroponics**
+
+The hydroponics programme for Primary 4 pupils involves teaching them how to grow plants in a water-based nutrient-rich solution without using soil. It offers a hands-on learning experience for pupils to spark their interest in Science and Agriculture. This activity allows pupils to apply their understanding on plant systems and life cycles when planting pupil the seedlings and observing the growth of the plants in the hydroponic system at the school’s Outdoor Learning Experiential Learning Area.
+Additionally, the hydroponics programme promotes sustainable agriculture practices and encourage healthy eating habits. By growing their own vegetables and herbs, pupils can learn about the benefits of fresh produce and the importance of a balanced diet. Overall, it provides an engaging and educational experience that promotes valuable skills and values.
+
+![picture13](/images/Science/picture13.jpg)
+
+![picture14](/images/Science/picture14.jpg)
+
+![picture15](/images/Science/picture15.jpg)
+
+![picture16](/images/Science/picture16.png)
+
+
+#### **Enrichment programmes and competitions**
+
+#### **Science Week**
+The Science week activities aim to engage pupils in hands-on activities related to the curriculum that they have learnt. Through the application of their knowledge in situations that stretch beyond the curriculum, we hope to imbue in them a sense of curiosity and develop their critical thinking skills.
+
+![picture17](/images/Science/picture17.jpg)
+
+![picture18](/images/Science/picture18.png)
+
+![picture19](/images/Science/picture19.jpg)
+
+![picture20](/images/Science/picture20.png)
+
+#### **E2K**
+The E2K Science Programme offers opportunities for pupils to engage in scientific investigations involving advanced science concepts. It allows pupils to engage in scientific inquiry that enables them to develop the habits, attitudes and dispositions a scientist possess. The rich learning experiences offered by the programme aims to imbue important 21st century competencies such as critical thinking, invention thinking and effective communication skills. 
+From 2021, we have worked with scientists from various fields to expose pupils to real-life applications of science concepts and sharing of experience working in science-related industries. Through working in groups, pupils also hone up their communication skills and learn to work with others. Together, they develop and strengthen their abilities to study phenomena and their possible causes.
+
+![picture21](/images/Science/picture21.jpg)
+
+![picture22](/images/Science/picture22.jpg)
+
+![picture23](/images/Science/picture23.jpg)
+
+![picture24](/images/Science/picture24.jpg)
+
+![picture25](/images/Science/picture25.jpg)
+
+![picture26](/images/Science/picture26.jpg)
+
+#### **Staff professional development**
+The Science Department organizes many professional development opportunities for teachers. We believe that in-service training is essential for teachers to stay relevant, whilst embracing the expanding impact of science to the future of our civilization. Yearly in-house workshops and learning journeys seek to build teachers’ capacity in the subject matter knowledge and pedagogical content knowledge. Peer to peer teacher interactions also foster camaraderie and synergy to develop ideas, analyze strategies and gather evidence to improve their classroom teaching and learning.
+
+![picture27](/images/Science/picture27.jpg)
+
+![picture28](/images/Science/picture28.jpg)
+
+![picture29](/images/Science/picture29.jpg)
+
+![picture30](/images/Science/picture30.jpg)
+
+![picture31](/images/Science/picture31.jpg)
+
+![picture32](/images/Science/picture32.jpg)
