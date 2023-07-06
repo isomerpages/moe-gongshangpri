@@ -54,17 +54,55 @@ E-Waste Disposal Programme
 The hydroponics programme for Primary 4 pupils involves teaching them how to grow plants in a water-based nutrient-rich solution without using soil. It offers a hands-on learning experience for pupils to spark their interest in Science and Agriculture. This activity allows pupils to apply their understanding on plant systems and life cycles when planting pupil the seedlings and observing the growth of the plants in the hydroponic system at the school’s Outdoor Learning Experiential Learning Area.
 Additionally, the hydroponics programme promotes sustainable agriculture practices and encourage healthy eating habits. By growing their own vegetables and herbs, pupils can learn about the benefits of fresh produce and the importance of a balanced diet. Overall, it provides an engaging and educational experience that promotes valuable skills and values.
 
+![picture13](/images/Science/picture13.jpg)
+
+![picture14](/images/Science/picture14.jpg)
+
+![picture15](/images/Science/picture15.jpg)
+
+![picture16](/images/Science/picture16.png)
+
+
 #### **Enrichment programmes and competitions**
 
 #### **Science Week**
 The Science week activities aim to engage pupils in hands-on activities related to the curriculum that they have learnt. Through the application of their knowledge in situations that stretch beyond the curriculum, we hope to imbue in them a sense of curiosity and develop their critical thinking skills.
 
+![picture17](/images/Science/picture17.jpg)
 
+![picture18](/images/Science/picture18.png)
 
+![picture19](/images/Science/picture19.jpg)
+
+![picture20](/images/Science/picture20.png)
 
 #### **E2K**
 The E2K Science Programme offers opportunities for pupils to engage in scientific investigations involving advanced science concepts. It allows pupils to engage in scientific inquiry that enables them to develop the habits, attitudes and dispositions a scientist possess. The rich learning experiences offered by the programme aims to imbue important 21st century competencies such as critical thinking, invention thinking and effective communication skills. 
 From 2021, we have worked with scientists from various fields to expose pupils to real-life applications of science concepts and sharing of experience working in science-related industries. Through working in groups, pupils also hone up their communication skills and learn to work with others. Together, they develop and strengthen their abilities to study phenomena and their possible causes.
 
+![picture21](/images/Science/picture21.jpg)
+
+![picture22](/images/Science/picture22.jpg)
+
+![picture23](/images/Science/picture23.jpg)
+
+![picture24](/images/Science/picture24.jpg)
+
+![picture25](/images/Science/picture25.jpg)
+
+![picture26](/images/Science/picture26.jpg)
+
 #### **Staff professional development**
 The Science Department organizes many professional development opportunities for teachers. We believe that in-service training is essential for teachers to stay relevant, whilst embracing the expanding impact of science to the future of our civilization. Yearly in-house workshops and learning journeys seek to build teachers’ capacity in the subject matter knowledge and pedagogical content knowledge. Peer to peer teacher interactions also foster camaraderie and synergy to develop ideas, analyze strategies and gather evidence to improve their classroom teaching and learning.
+
+![picture27](/images/Science/picture27.jpg)
+
+![picture28](/images/Science/picture28.jpg)
+
+![picture29](/images/Science/picture29.jpg)
+
+![picture30](/images/Science/picture30.jpg)
+
+![picture31](/images/Science/picture31.jpg)
+
+![picture32](/images/Science/picture32.jpg)
