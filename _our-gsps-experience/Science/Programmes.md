@@ -47,6 +47,7 @@ Green Issues Showcase
 ![picture11](/images/Science/picture11.png)
 
 E-Waste Disposal Programme
+![picture12](/images/Science/picture12.png)
 
 #### **Hydroponics**
 
