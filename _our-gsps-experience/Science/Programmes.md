@@ -45,4 +45,8 @@ The Science week activities aim to engage pupils in hands-on activities related 
 
 #### **E2K**
 The E2K Science Programme offers opportunities for pupils to engage in scientific investigations involving advanced science concepts. It allows pupils to engage in scientific inquiry that enables them to develop the habits, attitudes and dispositions a scientist possess. The rich learning experiences offered by the programme aims to imbue important 21st century competencies such as critical thinking, invention thinking and effective communication skills. 
-From 2021, we have worked with scientists from various fields to expose pupils to real-life applications of science concepts and sharing of experience working in science-related industries. Through working in groups, pupils also hone up their communication skills and learn to work with others. Together, they develop and strengthen their abilities to study phenomena and their possible causes.  
+From 2021, we have worked with scientists from various fields to expose pupils to real-life applications of science concepts and sharing of experience working in science-related industries. Through working in groups, pupils also hone up their communication skills and learn to work with others. Together, they develop and strengthen their abilities to study phenomena and their possible causes.
+
+#### **Staff professional development**
+The Science Department organizes many professional development opportunities for teachers. We believe that in-service training is essential for teachers to stay relevant, whilst embracing the expanding impact of science to the future of our civilization. Yearly in-house workshops and learning journeys seek to build teachers’ capacity in the subject matter knowledge and pedagogical content knowledge. Peer to peer teacher interactions also foster camaraderie and synergy to develop ideas, analyze strategies and gather evidence to improve their classroom teaching and learning.
+
