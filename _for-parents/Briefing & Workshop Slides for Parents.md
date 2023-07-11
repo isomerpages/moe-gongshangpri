@@ -21,9 +21,5 @@ description: ""
 [PSLE 2023 - Parent Engagement Session on Full Subject Based Banding ](/files/psle%202023%20-%20parent%20engagement%20session%20on%20full%20subject%20based%20banding.pdf)
 
 
-### **Engagement Session on New PSLE Scoring for P4 Parents**
-
-Click&nbsp;[here](/files/Parents%20Engagement%20Deck%20on%20Changes%20to%20PSLE%20-%20for%202019%20P4%20Parents%20(handout).pdf)&nbsp;to view.
-
 ### **PSLE Results 2022**
 Click&nbsp;[here](/files/psleresults2022.pdf)&nbsp;for more information.
