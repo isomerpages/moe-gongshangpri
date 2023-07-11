@@ -4,7 +4,7 @@ permalink: /announcements/
 description: ""
 ---
 #### **Maths Quiz for Semester 2 2023**
-Please click [here](https://forms.gle/9oGsnWvw1T2KJrFy6) for the quiz.
+Please click [here](https://forms.gle/9oGsnWvw1T2KJrFy6) for the quiz or scan the QR code. 
 
 
 
