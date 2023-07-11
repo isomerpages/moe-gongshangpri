@@ -6,6 +6,10 @@ description: ""
 #### **Maths Quiz for Semester 2 2023**
 Please click [here](https://forms.gle/9oGsnWvw1T2KJrFy6) for the quiz .
 
+#### **July bulletin**
+
+Please click [here](/files/july%20bulletin%202023.pdf) for our July bulletin.
+
 
 #### **Information on Full Subject-Based Banding in Secondary schools (FSBB)**
 
@@ -23,9 +27,6 @@ Click [here](https://www.scamalert.sg/) to learn more about scams and how to a
 
 Please click [here](https://www.gongshangpri.moe.edu.sg/our-gsps-experience/cce/programmes/sex-edu/)
 
-#### **Term 2 Maths Quiz**
-
-Please click [here](https://forms.gle/CScRqVeBwC5FnS8n8) for the quiz.
 
 #### **P1 Orientation briefing for Y2023 P1 pupils**
 
@@ -59,6 +60,3 @@ More information can be found [here](/useful-links/for-parents/covid-19).
 
 Please click [here](/files/GSPS%20PERI%20Upgrading%20FAQ%20(dated%2013%20March%202020).pdf) to view the FAQ regarding our school's PERI upgrading project.
 
-#### **July bulletin**
-
-Please click [here](/files/july%20bulletin%202023.pdf) for our July bulletin.
