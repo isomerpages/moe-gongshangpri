@@ -17,6 +17,9 @@ description: ""
 **Primary 5 &amp; 6**<br>
 [P5 &amp; 6 Parents' briefing slides 2 February 2023](/files/p5p6a.pdf)
 
+PSLE 2023 - Parent Engagement
+Session on Full Subject Based Banding 
+
 ### **Primary 1 Orientation Slides for Y2023 P1 pupils**
 Click&nbsp;[here](/files/17%20Nov%202022%20P1%20Orientation%20briefing%20for%20Y2023%20P1.pdf) to view.
 
