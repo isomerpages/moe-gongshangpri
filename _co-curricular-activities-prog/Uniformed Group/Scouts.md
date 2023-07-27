@@ -50,13 +50,13 @@ Adiji Chief Scout event is the official event which is dedicated to welcome our 
 
 The Cub Scout Field Day was also carried out on the same day. It is the cub scout version of sports day for all cub scouts in every school in Singapore.
 
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQZvpQ2y6tDn-O4ujFxw9pKB9BS2kd_0nnOygXnwrpuj7RFKdFCfy4LgKVTkvt__9fAqnkFeD5MwSm4/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSscHI5A46NoPCqyT2nKpPDhbtiNJNPMP1QPNxAXWBwOXZSHwZsfOQRvmRUXtRTlYgnAhmHPiU1lCL5/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 
 ### **Explorer Camp**
 The Explorer Camp is organised to provide avenue for the cub scouts to complete their badgeworks while enjoying outdoor learning. The camp aims to inculcate values and provide skills for life to cub scouts.
 
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRhrBy2UgeQxuFWfJTIuW3oJYMI7PQl6Fa2bNWd91P5E0yZQD0VmK413qTvvhIIGNQaNEYpOYZdPRkD/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTLo1lxfMYMneJ3rVrZOJpHy7rhPtEbJaYDCUG8Tk_b8s14Qt9w_lhBkA94EhBAhp7k71r6reE3P0vb/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 ### **Reminders**
 ##### **Scout Uniform**
