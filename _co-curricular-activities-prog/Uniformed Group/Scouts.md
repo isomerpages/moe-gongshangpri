@@ -6,7 +6,7 @@ third_nav_title: Uniformed Group
 ---
 ### **Scouts**
 
-<img align="left" style="width:35%" src="/images/scout1.png"> 
+<img src="/images/scout1.png" style="width:35%" align="left"> 
 
 
 <br clear="left">
@@ -33,37 +33,37 @@ third_nav_title: Uniformed Group
 
 ##### **Scouts Youtube links**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="The Singapore Scout Association" src="https://www.youtube.com/embed/RlYZWS1sLn4" height="350" width="700"></iframe>
+<iframe width="700" height="350" src="https://www.youtube.com/embed/RlYZWS1sLn4" title="The Singapore Scout Association" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Singapore Scout Animations" src="https://www.youtube.com/embed/KGTIjB1VGp0" height="350" width="700"></iframe>
+<iframe width="700" height="350" src="https://www.youtube.com/embed/KGTIjB1VGp0" title="Singapore Scout Animations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Uniformed Groups" src="https://www.youtube.com/embed/mhi8gLgZtrU" height="350" width="700"></iframe>
+<iframe width="700" height="350" src="https://www.youtube.com/embed/mhi8gLgZtrU" title="Uniformed Groups" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="The 9 Uniformed Groups in Singapore" src="https://www.youtube.com/embed/GKZM8ns0wxQ" height="350" width="700"></iframe>
+<iframe width="700" height="350" src="https://www.youtube.com/embed/GKZM8ns0wxQ" title="The 9 Uniformed Groups in Singapore" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Bicengennial Hike 2019" src="https://www.youtube.com/embed/YCHK2KPLiUw" height="350" width="700"></iframe>
+<iframe width="700" height="350" src="https://www.youtube.com/embed/YCHK2KPLiUw" title="Bicengennial Hike 2019" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="East Area Explorer camp 2018" src="https://www.youtube.com/embed/Ftx1e_oIWxk" height="350" width="700"></iframe>
+<iframe width="700" height="350" src="https://www.youtube.com/embed/Ftx1e_oIWxk" title="East Area Explorer camp 2018" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ### **Adiji 2018**
 Adiji Chief Scout event is the official event which is dedicated to welcome our Chief Scout, President of Singapore. Every Singapore President is the Chief Scout of the Singapore Scout Association. Mdm Halimah Yacob was welcomed to to be the Chief Scout on Saturday 7 April 2018.
 
 The Cub Scout Field Day was also carried out on the same day. It is the cub scout version of sports day for all cub scouts in every school in Singapore.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSscHI5A46NoPCqyT2nKpPDhbtiNJNPMP1QPNxAXWBwOXZSHwZsfOQRvmRUXtRTlYgnAhmHPiU1lCL5/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSscHI5A46NoPCqyT2nKpPDhbtiNJNPMP1QPNxAXWBwOXZSHwZsfOQRvmRUXtRTlYgnAhmHPiU1lCL5/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 
 ### **Explorer Camp**
 The Explorer Camp is organised to provide avenue for the cub scouts to complete their badgeworks while enjoying outdoor learning. The camp aims to inculcate values and provide skills for life to cub scouts.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRhrBy2UgeQxuFWfJTIuW3oJYMI7PQl6Fa2bNWd91P5E0yZQD0VmK413qTvvhIIGNQaNEYpOYZdPRkD/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="800" height="450" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTLo1lxfMYMneJ3rVrZOJpHy7rhPtEbJaYDCUG8Tk_b8s14Qt9w_lhBkA94EhBAhp7k71r6reE3P0vb/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 ### **Reminders**
 ##### **Scout Uniform**
 
-<img style="width:80%" src="/images/sch%20uniform.jpg">
+<img src="/images/sch%20uniform.jpg" style="width:80%">
 
 ### **Uniform Badge placement**
 
-<img style="width:80%; margin-bottom:15px" src="/images/badge1.jpg">
-<img style="width:80%" src="/images/badge2.jpg">
+<img src="/images/badge1.jpg" style="width:80%; margin-bottom:15px">
+<img src="/images/badge2.jpg" style="width:80%">
