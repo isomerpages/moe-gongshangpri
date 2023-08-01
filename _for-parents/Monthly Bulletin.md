@@ -5,6 +5,8 @@ description: ""
 ---
 ### **Monthly Bulletin**
 
+[August 2023](/files/gsps%20august%20bulletin%202023.pdf)
+
 [July 2023](/files/july%20bulletin%202023.pdf)
 
 [May/June 2023](/files/mayjune%202023%20bulletin.pdf)
