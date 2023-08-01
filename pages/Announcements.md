@@ -6,9 +6,9 @@ description: ""
 #### **Maths Quiz for Semester 2 2023**
 Please click [here](https://forms.gle/9oGsnWvw1T2KJrFy6) for the quiz .
 
-#### **July bulletin**
+#### **August bulletin**
 
-Please click [here](/files/july%20bulletin%202023.pdf) for our July bulletin.
+Please click [here](/files/gsps%20august%20bulletin%202023.pdf) for our August bulletin.
 
 
 #### **Information on Full Subject-Based Banding in Secondary schools (FSBB)**
@@ -59,4 +59,3 @@ More information can be found [here](/useful-links/for-parents/covid-19).
 #### **PERI Upgrading FAQ**
 
 Please click [here](/files/GSPS%20PERI%20Upgrading%20FAQ%20(dated%2013%20March%202020).pdf) to view the FAQ regarding our school's PERI upgrading project.
-
