@@ -5,10 +5,9 @@ description: ""
 ---
 #### **MOE ECHA 2023**
 
-MOE Edusave Character Award (ECHA) 2023. Nominations start from 1 August 2023 to 25 August 2023. Please click the following links for more details.
+MOE Edusave Character Award (ECHA) 2023. Nominations start from 1 August 2023 to 25 August 2023. Please click on the following links for more details.
 
-[GSPS ECHA policy](/files/gsps%20policy.pdf)
-<br>
+
 [ECHA Nomination form](/files/echa_n1_nomination%20form_%20staff%20parents%20coaches_2023.pdf)
 
 #### **August bulletin**
