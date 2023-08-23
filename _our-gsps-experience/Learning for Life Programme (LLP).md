@@ -19,7 +19,4 @@ SOAR is dedicated to providing a multifaceted approach to sports education, ensu
 **Engagement:** As individuals progress, they foster a deeper connection to sports through active participation in Co-Curricular Activities (CCA). This involvement is a pivotal step toward refining and expanding skills. Moving from fundamental to intermediate levels of proficiency, students gain a profound understanding of their chosen activities, translating to a holistic and enriched sports experience.<br>
 **Enthuse:** The programme is geared towards those who demonstrate remarkable excellence in their respective sports. It is a platform for students with a keen interest and exceptional ability to explore diverse sporting avenues, fostering both excellence and exploration. This initiative encapsulates our commitment not only to nurturing excellence but also inspiring a lifelong love for sports and a broader exploration of sports possibilities. 
 
-Together, these 3 Es work in synergy to create a comprehensive and sporting learning opportunity within SOAR. 
-
-
-
+Together, these 3 Es work in synergy to create a comprehensive and sporting learning opportunity within SOAR.
