@@ -4,24 +4,22 @@ permalink: /our-gsps-experience/llp/
 description: ""
 ---
 ### **Learning for Life Programme (LLP)**
-The Learning for Life (LLP) programme aims to provide meaningful, holistic and purposeful opportunities for real-life application of learning. In Gongshang Primary School through our LLP - “Moulding Character, Nurturing Leaders”, we seek to inculcate values such as perseverance, integrity, resilience, graciousness and sportsmanship, and develop leadership qualities in students through sports and outdoor education. Students acquire and demonstrate important lifeskills and social and emotional competencies in authentic contexts. The LLP also provides students with opportunities for authentic learning and character building.  Through creating positive and meaningful learning experiences in and out of the classrooms, we aim to nurture our students into “Active Learners, Confident Leaders and Gracious Citizens.”
 
-The objectives are as follows:
+**Objectives** <br>
+The focus of the Sports Opportunities and Achievement pRogramme (SOAR) is centered around providing comprehensive sporting learning opportunities and enriching experiences for all students. The core objective of this programme is to offer a well-rounded approach to sports development, which encompasses not only the enhancement of specific skills but also emphasizes personal growth, character development and sustained engagement in sports activities. Beyond honing physical abilities, participants are guided in developing qualities like discipline, teamwork, resilience, and leadership. These attributes not only enhance their performance on the playing field but also serve as valuable assets in all aspects of life.
 
-##### **Level 1: Broad-Based Development**
-To provide opportunities through the school’s sports and leadership programmes to 
+The primary intention at Tier 1, which emphasizes broad-based development, is to introduce students to a holistic range of sports offerings available within the school's PE and PAL programmes. These programmes provide students with the chance to explore a diverse array of sports, enabling them to acquire new skills and values related to sportsmanship and teamwork. These experiences are woven into the regular curriculum hours, ensuring accessibility to all students.
 
-* shape our students into leaders of good character and sound values
-* develop and discover our students’ potential through various leadership roles 
+At the Tier 2 level, known as the Sports Excellence tier, the programme's focus shifts towards the identification and nurturing of students displaying remarkable potential and talents in sports. Our aim is to cultivate these talents with the ultimate goal of achieving excellence. Through a careful selection process, students who demonstrate a natural aptitude for a particular sport are identified and recognized. These students become integral members of the school team in key CCAs including Track &amp; Field, Wushu, Basketball, Badminton, and Floorball.
+SOAR is dedicated to providing a multifaceted approach to sports education, ensuring that every student has the chance to engage, learn, and grow through sports. From broad exposure to a variety of sports to specialized training for those with exceptional potential, SOAR is committed to nurturing a culture of sportsmanship, skill development, and personal accomplishment among students.
 
-Through curriculum such as Programme for Active Learning (PAL), physical education (PE) lessons, co-curricular activities (CCA) and in-house school programmes such as Sports Day, Healthy Lifestyle Fiesta, learn-to-play sports learning journeys, we hope to expose students to a wide range of sporting activities and inculcate in students the love of engaging in sports not only during their school years but also beyond that. We also aim to inculcate in students core values, social and emotional competencies and emerging 21st century competencies through these platforms. Every student in Gongshang is given an opportunity to be a leader in their class committee. To develop their self-leadership and capacity to achieve self-mastery and personal effectiveness, all students will undergo Franklin Covey’s “The Leaders in Me Programme”, conducted during FTGP.
+**Approach (The 3 E approach) for SOAR**
+<br>
+**Exposure:** The foundation of our approach lies in providing comprehensive exposure to all individuals. This commences with a broad-based development curriculum within the Physical Education (PE) programme. This foundational experience lays the groundwork for a lifelong engagement with recreational sports, ensuring that the skills and knowledge acquired continue to serve individuals well beyond their academic years. <br>
+**Engagement:** As individuals progress, they foster a deeper connection to sports through active participation in Co-Curricular Activities (CCA). This involvement is a pivotal step toward refining and expanding skills. Moving from fundamental to intermediate levels of proficiency, students gain a profound understanding of their chosen activities, translating to a holistic and enriched sports experience.<br>
+**Enthuse:** The programme is geared towards those who demonstrate remarkable excellence in their respective sports. It is a platform for students with a keen interest and exceptional ability to explore diverse sporting avenues, fostering both excellence and exploration. This initiative encapsulates our commitment not only to nurturing excellence but also inspiring a lifelong love for sports and a broader exploration of sports possibilities. 
 
-##### **Level 2: Sports and Leadership Excellence**
+Together, these 3 Es work in synergy to create a comprehensive and sporting learning opportunity within SOAR. 
 
-To develop and cultivate students with potential and talents in sports and leadership towards excellence
 
-* Self leadership – Taking ownership of one’s own growth and learning
-* Team leadership – Leading others with competence and care
-* Thought Leadership – Leading, influencing and inspiring others and creating value to school through quality insight and innovation
 
-Students with potential and talents in sports and leadership will further develop their leadership qualities and competencies when they are identified to serve the school in their capacities as prefects, CCA leaders and CCA Captains/Chairman. They are given opportunities to lead others with competence and influence others, thus achieving positive outcomes and impact. The overseas sports immersion and learning journey is another platform for these students to step beyond their comfort zones and apply their learning and leadership in an authentic real-life setting. Through these varied learning experiences, students will also develop resilience and drive for excellence to lead a fuller and holistic school life.
