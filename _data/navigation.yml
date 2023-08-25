@@ -3,6 +3,8 @@ links:
   - title: Our GSPS Family
     url: /our-gsps-family/our-history/
     sublinks:
+      - title: Principal's Message
+        url: /our-gsps-family/permalink/
       - title: Our History
         url: /our-gsps-family/our-history/
       - title: Our School Crest and Song
@@ -19,6 +21,8 @@ links:
         url: /our-gsps-family/alumni/alumni-association/
       - title: Teaching & Non-Teaching Staff
         url: /our-gsps-family/staff/
+      - title: Submenu Title
+        url: /permalink
   - title: Our GSPS Experience
     url: /our-gsps-experience/cce/
     sublinks:
