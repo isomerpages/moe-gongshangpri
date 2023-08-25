@@ -5,12 +5,12 @@ description: ""
 ---
 ### **Our History**
 #### **The School**
-The school was founded in January 1920 by Mr Shi Su.The running of the school was financed by Mr Lin Zeyang and his fellow supporters.
+The school was founded in January 1920 by Mr Shi Su. The running of the school was financed by Mr Lin Zeyang and his fellow supporters.
 
 It began as a night school at 267 Tanjong Pagar Road - a place on loan from Yinbin Club. The school catered to the needs of the young migrants from China. On 1 March 1920, the school moved to 30 Enggor Street and a day school was initiated. It helped to provide education to the children of the migrants.
 
 #### **The Troubled Years**
-<img src="/images/history1.jpg" style="width:35%" align=left>
+<img src="/images/history1.jpg" style="width:35%" align="left">
 
 <br clear="left">
 
@@ -20,7 +20,7 @@ More obstacles cropped up. In September, new rules were laid down for the regist
 
 The school again ran into financial difficulty in 1922. And it was again Mr Lin Muqun and other night class students who saved the school. As Gongshang was a privately run Chinese school, it was unable to secure any grant from the British Government. All expenses were met by donations received mainly from the Chinese community. Times were hard.
 
-<img src="/images/history2.jpg" style="width:65%" align=left>
+<img src="/images/history2.jpg" style="width:65%" align="left">
 
 <br clear="left">
 
@@ -31,14 +31,14 @@ The Association organised activities not only to raise funds for the school but 
 
 Mr Lin looked beyond the needs of basic education. His far-sightedness was reflected clearly in his incorporation of vocational training into the school curriculum - a move unheard of then.
 
-<img src="/images/history3.jpg" style="width:45%" align=left>
+<img src="/images/history3.jpg" style="width:45%" align="left">
 
 <br clear="left">
 
 #### **York Hill**
 The school enrolment increased rapidly and Mr Lin anticipated the need for expansion. In 1926, with the support of the Old Boys' Association, the Board of Directors and the migrant Chinese society, Mr Lin set up a committee for the school building fund. A piece of land at Outram Road, the York Hill was acquired. The school moved into its new building in June 1929, a place it could call its own. It was a pride of the time - a spacious, ultra-modern and well-equipped building.
 
-<img src="/images/history4.gif" style="width:45%" align=left>
+<img src="/images/history4.gif" style="width:45%" align="left">
 
 <br clear="left">
 
@@ -46,7 +46,7 @@ Mr Lin's dedication to the school and education was hard to match. He oversaw al
 
 #### **Zeyang Hall**
 
-<img src="/images/history5.jpg" style="width:45%" align=left>
+<img src="/images/history5.jpg" style="width:45%" align="left">
 
 <br clear="left">
 
@@ -90,6 +90,3 @@ Under his able leadership, the school enrolment increased steadily and before lo
 The Second World War broke out and the school stopped functioning temporarily. In 1945, the school resumed operation. There was an unusually large number of overaged pupils seeking admission as they were deprived of it during the War. The school bought over another 180 000 square feet of land adjacent to it for a new school building. Unfortunately, before Mr Lin could realise his plan, he was struck down with illness. Even on his sick bed, he showed concern for the school. He planned and guided his subordinates until his last days. He passed away at the age of 60 on 16 July 1948. It was a great loss, not only to Gongshang but also to education in Singapore. Such an educationist is rare. He helped the school through its difficult years. He had helped bond the school management, Old Boys' Association and the migrant Chinese society into a single force for the furtherance of education.
 
 We are fortunate to have him.
-
-
-
