@@ -13,17 +13,17 @@ Our school's history is a tapestry woven with threads of dedication, resilience,
 
 From its humble beginnings as a night school at Tanjong Pagar Road, Gongshang Primary School has evolved into a vibrant community of learners, educators, and parents who collectively contribute to the rich tapestry of our institution. Our legacy is characterized by academic achievements, artistic endeavors, sporting triumphs, and above all, the nurturing of well-rounded individuals ready to face the challenges of the world.
 
-Forging Active Learners, Confident Leaders, and Gracious Citizens
+<u>Forging Active Learners, Confident Leaders, and Gracious Citizens </u>
 
 Our school's Vision of ‘active learners, confident leaders, and gracious citizens' encapsulates our commitment to nurturing students who are not only academically proficient, but also possess the qualities required to succeed in an ever-changing world.
 
-Active Learners: At Gongshang, we believe in cultivating a thirst for knowledge that extends beyond the classroom. Our students are encouraged to be curious, inquisitive, and proactive in their pursuit of learning. By fostering critical thinking, creativity, and a love for lifelong learning, we empower our students to thrive in a knowledge-driven society. Our Applied Learning Programme (ALP) - Fluent Speakers Future Stars: Developing Gongshangers into Effective Communicators, and Learning for Life Programme (LLP) - S.O.A.R. (Sports Opportunities and Achievement pRogramme) complement our core academic and student development programmes, offering our students more opportunities to pursue learning in line with their interests, while enabling them to develop 21st Century Competencies (21CC). 
+<i>Active Learners</i>: At Gongshang, we believe in cultivating a thirst for knowledge that extends beyond the classroom. Our students are encouraged to be curious, inquisitive, and proactive in their pursuit of learning. By fostering critical thinking, creativity, and a love for lifelong learning, we empower our students to thrive in a knowledge-driven society. Our Applied Learning Programme (ALP) - Fluent Speakers Future Stars: Developing Gongshangers into Effective Communicators, and Learning for Life Programme (LLP) - S.O.A.R. (Sports Opportunities and Achievement pRogramme) complement our core academic and student development programmes, offering our students more opportunities to pursue learning in line with their interests, while enabling them to develop 21st Century Competencies (21CC). 
 
-Confident Leaders: Leadership is a cornerstone of our educational philosophy. Through a combination of guidance, mentorship, and experiential learning opportunities, we empower our students to discover and develop their leadership potential. Whether it's through student leadership roles (such as prefects, CCA leaders, peer support leaders and class representatives), community service projects (e.g. P5 VIA project and P6 E-bazaar), or academic pursuits, our students graduate with the confidence and skills necessary to make positive contributions to society.
+<i>Confident Leaders</i>: Leadership is a cornerstone of our educational philosophy. Through a combination of guidance, mentorship, and experiential learning opportunities, we empower our students to discover and develop their leadership potential. Whether it's through student leadership roles (such as prefects, CCA leaders, peer support leaders and class representatives), community service projects (e.g. P5 VIA project and P6 E-bazaar), or academic pursuits, our students graduate with the confidence and skills necessary to make positive contributions to society.
 
-Gracious Citizens: In a globalized world, being a gracious citizen is of paramount importance. We instill in our students a deep sense of rootedness to the country, social responsibility, empathy, and cultural awareness. Through various community engagement initiatives and character education programmes, our students learn the value of compassion, respect, and the significance of giving back to the community. 
+<i>Gracious Citizens</i>: In a globalized world, being a gracious citizen is of paramount importance. We instill in our students a deep sense of rootedness to the country, social responsibility, empathy, and cultural awareness. Through various community engagement initiatives and character education programmes, our students learn the value of compassion, respect, and the significance of giving back to the community. 
 
-A Shared Journey Ahead
+<u>A Shared Journey Ahead</u>
 
 With a dedicated team of educators, supportive parents, and motivated students, I am confident that we will continue to uphold the legacy of Gongshang Primary School while embracing innovation and change.
 
@@ -35,3 +35,4 @@ Thank you for being a part of the Gongshang Primary School family. Together, let
 Yours-in-education,
 Mrs Soh-Lim Tzyy Shiuan
 Principal, Gongshang Primary School
+
