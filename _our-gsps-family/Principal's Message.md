@@ -32,7 +32,9 @@ I would like to take this opportunity to extend my heartfelt gratitude to our pa
 Thank you for being a part of the Gongshang Primary School family. Together, let us script another chapter of success, growth, and impact.
 
 
-Yours-in-education,
-Mrs Soh-Lim Tzyy Shiuan
-Principal, Gongshang Primary School
+Yours-in-education, <br>
+Mrs Soh-Lim Tzyy Shiuan <br>
+Principal <br>
+Gongshang Primary School
+
 
