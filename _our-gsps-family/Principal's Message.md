@@ -36,4 +36,4 @@ Yours-in-education, <br>
 Mrs Soh-Lim Tzyy Shiuan <br>
 Principal <br>
 Gongshang Primary School <br>
-<img src="/images/mrssoh.jpg" style="width:30%; margin-bottom:15px" align="left">
+<img src="/images/mrssoh.jpg" style="width:40%; margin-bottom:15px" align="left">
