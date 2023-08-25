@@ -35,4 +35,5 @@ Thank you for being a part of the Gongshang Primary School family. Together, let
 Yours-in-education, <br>
 Mrs Soh-Lim Tzyy Shiuan <br>
 Principal <br>
-Gongshang Primary School
+Gongshang Primary School <br>
+<img src="/images/mrssoh.jpg" style="width:50%; margin-bottom:15px" align="left">
