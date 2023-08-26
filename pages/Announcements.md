@@ -9,6 +9,8 @@ ad-hoc visitors (e.g. ex-pupils) will not be allowed access into the school on 3
 
 #### **MOE ECHA 2023**
 
+<i>Nomination has closed.</i> 
+
 MOE Edusave Character Award (ECHA) 2023. Nominations start from 1 August 2023 to 25 August 2023. Please click on the following links for more details.
 
 [ECHA Policy](/files/2023_echa_gsps%20policy.pdf)
