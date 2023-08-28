@@ -28,8 +28,6 @@ A two-tier programme that uses both English Language (EL) and Mother Tongue Lang
 
 <img src="/images/alp_storytellers (2).jpeg" style="width:100%; margin-bottom:15px">
 
-<img src="/images/alp_storytellers (2).jpeg" style="width:100%; margin-bottom:15px">
+<img src="/images/alp_storytellers (3).jpeg" style="width:100%; margin-bottom:15px">
 
-
-
-
+<img src="/images/alp_student emcees.jpg" style="width:100%; margin-bottom:15px">
