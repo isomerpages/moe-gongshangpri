@@ -16,19 +16,25 @@ A two-tier programme that uses both English Language (EL) and Mother Tongue Lang
 | Tier 2  |  Future Stars(Selected P3 to P5 pupils) | •	Speak confidently, coherently and cohesively for diverse audiences and purposes – use language to create spoken discourses to communicate meaning and achieve impact <br>•Interact with others to explore ideas and work collaboratively in a respectful manner to meet group goals | #Speech and Drama <br>#Presentation Skills <br> #Junior Newscasters <br>#Roving Journalists <br> #School Ambassadors <br>#Student Emcees
 
 
-<img src="/images/alp_group storytelling.jpeg" style="width:80%; margin-bottom:5px">                    <figcaption>Group storytelling </figcaption> <br>
+<img src="/images/alp_group storytelling.jpeg" style="width:80%; margin-left:5px">                              Group storytelling <br> 
 
-<img src="/images/alp_moo o read aloud.jpeg" style="width:80%; margin-bottom:15px">
+<img src="/images/alp_moo o read aloud.jpeg" style="width:80%; margin-left:5px"> 
+Moo O Read Aloud <br> <br>
 
+<img src="/images/alp_preparing to spin a tale.jpeg" style="width:80%; margin-left:5px"> 
+Preparing to spin a tale <br> <br>
 
-<img src="/images/alp_preparing to spin a tale.jpeg" style="width:80%; margin-bottom:15px">
+<img src="/images/alp_speech and drama.jpeg" style="width:80%; margin-left:5px"> 
+Speech and Drama <br> <br>
 
-<img src="/images/alp_speech and drama.jpeg" style="width:80%; margin-bottom:15px">
+<img src="/images/alp_spin a tale - storytellers in action!.jpeg" style="width:80%; margin-left:5px"> 
+Spin a tale: storytellers in action! <br> <br>
 
-<img src="/images/alp_spin a tale - storytellers in action!.jpeg" style="width:80%; margin-bottom:15px">
+<img src="/images/alp_storytellers (2).jpeg" style="width:80%; margin-left:5px"> 
+Storytellers <br> <br>
 
-<img src="/images/alp_storytellers (2).jpeg" style="width:80%; margin-bottom:15px">
+<img src="/images/alp_storytellers (3).jpeg" style="width:80%; margin-left:5px"> 
+Storytellers <br> <br>
 
-<img src="/images/alp_storytellers (3).jpeg" style="width:80%; margin-bottom:15px">
-
-<img src="/images/alp_student emcees.jpg" style="width:80%; margin-bottom:15px">
+<img src="/images/alp_student emcees.jpg" style="width:80%; margin-left:5px">
+Student emcees <br> <br>
