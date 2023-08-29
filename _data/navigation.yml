@@ -21,8 +21,6 @@ links:
         url: /our-gsps-family/alumni/alumni-association/
       - title: Teaching & Non-Teaching Staff
         url: /our-gsps-family/staff/
-      - title: Submenu Title
-        url: /permalink
   - title: Our GSPS Experience
     url: /our-gsps-experience/cce/
     sublinks:
@@ -46,6 +44,8 @@ links:
         url: /our-gsps-experience/staff-professional-development/
       - title: Learning for Life Programme
         url: /our-gsps-experience/llp/
+      - title: Applied Learning Programme
+        url: /our-gsps-experience/permalink
   - title: MOE Kindergarten @ Gongshang
     url: /kindergarten/about-mk/
     sublinks:
