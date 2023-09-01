@@ -777,7 +777,7 @@ tr:nth-child(even) {
     <td>Science Lab assistant</td>
     	
 </tr><tr>
-<td>Ms Catherine Foo</td>
+<td>Ms Cathy Tan</td>
 <td>Library assistant</td>
 		
 
