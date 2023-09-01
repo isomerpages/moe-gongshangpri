@@ -58,13 +58,13 @@ tr:nth-child(even) {
   
   </tr><tr>
     <td>Mr Poon Yain Ping (School Staff Developer)</td>
-    <td>poon_yain_ping@moe.edu.sg</td>
+    <td>poon.yain.ping@gsps.edu.sg</td>
     
     
      
   </tr><tr>
     <td>Mrs Jannie Lee (HOD/English Language)</td>
-    <td>loh_sook_fun_jannie@moe.edu.sg</td>
+    <td>jannie.lee@gsps.edu.sg</td>
     
     
    
@@ -76,34 +76,34 @@ tr:nth-child(even) {
  
   </tr><tr>
     <td>Mrs Loy-Chow Yoke Yeong (HOD/Science)</td>
-    <td>chow_yoke_yeong@moe.edu.sg</td>
+    <td>chow.yoke.yeong@gsps.edu.sg</td>
     
     
    
   </tr><tr>
     <td>Mr Isaac Foo Yong Wei (HOD/Mother Tongue Languages)</td>
-    <td>isaac_foo_yong_wei@moe.edu.sg</td>
+    <td>isaac.foo@gsps.edu.sg</td>
     
     
     
   </tr><tr>
     <td>Mdm Mehrun Nisha (HOD/PE/CCA/Aesthetics)</td>
-    <td>mehrun_nisha@moe.edu.sg</td>
+    <td>mehrun.nisha@gsps.edu.sg</td>
     
     
        
   </tr><tr>
     <td>Ms Hamidah Bte Abdullah (HOD/Character &amp; Citizenship Education)</td>
-    <td>hamidah_abdullah@moe.edu.sg</td>
+    <td>hamidah.abdullah@gsps.edu.sg</td>
     
       
   </tr><tr>
     <td>Ms Yeo Soh Fang Jennifer (HOD/Student Management)</td>
-    <td>yeo_soh_fang@moe.edu.sg</td>
+    <td>jennifer.yeo@gsps.edu.sg</td>
     
    </tr><tr>
    <td>Mr Ngiam Song Wee (HOD/ICT)</td>
-   <td>ngiam_song_wee@moe.edu.sg</td>
+   <td>ngiam.song.wee@gsps.edu.sg</td>
       
   </tr><tr>
     <th>Year Heads</th>
@@ -112,29 +112,29 @@ tr:nth-child(even) {
       
   </tr><tr>
     <td>Ms Fadzillah Bte Aslam Khan(Year Head – P1/P2)</td>
-    <td>fadzillah_aslam_khan@moe.edu.sg</td>
+    <td>fadzillah.khan@gsps.edu.sg</td>
     
     
      
   </tr><tr>
     <td>Mrs How-Quek Jia Min (Year Head – P3/P4)</td>
-    <td>quek_jia_min@moe.edu.sg</td>
+    <td>how.jiamin@gsps.edu.sg</td>
     
       
   </tr><tr>
     <td>Mrs Angie Wong (Assistant Year Head P3/P4)</td>
-    <td>pang_yong_hiang_angie@moe.edu.sg</td>
+    <td>angie.wong@gsps.edu.sg</td>
     
     
       
   </tr><tr>
     <td>Mrs Shirley Puay (Year Head – P5/P6)</td>
-    <td>lee_yuet_sim@moe.edu.sg</td>
+    <td>shirley.lee@gsps.edu.sg</td>
     
      
   </tr><tr>
     <td>Mr Yusri B Yunos (Assistant Year Head P5/P6)</td>
-    <td>yusri_yunos@moe.edu.sg</td>
+    <td>yusri@gsps.edu.sg</td>
     
          
   </tr><tr>
@@ -145,76 +145,76 @@ tr:nth-child(even) {
   
   </tr><tr>
     <td>1 Perseverance Mrs Amelia Tan</td>
-    <td>tan_mui_joo@moe.edu.sg</td>
+    <td>amelia.tan@gsps.edu.sg</td>
     
      
   </tr><tr>
     <td>1 Perseverance Mdm Safini Razali</td>
-    <td>safini_razali@moe.edu.sg</td>
+    <td>safini.razali@gsps.edu.sg</td>
     
     
          
   </tr><tr>
     <td>1 Thrift Mdm Ho Jia Xin Jessie (Mrs Ong)</td>
-    <td>ho_jia_xin_jessie@moe.edu.sg</td>
+    <td>jessie.ho@gsps.edu.sg</td>
     
    </tr><tr>
     <td>1 Thrift Mrs Soh-Ng Kah Fung (AED, Teaching &amp; Learning)^</td>
-    <td>ng_kah_fung@moe.edu.sg</td>
+    <td>angeline.ng@gsps.edu.sg</td>
       
      
   </tr><tr>
     <td>1 Integrity Ms Ling Joelle</td>
-    <td>ling_joelle@moe.edu.sg</td>
+    <td>ling.joelle@gsps.edu.sg</td>
     
     
          
   </tr><tr>
     <td>1 Integrity Mdm Haslinah Bte Yahya</td>
-    <td>haslinah_yahya@moe.edu.sg</td>
+    <td>haslinah.yahya@gsps.edu.sg</td>
     
     
       
   </tr><tr>
     <td>1 Respect Ms Jessica Tang</td>
-    <td>tang_swee_har@moe.edu.sg</td>
+    <td>jessica.tang@gsps.edu.sg</td>
     
      
   </tr><tr>
     <td>1 Respect Mr Isaac Foo Yong Wei (HOD/Mother Tongue Languages)</td>
-    <td>isaac_foo_yong_wei@moe.edu.sg</td>
+    <td>isaac.foo@gsps.edu.sg</td>
     
         
     
   </tr><tr>
     <td>1 Courage Mr Azman Bin Mohammed Noh</td>
-    <td>azman_mohammed_noh@moe.edu.sg</td>
+    <td>azman.mohammed.noh@gsps.edu.sg</td>
     
      
   </tr><tr>
     <td>1 Courage Mdm Liu Shuang </td>
-    <td>shuang_liu@moe.edu.sg</td>
+    <td>liu.shuang@gsps.edu.sg</td>
     
          
   </tr><tr>
     <td>1 Harmony Mrs Yoges Wari d/o Nadarajah Singh</td>
-    <td>yoges_wari_nadarajah@moe.edu.sg</td>
+    <td>yoges.singh@gsps.edu.sg</td>
     
      
   </tr><tr>
     <td>1 Harmony Mr Muhd Luqman B Mohd Shapie</td>
-    <td>muhammad_luqman_mohd_shapie@moe.edu.sg</td>
+    <td>muhammad.luqman.bms@gsps.edu.sg</td>
     
         
       
   </tr><tr>
     <td>1 Graciousness Mdm Gwendolyn Khong Wei Sze (Mrs Chee)</td>
-    <td>gwendolyn_khong_wei_sze@moe.edu.sg</td>
+    <td>gwendolyn.faith.khong@gsps.edu.sg</td>
     
      
   </tr><tr>
     <td>1 Graciousness Mdm Shahanaz Begum Binti Nazeer Ahamad</td>
-    <td>shahanaz_begum@moe.edu.sg</td>
+    <td>shahanaz.begum@gsps.edu.sg</td>
     
     
          
@@ -225,81 +225,81 @@ tr:nth-child(even) {
      
   </tr><tr>
     <td>2 Perseverance Mdm Norizah Bte Maakiap</td>
-    <td>norizah_maakiap@moe.edu.sg</td>
+    <td>norizah.maakiap@gsps.edu.sg</td>
     
         
       
   </tr><tr>
     <td>2 Perseverance Mr Lai Yao Khuan Scott</td>
-    <td>lai_yao_khuan@moe.edu.sg</td>
+    <td>scott.lai@gsps.edu.sg</td>
     
      
   </tr><tr>
     <td>2 Thrift Mrs Kwok Li Li (Senior Teacher/ Physical Education)</td>
-    <td>soon_li_li@moe.edu.sg</td>
+    <td>soon.lili@gsps.edu.sg</td>
     
    </tr><tr>
    <td>2 Thrift Ms Melissa Chan(LH/ English)</td>
-   <td>chan_beng_neo_melissa@moe.edu.sg</td>
+   <td>melissa.chan@gsps.edu.sg</td>
          
   </tr><tr>
     <td>2 Thrift Mdm Ruzanna Binte Abdul Manap (AED, Teaching &amp; Learning)^</td>
-    <td>ruzanna_abdul_manap@moe.edu.sg</td>
+    <td>ruzanna.abdul.manap@gsps.edu.sg</td>
     
      
   </tr><tr>
     <td>2 Integrity Mdm Yasmin Bte Abdul Razak</td>
-    <td>yasmin_abdul_razak@moe.edu.sg</td>
+    <td>yasmin.abdul.razak@gsps.edu.sg</td>
     
         
      
   </tr><tr>
     <td>2 Integrity Mdm Razilah Bte Yahya (Senior Teacher/Malay Language)</td>
-    <td>razilah_yahya@moe.edu.sg</td>
+    <td>razilah.yahya@gsps.edu.sg</td>
     
      
   </tr><tr>
     <td>2 Respect Mdm Goh Chwee Yin Sarah (Mrs Ang)</td>
-    <td>goh_chwee_yin_sarah@moe.edu.sg</td>
+    <td>sarah.goh@gsps.edu.sg</td>
     
     
      
   </tr><tr>
     <td>2 Respect Mdm Loy Sim Lan (Mrs Yap)(LH/Chinese Language)</td>
-    <td>loy_sim_lan@moe.edu.sg</td>
+    <td>loy.sim.lan@gsps.edu.sg</td>
     
 
         
       
   </tr><tr>
     <td>2 Courage Mdm Bindiya Manoj Aswani</td>
-    <td>bindiya_vaswani@moe.edu.sg</td>
+    <td>bindiya.aswani@gsps.edu.sg</td>
     
      
   </tr><tr>
     <td>2 Courage Mdm Ng Chor Leng</td>
-    <td>ng_chor_leng@moe.edu.sg</td>
+    <td>ng.chorleng@gsps.edu.sg</td>
     
          
   </tr><tr>
     <td>2 Harmony Ms Alvinna Alphonso (Senior Teacher/ English Language)</td>
-    <td>alvinna_alphonso@moe.edu.sg</td>
+    <td>alvinna@gsps.edu.sg</td>
     
      
   </tr><tr>
     <td>2 Harmony Mdm Suryati Bte Abdul Latiff (Senior Teacher-Ed Support)*</td>
-    <td>suryati_abdul_latiff@moe.edu.sg</td>
+    <td>suryati.abdul.latiff@gsps.edu.sg</td>
     
         
       
   </tr><tr>
     <td>2 Graciousness Mdm Safiah Bte Sidek</td>
-    <td>safiah_sidek@moe.edu.sg</td>
+    <td>safiah.sidek@gsps.edu.sg</td>
     
      
   </tr><tr>
     <td>2 Graciousness Ms Fadzillah Bte Aslam Khan(Year Head – P1/P2)</td>
-    <td>fadzillah_aslam_khan@moe.edu.sg</td>
+    <td>fadzillah.khan@gsps.edu.sg</td>
     
          
   </tr><tr>
@@ -309,43 +309,43 @@ tr:nth-child(even) {
           
   </tr><tr>
     <td>3 Perseverance Mdm Chang Yating</td>
-    <td>chang_yating@moe.edu.sg</td>
+    <td>chang.yating@gsps.edu.sg</td>
     
             
    </tr><tr>
     <td>3 Perseverance Ms Yeo Soh Fang Jennifer (HOD/Student Management</td>
-    <td>yeo_soh_fang@moe.edu.sg</td>
+    <td>jennifer.yeo@gsps.edu.sg</td>
     
     
   </tr><tr>
     <td>3 Thrift Mdm Wong Ngok Hiong</td>
-    <td>wong_ngok_hiong@moe.edu.sg</td>
+    <td>wong.ngok.hiong@gsps.edu.sg</td>
     
           
   </tr><tr>
     <td>3 Thrift Mrs Angie Wong (Assistant Year Head P3/P4)</td>
-    <td>pang_yong_hiang_angie@moe.edu.sg</td>
+    <td>angie.wong@gsps.edu.sg</td>
     
      
   </tr><tr>
     <td>3 Integrity Mdm Sri Asilah Subari (Senior Teacher/ Mathematics)</td>
-    <td>sri_asilah_subari@moe.edu.sg</td>
+    <td>sri.asilah.subari@gsps.edu.sg</td>
     
             
       
   </tr><tr>
     <td>3 Integrity Ms Seng Jia Ying</td>
-    <td>seng_jia_ying@moe.edu.sg</td>
+    <td>seng.jiaying@gsps.edu.sg</td>
     
      
   </tr><tr>
     <td>3 Respect Mr Sunil Rai</td>
-    <td>sunil_rai@moe.edu.sg</td>
+    <td>sunil.rai@gsps.edu.sg</td>
     
           
   </tr><tr>
     <td>3 Respect Mdm Ng Bee San</td>
-    <td>ng_bee_san@moe.edu.sg</td>
+    <td>ng.bee.san@gsps.edu.sg</td>
     
      
   </tr><tr>
