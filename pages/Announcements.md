@@ -3,9 +3,7 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
-#### **Teachers' Day visit by ex-Gongshangers**
-In order to facilitate the hand-over and set-up of our school premises for the Presidential Election on 1 September, kindly note that
-ad-hoc visitors (e.g. ex-pupils) will not be allowed access into the school on 31 August 2023. We look forward to welcoming you back on another day. 
+
 
 #### **MOE ECHA 2023**
 
