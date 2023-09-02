@@ -361,7 +361,7 @@ tr:nth-child(even) {
      
   </tr><tr>
     <td>3 Harmony Mr Mohd Azhari B Dzulkifli</td>
-    <td>mohammad_azhari_dzulkifli@moe.edu.sg</td>
+    <td>md.azhari@gsps.edu.sg</td>
     
           
   </tr><tr>
@@ -777,7 +777,7 @@ tr:nth-child(even) {
     <td>Science Lab assistant</td>
     	
 </tr><tr>
-<td>Ms Catherine Foo</td>
+<td>Ms Cathy Tan</td>
 <td>Library assistant</td>
 		
 
