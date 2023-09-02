@@ -788,7 +788,7 @@ tr:nth-child(even) {
     <td></td>
        
   </tr><tr>
-    <td>Last updated: 1 July 2023</td>
+    <td>Last updated: 1 September 2023</td>
     <td></td>
     
     
