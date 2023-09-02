@@ -70,7 +70,7 @@ tr:nth-child(even) {
    
   </tr><tr>
     <td>Mrs Jenny Chan (HOD/Mathematics)</td>
-    <td>tan_jenny@moe.edu.sg</td>
+    <td>jenny.tan@gsps.edu.sg</td>
     
     
  
@@ -559,7 +559,7 @@ tr:nth-child(even) {
          
   </tr><tr>
     <td>6 Courage Mdm Rosilah Bte Abdullah</td>
-    <td>rosilah_abdullah@moe.edu.sg</td>
+    <td>rosilah.abdullah@gsps.edu.sg</td>
     
    
   </tr><tr>
