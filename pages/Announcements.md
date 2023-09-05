@@ -7,8 +7,9 @@ description: ""
 
 Please click [here](/files/september%20bulletin%202023.pdf) for our September bulletin.
 
+#### **DigitalAccess@Home scheme by IMDA**
 
-
+Dear Parents, you can check [here](https://go.gov.sg/digitalaccessathomebyimda) for more information on whether you can apply for the DigitalAccess@Home scheme by IMDA.
 
 #### **MOE ECHA 2023**
 
