@@ -15,12 +15,6 @@ Dear Parents, you can check [here](https://go.gov.sg/digitalaccessathomebyimda) 
 
 <i>Nomination has closed.</i> 
 
-MOE Edusave Character Award (ECHA) 2023. Nominations start from 1 August 2023 to 25 August 2023. Please click on the following links for more details.
-
-[ECHA Policy](/files/2023_echa_gsps%20policy.pdf)
-<br>
-[ECHA Nomination form](/files/echa_n1_nomination%20form_%20staff%20parents%20coaches_2023.pdf)
-
 
 #### **Maths Quiz for Semester 2 2023**
 Please click [here](https://forms.gle/9oGsnWvw1T2KJrFy6) for the quiz .
