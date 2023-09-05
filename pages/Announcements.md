@@ -3,8 +3,6 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
-
-
 #### **MOE ECHA 2023**
 
 <i>Nomination has closed.</i> 
@@ -15,9 +13,9 @@ MOE Edusave Character Award (ECHA) 2023. Nominations start from 1 August 2023 to
 <br>
 [ECHA Nomination form](/files/echa_n1_nomination%20form_%20staff%20parents%20coaches_2023.pdf)
 
-#### **August bulletin**
+#### **September bulletin**
 
-Please click&nbsp;[here](/files/gsps%20august%20bulletin%202023.pdf) for our August bulletin.
+Please click [here](/files/september%20bulletin%202023.pdf) for our September bulletin.
 
 #### **Maths Quiz for Semester 2 2023**
 Please click [here](https://forms.gle/9oGsnWvw1T2KJrFy6) for the quiz .
