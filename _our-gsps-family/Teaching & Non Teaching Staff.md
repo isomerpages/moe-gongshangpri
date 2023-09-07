@@ -657,7 +657,7 @@ tr:nth-child(even) {
          
   </tr><tr>
     <td>Mr Eric Tham Weng Wah (Administration Manager)</td>
-    <td>Tham_Weng_Wah@schools.gov.sg</td>
+    <td>eric.tham@gsps.edu.sg</td>
     
     
        
@@ -696,6 +696,13 @@ tr:nth-child(even) {
   </tr><tr>
     <td>Mdm Christine Lim (Corporate Support Officer)</td>
     <td>christine.lim@gsps.edu.sg</td>
+    
+         	
+		
+		
+  </tr><tr>
+    <td>Mdm Sumathi Velu (Corporate Support Officer)</td>
+    <td>sumathi.velu@gsps.edu.sg</td>
     
          
   </tr><tr>
