@@ -27,7 +27,7 @@ contacts:
       - email: ""
       - other: Bus 4, 8, 18, 19, 21, 37, 38 and 81 <br> Walking 3 mins from bus stop
           76201
-    title: "Nearest Bus Stop "
+    title: Nearest Bus Stop
   - content:
       - phone: ""
       - email: ""
@@ -37,6 +37,7 @@ contacts:
       - phone: ""
       - email: ""
       - other: "queries, please contact the following: <br> 1. Your child's Form Teacher
-          <br> 2. School-based Helpdesk at 67831191 ext 238"
+          <br> 2. School-based Helpdesk at 67831191 ext 234"
     title: SLS account or password
+feedback: ""
 ---
