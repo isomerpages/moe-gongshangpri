@@ -3,9 +3,9 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
-#### **September bulletin**
+#### **October bulletin**
 
-Please click [here](/files/september%20bulletin%202023.pdf) for our September bulletin.
+Please click for our October bulletin.
 
 #### **DigitalAccess@Home scheme by IMDA**
 
