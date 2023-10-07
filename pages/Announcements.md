@@ -5,7 +5,7 @@ description: ""
 ---
 #### **October bulletin**
 
-Please click for our October bulletin.
+Please click [here](/files/october%20bulletin%202023.pdf) for our October bulletin.
 
 #### **DigitalAccess@Home scheme by IMDA**
 
