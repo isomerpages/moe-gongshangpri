@@ -17,7 +17,7 @@ During school operating hours, for learning contents, students should contact th
 The school-based helpline for SLS queries including all SLS access matters such as password reset and unlocking of accounts.
 
 **School Operating Hours**<br>
-School-based Helpline: 6783 1191 ext 238<br>
+School-based Helpline: 6783 1191 ext 234<br>
 Mondays - Fridays: 8.00 a.m. - 4.00 p.m.
 
 **Non-School Operating Hours**<br>
@@ -25,7 +25,7 @@ Outside the school operating hours, students should contact the SLS Helpdesk for
 * SLS Helpdesk: 6702 6513<br>
 Mondays - Fridays: 4.00 p.m. - 9.00 p.m.<br>
 Saturdays: 9.00 a.m. - 3.00 p.m.<br>
-\*Closed on Sundays & Public Holidays<br>
+\*Closed on Sundays &amp; Public Holidays<br>
 * Email SLS Helpdesk at [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com)
 
 \*_When emailing the SLS Helpdesk, students should include their full name, name of school and form class._
@@ -60,8 +60,8 @@ For assistance, please email or class dojo your child’s CL teacher.
 **6\. Nearpod**<br>
 URL: [nearpod.com](nearpod.com)
 
-**7.  Student iCON**<br>
-URL:  [https://workspace.google.com/dashboard](https://workspace.google.com/dashboard)
+**7.&nbsp; Student iCON**<br>
+URL:&nbsp;&nbsp;[https://workspace.google.com/dashboard](https://workspace.google.com/dashboard)
 
-#### **Home-based Learning Resources for Parents & Pupils**
-[Click here for Resources for Parents & Pupils](https://staging.d2j3cxv28bap5s.amplifyapp.com/useful-links/for-parents/hbl/)
+#### **Home-based Learning Resources for Parents &amp; Pupils**
+[Click here for Resources for Parents &amp; Pupils](https://staging.d2j3cxv28bap5s.amplifyapp.com/useful-links/for-parents/hbl/)
