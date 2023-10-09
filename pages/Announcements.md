@@ -59,13 +59,7 @@ Please click&nbsp;[here](https://www.gongshangpri.moe.edu.sg/useful-links/for-pa
 
 Please click&nbsp;[here](/files/PSLE%20Results%202022_Principals%20Slides.pdf)&nbsp;for our Principal's briefing on 23 November 2022.
 
-#### **FAQs - Covid-19 Related Matters**
 
-Click&nbsp;[here](https://www.moe.gov.sg/faqs-covid-19-infection)&nbsp;for more information on Covid-19 related matters by MOE.
-
-#### **Student Vaccination Exercise**
-
-More information can be found&nbsp;[here](/useful-links/for-parents/covid-19).
 
 #### **PERI Upgrading FAQ**
 
