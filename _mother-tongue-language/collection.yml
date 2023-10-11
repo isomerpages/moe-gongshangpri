@@ -2,7 +2,6 @@ collections:
   mother-tongue-language:
     output: true
     order:
-      - Tamil Language Department.md
       - Mother Tongue Language.md
       - Reading Fiesta @ Gongshang.md
       - MTL Fortnight.md
@@ -10,7 +9,8 @@ collections:
       - Chinese Language Department/Programmes.md
       - Chinese Language Department/Assessment.md
       - Chinese Language Department/Achievements.md
+      - Malay Language Department/.keep
       - Malay Language Department/Programmes.md
       - Malay Language Department/Assessment.md
       - Malay Language Department/Achievements.md
-      - Malay Language Department/.keep
+      - Tamil Language Department.md
