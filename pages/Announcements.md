@@ -14,9 +14,10 @@ Click here for [PAT 2024](https://go.gov.sg/pat2024) <br>
 Click here for [OYEA 2024](https://go.gov.sg/oyea2024) <br>
 
 Or scan the QR codes below:
+<img src="/images/pat2024.png" style="width:30%; margin-bottom:15px">
 
-![](/images/pat2024.png) 
-![](/images/oyea2024.png)
+<img src="/images/oyea2024.png" style="width:30%; margin-bottom:15px">
+
 
 #### **October bulletin**
 
