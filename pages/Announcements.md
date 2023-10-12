@@ -15,7 +15,8 @@ Click here for [OYEA 2024](https://go.gov.sg/oyea2024) <br>
 
 Or scan the QR codes below:
 
-
+![](/images/pat2024.png) 
+![](/images/oyea2024.png)
 
 #### **October bulletin**
 
