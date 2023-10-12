@@ -10,13 +10,9 @@ OYEA recognises and honours the achievements of young educators who have shown a
   
 The nomination period for PAT 2024 and OYEA 2024 **opens on Thursday, 12 October 2023, and will close on Wednesday, 10 January 2024.** We strongly encourage you to nominate deserving teachers for these awards in recognition of their good work.
 
-Click here for [PAT 2024](https://go.gov.sg/pat2024) <br>
-Click here for [OYEA 2024](https://go.gov.sg/oyea2024) <br>
+Click here for [PAT 2024](https://go.gov.sg/pat2024) or scan <img src="/images/pat2024.png" style="width:30%; margin-bottom:5px">   <br>
+Click here for [OYEA 2024](https://go.gov.sg/oyea2024) or scan <img src="/images/oyea2024.png" style="width:30%; margin-bottom:5px">
 
-Or scan the QR codes below:
-<img src="/images/pat2024.png" style="width:30%; margin-bottom:15px">
-
-<img src="/images/oyea2024.png" style="width:30%; margin-bottom:15px">
 
 
 #### **October bulletin**
