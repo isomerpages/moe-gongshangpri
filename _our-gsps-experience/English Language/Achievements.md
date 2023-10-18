@@ -11,6 +11,7 @@ Conducted by the Anglo-Chinese Junior College (ACJC) Debate and Oratorical Socie
 
 | Year | Achievements | 
 | -------- | -------- | 
+| 2023     |  Top 10 Outstanding Performers – Koh Min Yun Hailey   | 
 | 2021     |  Top 20 out of 128 participating schools    | 
 
 
