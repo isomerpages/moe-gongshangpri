@@ -58,7 +58,7 @@ There was also a drama performance ‘Pandora’ by our very own Speech and Dram
 
  
 <img src="/images/el2_oct23.jpeg" style="width:100%; margin-bottom:5px">
-Dress as a Book Character Day 2023 <br>
+Dress as a Book Character Day 2023 <br> <br> 
 
 
 <img src="/images/el3_oct23.jpg" style="width:100%;margin-bottom:5px">
