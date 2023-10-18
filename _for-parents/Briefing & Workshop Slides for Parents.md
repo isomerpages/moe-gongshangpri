@@ -7,7 +7,7 @@ description: ""
 
 
 **Primary 1 &amp; 2**<br>
-[Primary 1 Orientation Slides for Y2023 P1 pupils](/files/17%20Nov%202022%20P1%20Orientation%20briefing%20for%20Y2023%20P1.pdf)<br>
+[2024 P1 Orientation slides](https://go.gov.sg/gsps2024p1orientation)<br>
 [P1/P2 Parents' Briefing 30 January 2023](/files/p1p2a.pdf)<br>
 [P1 Parent's briefing 30 January 2023](/files/p1p2b.pdf)<br>
 [P2 Parent's briefing 30 January 2023](/files/p1p2c.pdf)
