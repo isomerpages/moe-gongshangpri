@@ -15,9 +15,8 @@ Conducted by the Anglo-Chinese Junior College (ACJC) Debate and Oratorical Socie
 | 2021     |  Top 20 out of 128 participating schools    | 
 
 
+<img src="/images/el1_oct23.jpg" style="width:38%;margin-left:1px;;margin-right:15px;" align="left">
 
-<img src="/images/eng13.jpeg" style="width:38%;margin-left:1px;;margin-right:15px;" align="left">
-<img src="/images/eng14.jpeg" style="width:40%" align="left">
 
 <br clear="left">
 
