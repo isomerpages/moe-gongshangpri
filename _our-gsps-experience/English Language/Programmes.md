@@ -19,13 +19,13 @@ Teaching Strategies:
 * Explicit teaching of language items, structures and skills
 * Show and Tell
 
-<img src="/images/eng1.jpg" style="width:49%" align=left>
-<img src="/images/eng2.jpg" style="width:49%" align=right>
+<img src="/images/eng1.jpg" style="width:49%" align="left">
+<img src="/images/eng2.jpg" style="width:49%" align="right">
 
 <br clear="left">
 
-<img src="/images/eng3.jpg" style="width:49%" align=left>
-<img src="/images/eng4.jpg" style="width:49%" align=right>
+<img src="/images/eng3.jpg" style="width:49%" align="left">
+<img src="/images/eng4.jpg" style="width:49%" align="right">
 
 <br clear="left">
 
@@ -34,7 +34,7 @@ We provide language and literacy support to our students who require the additio
 
 ##### **Learning Support Programme (LSP) – Primary 1 and 2**
 
-The LSP provides additional support for students with weak literacy skills. Students attend lessons one period a day in small groups, and are taught by specially trained school teachers using strategies that are specifically designed to improve their reading ability. 
+The LSP provides additional support for students with weak literacy skills. Students attend lessons one period a day in small groups, and are taught by specially trained school teachers using strategies that are specifically designed to improve their reading ability.&nbsp;
 
 ##### **Reading Remediation Programme (RRP) – Primary 3**
 
@@ -46,26 +46,23 @@ The MOE's School-based Dyslexia Remediation programme is a two-year intervention
 
 <br clear="left">
 
-#### **English Language Fiesta**
-Theme: Books bring us together
+#### **English Language Week**
 
-We celebrated English Language Week 2022 in Week 5 of Term 3, from 25 July 2022 to 1 August 2022. This event was organised to ignite the passion for reading and providing our students with a platform to explore the English Language further through fun and games.
+Theme: Books Bring Us Together <br>
 
-Various language-based activities were held throughout the week. Students in Primary 1 and 2 were introduced to Nursery Rhymes while those in Primary 3 and 4 had to harness their creativity as they challenged themselves in a game of Idiom Charades. The Primary 5 and 6 students had to tap on their oracy skills as they journeyed through a game of synonyms.
+Objectives: To reignite our students’ passion for reading and the English Language through games. <br>
 
-The week-long activities culminated with the Dress as a Book Character Day on 1 August 2022. The students came dressed as their favourite book character. The school was abuzz as students, teachers and even our principals seized this opportunity to breathe life into various book characters. There was also a book talk during assembly by award-winning children’s author, Mr Neil Humphreys, which was well-received by everyone in the school.
+The week started off with Dress as a Book Character Day on 28 August 2023. Students and staff were encouraged to come to school dressed as their favourite book character on this day. Pupils were also encouraged to be as creative as possible by making costumes or adapting clothes to fit in with their chosen book character.
+There was also a drama performance ‘Pandora’ by our very own Speech and Drama Club. A school wide Spelling Bee was also conducted for all students during their respective EL Lessons.
 
- (Hyperlink - [https://youtu.be/IWmtOZBFakM](https://youtu.be/IWmtOZBFakM))
+
  
-<img src="/images/englishlanguageprogrammes1.jpg" style="width:85%; margin-bottom:10px">
+<img src="/images/el2_oct23.jpeg" style="width:100%; margin-bottom:5px">
+Dress as a Book Character Day 2023 <br> <br> 
 
-<img src="/images/englishlanguageprogrammes2.jpg" style="width:85%; margin-bottom:10px">
 
-<img src="/images/englishlanguageprogrammes3.jpg" style="width:85%;margin-bottom:10px">
-
-<img src="/images/englishlanguageprogrammes4.jpg" style="width:85%;margin-bottom:10px">
-
-<img src="/images/englishlanguageprogrammes5.jpg" style="width:65%">
+<img src="/images/el3_oct23.jpg" style="width:100%;margin-bottom:5px">
+An adaptation of Pandora’s Box by the Speech And Drama Club for EL Week 2023
 
 <br clear="left">
 
@@ -77,8 +74,8 @@ In this programme, students will listen to a story online while form teachers ar
 \- Showcase the different styles of reading aloud to pupils<br>
 \- Encourage pupils to come early to listen to stories
 
-<img src="/images/englishlanguageprogrammes6.jpg" style="width:85%;margin-bottom:10px;" align = "left">
-<img src="/images/englishlanguageprogrammes7.jpg" style="width:85%;margin-bottom:10px;" align = "left">
+<img src="/images/englishlanguageprogrammes6.jpg" style="width:85%;margin-bottom:10px;" align="left">
+<img src="/images/englishlanguageprogrammes7.jpg" style="width:85%;margin-bottom:10px;" align="left">
 
 <br clear="left">
 
@@ -88,8 +85,8 @@ In this programme, our school will be participating in an even called Read for B
 #### **Little Red Dot and The Straits Times Online (Primary 4-6)**
 Little Red Dot is a special publication by The Straits Times specially catered for students. Students are exposed to current affairs and world events that allow for discussion in the classroom. These discussions encourage practical application of knowledge learned in real contexts. This programme also encourages students to read widely for knowledge and for enjoyment.
 
-<img src="/images/englishlanguageprogrammes8.jpg" style="width:85%;margin-bottom:10px;" align = "left">
-<img src="/images/englishlanguageprogrammes9.jpg" style="width:85%;" align = "left">
+<img src="/images/englishlanguageprogrammes8.jpg" style="width:85%;margin-bottom:10px;" align="left">
+<img src="/images/englishlanguageprogrammes9.jpg" style="width:85%;" align="left">
 
 <br clear="left">
 
@@ -100,8 +97,8 @@ This programme aims to develop pupils who can communicate effectively and become
 \- Help pupils’ present factual information clearly and logically.<br>
 \- Develop speaking and listening skills, poise and confidence through fun and meaningful activities.
 
-<img src="/images/englishlanguageprogrammes10.jpg" style="width:85%;margin-bottom:10px;" align = "left">
-<img src="/images/englishlanguageprogrammes11.jpg" style="width:85%;margin-bottom:10px;" align = "left">
+<img src="/images/englishlanguageprogrammes10.jpg" style="width:85%;margin-bottom:10px;" align="left">
+<img src="/images/englishlanguageprogrammes11.jpg" style="width:85%;margin-bottom:10px;" align="left">
 
 <br clear="left">
 
@@ -112,7 +109,7 @@ The programme aims to develop pupils to acquire the relevant skills to fine-tune
 * To learn how to elaborate their story ideas through building suspense and slowing down key scenes in their composition.
 * To reinforce narrative structure, important story elements and different types of story starters and endings.
 
-<img src="/images/englishlanguageprogrammes12.jpg" style="width:85%;margin-bottom:10px;" align = "left">
-<img src="/images/englishlanguageprogrammes13.jpg" style="width:85%;margin-bottom:10px;" align = "left">
+<img src="/images/englishlanguageprogrammes12.jpg" style="width:85%;margin-bottom:10px;" align="left">
+<img src="/images/englishlanguageprogrammes13.jpg" style="width:85%;margin-bottom:10px;" align="left">
 
 <br clear="left">
