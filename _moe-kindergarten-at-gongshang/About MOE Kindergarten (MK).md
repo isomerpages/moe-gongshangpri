@@ -18,7 +18,7 @@ MOE Kindergarten is guided by MOE's corporate values:
 *   Learning our Passion
 *   Excellence our Pursuit
 
-#### **MK Programme & Operating Hours**
+#### **MK Programme &amp; Operating Hours**
 
 |  |  |
 |:---:|:---:|
@@ -31,7 +31,6 @@ MOE Kindergarten is guided by MOE's corporate values:
 
 | Collaborating EYC | EYC Address and Contact |
 |:---:|:---:|
-| PCF Sparkletots Preschool @ Tampines East Blk 261 |Blk 261 Tampines Street 21 #01-300, S520261<br>Tel: 6786 1110 |
 | PCF Sparkletots Preschool @ Tampines East Blk 262 | Blk 262 Tampines Street 21 #01-272, S520262Tel: 6783 4463 |
 |
 
@@ -44,4 +43,3 @@ MOE Kindergarten is guided by MOE's corporate values:
 |  Email |  [mk_gongshang@moe.edu.sg](mailto:mk_gongshang@moe.edu.sg) |
 |  Address |  1 Tampines Street 42, Singapore 529176 |
 |
-
