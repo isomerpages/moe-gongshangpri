@@ -34,4 +34,3 @@ WoW projects provide children with an opportunity to work together to investigat
 *   communicate effectively in English and their MTL, 
 *   experience the joy of self-motivated learning, and
 *   build confidence, among others.
-
