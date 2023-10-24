@@ -34,9 +34,3 @@ WoW projects provide children with an opportunity to work together to investigat
 *   communicate effectively in English and their MTL, 
 *   experience the joy of self-motivated learning, and
 *   build confidence, among others.
-
-#### **K1 Orientation 2022**  
-  
-*    [Briefing slides for MK](https://go.gov.sg/k12023orientationslides)
-
-*    [Briefing slides for KCare](https://go.gov.sg/kcaregsps2022briefing)

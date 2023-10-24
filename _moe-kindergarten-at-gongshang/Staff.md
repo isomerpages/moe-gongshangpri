@@ -3,8 +3,7 @@ title: Staff
 permalink: /kindergarten/staff/
 description: ""
 ---
-<img src="/images/MKGS%20Staff%20Photo.jpg" 
-     style="width:80%">
+<img src="/images/MKGS%20Staff%20Photo.jpg" style="width:80%">
 		 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -103,6 +102,11 @@ description: ""
     <td class="tg-0lax">Mdm Song Fang </td>
     <td class="tg-0lax"> Chinese Language Teacher</td>
     <td class="tg-0lax">song_fang_a@moe.edu.sg</td>
+  </tr>
+  <tr>
+		    <td class="tg-0lax">Mdm Yu Zhonghong </td>
+    <td class="tg-0lax"> Chinese Language Teacher</td>
+    <td class="tg-0lax">yu_zhonghong@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">Ms Harene D/O Balasubramaniam</td>
