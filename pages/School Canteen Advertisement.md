@@ -5,7 +5,7 @@ description: ""
 ---
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Japanese Style Cooked Food     | 26 May 2023     | Rice and/or Noodle     |
+| Japanese Style Cooked Food     | 15 November 2023     | Rice and/or Noodle     |
 
 
 
@@ -45,7 +45,7 @@ description: ""
 
 * Able to provide good service and quality food with prices determined in consultation with the school.
 
-* Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines (see \[link\](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)).
+* Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines (see link) https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme.
 
 * Able to maintain high standard of food safety and personal hygiene.
 
