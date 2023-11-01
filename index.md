@@ -23,16 +23,16 @@ sections:
           description: ""
           url: /useful-links/for-staff/
   - infobar:
-      title: Recruitment Exercise 2023
-      subtitle: Parent Volunteer Scheme
-      description: For more information
-      button: Click here
-      url: /useful-links/for-parents/parent-volunteer-scheme-recruitment-exercise/
-  - infobar:
       title: School Canteen
       subtitle: ADVERTISEMENT
       id: infobar
       description: For more information
       button: CLICK HERE
       url: /school-canteen/
+  - infobar:
+      title: Recruitment Exercise 2023
+      subtitle: Parent Volunteer Scheme
+      description: For more information
+      button: Click here
+      url: /useful-links/for-parents/parent-volunteer-scheme-recruitment-exercise/
 ---
