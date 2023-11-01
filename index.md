@@ -23,6 +23,13 @@ sections:
           description: ""
           url: /useful-links/for-staff/
   - infobar:
+      title: School Canteen
+      subtitle: ADVERTISEMENT
+      id: infobar
+      description: For more information
+      button: CLICK HERE
+      url: /school-canteen/
+  - infobar:
       title: Recruitment Exercise 2023
       subtitle: Parent Volunteer Scheme
       description: For more information
