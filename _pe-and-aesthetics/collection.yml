@@ -1,0 +1,21 @@
+collections:
+  pe-and-aesthetics:
+    output: true
+    order:
+      - Physical Education & Aesthetics.md
+      - Physical Education/.keep
+      - Physical Education/Physical Education.md
+      - Physical Education/Programmes.md
+      - Physical Education/Assessment.md
+      - Physical Education/Achievements.md
+      - Visual Arts/.keep
+      - Visual Arts/Visual Arts.md
+      - Visual Arts/Programmes.md
+      - Visual Arts/Assessments.md
+      - Visual Arts/Achievements.md
+      - Music and Performance/.keep
+      - Music and Performance/Music and Performance.md
+      - Music and Performance/Programmes.md
+      - Music and Performance/Assessment.md
+      - Music and Performance/Achievements.md
+      - Programme for Active Learning (PAL).md

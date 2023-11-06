@@ -1,0 +1,23 @@
+collections:
+  co-curricular-activities-prog:
+    output: true
+    order:
+      - Co Curricular Activities (CCA) Programme.md
+      - Physical Sports/.keep
+      - Physical Sports/Badminton.md
+      - Physical Sports/Basketball.md
+      - Physical Sports/Floorball.md
+      - Physical Sports/Rugby.md
+      - Physical Sports/Track and Field.md
+      - Physical Sports/Wushu.md
+      - Visual and Performing Arts/.keep
+      - Visual and Performing Arts/Handbells and Handchimes Ensemble.md
+      - Visual and Performing Arts/String Ensemble.md
+      - Visual and Performing Arts/Modern Dance.md
+      - Visual and Performing Arts/Speech and Drama.md
+      - Uniformed Group/Scouts.md
+      - Uniformed Group/.keep
+      - Clubs and Societies/Art Club.md
+      - Clubs and Societies/Environmental Science Club.md
+      - Clubs and Societies/Infocomm Technology Club.md
+      - Clubs and Societies/.keep

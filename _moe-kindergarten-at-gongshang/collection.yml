@@ -1,0 +1,9 @@
+collections:
+  moe-kindergarten-at-gongshang:
+    output: true
+    order:
+      - About MOE Kindergarten (MK).md
+      - MK Curriculum.md
+      - Staff.md
+      - What's Happening.md
+      - Contact Us.md
