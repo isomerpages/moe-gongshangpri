@@ -2,6 +2,7 @@
 title: Announcements
 permalink: /announcements/
 description: ""
+variant: markdown
 ---
 #### **THE PRESIDENT'S AWARD FOR TEACHERS (PAT) AND THE OUTSTANDING YOUTH IN EDUCATION AWARD (OYEA) 2024**
 
@@ -15,9 +16,9 @@ Click here for [OYEA 2024](https://go.gov.sg/oyea2024) or scan the QR code below
 
 
 
-#### **October bulletin**
+#### **November_December bulletin**
 
-Please click [here](/files/october%20bulletin%202023.pdf) for our October bulletin.
+Please click [here](/files/GSPS_NovDec_Bulletin_2023.pdf)  for our November_December bulletin.
 
 #### **DigitalAccess@Home scheme by IMDA**
 
