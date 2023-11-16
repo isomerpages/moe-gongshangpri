@@ -4,6 +4,11 @@ permalink: /announcements/
 description: ""
 variant: markdown
 ---
+#### **Gongshang 2023 Yearbook**
+Please click here to view the yearbook.
+
+
+
 #### **THE PRESIDENT'S AWARD FOR TEACHERS (PAT) AND THE OUTSTANDING YOUTH IN EDUCATION AWARD (OYEA) 2024**
 
 PAT recognises experienced educators for their role in moulding the future of our nation. These teachers are role models for the teaching profession, as they demonstrate a deep passion for teaching, and inspire both their students and peers through their words and deeds.
