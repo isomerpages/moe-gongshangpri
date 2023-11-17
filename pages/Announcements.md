@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 #### **Gongshang 2023 Yearbook**
-Please click here to view the yearbook.
+Please click [here](https://online.fliphtml5.com/cjnla/vhoe/#p=1) to view the yearbook.
 
 
 
