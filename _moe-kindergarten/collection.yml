@@ -1,5 +1,5 @@
 collections:
-  moe-kindergarten-at-gongshang:
+  moe-kindergarten:
     output: true
     order:
       - About MOE Kindergarten (MK).md

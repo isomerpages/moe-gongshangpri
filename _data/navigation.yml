@@ -1,4 +1,4 @@
-logo: /images/gsps logo and name.jpg
+logo: /images/wordmark.png
 links:
   - title: Our GSPS Family
     url: /our-gsps-family/permalink/
@@ -46,7 +46,7 @@ links:
         url: /our-gsps-experience/llp/
       - title: Applied Learning Programme
         url: /our-gsps-experience/permalink
-  - title: MOE Kindergarten @ Gongshang
+  - title: MK@Gongshang
     url: /kindergarten/about-mk/
     sublinks:
       - title: About MOE Kindergarten (MK)
@@ -59,7 +59,7 @@ links:
         url: https://www.gongshangpri.moe.edu.sg/moe-kindergarten-at-gongshang/whats-happening/
       - title: Contact Us
         url: /kindergarten/contact-us/
-  - title: Contact Us
-    url: /contact-us/
   - title: FAQ
     url: /faq/
+  - title: Contact Us
+    url: /contact-us/

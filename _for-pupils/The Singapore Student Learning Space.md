@@ -2,12 +2,13 @@
 title: The Singapore Student Learning Space
 permalink: /useful-links/for-pupils/
 description: ""
+variant: markdown
 ---
 ### **The Singapore Student Learning Space**
 * Log in to&nbsp;[The Singapore Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)&nbsp;here.
 
-*   [User Guide for The Student Learning Space (SLS)](https://mo.learning.moe.edu.sg/UserGuide/Vle/student-features.html).
-You will need to be logged in to SLS to be able to view.
+*   [User Guide for The Student Learning Space (SLS)](https://www.learning.moe.edu.sg/student-user-guide/index/).
+
 
 * For any SLS account or password queries, please approach the following:<br>
 1\.Your Form Teacher;<br>
