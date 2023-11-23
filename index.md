@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: News
           description: See latest updates
-          url: /news
+          url: /news/
         - title: For Pupils
           description: Access online platforms
           url: /useful-links/for-pupils/
