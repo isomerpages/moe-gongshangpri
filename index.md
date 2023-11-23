@@ -13,15 +13,13 @@ sections:
         - title: Announcements
           description: ""
           url: /announcements/
-        - title: Useful links for Pupils
+        - title: For Pupils
           description: ""
           url: /useful-links/for-pupils/
-        - title: useful links for parents
+        - title: For parents
           description: ""
           url: /useful-links/for-parents/
-        - title: useful links for staff
-          description: ""
-          url: /useful-links/for-staff/
+      variant: center
   - infobar:
       title: School Canteen
       subtitle: ADVERTISEMENT
