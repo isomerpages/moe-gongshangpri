@@ -4,6 +4,8 @@ permalink: /for-parents/imdasubsidy/
 variant: markdown
 description: ""
 ---
+
+![](/images/digitalaccess.jpg)
 #### **What is DigitalAccess@Home?**
 
 DigitalAccess@Home provides subsidised broadband and laptops/tablets to lower-income households to support their lifestyle needs, including work and social activities.
