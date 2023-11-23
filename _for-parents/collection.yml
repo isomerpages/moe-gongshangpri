@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - DigitalAccess@Home.md
       - General Information.md
       - Assessments.md
       - Information on secondary schools.md
@@ -15,6 +14,7 @@ collections:
       - Home Based Learning/Information for parents on the DigitalAccess@Home
         scheme by IMDA.md
       - MOE Financial Assistance Scheme (FAS).md
+      - DigitalAccess@Home.md
       - Parent Volunteer Scheme Recruitment Exercise 2023.md
       - Waiting List/.keep
       - Waiting List/Waiting List.md
