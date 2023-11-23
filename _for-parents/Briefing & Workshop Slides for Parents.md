@@ -2,6 +2,7 @@
 title: Briefing & Workshop Slides for Parents
 permalink: /useful-links/for-parents/briefing-workshop-slides-for-parents/
 description: ""
+variant: markdown
 ---
 ### **Briefing/Workshop Slides for Parents**
 
@@ -19,7 +20,3 @@ description: ""
 **Primary 5 &amp; 6**<br>
 [P5 &amp; 6 Parents' briefing slides 2 February 2023](/files/p5p6a.pdf) <br>
 [PSLE 2023 - Parent Engagement Session on Full Subject Based Banding ](/files/psle%202023%20-%20parent%20engagement%20session%20on%20full%20subject%20based%20banding.pdf)
-
-
-### **PSLE Results 2022**
-Click&nbsp;[here](/files/psleresults2022.pdf)&nbsp;for more information.
