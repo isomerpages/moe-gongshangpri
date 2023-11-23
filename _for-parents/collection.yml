@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - DigitalAccess@Home.md
       - General Information.md
       - Assessments.md
       - Information on secondary schools.md
