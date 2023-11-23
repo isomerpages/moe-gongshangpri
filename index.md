@@ -22,6 +22,5 @@ sections:
       variant: center
   - resources:
       title: Latest Updates
-      subtitle: Add a preview and link to your Resource Room
       id: resources
 ---
