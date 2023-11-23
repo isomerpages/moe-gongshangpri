@@ -10,16 +10,18 @@ sections:
       background: /images/banner.gif
       url: /contact-us/
       key_highlights:
-        - title: Announcements
-          description: News and Updates
-          url: /announcements/
+        - title: News
+          description: See latest updates
+          url: /news
         - title: For Pupils
-          description: Online Learning Platforms
+          description: Access online platforms
           url: /useful-links/for-pupils/
         - title: For parents
-          description: Find useful info here
+          description: Find useful info
           url: /useful-links/for-parents/
       variant: center
+      title: Gongshang Primary
+      subtitle: Active Learners, Confident Leaders, Gracious Citizens
   - resources:
       title: Latest Updates
       id: resources
