@@ -11,13 +11,13 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: Announcements
-          description: ""
+          description: News and Updates
           url: /announcements/
         - title: For Pupils
-          description: ""
+          description: Online Learning Platforms
           url: /useful-links/for-pupils/
         - title: For parents
-          description: ""
+          description: Find useful info here
           url: /useful-links/for-parents/
       variant: center
   - infobar:
