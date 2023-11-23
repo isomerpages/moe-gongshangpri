@@ -1,6 +1,7 @@
 ---
 title: FAQ
 permalink: /faq/
+variant: markdown
 ---
 ### **FAQ**
 
@@ -86,13 +87,19 @@ You can go to the Useful Links/For Parents tab on our website. Please contact th
 
 Please approach any of the General Office staff to find out more or you can click [here](https://www.moe.gov.sg/financial-matters/financial-assistance) to find out more about it.
 
+##### **CAMPUS WORKS**
+
+**PERI PLUS UPGRADING**
+
+Please refer to this [FAQ](https://www.gongshangpri.moe.edu.sg/files/GSPS%20PERI%20Upgrading%20FAQ%20(dated%2013%20March%202020).pdf) to find out more.
+
 ##### **ALUMNI**
 
 **1. How can I join the Gongshang Primary Alumni?**
 
 To apply to join the Gongshang Alumni, please contact any of the following via email:
-*   Miss Ada Lye ([lye\_kit\_yeng\_ada@moe.edu.sg](mailto:lye\_kit\_yeng\_ada@moe.edu.sg))
-*   Mdm Teo Shaw Ping ([teo\_shaw\_ping@moe.edu.sg](mailto:teo\_shaw\_ping@moe.edu.sg))
+*   [Miss Ada Lye](mailto:ada.lye@gsps.edu.sg)
+*   [Mdm Teo Shaw Ping](mailto:teo.shaw.ping@gsps.edu.sg)
 
 
 Information for Alumni may be found under Our GSPS Family/Alumni on the school website.
