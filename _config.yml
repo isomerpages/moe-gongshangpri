@@ -3,12 +3,12 @@ url: https://www.gongshangpri.moe.edu.sg
 favicon: /images/logo.jpg
 colors:
   primary-color: "#002841"
-  secondary-color: "#ff720c"
+  secondary-color: "#002841"
   media-colors:
     - title: media-color-one
       color: "#49759a"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#49759a"
     - title: media-color-three
       color: "#00838f"
     - title: media-color-four
