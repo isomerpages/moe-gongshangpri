@@ -20,17 +20,8 @@ sections:
           description: Find useful info here
           url: /useful-links/for-parents/
       variant: center
-  - infobar:
-      title: School Canteen
-      subtitle: ADVERTISEMENT
-      id: infobar
-      description: For more information
-      button: CLICK HERE
-      url: /school-canteen/
-  - infobar:
-      title: Recruitment Exercise 2023
-      subtitle: Parent Volunteer Scheme
-      description: For more information
-      button: Click here
-      url: /useful-links/for-parents/parent-volunteer-scheme-recruitment-exercise/
+  - resources:
+      title: Latest Updates
+      subtitle: Add a preview and link to your Resource Room
+      id: resources
 ---
