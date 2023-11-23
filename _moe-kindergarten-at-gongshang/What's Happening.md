@@ -16,5 +16,4 @@ https://go.gov.sg/waitlist-mkgongshang
 2. Please click here for a [virtual tour](https://drive.google.com/file/d/1wwd0kMW85encZ314kDUd2KjnRgsebf29/view?usp=sharing) of the MK@Gongshang Learning Environment  
   
 
-
 If you have any queries regarding MK@Gongshang, you may email the MK at [mk_gongshang@moe.edu.sg](mailto:mk_gongshang@moe.edu.sg) or  call 67831191.
