@@ -43,12 +43,3 @@ Click&nbsp;[here](https://file.for.edu.sg/vxaxbt.pdf)&nbsp;for the briefing slid
 
 Please click&nbsp;[here](https://www.gongshangpri.moe.edu.sg/useful-links/for-parents/parent-volunteer-scheme-recruitment-exercise/)&nbsp;for more information.
 
-#### **PSLE results 2022**
-
-Please click&nbsp;[here](/files/PSLE%20Results%202022_Principals%20Slides.pdf)&nbsp;for our Principal's briefing on 23 November 2022.
-
-
-
-#### **PERI Upgrading FAQ**
-
-Please click&nbsp;[here](/files/GSPS%20PERI%20Upgrading%20FAQ%20(dated%2013%20March%202020).pdf) to view the FAQ&nbsp;regarding our school's PERI upgrading project.
