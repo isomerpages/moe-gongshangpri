@@ -6,7 +6,7 @@ variant: markdown
 ---
 1. **2024 Kindergarten 1 (K1) Admission** \
 The MOE Kindergarten online registration exercise for 2024 K1 admission is closed. Parents who have missed the registration exercise and would like to apply for MK@Gongshang, please submit the Waitlist Application and supporting documents via 
-https://go.gov.sg/waitlist-mkgongshang
+[this link](https://go.gov.sg/waitlist-mkgongshang)
 
 
 2.	Please click [here](https://go.gov.sg/k12024mk) for the K1 2024 Orientation MOE Kindergarten(MK) Briefing slides 
