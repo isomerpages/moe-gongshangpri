@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://file.for.edu.sg/vxaxbt.pdf
+external: https://file.for.edu.sg/vxaxbt.pdf
 ---

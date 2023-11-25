@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://file.for.edu.sg/ruq4ky.pdf
+external: https://file.for.edu.sg/ruq4ky.pdf
 ---

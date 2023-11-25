@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://file.go.gov.sg/gsps2024p1orientation.pdf
+external: https://file.go.gov.sg/gsps2024p1orientation.pdf
 ---
