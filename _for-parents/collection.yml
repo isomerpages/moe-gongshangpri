@@ -2,11 +2,11 @@ collections:
   for-parents:
     output: true
     order:
-      - Parents Volunteer.md
       - General Information.md
       - Assessments.md
       - Information on secondary schools.md
       - Monthly Bulletin.md
+      - Parents Volunteer.md
       - Home Based Learning/.keep
       - Home Based Learning/HBL General Information.md
       - "Home Based Learning/Home Based Learning :  Resources for Parents &
