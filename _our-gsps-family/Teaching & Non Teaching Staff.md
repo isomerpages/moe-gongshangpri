@@ -2,6 +2,7 @@
 title: Teaching & Non Teaching Staff
 permalink: /our-gsps-family/staff/
 description: ""
+variant: markdown
 ---
 ### **Teaching &amp; Non-Teaching Staff**
 
@@ -38,12 +39,16 @@ tr:nth-child(even) {
   </tr><tr>
     <td>Mrs Soh-Lim Tzyy Shiuan(Principal)</td>
     <td>gsps@moe.edu.sg</td>
-    
+   
   </tr><tr>
     <td>Mrs Selina Lee (Vice Principal)</td>
     <td>gsps@moe.edu.sg</td>
+     
+  </tr><tr>
+    <td>Mdm Nora Osman (Vice Principal)</td>
+    <td>gsps@moe.edu.sg</td>
     
- 
+  
   </tr><tr>
     <td>Mr Fong Wai Khin (Vice Principal, Administration)</td>
     <td>gsps@moe.edu.sg</td>
@@ -614,12 +619,8 @@ tr:nth-child(even) {
     <td>Mrs Liu Peiwen</td>
     <td>huang.peiwen@gsps.edu.sg</td>
     
-    
-       
-  </tr><tr>
-    <td>Mdm Bernie Leong</td>
-    <td>bernie.leong@gsps.edu.sg</td>
-    
+         
+  
     
        
   </tr><tr>
@@ -689,8 +690,8 @@ tr:nth-child(even) {
 		
 		
 </tr><tr>
- <td>Mdm Jenny Thay (Administrative Executive)(MK)</td>
- <td>jenny.thay@gsps.edu.sg</td>	
+ <td>Ms Vivian Lim (Administrative Executive)(MK)</td>
+ <td>vivian.lim@gsps.edu.sg</td>	
 		
 		
   </tr><tr>
@@ -779,6 +780,16 @@ tr:nth-child(even) {
  <td>Ms Siti Hajar Bte Ahmad</td>
  <td>Desktop Engineer</td>	
 		
+		
+			
+	
+
+</tr><tr>
+ <td>Mr Muhammad Irfan Bin Osman</td>
+ <td>Desktop Engineer</td>	
+		
+		
+		
   </tr><tr>
     <td>Mr Daniel Woo</td>
     <td>Science Lab assistant</td>
@@ -795,7 +806,7 @@ tr:nth-child(even) {
     <td></td>
        
   </tr><tr>
-    <td>Last updated: 1 September 2023</td>
+    <td>Last updated: 27 December 2023</td>
     <td></td>
     
     

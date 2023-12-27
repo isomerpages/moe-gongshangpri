@@ -2,6 +2,7 @@
 title: School Management Committee (SMC)
 permalink: /our-gsps-family/smc/
 description: ""
+variant: markdown
 ---
 ### **School Management Committee (SMC)**
 
@@ -9,6 +10,7 @@ description: ""
 |---|---|
 | Mrs Soh-Lim Tzyy Shiuan | Principal |
 | Mrs Selina Lee | Vice Principal |
+| Mdm Nora Osman | Vice Principal |
 | Mr Fong Wai Khin | Vice Principal, Administration |
 | Mr Poon Yain Ping   | School Staff Developer |
 | Mdm Jenny Tan (Mrs Chan) | HOD/Mathematics |
