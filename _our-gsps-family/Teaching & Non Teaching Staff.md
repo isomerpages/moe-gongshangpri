@@ -39,17 +39,16 @@ tr:nth-child(even) {
   </tr><tr>
     <td>Mrs Soh-Lim Tzyy Shiuan(Principal)</td>
     <td>gsps@moe.edu.sg</td>
-    
+   
+  </tr><tr>
+    <td>Mrs Selina Lee (Vice Principal)</td>
+    <td>gsps@moe.edu.sg</td>
+     
   </tr><tr>
     <td>Mdm Nora Osman (Vice Principal)</td>
     <td>gsps@moe.edu.sg</td>
     
   
-  </tr><tr>
-    <td>Mrs Selina Lee (Vice Principal)</td>
-    <td>gsps@moe.edu.sg</td>
-    
- 
   </tr><tr>
     <td>Mr Fong Wai Khin (Vice Principal, Administration)</td>
     <td>gsps@moe.edu.sg</td>
