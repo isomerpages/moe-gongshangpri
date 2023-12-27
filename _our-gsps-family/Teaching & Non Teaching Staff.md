@@ -619,12 +619,8 @@ tr:nth-child(even) {
     <td>Mrs Liu Peiwen</td>
     <td>huang.peiwen@gsps.edu.sg</td>
     
-    
-       
-  </tr><tr>
-    <td>Mdm Bernie Leong</td>
-    <td>bernie.leong@gsps.edu.sg</td>
-    
+         
+  
     
        
   </tr><tr>
@@ -694,8 +690,8 @@ tr:nth-child(even) {
 		
 		
 </tr><tr>
- <td>Mdm Jenny Thay (Administrative Executive)(MK)</td>
- <td>jenny.thay@gsps.edu.sg</td>	
+ <td>Ms Vivian Lim (Administrative Executive)(MK)</td>
+ <td>vivian.lim@gsps.edu.sg</td>	
 		
 		
   </tr><tr>
@@ -783,6 +779,16 @@ tr:nth-child(even) {
 </tr><tr>
  <td>Ms Siti Hajar Bte Ahmad</td>
  <td>Desktop Engineer</td>	
+		
+		
+			
+	
+
+</tr><tr>
+ <td>Mr Muhammad Irfan Bin Osman</td>
+ <td>Desktop Engineer</td>	
+		
+		
 		
   </tr><tr>
     <td>Mr Daniel Woo</td>
