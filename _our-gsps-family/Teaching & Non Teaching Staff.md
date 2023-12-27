@@ -2,6 +2,7 @@
 title: Teaching & Non Teaching Staff
 permalink: /our-gsps-family/staff/
 description: ""
+variant: markdown
 ---
 ### **Teaching &amp; Non-Teaching Staff**
 
@@ -39,6 +40,11 @@ tr:nth-child(even) {
     <td>Mrs Soh-Lim Tzyy Shiuan(Principal)</td>
     <td>gsps@moe.edu.sg</td>
     
+  </tr><tr>
+    <td>Mdm Nora Osman (Vice Principal)</td>
+    <td>gsps@moe.edu.sg</td>
+    
+  
   </tr><tr>
     <td>Mrs Selina Lee (Vice Principal)</td>
     <td>gsps@moe.edu.sg</td>
