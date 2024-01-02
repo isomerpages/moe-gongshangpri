@@ -383,14 +383,16 @@ tr:nth-child(even) {
     
      
   </tr><tr>
-    <td>3 Courage Mdm Jennifer d/o Jacob</td>
-    <td>jennifer.jacob@gsps.edu.sg</td>
+    <td>3 Courage Mdm Siti Normalis Bte Mohamed Ismail</td>
+    <td>siti.normalis@gsps.edu.sg</td>
     
             
       
   </tr><tr>
-    <td>3 Courage Mdm Anne Heng</td>
-    <td>anne.heng@gsps.edu.sg</td>
+    <td>3 Courage Mrs Kwok Li Li (Senior Teacher/PE)
+</td>
+    <td>soon.lili@gsps.edu.sg
+</td>
     
      
   </tr><tr>
