@@ -111,29 +111,25 @@ tr:nth-child(even) {
     
       
   </tr><tr>
-    <td>Ms Fadzillah Bte Aslam Khan(Year Head – P1/P2)</td>
+    <td>Ms Fadzillah Bte Aslam Khan(YH P2/P3)</td>
     <td>fadzillah.khan@gsps.edu.sg</td>
     
     
-     
-  </tr><tr>
-    <td>Mrs How-Quek Jia Min (Year Head – P3/P4)</td>
-    <td>how.jiamin@gsps.edu.sg</td>
     
       
   </tr><tr>
-    <td>Mrs Angie Wong (Assistant Year Head P3/P4)</td>
+    <td>Mrs Angie Wong (AYH P4/P5)</td>
     <td>angie.wong@gsps.edu.sg</td>
     
     
       
   </tr><tr>
-    <td>Mrs Shirley Puay (Year Head – P5/P6)</td>
+    <td>Mrs Shirley Puay (YH P1/P6)</td>
     <td>shirley.lee@gsps.edu.sg</td>
     
      
   </tr><tr>
-    <td>Mr Yusri B Yunos (Assistant Year Head P5/P6)</td>
+    <td>Mr Yusri B Yunos (AYH P1/P6)</td>
     <td>yusri@gsps.edu.sg</td>
     
          
@@ -293,7 +289,7 @@ tr:nth-child(even) {
         
       
   </tr><tr>
-    <td>2 Courage Ms Fadzillah Bte Aslam Khan(Year Head – P2/P3)</td>
+    <td>2 Courage Ms Fadzillah Bte Aslam Khan(Year Head  P2/P3)</td>
     <td>fadzillah.khan@gsps.edu.sg</td>
     
      
@@ -342,7 +338,7 @@ tr:nth-child(even) {
     
             
    </tr><tr>
-    <td>3 Perseverance Mdm Lu Yanyu (Senior Teacher/Chinese Language)</td>
+    <td>3 Perseverance Mdm Lu Yanyu (ST/Chinese Language)</td>
     <td>lu.yanyu@gsps.edu.sg</td>
     
     
@@ -389,7 +385,7 @@ tr:nth-child(even) {
             
       
   </tr><tr>
-    <td>3 Courage Mrs Kwok Li Li (Senior Teacher/PE)
+    <td>3 Courage Mrs Kwok Li Li (ST/PE)
 </td>
     <td>soon.lili@gsps.edu.sg
 </td>
