@@ -159,8 +159,8 @@ tr:nth-child(even) {
     <td>sarah.goh@gsps.edu.sg</td>
     
    </tr><tr>
-    <td>1 Thrift Mrs Soh-Ng Kah Fung (AED, Teaching &amp; Learning)^</td>
-    <td>angeline.ng@gsps.edu.sg</td>
+    <td>1 Thrift Mr Yusri B Yunos (Assistant Year Head P1/P6)</td>
+    <td>yusri@gsps.edu.sg</td>
       
      
   </tr><tr>
