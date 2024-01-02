@@ -325,8 +325,10 @@ tr:nth-child(even) {
     
      
   </tr><tr>
-    <td>2 Graciousness Ms Fadzillah Bte Aslam Khan(Year Head – P1/P2)</td>
-    <td>fadzillah.khan@gsps.edu.sg</td>
+    <td>2 Graciousness Mdm Shahanaz Begum Binti Nazeer Ahamad
+</td>
+    <td>shahanaz.begum@gsps.edu.sg
+</td>
     
          
   </tr><tr>
