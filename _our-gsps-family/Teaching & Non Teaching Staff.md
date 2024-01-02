@@ -204,7 +204,7 @@ tr:nth-child(even) {
     
          
   </tr><tr>
-    <td>1 Harmony Mr Hazmi B Hasan(ST-Art_Int)</td>
+    <td>1 Harmony Mr Hazmi B Hasan(ST-Art*)</td>
     <td>hazmi.hasan@gsps.edu.sg</td>
     
      
