@@ -198,13 +198,14 @@ tr:nth-child(even) {
     
      
   </tr><tr>
-    <td>1 Courage Mdm Liu Shuang </td>
-    <td>liu.shuang@gsps.edu.sg</td>
+    <td>1 Courage Ms Low Peggy</td>
+    <td>peggy.low@gsps.edu.sg
+</td>
     
          
   </tr><tr>
-    <td>1 Harmony Mrs Yoges Wari d/o Nadarajah Singh</td>
-    <td>yoges.singh@gsps.edu.sg</td>
+    <td>1 Harmony Mr Hazmi B Hasan(ST-Art_Int)</td>
+    <td>hazmi.hasan@gsps.edu.sg</td>
     
      
   </tr><tr>
