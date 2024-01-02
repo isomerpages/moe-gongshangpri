@@ -551,13 +551,17 @@ tr:nth-child(even) {
     
          
   </tr><tr>
-    <td>5 Courage Mdm Rosilah Bte Abdullah</td>
-    <td>rosilah.abdullah@gsps.edu.sg</td>
+    <td>5 Courage Ms Fong Shiyan Dorcas (ST/SS*)
+</td>
+    <td>dorcas.fong@gsps.edu.sg
+</td>
     
    
   </tr><tr>
-    <td>5 Courage  Mdm Roslinda Bte Johari</td>
-    <td>roslinda.johari@gsps.edu.sg</td>
+    <td>5 Courage Mdm Haslinah Bte Yahya
+ </td>
+    <td>haslinah.yahya@gsps.edu.sg
+</td>
     
      
   </tr><tr>
