@@ -479,14 +479,12 @@ tr:nth-child(even) {
     <td>roslinda.johari@gsps.edu.sg</td>
     
      
+  
   </tr><tr>
-    <td>4 Courage  Ms Peggy Low</td>
-    <td>peggy.low@gsps.edu.sg</td>		
-		
-		
-  </tr><tr>
-    <td>4 Harmony Mdm Siti Normalis Bte Mohamed Ismail</td>
-    <td>siti.normalis@gsps.edu.sg</td>
+    <td>4 Harmony Mdm Anne Heng
+</td>
+    <td>anne.heng@gsps.edu.sg
+</td>
     
      
   </tr><tr>
