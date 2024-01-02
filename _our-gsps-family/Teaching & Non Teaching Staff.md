@@ -258,8 +258,8 @@ tr:nth-child(even) {
     <td>natalie.neo@gsps.edu.sg</td>
     
    </tr><tr>
-   <td>2 Thrift Ms Melissa Chan(LH/ English)</td>
-   <td>melissa.chan@gsps.edu.sg</td>
+   <td>2 Thrift Mdm Mehrun Nisha (HOD/PE/CCA/Aesthetics)</td>
+   <td>mehrun.nisha@gsps.edu.sg</td>
          
   </tr><tr>
     <td>2 Thrift Mdm Ruzanna Binte Abdul Manap (AED, Teaching &amp; Learning)^</td>
