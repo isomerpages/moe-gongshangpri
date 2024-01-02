@@ -546,8 +546,8 @@ tr:nth-child(even) {
     
     
   </tr><tr>
-    <td>5 Respect Ms Hamidah Bte Abdullah (HOD/Character &amp; Citizenship Education)
-		</td><td>hamidah.abdullah@gsps.edu.sg</td>
+    <td>5 Respect Mr Sunil Rai (AYH P4/5*)</td> <td>sunil.rai@gsps.edu.sg
+</td>
     
          
   </tr><tr>
