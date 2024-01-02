@@ -213,7 +213,10 @@ tr:nth-child(even) {
     <td>lee.yi.jun@gsps.edu.sg
 </td>
     
-        
+   </tr><tr>
+    <td>1 Harmony Mdm Sakinah Bte Omar</td>
+    <td>sakinah.omar@gsps.edu.sg
+</td>    
       
   </tr><tr>
     <td>1 Graciousness Mdm Gwendolyn Khong Wei Sze (Mrs Chee)</td>
