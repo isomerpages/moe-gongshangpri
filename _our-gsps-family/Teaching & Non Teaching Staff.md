@@ -662,14 +662,17 @@ tr:nth-child(even) {
     <th>Non-form teachers</th>
     <th>Email address</th>
     
-   
-</tr><tr>
- <td>Mdm Chow Yoke Yeong (Mrs Loy)(HOD/Science)</td>
- <td>chow.yoke.yeong@gsps.edu.sg</td>	
-		
-</tr><tr>
- <td>Mdm Foo Tseh Chyn(LH/PE)</td>
- <td>foo.tsehchyn@gsps.edu.sg</td>	
+   </tr><tr>
+  <td> Mrs Ng-Thiam Siow Foon
+ </td>
+   <td>thiam.siow.foon@gsps.edu.sg
+</td>   
+
+   </tr><tr>
+  <td> Mdm Marsita Bte Omar
+</td>
+   <td>marsita.omar@gsps.edu.sg
+</td>
 		
    </tr><tr>
   <td> Mdm Ho Yee Wah</td>
