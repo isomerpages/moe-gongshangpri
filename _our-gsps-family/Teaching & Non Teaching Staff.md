@@ -527,13 +527,17 @@ tr:nth-child(even) {
     
          
   </tr><tr>
-    <td>5 Integrity Mdm How-Quek Jia Min(Year Head P3/P4)</td>
-    <td>how.jiamin@gsps.edu.sg</td>
+    <td>5 Integrity Miss Liu Xiaoyun
+</td>
+    <td>liu.xiaoyun@gsps.edu.sg
+</td>
     
      
   </tr><tr>
-    <td>5 Integrity Mr Poon Yain Ping (School Staff Developer)</td>
-    <td>poon.yain.ping@gsps.edu.sg</td>
+    <td>5 Integrity Mr Tan Chuan Song
+</td>
+    <td>tan.chuan.song@gsps.edu.sg
+</td>
     
     
   </tr><tr>
