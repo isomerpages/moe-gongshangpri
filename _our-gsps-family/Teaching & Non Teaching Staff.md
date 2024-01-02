@@ -634,7 +634,7 @@ tr:nth-child(even) {
     <td>rosilah.abdullah@gsps.edu.sg</td>
     
   </tr><tr>
-    <td>6 Harmony Mdm Suryati Bte Abdul Latiff </td>
+    <td>6 Harmony Mdm Suryati Bte Abdul Latiff (ST/Ed Support)</td>
     <td>suryati.abdul.latiff@gsps.edu.sg
 </td>     
   
