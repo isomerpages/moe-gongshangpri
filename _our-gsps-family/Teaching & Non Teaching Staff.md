@@ -610,13 +610,15 @@ tr:nth-child(even) {
     
          
   </tr><tr>
-    <td>5 Courage Mr Bryan Chua (LH/Mathematics)</td>
+    <td>6 Courage Mr Bryan Chua (LH/Mathematics)</td>
     <td>bryan.chua@gsps.edu.sg</td>
     
      
   </tr><tr>
-    <td>5 Courage Mdm Marsita Bte Omar</td>
-    <td>marsita.omar@gsps.edu.sg</td>
+    <td>6 Courage Ms Hamidah Bte Abdullah
+</td>
+    <td>hamidah.abdullah@gsps.edu.sg
+</td>
     
         
   </tr><tr>
