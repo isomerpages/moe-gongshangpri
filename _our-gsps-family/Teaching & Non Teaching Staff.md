@@ -493,43 +493,107 @@ tr:nth-child(even) {
     <td>md.azhari@gsps.edu.sg
 </td>
     
-    
-               
-      
   </tr><tr>
     <th>Primary 5 Form Teachers</th>
     <th>Email address</th>
     
+    
+  </tr><tr>
+    <td>5 Perseverance Ms Lye Kit Yeng Ada</td>
+    <td>ada.lye@gsps.edu.sg</td>
+    
+         
+  </tr><tr>
+    <td>5 Perseverance Mrs Jenny Chan (HOD/Mathematics)</td>
+    <td>jenny.tan@gsps.edu.sg</td>
+    
      
   </tr><tr>
-    <td>5 Perseverance Mr Ismail Jemaah</td>
+    <td>5 Thrift Mdm Widayu Bte Kemat (Senior Teacher/ Science)</td>
+    <td>widayu.kemat@gsps.edu.sg</td>
+    
+    
+     
+  </tr><tr>
+    <td>5 Thrift Mrs Ng-Thiam Siow Foon (SH/Student Management)</td>
+    <td>thiam.siow.foon@gsps.edu.sg</td>
+    
+         
+  </tr><tr>
+    <td>5 Integrity Mdm How-Quek Jia Min(Year Head P3/P4)</td>
+    <td>how.jiamin@gsps.edu.sg</td>
+    
+     
+  </tr><tr>
+    <td>5 Integrity Mr Poon Yain Ping (School Staff Developer)</td>
+    <td>poon.yain.ping@gsps.edu.sg</td>
+    
+    
+  </tr><tr>
+    <td>5 Respect Mr Yusri B Yunos (Assistant Year Head P5/P6)</td>
+    <td>yusri@gsps.edu.sg</td>
+    
+    
+  </tr><tr>
+    <td>5 Respect Ms Hamidah Bte Abdullah (HOD/Character &amp; Citizenship Education)
+		</td><td>hamidah.abdullah@gsps.edu.sg</td>
+    
+         
+  </tr><tr>
+    <td>5 Courage Mdm Rosilah Bte Abdullah</td>
+    <td>rosilah.abdullah@gsps.edu.sg</td>
+    
+   
+  </tr><tr>
+    <td>5 Courage  Mdm Roslinda Bte Johari</td>
+    <td>roslinda.johari@gsps.edu.sg</td>
+    
+     
+  </tr><tr>
+    <td>5 Harmony Mdm Teo Shaw Ping</td>
+    <td>teo.shaw.ping@gsps.edu.sg</td>
+    
+       
+  </tr><tr>
+    <td>5 Harmony Mr Muhd Fadzly B Zainal</td>
+    <td>fadzly.zainal@gsps.edu.sg</td>
+    
+               
+  </tr><tr>
+    <th>Primary 6 Form Teachers</th>
+    <th>Email address</th>
+
+    
+     
+  </tr><tr>
+    <td>6 Perseverance Mr Ismail Jemaah</td>
     <td>ismail.jemaah@gsps.edu.sg</td>
     
           
   </tr><tr>
-    <td>5 Perseverance Mrs Shirley Puay (Year Head – P5/P6)</td>
+    <td>6 Perseverance Mrs Shirley Puay (YH P1/P6)</td>
     <td>shirley.lee@gsps.edu.sg</td>
     
      
   </tr><tr>
-    <td>5 Thrift Mr Henry Lee (SH/ICT)</td>
+    <td>6 Thrift Mr Henry Lee (SH/ICT)</td>
     <td>henry.lee@gsps.edu.sg</td>
     
     
                
       
   </tr><tr>
-    <td>5 Thrift Mrs Rosalynn Ong</td>
+    <td>6 Thrift Mrs Rosalynn Ong</td>
     <td>rosalynn.teo@gsps.edu.sg</td>
     
      
   </tr><tr>
-    <td>5 Integrity Mr Gavin Bi</td>
+    <td>6 Integrity Mr Gavin Bi</td>
     <td>gavin.bi@gsps.edu.sg</td>
     
           
   </tr><tr>
-    <td>5 Integrity Mdm Lee Ser Meei</td>
+    <td>6 Integrity </td>
     <td>lee.ser.meei@gsps.edu.sg</td>
     
      
@@ -563,71 +627,7 @@ tr:nth-child(even) {
     <td>fadhilah.saneb@gsps.edu.sg</td>
     
      
-  </tr><tr>
-    <th>Primary 6 Form Teachers</th>
-    <th>Email address</th>
-    
-    
-  </tr><tr>
-    <td>6 Perseverance Ms Lye Kit Yeng Ada</td>
-    <td>ada.lye@gsps.edu.sg</td>
-    
-         
-  </tr><tr>
-    <td>6 Perseverance Mrs Jenny Chan (HOD/Mathematics)</td>
-    <td>jenny.tan@gsps.edu.sg</td>
-    
-     
-  </tr><tr>
-    <td>6 Thrift Mdm Widayu Bte Kemat (Senior Teacher/ Science)</td>
-    <td>widayu.kemat@gsps.edu.sg</td>
-    
-    
-     
-  </tr><tr>
-    <td>6 Thrift Mrs Ng-Thiam Siow Foon (SH/Student Management)</td>
-    <td>thiam.siow.foon@gsps.edu.sg</td>
-    
-         
-  </tr><tr>
-    <td>6 Integrity Mdm How-Quek Jia Min(Year Head P3/P4)</td>
-    <td>how.jiamin@gsps.edu.sg</td>
-    
-     
-  </tr><tr>
-    <td>6 Integrity Mr Poon Yain Ping (School Staff Developer)</td>
-    <td>poon.yain.ping@gsps.edu.sg</td>
-    
-    
-  </tr><tr>
-    <td>6 Respect Mr Yusri B Yunos (Assistant Year Head P5/P6)</td>
-    <td>yusri@gsps.edu.sg</td>
-    
-    
-  </tr><tr>
-    <td>6 Respect Ms Hamidah Bte Abdullah (HOD/Character &amp; Citizenship Education)
-		</td><td>hamidah.abdullah@gsps.edu.sg</td>
-    
-         
-  </tr><tr>
-    <td>6 Courage Mdm Rosilah Bte Abdullah</td>
-    <td>rosilah.abdullah@gsps.edu.sg</td>
-    
-   
-  </tr><tr>
-    <td>6 Courage  Mdm Roslinda Bte Johari</td>
-    <td>roslinda.johari@gsps.edu.sg</td>
-    
-     
-  </tr><tr>
-    <td>6 Harmony Mdm Teo Shaw Ping</td>
-    <td>teo.shaw.ping@gsps.edu.sg</td>
-    
-       
-  </tr><tr>
-    <td>6 Harmony Mr Muhd Fadzly B Zainal</td>
-    <td>fadzly.zainal@gsps.edu.sg</td>
-    
+  
        
   </tr><tr>
     <th>Non-form teachers</th>
