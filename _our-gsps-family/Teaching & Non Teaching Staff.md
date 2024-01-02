@@ -521,8 +521,9 @@ tr:nth-child(even) {
     
      
   </tr><tr>
-    <td>5 Thrift Mrs Ng-Thiam Siow Foon (SH/Student Management)</td>
-    <td>thiam.siow.foon@gsps.edu.sg</td>
+    <td>5 Thrift Mr Ngiam Song Wee (HOD/ICT)</td>
+    <td>ngiam.song.wee@gsps.edu.sg
+</td>
     
          
   </tr><tr>
