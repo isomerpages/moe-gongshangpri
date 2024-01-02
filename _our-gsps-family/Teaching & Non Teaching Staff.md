@@ -513,8 +513,10 @@ tr:nth-child(even) {
     
      
   </tr><tr>
-    <td>5 Thrift Mdm Widayu Bte Kemat (Senior Teacher/ Science)</td>
-    <td>widayu.kemat@gsps.edu.sg</td>
+    <td>5 Thrift Mdm Loy Sim Lan (Mrs Yap) (LH/CL)
+</td>
+    <td>loy.sim.lan@gsps.edu.sg
+</td>
     
     
      
