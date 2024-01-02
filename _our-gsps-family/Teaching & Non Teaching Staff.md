@@ -396,13 +396,17 @@ tr:nth-child(even) {
     
      
   </tr><tr>
-    <td>3 Harmony Mr Mohd Azhari B Dzulkifli</td>
-    <td>md.azhari@gsps.edu.sg</td>
+    <td>3 Harmony Mr Lai Yao Khuan Scott (AYH P2/3*)
+</td>
+    <td>scott.lai@gsps.edu.sg
+</td>
     
           
   </tr><tr>
-    <td>3 Harmony Ms Karen Yeo Poh Cheng (Mrs Lee)</td>
-    <td>karen.lee@gsps.edu.sg</td>
+    <td>3 Harmony Mdm Ng Bee San
+</td>
+    <td>ng.bee.san@gsps.edu.sg
+</td>
     
     
   </tr><tr>
