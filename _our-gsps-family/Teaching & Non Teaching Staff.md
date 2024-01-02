@@ -455,7 +455,7 @@ tr:nth-child(even) {
     
           
   </tr><tr>
-    <td>4 Respect Mdm Foo Tseh Chyn(LH/PE)</td>
+    <td>4 Respect Mdm Foo Tseh Chyn(SH/PE)</td>
     <td>foo.tsehchyn@gsps.edu.sg</td>
     
      
