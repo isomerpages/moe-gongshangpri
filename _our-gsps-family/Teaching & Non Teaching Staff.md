@@ -261,20 +261,20 @@ tr:nth-child(even) {
    <td>2 Thrift Mdm Mehrun Nisha (HOD/PE/CCA/Aesthetics)</td>
    <td>mehrun.nisha@gsps.edu.sg</td>
          
-  </tr><tr>
-    <td>2 Thrift Mdm Ruzanna Binte Abdul Manap (AED, Teaching &amp; Learning)^</td>
-    <td>ruzanna.abdul.manap@gsps.edu.sg</td>
+
     
      
   </tr><tr>
-    <td>2 Integrity Mdm Yasmin Bte Abdul Razak</td>
-    <td>yasmin.abdul.razak@gsps.edu.sg</td>
+    <td>2 Integrity Ms Ling Joelle
+ </td>
+    <td>ling.joelle@gsps.edu.sg
+</td>
     
         
      
   </tr><tr>
-    <td>2 Integrity Mdm Razilah Bte Yahya (Senior Teacher/Malay Language)</td>
-    <td>razilah.yahya@gsps.edu.sg</td>
+    <td>2 Integrity Mdm Teo Shaw Ping</td>
+    <td>teo.shaw.ping@gsps.edu.sg</td>
     
      
   </tr><tr>
