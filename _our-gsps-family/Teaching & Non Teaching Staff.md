@@ -224,10 +224,14 @@ tr:nth-child(even) {
     
      
   </tr><tr>
-    <td>1 Graciousness Mdm Shahanaz Begum Binti Nazeer Ahamad</td>
-    <td>shahanaz.begum@gsps.edu.sg</td>
+    <td>1 Graciousness Mdm Suhaidah Bte Mokhtar
+</td>
+    <td>suhaidah.mokhtar@gsps.edu.sg
+</td>
     
-    
+   </tr><tr>
+    <td>1 Graciousness Mdm Yasmin Bte Abdul Razak</td>
+    <td>yasmin.abdul.razak@gsps.edu.sg</td>   
          
   </tr><tr>
     <th>Primary 2 Form Teachers</th>
