@@ -506,8 +506,10 @@ tr:nth-child(even) {
     
          
   </tr><tr>
-    <td>5 Perseverance Mrs Jenny Chan (HOD/Mathematics)</td>
-    <td>jenny.tan@gsps.edu.sg</td>
+    <td>5 Perseverance Mdm Widayu Bte Kemat (ST/Science)
+</td>
+    <td>widayu.kemat@gsps.edu.sg
+</td>
     
      
   </tr><tr>
