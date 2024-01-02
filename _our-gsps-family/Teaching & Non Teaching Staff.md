@@ -536,13 +536,13 @@ tr:nth-child(even) {
   </tr><tr>
     <td>5 Integrity Mr Tan Chuan Song
 </td>
-    <td>tan.chuan.song@gsps.edu.sg
-</td>
+    <td>tan.chuan.song@gsps.edu.sg</td>
     
     
   </tr><tr>
-    <td>5 Respect Mr Yusri B Yunos (Assistant Year Head P5/P6)</td>
-    <td>yusri@gsps.edu.sg</td>
+    <td>5 Respect Ms Lye Kit Yeng Ada
+</td>
+    <td>ada.lye@gsps.edu.sg</td>
     
     
   </tr><tr>
