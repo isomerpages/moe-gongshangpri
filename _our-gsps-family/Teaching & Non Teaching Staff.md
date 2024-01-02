@@ -416,18 +416,24 @@ tr:nth-child(even) {
             
      
   </tr><tr>
-    <td>4 Perseverance Mrs Natalie Neo</td>
-    <td>natalie.neo@gsps.edu.sg</td>
+    <td>4 Perseverance Mdm Chang Yating
+</td>
+    <td>chang.yating@gsps.edu.sg
+</td>
     
      
   </tr><tr>
-    <td>4 Perseverance Mrs Jannie Lee (HOD/English Language)</td>
-    <td>jannie.lee@gsps.edu.sg</td>
+    <td>4 Perseverance Ms Yeo Soh Fang Jennifer
+(HOD Student Management)</td>
+    <td>jennifer.yeo@gsps.edu.sg
+</td>
     
          
   </tr><tr>
-    <td>4 Thrift Ms Fong Shiyan Dorcas</td>
-    <td>dorcas.fong@gsps.edu.sg</td>
+    <td>4 Thrift Mrs Angie Wong
+</td>
+    <td>angie.wong@gsps.edu.sg
+</td>
     
      
   </tr><tr>
