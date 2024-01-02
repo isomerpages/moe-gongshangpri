@@ -565,8 +565,10 @@ tr:nth-child(even) {
     
      
   </tr><tr>
-    <td>5 Harmony Mdm Teo Shaw Ping</td>
-    <td>teo.shaw.ping@gsps.edu.sg</td>
+    <td>5 Harmony Mdm Amizah Bte Mohd Amin
+</td>
+    <td>amizah.md.amin@gsps.edu.sg
+</td>
     
        
   </tr><tr>
