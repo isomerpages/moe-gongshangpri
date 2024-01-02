@@ -60,12 +60,7 @@ tr:nth-child(even) {
     <th>Heads of Departments</th>
     <th>Email address</th>
     
-  
-  </tr><tr>
-    <td>Mr Poon Yain Ping (School Staff Developer)</td>
-    <td>poon.yain.ping@gsps.edu.sg</td>
-    
-    
+ 
      
   </tr><tr>
     <td>Mrs Jannie Lee (HOD/English Language)</td>
@@ -149,8 +144,8 @@ tr:nth-child(even) {
     
   
   </tr><tr>
-    <td>1 Perseverance Mrs Amelia Tan</td>
-    <td>amelia.tan@gsps.edu.sg</td>
+    <td>1 Perseverance Ms Alvinna Alphonso(ST-EL)</td>
+    <td>alvinna@gsps.edu.sg</td>
     
      
   </tr><tr>
