@@ -337,13 +337,13 @@ tr:nth-child(even) {
     
           
   </tr><tr>
-    <td>3 Perseverance Mdm Chang Yating</td>
-    <td>chang.yating@gsps.edu.sg</td>
+    <td>3 Perseverance Mrs Jannie Lee (HOD/English Language)</td>
+    <td>jannie.lee@gsps.edu.sg</td>
     
             
    </tr><tr>
-    <td>3 Perseverance Ms Yeo Soh Fang Jennifer (HOD/Student Management</td>
-    <td>jennifer.yeo@gsps.edu.sg</td>
+    <td>3 Perseverance Mdm Lu Yanyu (Senior Teacher/Chinese Language)</td>
+    <td>lu.yanyu@gsps.edu.sg</td>
     
     
   </tr><tr>
