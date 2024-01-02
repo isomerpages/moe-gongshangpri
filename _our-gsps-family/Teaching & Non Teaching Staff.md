@@ -318,8 +318,10 @@ tr:nth-child(even) {
         
       
   </tr><tr>
-    <td>2 Graciousness Mdm Safiah Bte Sidek</td>
-    <td>safiah.sidek@gsps.edu.sg</td>
+    <td>2 Graciousness Mdm Gwendolyn Khong Wei Sze
+(Mrs Chee)</td>
+    <td>gwendolyn.faith.khong@gsps.edu.sg
+</td>
     
      
   </tr><tr>
