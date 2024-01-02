@@ -445,13 +445,17 @@ tr:nth-child(even) {
             
       
   </tr><tr>
-    <td>4 Integrity Mrs Wendy Chu (LH/Science)</td>
-    <td>wendy.chu@gsps.edu.sg</td>
+    <td>4 Integrity Ms Seng Jia Ying (Mrs Ling)
+</td>
+    <td>seng.jiaying@gsps.edu.sg
+</td>
     
      
   </tr><tr>
-    <td>4 Integrity Mr Hazmi B Hasan</td>
-    <td>hazmi.hasan@gsps.edu.sg</td>
+    <td>4 Integrity Mdm Sri Asilah Subari
+</td>
+    <td>sri.asilah.subari@gsps.edu.sg
+</td>
     
           
   </tr><tr>
