@@ -499,8 +499,10 @@ tr:nth-child(even) {
     
     
   </tr><tr>
-    <td>5 Perseverance Ms Lye Kit Yeng Ada</td>
-    <td>ada.lye@gsps.edu.sg</td>
+    <td>5 Perseverance Ms Melissa Chan (LH/EL)
+</td>
+    <td>melissa.chan@gsps.edu.sg
+</td>
     
          
   </tr><tr>
