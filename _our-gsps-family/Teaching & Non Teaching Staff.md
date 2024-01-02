@@ -254,8 +254,8 @@ tr:nth-child(even) {
     
      
   </tr><tr>
-    <td>2 Thrift Mrs Kwok Li Li (Senior Teacher/ Physical Education)</td>
-    <td>soon.lili@gsps.edu.sg</td>
+    <td>2 Thrift Mrs Natalie Neo</td>
+    <td>natalie.neo@gsps.edu.sg</td>
     
    </tr><tr>
    <td>2 Thrift Ms Melissa Chan(LH/ English)</td>
