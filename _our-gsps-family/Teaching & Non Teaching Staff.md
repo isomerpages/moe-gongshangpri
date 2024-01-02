@@ -164,14 +164,15 @@ tr:nth-child(even) {
       
      
   </tr><tr>
-    <td>1 Integrity Ms Ling Joelle</td>
-    <td>ling.joelle@gsps.edu.sg</td>
+    <td>1 Integrity Mr Azman Bin Mohammed Noh</td>
+    <td>azman.mohammed.noh@gsps.edu.sg</td>
     
     
          
   </tr><tr>
-    <td>1 Integrity Mdm Haslinah Bte Yahya</td>
-    <td>haslinah.yahya@gsps.edu.sg</td>
+    <td>1 Integrity Mdm Safini Razali</td>
+    <td>safini.razali@gsps.edu.sg
+</td>
     
     
       
