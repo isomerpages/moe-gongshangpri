@@ -455,13 +455,15 @@ tr:nth-child(even) {
     
           
   </tr><tr>
-    <td>4 Respect Mdm Sakinah Bte Omar</td>
-    <td>sakinah.omar@gsps.edu.sg</td>
+    <td>4 Respect Mdm Foo Tseh Chyn(LH/PE)</td>
+    <td>foo.tsehchyn@gsps.edu.sg</td>
     
      
   </tr><tr>
-    <td>4 Respect Mr Tan Chuan Song</td>
-    <td>tan.chuan.song@gsps.edu.sg</td>
+    <td>4 Respect Mr Isaac Foo Yong Wei
+</td>
+    <td>isaac.foo@gsps.edu.sg
+</td>
     
             
      
