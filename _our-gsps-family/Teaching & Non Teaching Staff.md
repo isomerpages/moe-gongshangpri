@@ -239,14 +239,18 @@ tr:nth-child(even) {
     
      
   </tr><tr>
-    <td>2 Perseverance Mdm Norizah Bte Maakiap</td>
-    <td>norizah.maakiap@gsps.edu.sg</td>
+    <td>2 Perseverance Mrs Amelia Tan
+</td>
+    <td>amelia.tan@gsps.edu.sg
+</td>
     
         
       
   </tr><tr>
-    <td>2 Perseverance Mr Lai Yao Khuan Scott</td>
-    <td>scott.lai@gsps.edu.sg</td>
+    <td>2 Perseverance Mr Ridhwan Zahid
+
+</td>
+    <td>ridhwan.zahid@gsps.edu.sg</td>
     
      
   </tr><tr>
