@@ -155,8 +155,8 @@ tr:nth-child(even) {
     
          
   </tr><tr>
-    <td>1 Thrift Mdm Ho Jia Xin Jessie (Mrs Ong)</td>
-    <td>jessie.ho@gsps.edu.sg</td>
+    <td>1 Thrift Mdm Goh Chwee Yin Sarah (Mrs Ang)</td>
+    <td>sarah.goh@gsps.edu.sg</td>
     
    </tr><tr>
     <td>1 Thrift Mrs Soh-Ng Kah Fung (AED, Teaching &amp; Learning)^</td>
