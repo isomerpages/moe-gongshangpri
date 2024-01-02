@@ -209,8 +209,9 @@ tr:nth-child(even) {
     
      
   </tr><tr>
-    <td>1 Harmony Mr Muhd Luqman B Mohd Shapie</td>
-    <td>muhammad.luqman.bms@gsps.edu.sg</td>
+    <td>1 Harmony Mdm Lee Yi Jun</td>
+    <td>lee.yi.jun@gsps.edu.sg
+</td>
     
         
       
