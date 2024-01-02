@@ -347,13 +347,15 @@ tr:nth-child(even) {
     
     
   </tr><tr>
-    <td>3 Thrift Mdm Wong Ngok Hiong</td>
-    <td>wong.ngok.hiong@gsps.edu.sg</td>
+    <td>3 Thrift Mdm Bindiya Manoj Aswani
+</td>
+    <td>bindiya.aswani@gsps.edu.sg
+</td>
     
           
   </tr><tr>
-    <td>3 Thrift Mrs Angie Wong (Assistant Year Head P3/P4)</td>
-    <td>angie.wong@gsps.edu.sg</td>
+    <td>3 Thrift Mdm Lee Ser Meei</td>
+    <td>lee.ser.meei@gsps.edu.sg</td>
     
      
   </tr><tr>
