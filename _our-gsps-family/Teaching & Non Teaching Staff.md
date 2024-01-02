@@ -293,8 +293,8 @@ tr:nth-child(even) {
         
       
   </tr><tr>
-    <td>2 Courage Mdm Bindiya Manoj Aswani</td>
-    <td>bindiya.aswani@gsps.edu.sg</td>
+    <td>2 Courage Ms Fadzillah Bte Aslam Khan(Year Head – P2/P3)</td>
+    <td>fadzillah.khan@gsps.edu.sg</td>
     
      
   </tr><tr>
