@@ -284,8 +284,10 @@ tr:nth-child(even) {
     
      
   </tr><tr>
-    <td>2 Respect Mdm Loy Sim Lan (Mrs Yap)(LH/Chinese Language)</td>
-    <td>loy.sim.lan@gsps.edu.sg</td>
+    <td>2 Respect Ms Jessica Tang
+</td>
+    <td>jessica.tang@gsps.edu.sg
+</td>
     
 
         
