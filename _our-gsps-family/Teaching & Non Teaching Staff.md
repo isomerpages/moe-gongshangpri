@@ -669,19 +669,18 @@ tr:nth-child(even) {
 </td>   
 
    </tr><tr>
-  <td> Mdm Marsita Bte Omar
-</td>
-   <td>marsita.omar@gsps.edu.sg
-</td>
+  <td> Mdm Marsita Bte Omar</td>
+   <td>marsita.omar@gsps.edu.sg</td>
+	</tr><tr>
+  <td>Mdm Habibah Najihahbi Bte Ahmad </td>
+   <td>habibah.najihahbi@gsps.edu.sg
+</td>	
 		
    </tr><tr>
   <td> Mdm Ho Yee Wah</td>
    <td>ho.yee.wah@gsps.edu.sg</td>
 		
-</tr><tr>
- <td>Mdm Lee Huiyi </td>
- <td>lee.huiyi@gsps.edu.sg</td>	
-		
+
 		
   </tr><tr>
     <td>Ms Wong Mai Ling</td>
@@ -728,23 +727,49 @@ tr:nth-child(even) {
    </tr><tr>
    <td> Mdm Noorjahan Bte Abdul Salam Khan (Mrs Badrul)</td>
    <td>noorjahan.ask@gsps.edu.sg</td> 
-        
+   
+</tr><tr>
+    <th>School Counsellor/SEN Officers/AEDs (T &amp; L)</th>
+    <th>Email address</th>
+    
+         
   </tr><tr>
-    <th>School Admin Team</th>
-    <th>Email address/Designation</th>
+    <td>Ms Ng Xin Hui (School Counsellor)</td>
+    <td>ng.xin.hui@gsps.edu.sg</td>
+    
+    
+   
+  </tr><tr>
+    <td>Mrs Soh-Ng Kah Fung(AED, Teaching &amp; Learning)</td>
+    <td>angeline.ng@gsps.edu.sg</td>
+    
+      
+      
+  </tr><tr>
+    <td>Mdm Ruzanna Binte Abdul Manap (AED, Teaching &amp; Learning)</td>
+    <td>ruzanna.abdul.manap@gsps.edu.sg</td>
+    
+         
+  </tr><tr>
+    <td>Miss Noor Adzlin binte Apandi (SEN Officer)</td>
+    <td>noor.adzlin@gsps.edu.sg</td>
+    
+ </tr><tr>
+    <td>Ms Raye Tan Wei Wei (SEN Officer)</td>
+    <td>raye.tan@gsps.edu.sg</td>		
+		
+		
+		
+  </tr><tr>
+    <th>School Admin Team (Designation)</th>
+    <th>Email address</th>
     
     
          
   </tr><tr>
     <td>Mr Eric Tham Weng Wah (Administration Manager)</td>
     <td>eric.tham@gsps.edu.sg</td>
-    
-    
-       
-  </tr><tr>
-    <td>Mr Nasir Bin Mohamad (Operations Manager)</td>
-    <td>nasir.mohamad@gsps.edu.sg</td>
-    
+
          
   </tr><tr>
     <td>Mr Muhammad Danial Bin Mohd Yusoff (Operations Manager)</td>
@@ -764,12 +789,12 @@ tr:nth-child(even) {
     
    
  </tr><tr>
-    <td> Mdm Rogayah Bte Manop (Administrative Executive)</td>
+    <td> Mdm Rogayah Bte Manop (Administrative Executive, MK)</td>
     <td>rogayah.manop@gsps.edu.sg</td>
 		
 		
 </tr><tr>
- <td>Ms Vivian Lim (Administrative Executive)(MK)</td>
+ <td>Ms Vivian Lim (Administrative Executive)</td>
  <td>vivian.lim@gsps.edu.sg</td>	
 		
 		
@@ -815,35 +840,7 @@ tr:nth-child(even) {
  <td>Operation Support Officer(MK)</td>	
 		
        
-  </tr><tr>
-    <th>School Counsellor/SEN Officers/AEDs (T &amp; L)</th>
-    <th>Email address</th>
-    
-         
-  </tr><tr>
-    <td>Ms Ng Xin Hui (School Counsellor)</td>
-    <td>ng.xin.hui@gsps.edu.sg</td>
-    
-    
-   
-  </tr><tr>
-    <td>Mrs Soh-Ng Kah Fung(AED, Teaching &amp; Learning)</td>
-    <td>angeline.ng@gsps.edu.sg</td>
-    
-      
-      
-  </tr><tr>
-    <td>Mdm Ruzanna Binte Abdul Manap (AED, Teaching &amp; Learning)</td>
-    <td>ruzanna.abdul.manap@gsps.edu.sg</td>
-    
-         
-  </tr><tr>
-    <td>Miss Noor Adzlin binte Apandi (SEN Officer)</td>
-    <td>noor.adzlin@gsps.edu.sg</td>
-    
- </tr><tr>
-    <td>Ms Raye Tan Wei Wei (SEN Officer)</td>
-    <td>raye.tan@gsps.edu.sg</td>
+  
        
   </tr><tr>
     <th>Support staff</th>
@@ -881,11 +878,11 @@ tr:nth-child(even) {
 		
 		
  </tr><tr>
-    <td>Internal appointment*, Assistant Form Teacher^</td>
+    <td>Internal appointment*</td>
     <td></td>
        
   </tr><tr>
-    <td>Last updated: 27 December 2023</td>
+    <td>Last updated: 2 January 2024</td>
     <td></td>
     
     
