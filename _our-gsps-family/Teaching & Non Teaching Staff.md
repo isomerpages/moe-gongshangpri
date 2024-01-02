@@ -303,13 +303,17 @@ tr:nth-child(even) {
     
          
   </tr><tr>
-    <td>2 Harmony Ms Alvinna Alphonso (Senior Teacher/ English Language)</td>
-    <td>alvinna@gsps.edu.sg</td>
+    <td>2 Harmony Mr Muhd Luqman B Mohd Shapie
+</td>
+    <td>muhammad.luqman.bms@gsps.edu.sg
+</td>
     
      
   </tr><tr>
-    <td>2 Harmony Mdm Suryati Bte Abdul Latiff (Senior Teacher-Ed Support)*</td>
-    <td>suryati.abdul.latiff@gsps.edu.sg</td>
+    <td>2 Harmony Mrs Yoges Wari d/o Nadarajah Singh
+</td>
+    <td>yoges.singh@gsps.edu.sg
+</td>
     
         
       
