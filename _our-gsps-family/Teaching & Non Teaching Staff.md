@@ -359,8 +359,8 @@ tr:nth-child(even) {
     
      
   </tr><tr>
-    <td>3 Integrity Mdm Sri Asilah Subari (Senior Teacher/ Mathematics)</td>
-    <td>sri.asilah.subari@gsps.edu.sg</td>
+    <td>3 Integrity Mrs Wendy Chu (LH/Science)</td>
+    <td>wendy.chu@gsps.edu.sg</td>
     
             
       
