@@ -278,8 +278,8 @@ tr:nth-child(even) {
     
      
   </tr><tr>
-    <td>2 Respect Mdm Goh Chwee Yin Sarah (Mrs Ang)</td>
-    <td>sarah.goh@gsps.edu.sg</td>
+    <td>2 Respect Mrs Jenny Chan (HOD/Mathematics)</td>
+    <td>jenny.tan@gsps.edu.sg</td>
     
     
      
