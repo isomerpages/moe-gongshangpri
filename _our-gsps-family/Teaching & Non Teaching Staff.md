@@ -437,8 +437,10 @@ tr:nth-child(even) {
     
      
   </tr><tr>
-    <td>4 Thrift Mdm Kuah Siew Eng</td>
-    <td>kuah.siew.eng@gsps.edu.sg</td>
+    <td>4 Thrift Mdm Wong Ngok Hiong
+</td>
+    <td>wong.ngok.hiong@gsps.edu.sg
+</td>
     
             
       
