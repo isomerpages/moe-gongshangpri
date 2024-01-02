@@ -593,18 +593,20 @@ tr:nth-child(even) {
     
           
   </tr><tr>
-    <td>6 Integrity </td>
-    <td>lee.ser.meei@gsps.edu.sg</td>
+    <td>6 Integrity Mdm Ng Chor Leng
+</td>
+    <td>ng.chorleng@gsps.edu.sg
+</td>
     
      
   </tr><tr>
-    <td>5 Respect Mrs Pearlyn Ang (SH, Student Well-Being)</td>
+    <td>6 Respect Mrs Pearlyn Ang (SH/Student Well-Being)</td>
     <td>pearlyn.ang@gsps.edu.sg</td>
     
         
   </tr><tr>
-    <td>5 Respect Mr Ngiam Song Wee (HOD/ICT)</td>
-    <td>ngiam.song.wee@gsps.edu.sg</td>
+    <td>6 Respect Mdm Chow Yoke Yeong (Mrs Loy)(HOD/Science)</td>
+    <td>chow.yoke.yeong@gsps.edu.sg</td>
     
          
   </tr><tr>
