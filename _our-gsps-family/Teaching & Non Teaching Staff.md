@@ -140,7 +140,7 @@ tr:nth-child(even) {
     
   
   </tr><tr>
-    <td>1 Perseverance Ms Alvinna Alphonso(ST-EL)</td>
+    <td>1 Perseverance Ms Alvinna Alphonso(ST/EL)</td>
     <td>alvinna@gsps.edu.sg</td>
     
      
@@ -155,7 +155,7 @@ tr:nth-child(even) {
     <td>sarah.goh@gsps.edu.sg</td>
     
    </tr><tr>
-    <td>1 Thrift Mr Yusri B Yunos (Assistant Year Head P1/P6)</td>
+    <td>1 Thrift Mr Yusri B Yunos (AYH P1/P6)</td>
     <td>yusri@gsps.edu.sg</td>
       
      
@@ -200,7 +200,7 @@ tr:nth-child(even) {
     
          
   </tr><tr>
-    <td>1 Harmony Mr Hazmi B Hasan(ST-Art*)</td>
+    <td>1 Harmony Mr Hazmi B Hasan(ST/Art*)</td>
     <td>hazmi.hasan@gsps.edu.sg</td>
     
      
@@ -289,7 +289,7 @@ tr:nth-child(even) {
         
       
   </tr><tr>
-    <td>2 Courage Ms Fadzillah Bte Aslam Khan(Year Head  P2/P3)</td>
+    <td>2 Courage Ms Fadzillah Bte Aslam Khan(YH P2/P3)</td>
     <td>fadzillah.khan@gsps.edu.sg</td>
     
      
@@ -333,12 +333,12 @@ tr:nth-child(even) {
     
           
   </tr><tr>
-    <td>3 Perseverance Mrs Jannie Lee (HOD/English Language)</td>
+    <td>3 Perseverance Mrs Jannie Lee (HOD/EL)</td>
     <td>jannie.lee@gsps.edu.sg</td>
     
             
    </tr><tr>
-    <td>3 Perseverance Mdm Lu Yanyu (ST/Chinese Language)</td>
+    <td>3 Perseverance Mdm Lu Yanyu (ST/CL)</td>
     <td>lu.yanyu@gsps.edu.sg</td>
     
     
@@ -373,7 +373,7 @@ tr:nth-child(even) {
     
           
   </tr><tr>
-    <td>3 Respect Mdm Siti Fadhilah Binte Saneb (SH-ML*)
+    <td>3 Respect Mdm Siti Fadhilah Binte Saneb (SH/ML*)
 </td>
     <td>fadhilah.saneb@gsps.edu.sg</td>
     
@@ -420,7 +420,7 @@ tr:nth-child(even) {
      
   </tr><tr>
     <td>4 Perseverance Ms Yeo Soh Fang Jennifer
-(HOD Student Management)</td>
+(HOD/Student Management)</td>
     <td>jennifer.yeo@gsps.edu.sg
 </td>
     
@@ -460,7 +460,7 @@ tr:nth-child(even) {
     
      
   </tr><tr>
-    <td>4 Respect Mr Isaac Foo Yong Wei (HOD MTL)
+    <td>4 Respect Mr Isaac Foo Yong Wei (HOD/MTL)
 </td>
     <td>isaac.foo@gsps.edu.sg
 </td>
