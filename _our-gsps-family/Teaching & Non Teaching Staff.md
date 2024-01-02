@@ -729,6 +729,11 @@ tr:nth-child(even) {
    <td>noorjahan.ask@gsps.edu.sg</td> 
    
 </tr><tr>
+   <td> Mdm Pheroza Bte Ahmad Maricar</td>
+   <td>pheroza.maricar@gsps.edu.sg
+</td> 
+		
+</tr><tr>
     <th>School Counsellor/SEN Officers/AEDs (T &amp; L)</th>
     <th>Email address</th>
     
