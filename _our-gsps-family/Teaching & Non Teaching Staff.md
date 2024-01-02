@@ -460,7 +460,7 @@ tr:nth-child(even) {
     
      
   </tr><tr>
-    <td>4 Respect Mr Isaac Foo Yong Wei (HOD MT)
+    <td>4 Respect Mr Isaac Foo Yong Wei (HOD MTL)
 </td>
     <td>isaac.foo@gsps.edu.sg
 </td>
