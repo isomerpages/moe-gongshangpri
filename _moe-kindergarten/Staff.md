@@ -90,12 +90,7 @@ variant: markdown
     <td class="tg-0lax">nor_ashikin_japar@moe.edu.sg</td>	
 	</tr>
 	<tr>
-    <td class="tg-0lax">Mdm Li Juzhuang</td>
-    <td class="tg-0lax">Chinese Language Teacher</td>
-    <td class="tg-0lax">li_juzhuang@moe.edu.sg</td>
-  </tr>
-  <tr>
-		<td class="tg-0lax">Mr Tan Wee Kok</td>
+				<td class="tg-0lax">Mr Tan Wee Kok</td>
     <td class="tg-0lax"> English Language Teacher</td>
     <td class="tg-0lax">tan_wee_kok@moe.edu.sg</td>	
 	</tr>
@@ -105,6 +100,11 @@ variant: markdown
     <td class="tg-0lax">sim_li_hiang@moe.edu.sg</td>	
 	</tr>
 	<tr>
+    <td class="tg-0lax">Mdm Li Juzhuang</td>
+    <td class="tg-0lax">Chinese Language Teacher</td>
+    <td class="tg-0lax">li_juzhuang@moe.edu.sg</td>
+  </tr>
+  <tr>
     <td class="tg-0lax">Mdm Shi Jia</td>
     <td class="tg-0lax">Chinese Language Teacher</td>
     <td class="tg-0lax">shi_jia_a@moe.edu.sg</td>
@@ -120,12 +120,7 @@ variant: markdown
     <td class="tg-0lax">wang_mei@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Mdm Song Fang </td>
-    <td class="tg-0lax"> Chinese Language Teacher</td>
-    <td class="tg-0lax">song_fang_a@moe.edu.sg</td>
-  </tr>
-  <tr>
-		    <td class="tg-0lax">Mdm Yu Zhonghong </td>
+	<td class="tg-0lax">Mdm Yu Zhonghong </td>
     <td class="tg-0lax"> Chinese Language Teacher</td>
     <td class="tg-0lax">yu_zhonghong@moe.edu.sg</td>
   </tr>
