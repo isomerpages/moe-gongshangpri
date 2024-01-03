@@ -2,8 +2,9 @@
 title: Staff
 permalink: /kindergarten/staff/
 description: ""
+variant: markdown
 ---
-<img src="/images/MKGS%20Staff%20Photo.jpg" style="width:80%">
+![](/images/MK%20matters/MK_Staff.jpg)
 		 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -79,6 +80,26 @@ description: ""
     <td class="tg-0lax"> farhanah_mystafa@moe.edu.sg</td>
   </tr>
   <tr>
+	 <td class="tg-0lax">Ms Aaris Pang Jia Xin</td>
+    <td class="tg-0lax"> English Language Teacher</td>
+    <td class="tg-0lax"> aaris_pang_jia_xin@moe.edu.sg</td>	
+	</tr>
+	<tr>
+			 <td class="tg-0lax">Mdm Nor Ashikin Binte Japar</td>
+    <td class="tg-0lax"> English Language Teacher</td>
+    <td class="tg-0lax">nor_ashikin_japar@moe.edu.sg</td>	
+	</tr>
+	<tr>
+				<td class="tg-0lax">Mr Tan Wee Kok</td>
+    <td class="tg-0lax"> English Language Teacher</td>
+    <td class="tg-0lax">tan_wee_kok@moe.edu.sg</td>	
+	</tr>
+	<tr>
+				<td class="tg-0lax">Mdm Sim Li Hiang</td>
+    <td class="tg-0lax"> English Language Teacher</td>
+    <td class="tg-0lax">sim_li_hiang@moe.edu.sg</td>	
+	</tr>
+	<tr>
     <td class="tg-0lax">Mdm Li Juzhuang</td>
     <td class="tg-0lax">Chinese Language Teacher</td>
     <td class="tg-0lax">li_juzhuang@moe.edu.sg</td>
@@ -99,12 +120,7 @@ description: ""
     <td class="tg-0lax">wang_mei@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Mdm Song Fang </td>
-    <td class="tg-0lax"> Chinese Language Teacher</td>
-    <td class="tg-0lax">song_fang_a@moe.edu.sg</td>
-  </tr>
-  <tr>
-		    <td class="tg-0lax">Mdm Yu Zhonghong </td>
+	<td class="tg-0lax">Mdm Yu Zhonghong </td>
     <td class="tg-0lax"> Chinese Language Teacher</td>
     <td class="tg-0lax">yu_zhonghong@moe.edu.sg</td>
   </tr>
@@ -130,3 +146,5 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+Updated: 3 January 2024
