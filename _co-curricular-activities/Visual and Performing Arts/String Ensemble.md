@@ -24,9 +24,9 @@ The String Ensemble performs for school events every year on Teachers’ Day. Ev
 | -------- | -------- | 
 | Ms Dorcas Fong (OIC)     | dorcas.fong@gsps.edu.sg     | 
 | Mdm Shahanaz Begum    | shahanaz.begum@gsps.edu.sg     | 
-|   Mrs Ling Jia Ying   | seng_jia_ying@moe.edu.sg    | 
-| |  |
-
+|   Mrs Ling Jia Ying   | seng.jiaying@gsps.edu.sg    | 
+|Mdm Safiah Bte Sidek | safiah.sidek@gsps.edu.sg |
+|Mdm Ng Bee San | ng.bee.san@gsps.edu.sg |
 
 **Training schedule:***
 
