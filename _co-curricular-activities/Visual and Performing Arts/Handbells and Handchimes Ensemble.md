@@ -28,10 +28,6 @@ The Handbell and Handchime Ensemble is a unique performing art group which lever
 
 *Pupils may refer to their own schedules given in the letter sent via Parents Gateway.
 
-<img src="/images/hhe1.jpeg" style="width:80%; margin-bottom:15px">
-
-<img src="/images/hhe2.jpeg" style="width:80%; margin-bottom:15px">
-
-<img src="/images/hhe3.jpeg" style="width:80%; margin-bottom:15px">
-
-<img src="/images/hhe4.jpeg" style="width:80%">
+![](/images/Handbells/Photo1.png) <br>
+![](/images/Handbells/Photo2.png) <br>
+![](/images/Handbells/Photo3.png)
