@@ -16,7 +16,7 @@ The Handbell and Handchime Ensemble is a unique performing art group which lever
 
 | Teachers-in-charge | Email address | 
 | -------- | -------- | 
-|   Mdm Ng Chor Leng (OIC)   |  ng_chor_leng@gsps.edu.sg   | 
+|   Mdm Ng Chor Leng (OIC)   |  ng_chorleng@gsps.edu.sg   | 
 |   Mdm Lee Huiyi (2IC)   |    lee.huiyi@gsps.edu.sg  | 
 
 **Training schedule:***
