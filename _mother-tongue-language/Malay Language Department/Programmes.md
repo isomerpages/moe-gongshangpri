@@ -21,19 +21,14 @@ The Malay Language department uses student-centered approach, which focuses on t
 ### **P1 MTL Read with Me Programme (ML session)**
 
 
-<img src="/images/Bookmark-making%20Activity.jpg" style="width:80%;margin-bottom:10px;" align="left">
 
-<img src="/images/Cikgu%20Safini%20Giving%20out%20Instructions.jpg" style="width:80%;margin-bottom:10px;" align="left">
 
-<img src="/images/P1%20ML%20Reading%20Programme.jpg" style="width:80%;margin-bottom:10px;" align="left">
+![](/images/ML%20Language/Photo1.jpeg) <br>
+![](/images/ML%20Language/Photo2.jpeg) <br>
+![](/images/ML%20Language/Photo3.jpeg) <br>
+![](/images/ML%20Language/Photo4.jpeg) <br>
+![](/images/ML%20Language/Photo5.jpeg)
 
-<img src="/images/Parent-pupil%20Reading%20Together%20Session%2001.jpg" style="width:80%;margin-bottom:10px;" align="left">
-
-<img src="/images/Parent-pupil%20Reading%20Together%20Session%2002.jpg" style="width:80%;margin-bottom:10px;" align="left">
-
-<img src="/images/Parent-pupil%20Reading%20Together%20Session%2003.jpg" style="width:80%;margin-bottom:10px" align="left">
-
-<img src="/images/Reading%20an%20e-book%20with%20Parents.jpg" style="width:80%;margin-bottom:10px;" align="left">
 
 <br clear="left">
 
