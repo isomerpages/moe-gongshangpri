@@ -3,6 +3,7 @@ title: String Ensemble
 permalink: /our-gsps-experience/cca/visual-and-performing-arts/string-ensemble/
 description: ""
 third_nav_title: Visual and Performing Arts
+variant: markdown
 ---
 ### **String Ensemble**
 
@@ -21,11 +22,11 @@ The String Ensemble performs for school events every year on Teachers’ Day. Ev
 
 | Teachers-in-charge | Email address |
 | -------- | -------- | 
-| Mdm Liu Shuang (OIC)     | shuang_liu@moe.edu.sg     | 
-| Mdm Shahanaz Begum    | shahanaz_begum@moe.edu.sg     | 
-|   Mrs Ling Jia Ying   | seng_jia_ying@moe.edu.sg    | 
-|Ms Dorcas Fong | fong_shiyan_dorcas@moe.edu.sg |
-
+| Ms Dorcas Fong (OIC)     | dorcas.fong@gsps.edu.sg     | 
+| Mdm Shahanaz Begum    | shahanaz.begum@gsps.edu.sg     | 
+|   Mrs Ling Jia Ying   | seng.jiaying@gsps.edu.sg    | 
+|Mdm Safiah Bte Sidek | safiah.sidek@gsps.edu.sg |
+|Mdm Ng Bee San | ng.bee.san@gsps.edu.sg |
 
 **Training schedule:***
 
