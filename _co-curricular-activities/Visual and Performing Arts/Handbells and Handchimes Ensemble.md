@@ -10,7 +10,7 @@ The Handbell and Handchime Ensemble is a unique performing art group which lever
 
 **Objectives of CCA:**
 
-* To develop a sustainable interest in the learning a musical instrument 
+* To develop a sustainable interest in learning a musical instrument 
 * To develop basic techniques and skills of playing the handbells and handchimes
 * To learn to appreciate Arts and culture better as well as team spirit
 
