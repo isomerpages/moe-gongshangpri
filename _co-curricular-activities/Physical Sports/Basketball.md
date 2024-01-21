@@ -3,6 +3,7 @@ title: Basketball
 permalink: /our-gsps-experience/cca/sports/basketball/
 description: ""
 third_nav_title: Physical Sports
+variant: markdown
 ---
 ### **Basketball**
 Through Basketball CCA, our pupils will learn fundamental basketball skills, basketball rules and regulations, territorial invasion games concept as well as develop physical fitness. Besides learning skills and know-how, the teachers believe in imparting values required to shape our pupils’ character and thus, we place much emphasis on discipline and nurturing sporting values such as perseverance, resilience and teamwork. In the pursuit of the very best in each and every pupil, pupils will also have ample opportunities for leadership development.
@@ -14,16 +15,15 @@ Through Basketball CCA, our pupils will learn fundamental basketball skills, bas
 
 
 | Teachers-in-charge | Email Address |
-|:---:|:---:|
-| Mrs Kwok Lili (OIC) | [soon_li_li@moe.edu.sg](mailto:soon_li_li@moe.edu.sg) |
-| Mdm Kuah Siew Eng (2IC) | [kuah_siew_eng@moe.edu.sg](mailto:kuah_siew_eng@moe.edu.sg) |
-| Mdm Amizah Bt Mohd Amin |  [amizah_mohd_amin@moe.edu.sg](mailto:amizah_mohd_amin@moe.edu.sg) |
-| Mr Bryan Chua | [chua_aik_ching_bryan@moe.edu.sg](mailto:chua_aik_ching_bryan@moe.edu.sg) |
-|  Mrs Ng-Thiam Siow Foon | [ng-thiam_siow_foon@moe.edu.sg](mailto:ng-thiam_siow_foon@moe.edu.sg)  |
-| Mdm Marsita Bte Omar | [marsita_omar@moe.edu.sg](mailto:marsita_omar@moe.edu.sg) |
-| Mdm Ruzanna Binte Abdul Manap | [ruzanna_abdul_manap@moe.edu.sg](mailto:ruzanna_abdul_manap@moe.edu.sg) |
-|  Mrs Yap Loy Sim Lan | [loy_sim_lan@moe.edu.sg](mailto:loy_sim_lan@moe.edu.sg)  |
-|
+| -------- | -------- | 
+|   Mrs Kwok Li Li (OIC)   |  soon.lili@gsps.edu.sg   | 
+|   Mr Ismail Jemaah (2IC-Boys)   |    ismail.jemaah@gsps.edu.sg  | 
+| Mrs Rosalynn Ong (2IC-Girls) | rosalynn.teo@gsps.edu.sg |
+| Mr Bryan Chua | bryan.chua@gsps.edu.sg |
+| Mrs Ng-Thiam Siow Foon | thiam.siow.foon@gsps.edu.sg |
+| Mdm Lee Yi Jun | lee.yi.jun@gsps.edu.sg |
+| Mr Ridhwan Zahid | ridhwan.zahid@gsps.edu.sg |
+
 
 **Training Schedule:***
 
