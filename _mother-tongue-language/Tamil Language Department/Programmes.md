@@ -3,16 +3,6 @@ title: Programmes
 permalink: /mother-tongue-language/tamil-language-department/programmes/
 description: ""
 third_nav_title: Tamil Language Department
+variant: tiptap
 ---
-### **Programmes**
-#### **P1 MTL Read with Me Programme**
-
-The ‘Read with me!’ Programme provide a platform for parents to bond with their children and ignite our P1 students the love for learning Mother Tongue Language. It is also a great platform for students to display their language abilities and interact with other friends and teachers.
-
-![](/images/tamil1.jpg) <br>
-
-![](/images/tamil2.jpg) <br>
-
-![](/images/tamil3.jpg) <br>
-![](/images/tamil4.jpg) <br>
-![](/images/tamil5.jpg)
+<h3><strong>Programmes</strong></h3><h4><strong>P1 MTL Read with Me Programme (TL session)</strong></h4><p>The ‘Read with me!’ Programme provide a platform for parents to bond with their children and ignite our P1 students the love for learning Mother Tongue Language. It is also a great platform for students to display their language abilities and interact with other friends and teachers.</p><p>2024</p><p></p><div class="isomer-image-wrapper"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/TL/tl1.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/TL/tl2.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/TL/tl3.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/TL/tl4.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/TL/tl5.jpg"></div><p></p><p></p><p>2023</p><div class="isomer-image-wrapper"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/tamil1.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/tamil5.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/tamil4.jpg"></div><p></p><p></p><div class="isomer-image-wrapper"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/tamil2.jpg"></div><p></p>

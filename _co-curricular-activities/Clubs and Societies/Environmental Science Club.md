@@ -3,6 +3,7 @@ title: Environmental Science Club
 permalink: /our-gsps-experience/cca/clubs-and-societies/environmental-club/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 ### **Environmental Science Club**
 
@@ -18,9 +19,9 @@ In Environmental Science Club, members will learn about the environment and scie
 
 | Teachers-in-charge | Email address | 
 | -------- | -------- | 
-|  Mrs Jessie Ong (OIC)    | ho_jia_xin_jessie@moe.edu.sg     | 
-|  Mrs Wendy Chu (2IC)   | chew_suat_ling_wendy@moe.edu.sg    | 
-
+|  Mrs Jessie Ong (OIC)    | jessie.ho@gsps.edu.sg     | 
+|  Mrs Wendy Chu    | wendy.chu@gsps.edu.sg    | 
+| Mdm Widayu Kemat | widayu.kemat@gsps.edu.sg
 **Training schedule:***
 
 | Day | Time | 
