@@ -7,6 +7,7 @@ variant: markdown
 Is your child turning 5 in 2025?
 The MOE Kindergarten Open House will be held on 3 February 2024 from 8.30am to 12.30pm. Read on to find out more about the Open House and sign up for it!
 
+![](/images/MK_GS_Open_House_2024.jpg)
 
 
 If you have any queries regarding MK@Gongshang, you may email the MK at [mk_gongshang@moe.edu.sg](mailto:mk_gongshang@moe.edu.sg) or  call 67831191.
