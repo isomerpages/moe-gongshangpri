@@ -60,8 +60,7 @@ variant: markdown
 
 
 
-#### **Lower Primary Games Day **
-
+#### **Lower Primary Games Day**
 
 <img src="/images/LPGD 1.jpg" style="width:80%; margin-bottom:15px" align="left">
 
