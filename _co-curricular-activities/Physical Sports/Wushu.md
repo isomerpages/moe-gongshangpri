@@ -3,45 +3,149 @@ title: Wushu
 permalink: /our-gsps-experience/cca/sports/wushu/
 description: ""
 third_nav_title: Physical Sports
+variant: tiptap
 ---
-### **Wushu**
-
-
-
-Never give up - A little progress each day adds up to big results.&nbsp;
-
-With determination and hard work, our&nbsp;Wushu team has been improving steadily over the years,&nbsp;overcoming many challenges during the pandemic.&nbsp;
-
-At the National School&nbsp;Games&nbsp;Wushu Championships&nbsp;in 2022, our school team did us proud by achieving a total of 2 bronze medals&nbsp;in the&nbsp;individual events.&nbsp;
-
-Due to&nbsp;the&nbsp;Covid-19&nbsp;situation,&nbsp;the group events&nbsp;had to be cancelled. However, both our junior and senior groups for Group Wushu and Group Weapons,&nbsp;continued to train&nbsp;hard for their events&nbsp;even though they knew that they would not be participating in the competition. We&nbsp;are&nbsp;indeed&nbsp;very proud of&nbsp;the resilience and discipline which they had displayed. It is our belief that our Wushu team would continue to grow from strength to strength and scale&nbsp;to&nbsp;greater heights in the years to come with the help of our teachers, coaches and the ardent support of the parents.
-
-This year, our training sessions have been resumed with safe management measures. We look forward to an exciting year ahead!
-
-
-
-
-| Teachers-in-charge | Email address | 
-| -------- | -------- | 
-|   Mdm Lu Yanyu  (OIC)  | lu_yanyu@moe.edu.sg      | 
-|    Mdm Lee Ser Meei (2IC) |  lee_ser_meei@moe.edu.sg    | 
-|    Mdm Ng Bee San  |  ng_bee_san@moe.edu.sg    | 
-|    Mdm Jennifer Jacob |  jennifer_jacob@moe.edu.sg    | 
-|    Mdm Lee Huiyi  |  lee_huiyi@moe.edu.sg    | 
-
-**Training Schedule***
-
-
-| Day | Time | 
-|:---:|:---:|
-| Monday  | 3.00 p.m. - 5.00 p.m. | 
-| Wednesday  | 2.15 p.m. - 3.45 p.m. | 
-
-*Pupils may refer to their own schedules given in the letter sent via Parents Gateway.
-
-
-<img src="/images/ws1.jpeg" style="width:80%; margin-bottom:15px">
-
-<img src="/images/ws2.jpeg" style="width:80%;margin-bottom:15px">
-
-<img src="/images/ws3.jpeg" style="width:80%">
+<h3><strong>Wushu</strong></h3>
+<p>Unleash your inner warrior!
+<br>In Gongshang Primary School, we believe in fostering a holistic development,
+and our Wushu CCA is a testament to our commitment to nurturing not only
+the minds but also the bodies and spirits of our students. Our Wushu CCA
+is designed to empower our students through the practice of discipline,
+focus, and physical fitness. Students will learn a variety of traditional
+Wushu forms, which not only enhance their physical prowess but also instill
+a sense of mental fortitude. Our experienced and dedicated instructors
+bring a wealth of knowledge and expertise to guide our students in their
+Wushu journey. From basic stances to advanced techniques, our instructors
+ensure a supportive and challenging environment for all skill levels. Over
+the years, our Wushu team has had a proud history of accomplishments at
+the National School Games (NSG). This year, as we gear up for the NSG Presentation
+2024, our CCA is committed to showcasing our skills and dedication on the
+national stage. Besides showcasing their talents at competitions, there
+are opportunities created for our students to also dazzle the audience
+with breathtaking performances during school events. With continued support
+from all of us. our students will have a memorable and successful experience,
+fostering a spirit of camaraderie and sportsmanship.</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Teachers-in-charge</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email address</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lu Yanyu (OIC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lu.yanyu@gsps.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lee Ser Meei (2IC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lee.ser.meei@gsps.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Yoges Singh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>yoges.singh@gsps.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Marsita Omar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>marsita.omar@gsps.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Ruzana Abdul Manap</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ruzana.abdul.manap@gsps.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Training Schedule</strong>*</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Day</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.00 p.m. - 5.00 p.m. (school team members)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.15 p.m. - 3.45 p.m. (both school team and recreational team members)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>*Pupils may refer to their own schedules given in the letter sent via
+Parents Gateway.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Wushu/Photo1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Wushu/Photo2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Wushu/Photo3.JPG">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Wushu/Photo4.JPG">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Wushu/Photo5.JPG">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Wushu/Photo6.jpg">
+</div>
+<p></p>

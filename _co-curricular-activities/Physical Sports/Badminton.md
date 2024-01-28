@@ -3,51 +3,143 @@ title: Badminton
 permalink: /our-gsps-experience/cca/sports/badminton/
 description: ""
 third_nav_title: Physical Sports
+variant: tiptap
 ---
-### **Badminton**
-
-Warmest greetings from the GSPS Badminton family. 
-Sportsmanship, teamwork and resilience is what we seek to develop for our badminton shuttlers.
-We hope your child will have a fruitful and enriching time picking up new badminton skills and enjoy playing the game with their friends.
-
-**Objectives of CCA:**
-* To develop a sustainable interest in the game of badminton 
-* To develop basic techniques and skills to enjoy the game of badminton
-* To learn the values of sportsmanship, teamwork and resilience and to conduct ourselves in accordance with our school values
-* We look forward to your kind co-operation and fullest support in our pursuit of sporting excellence.
-
-
-We look forward to your kind co-operation and fullest support in our pursuit of sporting excellence.
-
-
-
-| Teachers-in-charge | Email address | 
-| -------- | -------- | 
-|  Mr Tan Chuan Song (OIC)   | tan_chuan_song@moe.edu.sg    | 
-| Mdm Safini Razali (2IC)     | safini_razali@moe.edu.sg    | 
-| Mdm Teo Shaw Ping    | teo_shaw_ping@moe.edu.sg    | 
-| Mdm Haslinah Yahya    | haslinah_yahya@moe.edu.sg    | 
-| Mdm Safiah Sidek   | safiah_sidek@moe.edu.sg     | 
-| Mdm Wong Ngok Hiong| wong_ngok_hiong@moe.edu.sg    | 
-| Mr Muhammad Luqman Bin Mohd Shapie    | muhammad_luqman_mohd_shapie@moe.edu.sg   | 
-
-**Training schedule:***
-
-
-
-| Day  | Level | Time |
-| -------- | -------- | -------- |
-| Monday    | P5 – P6    | 3.00 p.m. – 5.00 p.m.   |
-| Wednesday    | P3 – P4   | 2.15 p.m. – 3.45 p.m.   |
-
-*Pupils may refer to their own schedules given in the letter sent via Parents Gateway.
-
-![](/images/Badminton/badminton1.jpg)
-
-![](/images/Badminton/badminton2.jpg)
-
-![](/images/Badminton/badminton%203.jpg)
-
-![](/images/Badminton/badminton4.jpg)
-
-![](/images/Badminton/badminton5.jpg)
+<h3><strong>Badminton</strong></h3>
+<p>Warmest greetings from the GSPS Badminton family. Sportsmanship, teamwork
+and resilience are what we seek to develop for our badminton shuttlers.
+We hope your child will have a fruitful and enriching time picking up new
+badminton skills and enjoy playing the game with their friends.</p>
+<p><strong>Objectives of CCA:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>To develop a sustainable interest in the game of badminton</p>
+</li>
+<li>
+<p>To develop basic techniques and skills to enjoy the game of badminton</p>
+</li>
+<li>
+<p>To learn the values of sportsmanship, teamwork and resilience and to conduct
+ourselves in accordance with our school values</p>
+</li>
+<li>
+<p>We look forward to your kind co-operation and fullest support in our pursuit
+of sporting excellence.</p>
+</li>
+</ul>
+<p>We look forward to your kind co-operation and fullest support in our pursuit
+of sporting excellence.</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Teachers-in-charge</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email address</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Chuan Song (OIC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan.chuan.song@gsps.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Safini Razali (2IC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>safini.razali@gsps.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Teo Shaw Ping</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>teo.shaw.ping@gsps.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Wong Ngok Hiong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>wong.ngok.hiong@gsps.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Luqman Bin Mohd Shapie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>muhammad.luqman.bms@gsps.edu.sg</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Training schedule:</strong>*</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Day</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Level</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5 – P6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.00 p.m. – 5.00 p.m.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3 – P4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.15 p.m. – 3.45 p.m.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>*Pupils may refer to their own schedules given in the letter sent via
+Parents Gateway.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton/Photo1_Badminton_Senior_Boys.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton/Photo2_Badminton_Senior_Girls.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton/Photo3_Badminton_Senior_Girls_and_Boys.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton/Photo4_Badminton_Training_Session_01.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton/Photo5_Badminton_Training_Session_02.jpg">
+</div>
+<p></p>
