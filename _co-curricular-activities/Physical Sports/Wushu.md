@@ -28,8 +28,8 @@ With continued support from all of us. our students will have a memorable and su
 
 | Day | Time | 
 |:---:|:---:|
-| Monday  | 3.00 p.m. - 5.00 p.m. | 
-| Wednesday  | 2.15 p.m. - 3.45 p.m. | 
+| Monday  | 3.00 p.m. - 5.00 p.m.(school team members) | 
+| Wednesday  | 2.15 p.m. - 3.45 p.m. (both school team and recreational team members)| 
 
 *Pupils may refer to their own schedules given in the letter sent via Parents Gateway.
 
