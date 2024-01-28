@@ -20,4 +20,40 @@ make decisions both visually and analytically, and test their memory.</p>
 </li>
 </ul>
 <p></p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Teachers-in-charge</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email address</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Kuah Siew Eng (OIC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>kuah.siew.eng@gsps.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Amizah Md Amin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>amizah.md.amin@gsps.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
