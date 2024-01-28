@@ -108,13 +108,4 @@ fostering a spirit of camaraderie and sportsmanship.</p>
 </table>
 <p>*Pupils may refer to their own schedules given in the letter sent via
 Parents Gateway.</p>
-<div class="isomer-image-wrapper">
-<img style="width:80%; margin-bottom:15px" height="auto" width="100%" src="/images/ws1.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:80%;margin-bottom:15px" height="auto" width="100%" src="/images/ws2.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/ws3.jpeg">
-</div>
 <p></p>
