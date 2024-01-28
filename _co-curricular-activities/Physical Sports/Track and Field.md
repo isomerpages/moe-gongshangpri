@@ -94,6 +94,14 @@ with our school values</p>
 <p>angeline.ng@gsps.edu.sg</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong>Training schedule:</strong>*</p>
@@ -121,6 +129,14 @@ with our school values</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.15 p.m. - 3.45 p.m.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
