@@ -45,7 +45,7 @@ of sporting excellence.</p>
 <p>Mr Tan Chuan Song (OIC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_chuan_song@moe.edu.sg</p>
+<p>tan.chuan.song@gsps.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -53,7 +53,7 @@ of sporting excellence.</p>
 <p>Mdm Safini Razali (2IC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>safini_razali@moe.edu.sg</p>
+<p>safini.razali@gsps.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -61,23 +61,7 @@ of sporting excellence.</p>
 <p>Mdm Teo Shaw Ping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>teo_shaw_ping@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Haslinah Yahya</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>haslinah_yahya@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Safiah Sidek</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>safiah_sidek@moe.edu.sg</p>
+<p>teo.shaw.ping@gsps.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -85,7 +69,7 @@ of sporting excellence.</p>
 <p>Mdm Wong Ngok Hiong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>wong_ngok_hiong@moe.edu.sg</p>
+<p>wong.ngok.hiong@gsps.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -93,7 +77,7 @@ of sporting excellence.</p>
 <p>Mr Muhammad Luqman Bin Mohd Shapie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>muhammad_luqman_mohd_shapie@moe.edu.sg</p>
+<p>muhammad.luqman.bms@gsps.edu.sg</p>
 </td>
 </tr>
 </tbody>
