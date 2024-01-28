@@ -117,37 +117,48 @@ with our school values</p>
 <p>*Pupils may refer to their own schedules given in the letter sent via
 Parents Gateway.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Floorball/11_Ball_handling_and_dribbling_drill_in_training.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Floorball/1_Timing_our_tackling_to_perfection.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Floorball/10_Building_our_physical_fitness_to_be_competition_ready.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Floorball/9_Coach_Jon_sharing_with_pupils_on_the_next_drill_to_practise.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Floorball/8_Cooling_down_as_a_team_with_Coach_Jon.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Floorball/7_Debriefing_at_the_end_of_training_with_Coach_Amirah.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Floorball/6_Developing_team_camaraderie_through_our_weekly_trainings.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Floorball/5_Getting_ready_for_our_first_training_session_of_the_year_.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Floorball/4_Listening_to_Coach_Khai_before_the_practise.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Floorball/3_Reflecting_on_areas_to_improve_before_starting_the_next_practice_match.jpeg">
-</div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Floorball/2_Routine_set_up_of_the_court_before_training.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Floorball/1_Timing_our_tackling_to_perfection.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Floorball/3_Reflecting_on_areas_to_improve_before_starting_the_next_practice_match.jpeg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Floorball/4_Listening_to_Coach_Khai_before_the_practise.jpeg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Floorball/5_Getting_ready_for_our_first_training_session_of_the_year_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Floorball/6_Developing_team_camaraderie_through_our_weekly_trainings.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Floorball/7_Debriefing_at_the_end_of_training_with_Coach_Amirah.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Floorball/8_Cooling_down_as_a_team_with_Coach_Jon.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Floorball/9_Coach_Jon_sharing_with_pupils_on_the_next_drill_to_practise.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Floorball/10_Building_our_physical_fitness_to_be_competition_ready.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Floorball/11_Ball_handling_and_dribbling_drill_in_training.jpeg">
 </div>
 <p></p>
