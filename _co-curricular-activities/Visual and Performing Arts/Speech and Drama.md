@@ -83,7 +83,7 @@ ideas</p>
 <p>2.15 p.m. - 3.45 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Library</p>
+<p>Teaching Lab (Level 5)</p>
 </td>
 </tr>
 </tbody>
