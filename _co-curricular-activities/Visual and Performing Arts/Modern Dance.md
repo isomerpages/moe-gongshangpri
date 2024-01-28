@@ -76,3 +76,23 @@ through movement</p>
 <p>*Please click <a href="https://go.gov.sg/moderndanceschedule" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the 2024 training schedule.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Modern Dance/1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Modern Dance/3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Modern Dance/4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Modern Dance/5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Modern Dance/6.jpg">
+</div>
+<p></p>
