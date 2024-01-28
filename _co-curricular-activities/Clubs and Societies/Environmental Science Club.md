@@ -22,6 +22,7 @@ In Environmental Science Club, members will learn about the environment and scie
 |  Mrs Jessie Ong (OIC)    | jessie.ho@gsps.edu.sg     | 
 |  Mrs Wendy Chu    | wendy.chu@gsps.edu.sg    | 
 | Mdm Widayu Kemat | widayu.kemat@gsps.edu.sg
+
 **Training schedule:***
 
 | Day | Time | 
