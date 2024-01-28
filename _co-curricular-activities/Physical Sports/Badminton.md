@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h3><strong>Badminton</strong></h3>
 <p>Warmest greetings from the GSPS Badminton family. Sportsmanship, teamwork
-and resilience is what we seek to develop for our badminton shuttlers.
+and resilience are what we seek to develop for our badminton shuttlers.
 We hope your child will have a fruitful and enriching time picking up new
 badminton skills and enjoy playing the game with their friends.</p>
 <p><strong>Objectives of CCA:</strong>
