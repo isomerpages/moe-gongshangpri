@@ -111,3 +111,23 @@ cyberspace citizens.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infocomm%20Technology%20Club/hackathon@peihwa1.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infocomm Technology Club/Photo_5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infocomm Technology Club/Photo_4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infocomm Technology Club/Photo_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infocomm Technology Club/Photo_2.jpeg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infocomm Technology Club/Photo_1.jpeg">
+</div>
+<p></p>
