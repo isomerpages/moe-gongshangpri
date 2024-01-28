@@ -116,16 +116,4 @@ with our school values</p>
 </table>
 <p>*Pupils may refer to their own schedules given in the letter sent via
 Parents Gateway.</p>
-<div class="isomer-image-wrapper">
-<img style="width:80%; margin-bottom:15px" height="auto" width="100%" src="/images/floorball1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:80%;margin-bottom:15px" height="auto" width="100%" src="/images/floorball2.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:80%;margin-bottom:15px" height="auto" width="100%" src="/images/floorball3.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/floorball4.jpg">
-</div>
 <p></p>
