@@ -205,7 +205,7 @@ romantic relationship. Instead, they should focus on building strong and
 healthy friendships with their circles of friends.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 8</p>
+<p>Term 1 Week 9</p>
 </td>
 </tr>
 <tr>
@@ -223,32 +223,6 @@ arising from infatuation and recognise the importance of respecting the
 boundaries of any relationship. They will also recognise the negative impact
 of teasing their peers who may be experiencing the feelings of infatuation
 and learn to behave maturely towards each other.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 1 Week 9</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Did You Know? *
-<br>(60 min)
-<br>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>This lesson focuses on helping students to know what pornography is and
-how it can affect themselves and others. Students will learn the dangers
-of being exposed to sexually explicit materials and reject the viewing
-and/or reading of pornographic materials. They will learn to evaluate their
-own responses when they encounter pornography by applying the strategy
-‘Stop-Think-Do’.
-<br>
-<br>This lesson is conducted separately for boys and girls in different classrooms,
-so that the students will feel more comfortable during the discussions.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 1 Week 10</p>
@@ -270,17 +244,12 @@ so that the students will feel more comfortable during the discussions.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Please Note:</strong></h4>
-<p><strong>For&nbsp;2023, the Primary 5 lesson “<em>Did You Know</em>?” will also be conducted for the Primary 6 cohort.</strong>
-</p>
 <p><strong>Information for Parents</strong> 
-<br>8. Parents may opt their children out of Sexuality Education lessons,
-and/or supplementary Sexuality Education programmes by MOE-approved external
-providers.</p>
-<p>9. Parents who wish to opt their children out of the Sexuality Education
-lessons need to complete an opt-out form. This form will be distributed
-to parents who have responded "No" in Parent's Gateway and is also downloadable&nbsp;
-<a href="/files/MOE%20Sexuality%20Education%20opt%20out%20form.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed opt-out form is to be submitted by&nbsp;<strong>15/02/2023</strong>.&nbsp;</p>
-<p>10. Parents can contact the school at 67831191 and speak to Mdm Rosilah
-for discussion or to seek clarification about the school’s Sexuality Education
-Programme.</p>
+</p>
+<p>8. Parents who wish to opt their children out of the Sexuality Education
+lessons need to complete an opt-out form. This form will be communicated
+to parents at the start of the year and is also downloadable&nbsp; <a href="/files/MOE%20Sexuality%20Education%20opt%20out%20form.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+The completed opt-out form is to be submitted by&nbsp;<strong>06/02/2024</strong>.&nbsp;</p>
+<p>9. Parents can contact the school at 67831191 and speak to their child's
+form teacher or Mrs Singh for discussion or to seek clarification about
+the school’s Sexuality Education Programme.</p>
