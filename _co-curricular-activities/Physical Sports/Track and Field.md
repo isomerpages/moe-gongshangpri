@@ -129,30 +129,12 @@ with our school values</p>
 Parents Gateway.</p>
 <p><strong>Gongshang Gladiators</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:80%; margin-bottom:15px" height="auto" width="100%" src="/images/tnf1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:80%; margin-bottom:15px" height="auto" width="100%" src="/images/tnf2.jpg">
-</div>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:80%; margin-bottom:15px" height="auto" width="100%" src="/images/tnf3.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:80%; margin-bottom:15px" height="auto" width="100%" src="/images/tnf4.jpg">
-</div>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:80%; margin-bottom:15px" height="auto" width="100%" src="/images/tnf5.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/tnf6.jpg">
-</div>
 <p>
 <br>
 </p>
