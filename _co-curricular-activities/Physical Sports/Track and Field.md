@@ -72,18 +72,26 @@ with our school values</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Muhd Fadzly B Zainal</p>
+<p>Mdm Siti Fadhilah Saneb</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>muhamad_fadzly_zainal@moe.edu.sg</p>
+<p>fadhilah.saneb@gsps.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Soh-Ng Kah Fung</p>
+<p>Mdm Suhaidah Bte Mokhtar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ng_kah_fung@moe.edu.sg</p>
+<p>suhaidah.mokhtar@gsps.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Angeline Soh-Ng Kah Fung</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>angeline.ng@gsps.edu.sg</p>
 </td>
 </tr>
 </tbody>
@@ -119,7 +127,7 @@ with our school values</p>
 </table>
 <p>*Pupils may refer to their own schedules given in the letter sent via
 Parents Gateway.</p>
-<p><strong> Gongshang Gladiators</strong>
+<p><strong>Gongshang Gladiators</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:80%; margin-bottom:15px" height="auto" width="100%" src="/images/tnf1.jpg">
