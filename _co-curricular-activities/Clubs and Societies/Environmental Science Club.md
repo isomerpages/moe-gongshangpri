@@ -87,6 +87,14 @@ and teamwork.</p>
 <p>2.15 p.m. - 3.45 p.m.</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>* Pupils may refer to their own schedules given in the letter sent via
