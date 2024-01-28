@@ -5,3 +5,19 @@ variant: tiptap
 description: ""
 third_nav_title: Clubs and Societies
 ---
+<p>The Chess Club aims to develop in students a lifelong appreciation for
+International Chess. In Chess Club, students are given the opportunity
+to take up the challenge to exercise logic, develop pattern recognition,
+make decisions both visually and analytically, and test their memory.</p>
+<p><strong>Objectives of CCA:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>To develop a sustainable interest in the game of International Chess.</p>
+</li>
+<li>
+<p>To develop basic techniques and skills to enjoy the game of chess.</p>
+</li>
+</ul>
+<p></p>
+<p></p>
