@@ -75,6 +75,14 @@ fostering a spirit of camaraderie and sportsmanship.</p>
 <p>ruzana.abdul.manap@gsps.edu.sg</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong>Training Schedule</strong>*</p>
@@ -102,6 +110,14 @@ fostering a spirit of camaraderie and sportsmanship.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.15 p.m. - 3.45 p.m. (both school team and recreational team members)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
