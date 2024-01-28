@@ -56,4 +56,43 @@ make decisions both visually and analytically, and test their memory.</p>
 </tr>
 </tbody>
 </table>
+<p><strong>Training schedule:</strong>
+</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Day</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.15 p.m. - 3.45 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Classroom B3-08</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
