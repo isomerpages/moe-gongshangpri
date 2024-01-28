@@ -101,7 +101,7 @@ with our school values</p>
 <p>Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.15pm – 3.45pm</p>
+<p>2.15 p.m. – 3.45 p.m.</p>
 </td>
 </tr>
 <tr>
