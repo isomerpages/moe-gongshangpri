@@ -12,7 +12,6 @@ variant: markdown
 | Mrs Selina Lee | Vice Principal |
 | Mdm Nora Osman | Vice Principal |
 | Mr Fong Wai Khin | Vice Principal, Administration |
-| Mr Poon Yain Ping   | School Staff Developer |
 | Mdm Jenny Tan (Mrs Chan) | HOD/Mathematics |
 | Mr Isaac Foo Yong Wei  | HOD/Mother Tongue Language |
 | Mrs Jannie Lee  | HOD/English Language |
