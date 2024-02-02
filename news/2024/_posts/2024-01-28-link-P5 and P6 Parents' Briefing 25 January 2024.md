@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://go.gov.sg/p5p6parentsbriefing25jan2024
+external: https://go.gov.sg/p5p6parentsbriefing25jan24
 ---
