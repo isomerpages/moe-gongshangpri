@@ -54,7 +54,7 @@ of staff and students;</p>
 </li>
 <li>
 <p>planned an English Language/Literature in English/General Paper school-based
-curriculum alighed with the relevant national syllabuses to meet the readiness,
+curriculum aligned with the relevant national syllabuses to meet the readiness,
 interests and learning profiles of students of the school;</p>
 </li>
 <li>
