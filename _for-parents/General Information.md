@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>General Information</strong></h3>
-<h4><strong>Parents' Handbook (PDF)</strong></h4>
+<h4><strong>Parents' Handbook </strong></h4>
 <p>Click <a href="https://go.gov.sg/gspsparentshandbook2024" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 download our 2024 handbook.</p>
 <h4><strong>Vendor Information</strong></h4>
@@ -149,7 +149,7 @@ download our 2024 handbook.</p>
 </tbody>
 </table>
 <p>Relevant links:
-<br><a href="/files/Info%20Sheet%20on%20School%20Bus%20Services%202023%20Letterhead.pdf" rel="noopener noreferrer nofollow" target="_blank">Info Sheet on School Bus Services 2023</a>
+<br><a href="/files/Info%20Sheet%20on%20School%20Bus%20Services%202023%20Letterhead.pdf" rel="noopener noreferrer nofollow" target="_blank">Info Sheet on School Bus Services 2023</a> 
 <br><a href="/files/Request%20for%20School%20Bus%20Services_2022_Gongshang%20Primary.pdf" rel="noopener noreferrer nofollow" target="_blank">Request for School Bus Services 2022</a>
 </p>
 <h4><strong>Parents Gateway (FAQ)</strong></h4>
