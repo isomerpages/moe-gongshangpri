@@ -5,6 +5,10 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>About MOE Kindergarten (MK)</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK_logo.jpg">
+</div>
 <h4><strong>Our Vision</strong></h4>
 <p>A Strong Start for Every Child</p>
 <h4><strong>Our Mission</strong></h4>
