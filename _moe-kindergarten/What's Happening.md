@@ -15,5 +15,9 @@ and supporting documents via <a href="https://go.gov.sg/mkgspswaitlist" rel="noo
 the K1 2025 MOE Kindergarten Open House on 3 February 2024</p>
 <p>2. Please click <a href="https://drive.google.com/file/d/1k7M8wW1jxyaSaSD4t6xlWzlaqKi3g9E9/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 a virtual tour of the MK@Gongshang Learning Environment</p>
+<p>3. Please click here for the K1 2024 Orientation MOE Kindergarten (MK)
+Briefing slides</p>
+<p>4. Please click here for the K1 2024 Orientation Kindergarten Care (KCare)
+Briefing slides</p>
 <p>If you have any queries regarding MK@Gongshang, you may email the MK at&nbsp;
 <a href="mailto:mk_gongshang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mk_gongshang@moe.edu.sg</a>&nbsp;or call 67831191.</p>
