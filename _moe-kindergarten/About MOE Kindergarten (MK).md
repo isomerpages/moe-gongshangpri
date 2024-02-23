@@ -87,6 +87,12 @@ and after the MK session within the same premises.</p>
 </tr>
 </tbody>
 </table>
+<p>MK@GS children are eligible under Phase 2A in the P1 Registration Exercise
+to Gongshang Primary School. Like all children who may be eligible for
+priority admissions, placement into our primary school is not guaranteed
+and depends on the number of applicants and vacancies at the school during
+the P1 Registration Exercise.</p>
+<p></p>
 <h4><strong>MK@Gongshang collaborates with the following Early Years Centre(EYC):</strong></h4>
 <table>
 <tbody>
