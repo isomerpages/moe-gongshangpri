@@ -11,6 +11,6 @@ variant: markdown
 
 
 * For any SLS account or password queries, please approach the following:<br>
-1\.Your Form Teacher;<br>
-2\. The school's General Office at 6783 1191;<br>
-3\.MOE SLS Helpline 67026513 (Mon-Fri 9am-9pm, Sat 9am-3pm)
+1\. your Form Teacher;<br>
+2\. school-based helpdesk at 6783 1191 ext. 244;<br>
+3\. SLS Helpline 6702 6513 (Mon - Fri 9am - 9pm, Sat 9am - 3pm)
