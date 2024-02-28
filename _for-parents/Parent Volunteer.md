@@ -4,7 +4,7 @@ permalink: /for-parents/pv/
 variant: tiptap
 description: ""
 ---
-<p><strong>Parent Volunteer Scheme - Recruitment Exercise 2023</strong>
+<p><strong>Parent Volunteer Scheme - Recruitment Exercise 2024</strong>
 </p>
 <p></p>
 <p>Dear Parents,</p>
