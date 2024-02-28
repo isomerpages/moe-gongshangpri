@@ -8,7 +8,7 @@ description: ""
 </p>
 <p></p>
 <p>Dear Parents</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Parent volunteer recruitment exercise for children who are born between
 2 Jan 2019 and 1 Jan 2020 (both dates inclusive) is now open. Applications
 can be done via this link <a href="https://go.gov.sg/gsps-parentsvolunteer2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/gsps-parentsvolunteer2024</a>.
