@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://go.gov.sg/marchbulletin2024
+external: https://go.gov.sg/marchbulletin2024
 ---
