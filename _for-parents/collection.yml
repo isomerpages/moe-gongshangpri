@@ -2,14 +2,14 @@ collections:
   for-parents:
     output: true
     order:
-      - Homework Policy.md
       - General Information.md
-      - Information on secondary schools.md
       - Monthly Bulletin.md
+      - Homework Policy.md
+      - MOE Financial Assistance Scheme (FAS).md
+      - DigitalAccess@Home.md
       - Parent Volunteer.md
       - Home Based Learning/.keep
       - Home Based Learning/HBL General Information.md
-      - MOE Financial Assistance Scheme (FAS).md
-      - DigitalAccess@Home.md
       - Transfer In/.keep
       - Transfer In/Waiting List.md
+      - Information on secondary schools.md
