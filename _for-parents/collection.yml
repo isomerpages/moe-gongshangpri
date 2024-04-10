@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - General Information.md
-      - Assessments.md
       - Information on secondary schools.md
       - Monthly Bulletin.md
       - Parent Volunteer.md
