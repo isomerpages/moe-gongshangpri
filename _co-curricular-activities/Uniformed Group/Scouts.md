@@ -6,10 +6,11 @@ third_nav_title: Uniformed Group
 variant: tiptap
 ---
 <h3><strong>Scouts</strong></h3>
-<p></p>
+<p>Our GSPS Otter Unit flag</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Otter_Unit_Flag.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Otter_Unit_Flag.jpg">
 </div>
+<p>Our GSPS Otter Unit badge</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Otter_unit_badge.jpg">
 </div>
@@ -111,18 +112,34 @@ and challenges, to do their very best in all things and at all times!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Yoges Wari d/o Nadarajah Singh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>yoges_wari_nadarajah@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Gavin Bi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>gavin_bi@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Chang Yating</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chang.yating@gsps.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Loy Sim Lan (Mrs Yap)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>loy_sim_lan@gsps.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Horis B Hosri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>horis@gsps.edu.sg</p>
 </td>
 </tr>
 </tbody>
