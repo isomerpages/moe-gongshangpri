@@ -194,6 +194,26 @@ and challenges, to do their very best in all things and at all times!</p>
 </table>
 <p>*Pupils may refer to their own schedules given in the letter sent via
 Parents Gateway.</p>
+<p></p>
+<p><strong>Break Flag &amp; Lower flag ceremonies in horseshoe formation</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/scout4.jpg">
+</div>
+<p></p>
+<p></p>
+<p><strong>Tent pitching / striking</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/scout2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/scout1.jpg">
+</div>
+<p></p>
 <h5><strong>Scouts Youtube links</strong></h5>
 <div class="iframe-wrapper">
 <iframe height="350" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/RlYZWS1sLn4"></iframe>
