@@ -99,7 +99,7 @@ and challenges, to do their very best in all things and at all times!</p>
 <p>Mr Mohd Azhari B Dzulkifli</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>mohammad_azhari_dzulkifli@moe.edu.sg</p>
+<p>md.azhari@gsps.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -107,7 +107,7 @@ and challenges, to do their very best in all things and at all times!</p>
 <p>Mdm Norizah Bte Maakiap</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>norizah_maakiap@moe.edu.sg</p>
+<p>norizah.maakiap@gsps.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -115,7 +115,7 @@ and challenges, to do their very best in all things and at all times!</p>
 <p>Mr Gavin Bi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>gavin_bi@moe.edu.sg</p>
+<p>gavin.bi@gsps.edu.sg</p>
 </td>
 </tr>
 <tr>
