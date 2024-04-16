@@ -131,7 +131,7 @@ and challenges, to do their very best in all things and at all times!</p>
 <p>Mdm Loy Sim Lan (Mrs Yap)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>loy_sim_lan@gsps.edu.sg</p>
+<p>loy.sim.lan@gsps.edu.sg</p>
 </td>
 </tr>
 <tr>
