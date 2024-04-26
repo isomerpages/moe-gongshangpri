@@ -6,6 +6,64 @@ third_nav_title: English Language
 variant: tiptap
 ---
 <h3><strong>Achievements</strong></h3>
+<p></p>
+<h4><strong>6th National English Writing Competition</strong></h4>
+<p>Organised by the Young Writers Press, the National English Writing Competition
+(NEW-C) is an on-the-spot writing competition held in Singapore for students
+between 8-12 years old.</p>
+<p>Objective of this competition: Inspiring Children to Write Better</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name of student</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievements</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chong Yi Xian Kerrie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Category 1 (Primary 3 &amp; 4) – First Prize</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Our Participants</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tan Hui En Stefanie</p>
+</li>
+<li>
+<p>Adrienne Song Enyi Chong</p>
+</li>
+<li>
+<p>Chong Yi Xuan Kerrie</p>
+</li>
+<li>
+<p>Tai Yee Xuan</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL2.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
 <h4><strong>Mythos (Junior Orators) Storytelling Competition</strong></h4>
 <p>Conducted by the Anglo-Chinese Junior College (ACJC) Debate and Oratorical
 Society, this competition allows students the opportunity to build on their
@@ -120,59 +178,5 @@ watch the video)</p>
 <p>
 <br>
 </p>
-<h4><strong>6th National English Writing Competition</strong></h4>
-<p>Organised by the Young Writers Press, the National English Writing Competition
-(NEW-C) is an on-the-spot writing competition held in Singapore for students
-between 8-12 years old.</p>
-<p>Objective of this competition: Inspiring Children to Write Better</p>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Year</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Name of student</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Achievements</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chong Yi Xian Kerrie</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Category 1 (Primary 3 &amp; 4) – First Prize</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>Our Participants</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Tan Hui En Stefanie</p>
-</li>
-<li>
-<p>Adrienne Song Enyi Chong</p>
-</li>
-<li>
-<p>Chong Yi Xuan Kerrie</p>
-</li>
-<li>
-<p>Tai Yee Xuan</p>
-</li>
-</ul>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL1.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL2.jpg">
-</div>
-<p></p>
+<h4></h4>
 <p></p>
