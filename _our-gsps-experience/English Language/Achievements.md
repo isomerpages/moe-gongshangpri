@@ -151,6 +151,21 @@ between 8-12 years old.</p>
 </tr>
 </tbody>
 </table>
+<p>Our Participants</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tan Hui En Stefanie</p>
+</li>
+<li>
+<p>Adrienne Song Enyi Chong</p>
+</li>
+<li>
+<p>Chong Yi Xuan Kerrie</p>
+</li>
+<li>
+<p>Tai Yee Xuan</p>
+</li>
+</ul>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL1.jpg">
