@@ -42,7 +42,7 @@ Parents will be informed for all co-curricular activities and remedial/supplemen
 
 **4. What time can parents enter the school premises to make purchases from the school bookshop?**
 
-Parents are allowed to come into the school premises to make purchases at the bookshop after school hours. 
+The school bookshop is open from 8.30am to 3.30pm (Except every Wed to 2.30pm). Parents may come in after 2pm to make purchases for their child.
 
 **5. Where can I buy school uniform for my child/ward?**
 
@@ -52,7 +52,7 @@ Chop Kong Chong<br>
 Sembawang Shopping Centre #02-13<br>
 Singapore 758459
 
-You can also purchase the school uniform on every last Friday of the month (Feb-Nov) from 11.30 a.m. - 2.00 p.m. at the school foyer. There will be no sale of uniform on public holidays and school holidays.
+[https://www.euniforms.com.sg/shop/](https://www.euniforms.com.sg/shop/)
 
 ##### **ADMISSION**
 
