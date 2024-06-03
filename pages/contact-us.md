@@ -31,7 +31,7 @@ contacts:
       - phone: ""
       - email: mk_gongshang@moe.edu.sg
       - other: ""
-    title: MOE Kindgarten
+    title: MOE Kindergarten
   - content:
       - phone: ""
       - email: ""
