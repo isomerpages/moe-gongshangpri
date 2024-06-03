@@ -1,5 +1,5 @@
 collections:
-  moekindergarten:
+  moe-kindergarten:
     output: true
     order:
       - About MOE Kindergarten (MK).md
