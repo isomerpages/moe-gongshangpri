@@ -9,14 +9,14 @@ locations:
       - Singapore 529176
       - ""
     operating_hours: []
-    maps_link: ""
+    maps_link: https://www.onemap.gov.sg/?lat=1.3572373&lng=103.9491154
     title: Address Details
 contacts:
   - content:
       - phone: +65 6783 1191
-      - email: gsps@moe.edu.sg
+      - email: ""
       - other: ""
-    title: General Enquiries & Feedback
+    title: Telephone
   - content:
       - phone: +65 6788 0004
       - email: ""
@@ -24,10 +24,14 @@ contacts:
     title: Fax
   - content:
       - phone: ""
-      - email: ""
-      - other: Bus 4, 8, 18, 19, 21, 37, 38 and 81 <br> Walking 3 mins from bus stop
-          76201
-    title: Nearest Bus Stop
+      - email: gsps@moe.edu.sg
+      - other: ""
+    title: Primary School Section
+  - content:
+      - phone: ""
+      - email: mk_gongshang@moe.edu.sg
+      - other: ""
+    title: MOE Kindgarten
   - content:
       - phone: ""
       - email: ""
@@ -36,8 +40,8 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: "queries, please contact the following: <br> 1. Your child's Form Teacher
-          <br> 2. School-based Helpdesk at 67831191 ext 234"
-    title: SLS account or password
+      - other: Bus 4, 8, 18, 19, 21, 37, 38 and 81 <br> Walking 3 mins from bus stop
+          76201
+    title: Nearest Bus Stop
 feedback: ""
 ---
