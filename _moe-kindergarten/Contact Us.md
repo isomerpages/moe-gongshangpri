@@ -2,8 +2,9 @@
 title: Contact Us
 permalink: /kindergarten/contact-us/
 description: ""
+variant: markdown
 ---
-### **Contact Us**
+### **Contact MK**
 For further information, please contact us at:
 
 |  |  |
@@ -15,4 +16,4 @@ For further information, please contact us at:
 |
 
 For more information<br>
-Please visit the MOE [website](https://www.moe.gov.sg/preschool/moe-kindergarten).
+Please visit the MOE&nbsp;[website](https://www.moe.gov.sg/preschool/moe-kindergarten).
