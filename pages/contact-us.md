@@ -31,17 +31,16 @@ contacts:
       - phone: ""
       - email: mk_gongshang@moe.edu.sg
       - other: ""
-    title: MOE Kindgarten
+    title: MOE Kindergarten
   - content:
       - phone: ""
       - email: ""
-      - other: Tampines MRT (EW2) <br> Walking 9 mins from Exit B to here
+      - other: Tampines MRT (EW2) <br> 9 mins walk from Exit B
     title: Nearest MRT Station
   - content:
       - phone: ""
       - email: ""
-      - other: Bus 4, 8, 18, 19, 21, 37, 38 and 81 <br> Walking 3 mins from bus stop
-          76201
+      - other: Bus 4, 8, 18, 19, 21, 37, 38 and 81 <br> 3 mins walk from bus stop 76201
     title: Nearest Bus Stop
 feedback: ""
 ---
