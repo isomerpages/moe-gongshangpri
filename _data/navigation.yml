@@ -51,12 +51,12 @@ links:
     sublinks:
       - title: About MOE Kindergarten (MK)
         url: /kindergarten/about-mk/
-      - title: Staff
-        url: /kindergarten/staff/
       - title: MK Curriculum
         url: /kindergarten/mk-curriculum/
       - title: What's Happening
         url: https://www.gongshangpri.moe.edu.sg/moe-kindergarten-at-gongshang/whats-happening/
+      - title: Staff
+        url: /kindergarten/staff/
   - title: FAQ
     url: /faq/
   - title: Contact Us
