@@ -99,5 +99,5 @@ with the primary school.</p>
 </tbody>
 </table>
 <p></p>
-<h4>For more details and information, visit https://www.moe.gov.sg/primary/p1-registration.</h4>
+<h4>For more details and information, visit <a href="https://www.moe.gov.sg/primary/p1-registration" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary/p1-registration</a>.</h4>
 <p></p>
