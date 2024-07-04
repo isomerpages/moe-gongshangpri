@@ -5,7 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>School Management Committee (SMC)</strong></h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -212,7 +216,7 @@ variant: tiptap
 <p>Mr Henry Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/ICT</p>
+<p>SH/Partnerships and Engagement</p>
 </td>
 </tr>
 <tr>
