@@ -2,16 +2,16 @@
 title: Assessment
 permalink: /our-gsps-experience/mathematics/assessment/
 description: ""
+variant: markdown
 ---
-
 ### **Assessment**
-#### **Primary 3 Mathematics<br>Examination Format (SA1)**
+#### **Primary 3 Mathematics<br>End-Of-Year Examination Format**
 
 |  |  |  |
 |:---:|:---:|:---:|
-| Booklet A | 15 Multiple-Choice Questions | 10 x 1-mark<br>5 x 2-marks  |
-| <br><br>Booklet B | 15 Short-Answer Questions <br><br><br>6 Long- Answer Questions | 10 x 1-mark <br>5 x 2-marks <br><br> 4 x 3-marks<br>2 x 4-marks |
-|  | Total = 60 marks<br>Total Duration = 1h 30min |  |
+| Booklet A | 10 Multiple-Choice Questions | 10 x 1-mark<br>  |
+| <br><br>Booklet B | 15 Short-Answer Questions <br><br><br>5 Structured/Long- Answer Questions | 8 x 1-mark <br>7 x 2-marks <br><br> 2 x 3-marks<br>3 x 4-marks |
+|  | Total = 50 marks<br>Total Duration = 1h 15min |  |
 |
 
 #### **Primary 3 Mathematics<br>Examination Format (SA2)**
@@ -43,7 +43,7 @@ description: ""
 |  | Total = 100 marks<br>Total Duration = 1h 45min |  |
 |
 
-#### **Primary 5 Mathematics<br>Examination Format (SA1 & SA2)**
+#### **Primary 5 Mathematics<br>Examination Format (SA1 &amp; SA2)**
 
 |  |  |  |
 |:---:|:---:|:---:|
@@ -55,7 +55,7 @@ description: ""
 |  | Total = 55 marks<br>Total Duration = 1h 30min |  |
 |
 
-#### **Primary 6 Standard Mathematics  <br>Examination Format (SA1 & Prelims)**
+#### **Primary 6 Standard Mathematics  <br>Examination Format (SA1 &amp; Prelims)**
 
 |  |  |  |
 |:---:|:---:|:---:|
@@ -67,7 +67,7 @@ description: ""
 |  | Total = 55 marks<br>Total Duration = 1h 30min |  |
 |
 
-#### **Primary 6 Foundation Mathematics <br>Examination Format (SA1 & Prelims)**
+#### **Primary 6 Foundation Mathematics <br>Examination Format (SA1 &amp; Prelims)**
 
 |  |  |  |
 |:---:|:---:|:---:|
