@@ -837,7 +837,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 Harmony Mdm Suryati Bte Abdul Latiff (ST/EdSup)</p>
+<p>6 Harmony Mdm Suryati Bte Abdul Latiff (ST/Education Support)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>suryati.abdul.latiff@gsps.edu.sg</p>
