@@ -21,7 +21,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Soh-Lim Tzyy Shiuan(Principal)</p>
+<p>Mrs Soh-Lim Tzyy Shiuan (Principal)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>gsps@moe.edu.sg</p>
@@ -133,7 +133,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Fadzillah Bte Aslam Khan(YH P2/P3)</p>
+<p>Ms Fadzillah Bte Aslam Khan (YH P2/P3)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>fadzillah.khan@gsps.edu.sg</p>
@@ -173,7 +173,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Perseverance Ms Alvinna Alphonso(ST/EL)</p>
+<p>1 Perseverance Ms Alvinna Alphonso (ST/EL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>alvinna@gsps.edu.sg</p>
@@ -261,7 +261,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Harmony Mr Hazmi B Hasan(ST/Art*)</p>
+<p>1 Harmony Mr Hazmi B Hasan (ST/Art*)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>hazmi.hasan@gsps.edu.sg</p>
@@ -581,7 +581,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 Respect Mdm Foo Tseh Chyn(SH/PE)</p>
+<p>4 Respect Mdm Foo Tseh Chyn (SH/PE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>foo.tsehchyn@gsps.edu.sg</p>
@@ -1053,7 +1053,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Pang Geok Giat(Janet)</p>
+<p>Mdm Pang Geok Giat (Janet)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operation Support Officer</p>
@@ -1080,7 +1080,7 @@ variant: tiptap
 <p>Mdm Rozanah Bte Adon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operation Support Officer(MK)</p>
+<p>Operation Support Officer (MK)</p>
 </td>
 </tr>
 <tr>
