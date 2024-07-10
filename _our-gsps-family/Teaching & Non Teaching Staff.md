@@ -933,7 +933,7 @@ variant: tiptap
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>School Counsellor/SEN Officers/AEDs (T &amp; L)</p>
+<p>School Counsellor/SEN Officers/AEDs (T&amp;L)</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Email address</p>
@@ -1025,6 +1025,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>vivian.lim@gsps.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Norhariani Binte Mohamed (Administrative Executive)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>siti.norhariani@gsps.edu.sg</p>
 </td>
 </tr>
 <tr>
