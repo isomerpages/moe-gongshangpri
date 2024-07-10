@@ -309,10 +309,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Perseverance Mr Ridhwan Zahid</p>
+<p>2 Perseverance Mdm Marsita Bte Omar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ridhwan.zahid@gsps.edu.sg</p>
+<p>marsita.omar@gsps.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -333,6 +333,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2 Thrift Mrs Natalie Neo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>horis@gsps.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2 Integrity Ms Ling Joelle</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -349,10 +357,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Respect Mrs Jenny Chan (HOD/Mathematics)</p>
+<p>2 Respect Mrs Ng-Thiam Siow Foon (SH/SM)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>jenny.tan@gsps.edu.sg</p>
+<p>thiam.siow.foon@gsps.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -405,10 +413,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Graciousness Mdm Shahanaz Begum Binti Nazeer Ahamad</p>
+<p>2 Graciousness Ms Narayanasamy Kavitha</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>shahanaz.begum@gsps.edu.sg</p>
+<p>kavitha@gsps.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -493,10 +501,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Courage Mrs Kwok Li Li (ST/PE)</p>
+<p>3 Courage Mdm Habibah Najihahbi Bte Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>soon.lili@gsps.edu.sg</p>
+<p>habibah.ahmad@gsps.edu.sg</p>
 </td>
 </tr>
 <tr>
