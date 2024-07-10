@@ -5,7 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Teaching &amp; Non-Teaching Staff</strong></h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -17,7 +21,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Soh-Lim Tzyy Shiuan(Principal)</p>
+<p>Mrs Soh-Lim Tzyy Shiuan (Principal)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>gsps@moe.edu.sg</p>
@@ -129,7 +133,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Fadzillah Bte Aslam Khan(YH P2/P3)</p>
+<p>Ms Fadzillah Bte Aslam Khan (YH P2/P3)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>fadzillah.khan@gsps.edu.sg</p>
@@ -169,7 +173,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Perseverance Ms Alvinna Alphonso(ST/EL)</p>
+<p>1 Perseverance Ms Alvinna Alphonso (ST/EL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>alvinna@gsps.edu.sg</p>
@@ -225,10 +229,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Respect Ms Karen Yeo Poh Cheng (Mrs Lee)</p>
+<p>1 Respect Mdm Norizah Bte Maakiap</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>karen.lee@gsps.edu.sg</p>
+<p>norizah.maakiap@gsps.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -241,7 +245,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Courage Mdm Ho Jia Xin Jessie(Mrs Ong)</p>
+<p>1 Courage Mdm Ho Jia Xin Jessie (Mrs Ong)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>jessie.ho@gsps.edu.sg</p>
@@ -257,18 +261,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Harmony Mr Hazmi B Hasan(ST/Art*)</p>
+<p>1 Harmony Mr Hazmi B Hasan (ST/Art*)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>hazmi.hasan@gsps.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 Harmony Mdm Lee Yi Jun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lee.yi.jun@gsps.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -277,14 +273,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>sakinah.omar@gsps.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 Graciousness Mdm Norizah Bte Maakiap</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>norizah.maakiap@gsps.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -321,10 +309,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Perseverance Mr Ridhwan Zahid</p>
+<p>2 Perseverance Mdm Marsita Bte Omar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ridhwan.zahid@gsps.edu.sg</p>
+<p>marsita.omar@gsps.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -345,6 +333,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2 Thrift Mrs Natalie Neo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>horis@gsps.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2 Integrity Ms Ling Joelle</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -361,10 +357,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Respect Mrs Jenny Chan (HOD/Mathematics)</p>
+<p>2 Respect Mrs Ng-Thiam Siow Foon (SH/SM)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>jenny.tan@gsps.edu.sg</p>
+<p>thiam.siow.foon@gsps.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -417,10 +413,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Graciousness Mdm Shahanaz Begum Binti Nazeer Ahamad</p>
+<p>2 Graciousness Ms Narayanasamy Kavitha</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>shahanaz.begum@gsps.edu.sg</p>
+<p>kavitha@gsps.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -505,10 +501,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Courage Mrs Kwok Li Li (ST/PE)</p>
+<p>3 Courage Mdm Habibah Najihahbi Bte Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>soon.lili@gsps.edu.sg</p>
+<p>habibah.ahmad@gsps.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -585,7 +581,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 Respect Mdm Foo Tseh Chyn(SH/PE)</p>
+<p>4 Respect Mdm Foo Tseh Chyn (SH/PE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>foo.tsehchyn@gsps.edu.sg</p>
@@ -657,6 +653,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>5 Perseverance Mr Egwin Lian (SSD)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>egwin.lian@gsps.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>5 Thrift Mdm Loy Sim Lan (Mrs Yap) (LH/CL)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -721,10 +725,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Harmony Mdm Amizah Bte Mohd Amin</p>
+<p>5 Harmony Ms Nazeera Omar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>amizah.md.amin@gsps.edu.sg</p>
+<p>nazeera.omar@gsps.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -825,14 +829,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 Harmony Mdm Lee Huiyi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lee.huiyi@gsps.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>6 Harmony Mdm Rosilah Bte Abdullah</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -841,7 +837,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 Harmony Mdm Suryati Bte Abdul Latiff (ST/Learning Needs)</p>
+<p>6 Harmony Mdm Suryati Bte Abdul Latiff (ST/Education Support)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>suryati.abdul.latiff@gsps.edu.sg</p>
@@ -854,30 +850,6 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Email address</p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Ng-Thiam Siow Foon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>thiam.siow.foon@gsps.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Marsita Bte Omar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>marsita.omar@gsps.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Habibah Najihahbi Bte Ahmad</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>habibah.najihahbi@gsps.edu.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -961,7 +933,7 @@ variant: tiptap
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>School Counsellor/SEN Officers/AEDs (T &amp; L)</p>
+<p>School Counsellor/SEN Officers/AEDs (T&amp;L)</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Email address</p>
@@ -1057,6 +1029,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Siti Norhariani Binte Mohamed (Administrative Executive)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>siti.norhariani@gsps.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Christine Lim (Corporate Support Officer)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1081,7 +1061,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Pang Geok Giat(Janet)</p>
+<p>Mdm Pang Geok Giat (Janet)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operation Support Officer</p>
@@ -1108,7 +1088,15 @@ variant: tiptap
 <p>Mdm Rozanah Bte Adon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operation Support Officer(MK)</p>
+<p>Operation Support Officer (MK)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Rosnah Binte Khalid</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operation Support Office (MK)</p>
 </td>
 </tr>
 <tr>
@@ -1125,14 +1113,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Admin Ops officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Siti Hajar Bte Ahmad</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Desktop Engineer</p>
 </td>
 </tr>
 <tr>
