@@ -5,7 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Teaching &amp; Non-Teaching Staff</strong></h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -225,10 +229,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Respect Ms Karen Yeo Poh Cheng (Mrs Lee)</p>
+<p>1 Respect Mdm Norizah Bte Maakiap</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>karen.lee@gsps.edu.sg</p>
+<p>norizah.maakiap@gsps.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -241,7 +245,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Courage Mdm Ho Jia Xin Jessie(Mrs Ong)</p>
+<p>1 Courage Mdm Ho Jia Xin Jessie (Mrs Ong)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>jessie.ho@gsps.edu.sg</p>
@@ -265,26 +269,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Harmony Mdm Lee Yi Jun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lee.yi.jun@gsps.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>1 Harmony Mdm Sakinah Bte Omar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>sakinah.omar@gsps.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 Graciousness Mdm Norizah Bte Maakiap</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>norizah.maakiap@gsps.edu.sg</p>
 </td>
 </tr>
 <tr>
