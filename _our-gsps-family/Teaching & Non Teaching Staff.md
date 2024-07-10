@@ -653,6 +653,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>5 Perseverance Mr Egwin Lian (SSD)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>egwin.lian@gsps.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>5 Thrift Mdm Loy Sim Lan (Mrs Yap) (LH/CL)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -717,10 +725,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Harmony Mdm Amizah Bte Mohd Amin</p>
+<p>5 Harmony Ms Nazeera Omar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>amizah.md.amin@gsps.edu.sg</p>
+<p>nazeera.omar@gsps.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -821,14 +829,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 Harmony Mdm Lee Huiyi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lee.huiyi@gsps.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>6 Harmony Mdm Rosilah Bte Abdullah</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -837,7 +837,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 Harmony Mdm Suryati Bte Abdul Latiff (ST/Learning Needs)</p>
+<p>6 Harmony Mdm Suryati Bte Abdul Latiff (ST/EdSup)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>suryati.abdul.latiff@gsps.edu.sg</p>
@@ -850,30 +850,6 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Email address</p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Ng-Thiam Siow Foon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>thiam.siow.foon@gsps.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Marsita Bte Omar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>marsita.omar@gsps.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Habibah Najihahbi Bte Ahmad</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>habibah.najihahbi@gsps.edu.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1108,6 +1084,14 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Rosnah Binte Khalid</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operation Support Office (MK)</p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <p>Support staff</p>
 </th>
@@ -1121,14 +1105,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Admin Ops officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Siti Hajar Bte Ahmad</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Desktop Engineer</p>
 </td>
 </tr>
 <tr>
