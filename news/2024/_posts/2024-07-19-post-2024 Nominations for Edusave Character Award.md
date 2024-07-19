@@ -15,9 +15,8 @@ to recognise students who demonstrate exemplary character and outstanding
 personal qualities through their behaviour and actions. &nbsp;This is part
 of the larger goal to foster an inclusive and stronger Singapore in order
 to broaden the qualities and achievements to be encouraged and applauded.</p>
-<p>The award also supports schools’ continuing efforts in nurturing students
-of good values and character, who are active contributors and concerned
-citizens.<strong>&nbsp;</strong>
+<p>The award also supports our continuing efforts in nurturing students of
+good values and character, who are active contributors and concerned citizens.<strong>&nbsp;</strong>
 </p>
 <p></p>
 <h3>Objectives</h3>
