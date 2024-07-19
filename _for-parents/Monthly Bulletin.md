@@ -5,11 +5,5 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Monthly Bulletin</strong></h3>
-<p><a href="https://go.gov.sg/aprilbulletin2024" rel="noopener noreferrer nofollow" target="_blank">April 2024</a>
-</p>
-<p><a href="https://go.gov.sg/marchbulletin2024" rel="noopener noreferrer nofollow" target="_blank">March 2024</a>
-</p>
-<p><a href="https://go.gov.sg/febbulletin2024" rel="noopener noreferrer nofollow" target="_blank">February 2024</a>
-</p>
-<p><a href="/files/GSPS_NovDec_Bulletin_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">November_December 2023</a>
-</p>
+<p>From August 2024, the monthly bulletins will only be made available on
+Parents Gateway. Please check it out for the latest happenings!</p>
