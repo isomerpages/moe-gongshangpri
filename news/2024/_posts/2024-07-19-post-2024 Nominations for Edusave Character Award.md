@@ -64,8 +64,8 @@ who can be role models to inspire others</p>
 <p>Obtain a teacher's wet-ink signature as the seconder.</p>
 </li>
 <li>
-<p>Submit the completed form to Gongshang Primary General Office by 12 Aug
-2024 (Fri) 5 pm.</p>
+<p>Submit the completed form to Gongshang Primary General Office
+<br><strong><u>by 12 Aug 2024 (Fri) 5 pm</u></strong>.</p>
 <p></p>
 </li>
 </ol>
