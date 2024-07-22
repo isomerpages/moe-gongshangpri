@@ -18,36 +18,8 @@ to broaden the qualities and achievements to be encouraged and applauded.</p>
 <p>The award also supports our continuing efforts in nurturing students of
 good values and character, who are active contributors and concerned citizens.<strong>&nbsp;</strong>
 </p>
-<p></p>
-<h3>Objectives</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>To emphasize the importance of a student's character and values, on par
-with achievements in the academic domain</p>
-</li>
-<li>
-<p>To recognise outstanding students who are exemplary in character, and
-who can be role models to inspire others</p>
-</li>
-</ul>
-<p></p>
-<blockquote>
-<p>For more info, please visit the <a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-awards" rel="noopener noreferrer nofollow" target="_blank">MOE page on Edusave awards</a>.</p>
-</blockquote>
-<p></p>
-<h3>Eligibility Criteria</h3>
-<p>All Gongshang nominees for the ECHA must fulfill the following criteria:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Is a Singapore Citizen</p>
-</li>
-<li>
-<p>Has good disciplinary records</p>
-</li>
-<li>
-<p>(tbc)</p>
-</li>
-</ul>
+<p>For more info, please refer to <a href="/files/ECHA_2024_GSPS_Policy__21jul24_.pdf" rel="noopener noreferrer nofollow" target="_blank">ECHA 2024 GSPS Policy (21 July 2024) </a>
+</p>
 <p></p>
 <h3>How to Nominate</h3>
 <ol data-tight="true" class="tight">
@@ -61,11 +33,9 @@ who can be role models to inspire others</p>
 <p>Sign off using wet-ink signature as the nominator.</p>
 </li>
 <li>
-<p>Obtain a teacher's wet-ink signature as the seconder.</p>
-</li>
-<li>
-<p>Submit the completed form to Gongshang Primary General Office
-<br><strong><u>by 12 Aug 2024 (Fri) 5 pm</u></strong>.</p>
+<p>Submit the completed hardcopy form to Gongshang Primary General Office
+or in pdf format via email to either <a href="mailto:hamidah.abdullah@gsps.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hamidah.abdullah@gsps.edu.sg</a> and
+<a href="mailto:anne.heng@gsps.edu.sg" rel="noopener noreferrer nofollow" target="_blank">anne.heng@gsps.edu.sg</a><strong><u>by 12 Aug 2024 (Fri) 5 pm</u></strong>.</p>
 <p></p>
 </li>
 </ol>
