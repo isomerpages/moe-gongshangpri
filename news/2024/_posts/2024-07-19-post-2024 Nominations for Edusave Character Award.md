@@ -18,7 +18,7 @@ to broaden the qualities and achievements to be encouraged and applauded.</p>
 <p>The award also supports our continuing efforts in nurturing students of
 good values and character, who are active contributors and concerned citizens.<strong>&nbsp;</strong>
 </p>
-<p>For more info, please refer to <a href="/files/ECHA_2024_GSPS_Policy__21jul24_.pdf" rel="noopener noreferrer nofollow" target="_blank">ECHA 2024 GSPS Policy (21 July 2024) </a>
+<p>For more info, please refer to <a href="/files/ECHA_2024_GSPS_Policy__21jul24_.pdf" rel="noopener noreferrer nofollow" target="_blank">ECHA 2024 GSPS Policy (21 July 2024)</a>
 </p>
 <p></p>
 <h3>How to Nominate</h3>
