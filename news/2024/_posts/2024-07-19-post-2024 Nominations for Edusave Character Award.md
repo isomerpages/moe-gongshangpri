@@ -173,7 +173,7 @@ Character Award.</p>
 <p>Fill in the online nomination form here: <strong><a href="https://for.edu.sg/gsps-echa" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/gsps-echa</a></strong>
 </p>
 <h4>Hardcopy Nomination</h4>
-<p>Print a copy of the nomination form.
+<p>Print a copy of the <a href="/files/2024 uploads/ECHA_2024_N2_Nomination_Form__Parents_Coaches___21jul24_.pdf" rel="noopener noreferrer nofollow" target="_blank">nomination form</a>.
 <br>The completed form must be duly signed and submitted to the General Office
 before the deadline.</p>
 <h3>Timeframe</h3>
