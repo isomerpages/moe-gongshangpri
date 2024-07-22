@@ -35,7 +35,8 @@ good values and character, who are active contributors and concerned citizens.<s
 <li>
 <p>Submit the completed hardcopy form to Gongshang Primary General Office
 or in pdf format via email to either <a href="mailto:hamidah.abdullah@gsps.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hamidah.abdullah@gsps.edu.sg</a> and
-<a href="mailto:anne.heng@gsps.edu.sg" rel="noopener noreferrer nofollow" target="_blank">anne.heng@gsps.edu.sg</a><strong><u>by 12 Aug 2024 (Fri) 5 pm</u></strong>.</p>
+<a href="mailto:anne.heng@gsps.edu.sg" rel="noopener noreferrer nofollow" target="_blank">anne.heng@gsps.edu.sg</a><strong> by 12 Aug 2024 (Fri) 5 pm.</strong>
+</p>
 <p></p>
 </li>
 </ol>
