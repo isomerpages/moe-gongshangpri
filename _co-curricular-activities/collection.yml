@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Summary of Schedule/Summary of Schedule.md
       - Summary of Schedule/.keep
       - CCA Appeals/CCA Appeals.md
       - CCA Appeals/.keep
