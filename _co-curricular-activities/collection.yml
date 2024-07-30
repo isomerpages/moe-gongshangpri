@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Summary of Schedule/.keep
+      - CCA Appeals/CCA Appeals.md
       - CCA Appeals/.keep
       - CCA Application/CCA Application.md
       - CCA Application/.keep
