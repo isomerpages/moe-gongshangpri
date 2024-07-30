@@ -2,13 +2,13 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - CCA Schedule/CCA Schedule.md
-      - CCA Schedule/.keep
-      - CCA Appeals/CCA Appeals.md
-      - CCA Appeals/.keep
-      - CCA Application/CCA Application.md
-      - CCA Application/.keep
       - Co Curricular Activities (CCA) Programme.md
+      - CCA Application/.keep
+      - CCA Application/CCA Application.md
+      - CCA Appeals/.keep
+      - CCA Appeals/CCA Appeals.md
+      - CCA Schedule/.keep
+      - CCA Schedule/CCA Schedule.md
       - Physical Sports/.keep
       - Physical Sports/Badminton.md
       - Physical Sports/Basketball.md
@@ -20,8 +20,8 @@ collections:
       - Visual and Performing Arts/String Ensemble.md
       - Visual and Performing Arts/Modern Dance.md
       - Visual and Performing Arts/Speech and Drama.md
-      - Uniformed Group/Scouts.md
       - Uniformed Group/.keep
+      - Uniformed Group/Scouts.md
       - Clubs and Societies/.keep
       - Clubs and Societies/Art Club.md
       - Clubs and Societies/Chess Club.md
