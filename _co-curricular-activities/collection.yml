@@ -2,7 +2,6 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - CCA Application/CCA Application Form.md
       - CCA Application/Co Curricular Activities (CCA) Programme.md
       - CCA Application/.keep
       - Physical Sports/.keep
