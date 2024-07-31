@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: CCA Date & Time
 ---
-<p>CCA Day and Time</p>
 <p>Kindly note that for safety reasons, students are strictly NOT allowed
 to leave the school premises whilst waiting for the CCA to commence. They
 are to engage in their own revision. No exceptions will be given.</p>
