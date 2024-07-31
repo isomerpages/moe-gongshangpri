@@ -51,7 +51,7 @@ for leadership development.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Rosalynn Ong (2IC-Girls)</p>
+<p>Mrs Rosalynn Ong (2IC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>rosalynn.teo@gsps.edu.sg</p>
@@ -149,8 +149,5 @@ Parents Gateway.</p>
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball/photo%207.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball/photo%208.jpg">
 </div>
 <p></p>
