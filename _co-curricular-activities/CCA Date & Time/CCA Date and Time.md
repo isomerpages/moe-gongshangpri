@@ -14,4 +14,6 @@ are to engage in their own revision. No exceptions will be given.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_Date_Time_2024.png">
 </div>
-<p></p>
+<p>Parents should always refer to the respective CCA schedule given by the
+CCA teachers. The schedule may vary slightly between CCAs to cater to the
+needs of the CCAs.</p>
