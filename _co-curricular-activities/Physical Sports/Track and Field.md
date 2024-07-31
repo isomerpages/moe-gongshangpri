@@ -36,7 +36,11 @@ to run, jump and throw</p>
 with our school values</p>
 </li>
 </ul>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -80,32 +84,20 @@ with our school values</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Suhaidah Bte Mokhtar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>suhaidah.mokhtar@gsps.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Angeline Soh-Ng Kah Fung</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>angeline.ng@gsps.edu.sg</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p><strong>Training schedule:</strong>*</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
