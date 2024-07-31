@@ -333,7 +333,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Thrift Mrs Natalie Neo</p>
+<p>2 Thrift Mr Horis B Hosri</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>horis@gsps.edu.sg</p>
