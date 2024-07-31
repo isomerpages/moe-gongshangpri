@@ -20,7 +20,11 @@ make decisions both visually and analytically, and test their memory.</p>
 </li>
 </ul>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -40,10 +44,10 @@ make decisions both visually and analytically, and test their memory.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Amizah Md Amin</p>
+<p>Mdm Razilah Bte Yahya</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>amizah.md.amin@gsps.edu.sg</p>
+<p>razilah.yahya@gsps.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -58,7 +62,12 @@ make decisions both visually and analytically, and test their memory.</p>
 </table>
 <p><strong>Training schedule:</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
