@@ -27,7 +27,11 @@ for leadership development.</p>
 <p>To foster and develop self-discipline, resilience, team spirit and leadership.</p>
 </li>
 </ul>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -39,15 +43,7 @@ for leadership development.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Kwok Li Li (OIC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>soon.lili@gsps.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ismail Jemaah (2IC-Boys)</p>
+<p>Mr Ismail Jemaah (OIC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ismail.jemaah@gsps.edu.sg</p>
@@ -63,14 +59,6 @@ for leadership development.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Bryan Chua</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>bryan.chua@gsps.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Ng-Thiam Siow Foon</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -79,24 +67,29 @@ for leadership development.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Yi Jun</p>
+<p>Ms Narayanasamy Kavitha</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee.yi.jun@gsps.edu.sg</p>
+<p>kavitha@gsps.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ridhwan Zahid</p>
+<p>Mdm Goh Chwee Yin Sarah (Mrs Ang)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ridhwan.zahid@gsps.edu.sg</p>
+<p>sarah.goh@gsps.edu.sg</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p><strong>Training Schedule:</strong>*</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
