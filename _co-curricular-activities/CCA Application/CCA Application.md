@@ -22,4 +22,11 @@ assessment of pupils’ aptitude and attitude will be taken into consideration.
 Teachers’ feedback includes those from Form Teachers and Subject Teachers.
 Where profiles of pupils are similar yet constrained by vacancies, the
 final decision will be made by the HOD (PE/CCA/Aesthetics).</p>
+<p>HOD (PE/CCA/Aesthetics): Mdm Mehrun Nisha</p>
+<p>For general CCA enquiries and feedback, please contact, Mdm Nisha at
+<a href="mailto:mehrun.nisha@gsps.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mehrun.nisha@gsps.edu.sg</a>
+</p>
+<p>SH (PE/CCA): Mdm Foo Tseh Chyn</p>
+<p>For sports-related enquiries, please contact Mdm Foo at <a href="mailto:foo.tsehchyn@gsps.edu.sg" rel="noopener noreferrer nofollow" target="_blank">foo.tsehchyn@gsps.edu.sg</a>
+</p>
 <p></p>
