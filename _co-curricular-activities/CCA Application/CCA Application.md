@@ -13,7 +13,7 @@ third_nav_title: CCA Application
 </p>
 <p>Participation in CCA is not compulsory in Primary School, though strongly
 encouraged. For a pupil to have a CCA status reflected in his/her CCA records,
-a minimum of 70% of attendance is required.</p>
+a minimum of <strong><u>70%</u></strong> of attendance is required.</p>
 <p><strong>How are CCAs allocated to pupils?</strong>
 </p>
 <p>In allocating CCA to pupils, the school will consider available vacancies
