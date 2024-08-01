@@ -5,7 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: CCA Appeal
 ---
-<p>To appeal for a CCA, please click on the link below:</p>
+<p><strong>To appeal for a CCA, please click on the link below:</strong>
+</p>
 <p><a href="https://form.gov.sg/66aaea312ad5e83f3140bae9" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/66aaea312ad5e83f3140bae9</a>
 </p>
 <p>Pupils must remain in their assigned CCA for at least 1 semester before
