@@ -3,12 +3,12 @@ collections:
     output: true
     order:
       - Co Curricular Activities (CCA) Programme.md
-      - CCA Day & Time/.keep
-      - CCA Day & Time/CCA Day & Time.md
       - CCA Application/.keep
       - CCA Application/CCA Application.md
       - CCA Appeal/.keep
       - CCA Appeal/CCA Appeal.md
+      - CCA Day & Time/.keep
+      - CCA Day & Time/CCA Day & Time.md
       - Physical Sports/.keep
       - Physical Sports/Badminton.md
       - Physical Sports/Basketball.md
