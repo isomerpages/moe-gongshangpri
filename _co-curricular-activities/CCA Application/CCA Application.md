@@ -5,7 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: CCA Application
 ---
-<p>To apply for CCA, please click on the link below:</p>
+<p><strong>To apply for CCA, please click on the link below:</strong>
+</p>
 <p><a href="https://form.gov.sg/66a855beff1c0b9a7af5b2d7" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/66a855beff1c0b9a7af5b2d7</a>
 </p>
 <p><strong>Participation in CCA</strong>
