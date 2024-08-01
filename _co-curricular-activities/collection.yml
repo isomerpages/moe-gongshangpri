@@ -2,9 +2,9 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - CCA Day & Time/CCA Day & Time.md
-      - CCA Day & Time/.keep
       - Co Curricular Activities (CCA) Programme.md
+      - CCA Day & Time/.keep
+      - CCA Day & Time/CCA Day & Time.md
       - CCA Application/.keep
       - CCA Application/CCA Application.md
       - CCA Appeal/.keep
