@@ -8,7 +8,7 @@ image: ""
 variant: tiptap
 ---
 <p>Dear Ex. Gongshangers,</p>
-<p>You may register using the link below if you will be coming back to Gongshang
+<p>Please register using the link below if you are coming back to Gongshang
 Primary School to visit your teachers on 29 August 2024.</p>
 <p><a href="https://form.gov.sg/66ac8de0e497608f9020209c" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/66ac8de0e497608f9020209c</a>
 </p>
