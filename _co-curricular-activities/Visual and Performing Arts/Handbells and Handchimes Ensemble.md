@@ -28,7 +28,11 @@ and concerted effort among all members.</p>
 <p>To learn to appreciate Arts and culture better as well as team spirit</p>
 </li>
 </ul>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -48,10 +52,10 @@ and concerted effort among all members.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Huiyi (2IC)</p>
+<p>Miss Liu Xiaoyun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee.huiyi@gsps.edu.sg</p>
+<p>liu.xiaoyun@gsps.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -65,7 +69,11 @@ and concerted effort among all members.</p>
 </tbody>
 </table>
 <p><strong>Training schedule:</strong>*</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">

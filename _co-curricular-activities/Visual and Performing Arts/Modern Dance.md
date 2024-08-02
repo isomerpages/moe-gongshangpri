@@ -28,7 +28,11 @@ students throughout their academic pursuits</p>
 through movement</p>
 </li>
 </ul>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -56,10 +60,10 @@ through movement</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Liu Xiaoyun</p>
+<p>Mdm Suhaidah Bte Mokhtar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>liu.xiaoyun@gsps.edu.sg</p>
+<p>suhaidah.mokhtar@gsps.edu.sg</p>
 </td>
 </tr>
 <tr>

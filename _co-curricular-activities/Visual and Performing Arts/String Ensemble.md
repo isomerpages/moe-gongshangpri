@@ -20,7 +20,11 @@ Presentation (SYF).</p>
 <p>• To develop a sustainable interest in the learning a musical instrument
 <br>• To develop basic techniques and skills of playing the violins and cellos
 <br>• To learn to appreciate Arts, culture and heritage</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -40,10 +44,10 @@ Presentation (SYF).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Shahanaz Begum</p>
+<p>Ms Nazeera Omar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>shahanaz.begum@gsps.edu.sg</p>
+<p>nazeera.omar@gsps.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -81,7 +85,12 @@ Presentation (SYF).</p>
 </tbody>
 </table>
 <p><strong>Training schedule:</strong>*</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
