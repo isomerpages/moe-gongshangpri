@@ -7,3 +7,6 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Please click on the link to register.</p>
+<p></p>
+<p></p>
