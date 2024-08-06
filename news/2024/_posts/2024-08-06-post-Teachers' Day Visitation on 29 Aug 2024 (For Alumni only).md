@@ -7,3 +7,16 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Dear Gongshang Alumni,</p>
+<p>Please register using the link below if you wish to come back to Gongshang
+Primary School to visit your teachers on 29 August 2024. (Closing date
+for registration: 28 Aug 2024, 6pm)</p>
+<p><a href="https://form.gov.sg/66ac8de0e497608f9020209c" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/66ac8de0e497608f9020209c</a>
+</p>
+<p>Points to note:</p>
+<p>1) You need to verify your identity at the security guard post before
+making your way to the school canteen.</p>
+<p>2) Visitation is <strong>strictly by appointment only</strong>. (We seek
+your understanding to leave the school premises by 12.00pm, as there will
+be a staff event afterwards.)</p>
+<p></p>
