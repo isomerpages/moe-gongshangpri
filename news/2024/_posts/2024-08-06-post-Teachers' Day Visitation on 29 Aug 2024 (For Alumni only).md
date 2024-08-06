@@ -18,5 +18,4 @@ making your way to the school canteen.</p>
 <p>2) Visitation is <strong>strictly by appointment only</strong>. (We seek
 your understanding to leave the school premises by 12.00pm, as there will
 be a staff event afterwards.)</p>
-<p></p>
 <p>Thank you</p>
