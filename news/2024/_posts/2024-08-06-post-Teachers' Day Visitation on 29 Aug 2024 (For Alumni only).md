@@ -12,6 +12,7 @@ variant: tiptap
 on 29 August 2024. (Closing date for registration: 28 Aug 2024, 6pm)</p>
 <p><a href="https://form.gov.sg/66b1ba1de497608f90a4d22d" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/66b1ba1de497608f90a4d22d</a>
 </p>
+<p></p>
 <p>Points to note:</p>
 <p>1) You need to verify your identity at the security guard post before
 making your way to the school canteen.</p>
