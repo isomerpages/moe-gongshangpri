@@ -82,4 +82,4 @@ The completed form must be duly signed and submitted to the General Office befor
 
 ### Timeframe
 
-**The nomination for 2024 has ended. **
+The nomination for 2024 has ended.
