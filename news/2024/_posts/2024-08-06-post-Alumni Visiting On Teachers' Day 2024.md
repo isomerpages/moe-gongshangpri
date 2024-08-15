@@ -20,4 +20,4 @@ by <strong>1800H, 28 Aug 2024</strong>:</p>
 <p></p>
 <p>Entry into the school premises will be <strong>by registration only</strong>.</p>
 <p>Please pass on this message to any former pupils who wish to visit their
-teachers</p>
+teachers.</p>
