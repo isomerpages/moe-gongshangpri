@@ -21,5 +21,4 @@ by <strong>1800H, 28 Aug 2024</strong>:</p>
 <p>Entry into the school premises will be <strong>by registration only</strong>.
 Teachers will leave school by 12 noon for a staff event thereafter.</p>
 <p>Please pass on this message to any former pupils who wish to visit their
-teachers.</p>
-<p>thereafter.</p>
+teachers</p>
