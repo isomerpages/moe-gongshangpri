@@ -18,7 +18,8 @@ by <strong>1800H, 28 Aug 2024</strong>:</p>
 <p>2) Register via <a href="https://form.gov.sg/66b1ba1de497608f90a4d22d" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/66b1ba1de497608f90a4d22d</a>
 </p>
 <p></p>
-<p>Entry into the school premises will be <strong>by registration only</strong>.</p>
+<p>Entry into the school premises will be <strong>by registration only</strong>.
+Teachers will leave school by 12 noon for a staff event thereafter.</p>
 <p>Please pass on this message to any former pupils who wish to visit their
 teachers.</p>
 <p>thereafter.</p>
