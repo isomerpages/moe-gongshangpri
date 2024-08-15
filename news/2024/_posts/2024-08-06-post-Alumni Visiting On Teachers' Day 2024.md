@@ -15,7 +15,7 @@ variant: tiptap
 by <strong>1800H, 28 Aug 2024</strong>:</p>
 <p></p>
 <p>1) Make an appointment directly with your teacher(s), and then</p>
-<p>2) Register via <a href="https://form.gov.sg/66b1ba1de497608f90a4d22d" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/66b1ba1de497608f90a4d22d</a>
+<p>2) Register your confirmed appointment via <a href="https://form.gov.sg/66b1ba1de497608f90a4d22d" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/66b1ba1de497608f90a4d22d</a>
 </p>
 <p></p>
 <p>Entry into the school premises will be <strong>by registration only</strong>.</p>
