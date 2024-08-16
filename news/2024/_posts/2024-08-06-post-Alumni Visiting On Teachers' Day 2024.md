@@ -11,13 +11,13 @@ variant: tiptap
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 uploads/TD.png">
 </div>
 <p>Dear Gongshang Alumni,</p>
-<p>Please register via <a href="https://form.gov.sg/66b1ba1de497608f90a4d22d" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/66b1ba1de497608f90a4d22d</a> if
-you wish to visit your teachers on 29 August 2024.</p>
-<p>Deadline for registration is <strong>1800H, 28 Aug 2024</strong>.</p>
+<p>If you wish to visit your teachers on 29 Aug 2024, please do the following
+by <strong>1800H, 28 Aug 2024</strong>:</p>
 <p></p>
-<p>Please note:</p>
-<p>1) Visitation is <strong>strictly by appointment only.</strong>
+<p>1) Make an appointment directly with your teacher(s), and then</p>
+<p>2) Register your confirmed appointment via <a href="https://form.gov.sg/66b1ba1de497608f90a4d22d" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/66b1ba1de497608f90a4d22d</a>
 </p>
-<p>2) You will need to verify your identity at the security guard post before
-entering the school.</p>
-<p>3) Teachers will leave school by 12 noon for a staff event thereafter.</p>
+<p></p>
+<p>Entry into the school premises will be <strong>by registration only</strong>.</p>
+<p>Please pass on this message to any former pupils who wish to visit their
+teachers.</p>
