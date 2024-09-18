@@ -56,7 +56,7 @@ variant: tiptap
 <p>Level Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>marscella_a@ <a rel="noopener noreferrer nofollow" target="_blank">moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">marscella_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
