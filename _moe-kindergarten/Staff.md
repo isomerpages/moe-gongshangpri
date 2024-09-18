@@ -4,9 +4,6 @@ permalink: /kindergarten/staff/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK%20matters/MK_Staff.jpg">
-</div>
 <table style="width: 0px">
 <colgroup></colgroup>
 <tbody>
@@ -14,7 +11,7 @@ variant: tiptap
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK matters/staff_formal_website_update.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/MK matters/staff_formal_website_update.jpg">
 </div>
 <p>Updated: 18 September 2024</p>
 <table style="minWidth: 75px">
@@ -68,7 +65,8 @@ variant: tiptap
 <p>Mdm Ma Yan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher( Chinese Language)</p>
+<p>Senior Teacher</p>
+<p>(Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">ma_yan@moe.edu.sg</a>
