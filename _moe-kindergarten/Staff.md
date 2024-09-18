@@ -65,8 +65,7 @@ variant: tiptap
 <p>Mdm Ma Yan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher</p>
-<p>(Chinese Language)</p>
+<p>Senior Teacher(Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">ma_yan@moe.edu.sg</a>
