@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2024 uploads/Website_Hero_Photo.jpg
+      background: /images/2024 uploads/Website_Hero_Photo2.jpg
       url: /contact-us/
       key_highlights:
         - title: News
