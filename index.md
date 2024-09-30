@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banner.gif
+      background: /images/2024 uploads/Website_Hero_Photo2.jpg
       url: /contact-us/
       key_highlights:
         - title: News
@@ -20,8 +20,6 @@ sections:
           description: Find useful info
           url: /useful-links/for-parents/
       variant: center
-      title: Gongshang Primary
-      subtitle: Active Learners, Confident Leaders, Gracious Citizens
   - resources:
       title: Latest Updates
       id: resources

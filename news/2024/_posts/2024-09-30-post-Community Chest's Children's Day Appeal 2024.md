@@ -1,10 +1,10 @@
 ---
-title: COMMUNITY CHEST’S CHILDREN’S DAY APPEAL 2024
+title: Community Chest's Children's Day Appeal 2024
 permalink: /community-chest-s-children-s-day-appeal-2024/
 date: 2024-09-30
 layout: post
 description: ""
-image: ""
+image: /images/2024 uploads/sharity40.png
 variant: tiptap
 ---
 <p>In conjunction with Children’s Day on 4 October 2024, Gongshang Primary
