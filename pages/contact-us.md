@@ -35,8 +35,13 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: Tampines MRT (EW2) <br> 9 mins walk from Exit B
-    title: Nearest MRT Station
+      - other: Tampines East MRT (DT33) <br> 9 mins walk
+    title: Nearest MRT (DTL) Station
+  - content:
+      - phone: ""
+      - email: ""
+      - other: Tampines MRT (EW2) <br> 13 mins walk
+    title: Nearest MRT (EWL) Station
   - content:
       - phone: ""
       - email: ""
