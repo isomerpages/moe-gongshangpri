@@ -127,7 +127,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administration Manager</p>
+<p><strong>Administration Manager</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="eric.tham@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mr Eric Tham Weng Wah</a>
@@ -136,7 +137,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ICT Manager</p>
+<p><strong>ICT Manager</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="faizal.firoz@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mr Mohd Faizal bin Mohd Firoz</a>
@@ -145,7 +147,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operations Manager</p>
+<p><strong>Operations Manager</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="danial.yusoff@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mr Muhammad Danial Bin Mohd Yusoff</a>
@@ -154,7 +157,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administrative Executive</p>
+<p><strong>Administrative Executive</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="azlina.sajam@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mdm Azlina Binte Sajam</a>
@@ -163,7 +167,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administrative Executive</p>
+<p><strong>Administrative Executive</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="vivian.lim@gsps.edu.sg" rel="noopener nofollow" target="_blank">Ms Vivian Lim</a>
@@ -172,7 +177,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administrative Executive</p>
+<p><strong>Administrative Executive</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="siti.norhariani@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mdm Siti Norhariani Binte Mohamed</a>
@@ -181,7 +187,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Corporate Support Officer</p>
+<p><strong>Corporate Support Officer</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="christine.lim@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mdm Christine Lim</a>
@@ -190,7 +197,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Corporate Support Officer</p>
+<p><strong>Corporate Support Officer</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="sumathi.velu@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mdm Sumathi Velu</a>
@@ -199,7 +207,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operation Support Officer</p>
+<p><strong>Operation Support Officer</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Li Sai Eng</p>
@@ -207,7 +216,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operation Support Officer</p>
+<p><strong>Operation Support Officer</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Pang Geok Giat (Janet)</p>
@@ -215,7 +225,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operation Support Officer</p>
+<p><strong>Operation Support Officer</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Yap Kim Lin (Alice)</p>
@@ -223,7 +234,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operation Support Officer</p>
+<p><strong>Operation Support Officer</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lan Xiuni (Shirley)</p>
@@ -231,7 +243,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operation Support Officer</p>
+<p><strong>Operation Support Officer</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Yap Siew Eng (Peggy)</p>
@@ -239,7 +252,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operation Support Officer (MK)</p>
+<p><strong>Operation Support Officer (MK)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Rozanah Bte Adon</p>
@@ -247,7 +261,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operation Support Officer (MK)</p>
+<p><strong>Operation Support Officer (MK)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Rosnah Binte Khalid</p>
@@ -273,7 +288,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Admin Ops Officer</p>
+<p><strong>Admin Ops Officer</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="sumiryati.supiyari@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mdm Sumiryati Binti Supiyari</a>
@@ -282,7 +298,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Desktop Engineer</p>
+<p><strong>Desktop Engineer</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="helpdesk@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mr Muhammad Irfan Bin Osman</a>
@@ -291,7 +308,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Science Lab Assistant</p>
+<p><strong>Science Lab Assistant</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Daniel Woo</p>
@@ -299,7 +317,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Cathy Tan</p>
+<p><strong>Ms Cathy Tan</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Library Assistant</p>
