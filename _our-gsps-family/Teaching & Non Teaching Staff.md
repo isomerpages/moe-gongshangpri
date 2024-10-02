@@ -61,6 +61,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Egwin Lian (HOD/SSD)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>edwin.lian@gsps.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mrs Jannie Lee (HOD/English Language)</p>
 </td>
 <td rowspan="1" colspan="1">
