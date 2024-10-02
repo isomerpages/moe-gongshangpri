@@ -510,33 +510,5 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<h4><strong>Teachers without Form Classes</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="noorjahan.ask@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mrs Badrul (Mdm Noorjahan Bte Abdul Salam Khan)</a>
-<br><a href="ho.yee.wah@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mdm Ho Yee Wah</a>
-<br><a href="huang.peiwen@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mrs Liu Peiwen</a>
-<br><a href="melati.muhaiyah@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mdm Melati Bte Muhaiyah</a>
-<br><a href="noorfizah.a.b.rahman@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mdm Noorfizah Bte A B Rahman</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="pheroza.maricar@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mdm Pheroza Bte Ahmad Maricar</a>
-<br><a href="suraya.mohamed.ismail@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mdm Suraya Bte Mohd Ismail</a>
-<br><a href="tang.ee.peng@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mdm Tang Ee Peng</a>
-<br><a href="teh.shiyin@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mdm Teh Shi Yin</a>
-<br><a href="wong.mai.ling@gsps.edu.sg" rel="noopener nofollow" target="_blank">Ms Wong Mai Ling</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<p></p>
+<h4></h4>
 <p></p>
