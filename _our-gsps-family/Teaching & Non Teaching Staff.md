@@ -980,6 +980,15 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Ms Yang Yu Valerie (SEN Officer - untrained)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>valerie.yangyu@gsps.edu.sg</p>
+<p></p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <p>School Admin Team (Designation)</p>
 </th>
