@@ -53,6 +53,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Egwin Lian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/ School Staff Developer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Jenny Tan (Mrs Chan)</p>
 </td>
 <td rowspan="1" colspan="1">
