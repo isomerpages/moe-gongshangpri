@@ -725,7 +725,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Harmony Ms Nazeera Omar</p>
+<p>5 Harmony Ms Siti Nazeera Omar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>nazeera.omar@gsps.edu.sg</p>
