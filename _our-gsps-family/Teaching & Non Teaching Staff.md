@@ -653,7 +653,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Perseverance Mr Egwin Lian (SSD)</p>
+<p>5 Perseverance Mr Egwin Lian (HOD/SSD)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>egwin.lian@gsps.edu.sg</p>
