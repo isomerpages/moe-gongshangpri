@@ -232,7 +232,7 @@ variant: tiptap
 <p>Mdm Foo Tseh Chyn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Level Head (Physical Education)</p>
+<p>Subject Head (Physical Education)</p>
 </td>
 </tr>
 <tr>
