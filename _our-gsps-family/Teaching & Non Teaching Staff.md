@@ -317,11 +317,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Cathy Tan</strong>
+<p><strong>Library Assistant</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Library Assistant</p>
+<p>Ms Cathy Tan</p>
 </td>
 </tr>
 </tbody>
