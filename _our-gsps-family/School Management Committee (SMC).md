@@ -48,23 +48,15 @@ variant: tiptap
 <p>Mr Fong Wai Khin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice Principal, Administration</p>
+<p>Vice Principal (Administration)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Jenny Tan (Mrs Chan)</p>
+<p>Mr Egwin Lian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/Mathematics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Isaac Foo Yong Wei</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD/Mother Tongue Language</p>
+<p>School Staff Developer</p>
 </td>
 </tr>
 <tr>
@@ -72,7 +64,23 @@ variant: tiptap
 <p>Mrs Jannie Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/English Language</p>
+<p>HOD (English Language)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Isaac Foo Yong Wei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD (Mother Tongue Languages)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Jenny Tan (Mrs Chan)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD (Mathematics)</p>
 </td>
 </tr>
 <tr>
@@ -80,23 +88,7 @@ variant: tiptap
 <p>Mrs Loy-Chow Yoke Yeong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/Science</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Hamidah Bte Abdullah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD/Character &amp; Citizenship Education</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Yeo Soh Fang Jennifer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD/Student Management</p>
+<p>HOD (Science)</p>
 </td>
 </tr>
 <tr>
@@ -104,7 +96,23 @@ variant: tiptap
 <p>Mdm Mehrun Nisha</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/PE/CCA/Aesthetics</p>
+<p>HOD (Physical Education, Aesthetics, Music &amp; Co-Curricular Activities)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Hamidah Bte Abdullah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD (Character &amp; Citizenship Education)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Yeo Soh Fang Jennifer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD (Student Management)</p>
 </td>
 </tr>
 <tr>
@@ -112,39 +120,15 @@ variant: tiptap
 <p>Mr Ngiam Song Wee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/ICT</p>
+<p>HOD (Information and Communication Technology)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Fadzillah Bte Aslam Khan</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head – P2/P3</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Scott Lai</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head P2/P3 (Acting)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Angie Wong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Year Head P4/P5 (Acting)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Sunil Rai</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head P4/P5 (Acting)</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -152,7 +136,7 @@ variant: tiptap
 <p>Mrs Shirley Puay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head – P1/P6</p>
+<p>Year Head (P1 &amp; P6)</p>
 </td>
 </tr>
 <tr>
@@ -160,15 +144,47 @@ variant: tiptap
 <p>Mr Yusri Yunos</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head – P1/P6</p>
+<p>Assistant Year Head (P1 &amp; P6)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chua Aik Ching Bryan</p>
+<p>Ms Fadzillah Bte Aslam Khan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LH/Mathematics</p>
+<p>Year Head (P2 &amp; P3)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Scott Lai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (P2 &amp; P3)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Angie Wong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head (P4 &amp; P5)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Sunil Rai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (P4 &amp; P5)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -176,15 +192,7 @@ variant: tiptap
 <p>Miss Melissa Chan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LH/English Language</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Wendy Chu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>LH/Science</p>
+<p>Level Head (English Language)</p>
 </td>
 </tr>
 <tr>
@@ -192,7 +200,31 @@ variant: tiptap
 <p>Mrs Yap-Loy Sim Lan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LH/Chinese Language</p>
+<p>Level Head (Chinese Language)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Fadhilah Binte Saneb</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head (Malay Language)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chua Aik Ching Bryan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level Head (Mathematics)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Wendy Chu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level Head (Science)</p>
 </td>
 </tr>
 <tr>
@@ -200,7 +232,7 @@ variant: tiptap
 <p>Mdm Foo Tseh Chyn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LH/Physical Education</p>
+<p>Subject Head (Physical Education)</p>
 </td>
 </tr>
 <tr>
@@ -208,15 +240,7 @@ variant: tiptap
 <p>Mrs Pearlyn Ang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/Student Well-being</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Henry Lee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH/Partnerships and Engagement</p>
+<p>Subject Head (Student Well-Being)</p>
 </td>
 </tr>
 <tr>
@@ -224,7 +248,23 @@ variant: tiptap
 <p>Mrs Ng-Thiam Siow Foon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/Student Management</p>
+<p>Subject Head (Student Management)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Henry Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head (Partnerships and Engagement)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -240,7 +280,7 @@ variant: tiptap
 <p>Mr Mohd Faizal bin Mohd Firoz</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ICT Manager</p>
+<p>Information and Communication Technology Manager</p>
 </td>
 </tr>
 <tr>
