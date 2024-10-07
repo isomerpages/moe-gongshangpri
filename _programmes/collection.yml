@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Mathematics/Excellence 2000 Mathematics (E2K).md
       - Mathematics/Learning Support in Mathematics (LSM).md
       - Mathematics/Fun With Math (FWM).md
       - Mathematics/Termly Maths Quiz.md
