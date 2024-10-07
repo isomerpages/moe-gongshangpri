@@ -30,20 +30,20 @@ links:
     sublinks:
       - title: English Language
         url: /english/
-      - title: Character and Citizenship Edu
-        url: /our-gsps-experience/cce/
-      - title: Co-Curricular Activities Prog
-        url: /our-gsps-experience/cca/
-      - title: Info & Communication Tech
-        url: /our-gsps-experience/ict/
       - title: Mathematics
         url: /our-gsps-experience/mathematics/
+      - title: Science
+        url: /our-gsps-experience/science/
       - title: Mother Tongue Language
         url: /our-gsps-experience/mtl/
       - title: Physical Education & Aesthetic
         url: /our-gsps-experience/pe-and-aesthetics/
-      - title: Science
-        url: /our-gsps-experience/science/
+      - title: Co-Curricular Activities Prog
+        url: /our-gsps-experience/cca/
+      - title: Character and Citizenship Edu
+        url: /our-gsps-experience/cce/
+      - title: Info & Communication Tech
+        url: /our-gsps-experience/ict/
       - title: Staff Professional Development
         url: /our-gsps-experience/staff-professional-development/
       - title: Learning for Life Programme
