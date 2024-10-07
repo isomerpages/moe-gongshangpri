@@ -63,3 +63,6 @@ links:
     url: /faq/
   - title: Contact Us
     url: /contact-us/
+  - title: DEPARTMENTS
+    url: /permalink
+    sublinks: []
