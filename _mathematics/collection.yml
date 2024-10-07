@@ -2,6 +2,7 @@ collections:
   mathematics:
     output: true
     order:
+      - Formative Assessments.md
       - Programmes/.keep
       - Programmes/Learning Support in Mathematics (LSM).md
       - Programmes/Improving Confidence and Achievement in Numeracy (ICAN).md
