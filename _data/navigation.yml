@@ -48,6 +48,9 @@ links:
         url: /our-gsps-experience/llp/
       - title: Applied Learning Programme
         url: /our-gsps-experience/permalink
+  - title: DEPARTMENTS
+    url: /permalink
+    sublinks: []
   - title: MK@Gongshang
     url: /kindergarten/about-mk/
     sublinks:
@@ -63,6 +66,6 @@ links:
     url: /faq/
   - title: Contact Us
     url: /contact-us/
-  - title: DEPARTMENTS
-    url: /permalink
+  - title: STAFF
+    url: /staff
     sublinks: []
