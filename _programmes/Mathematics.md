@@ -2,6 +2,7 @@
 title: Mathematics
 permalink: /our-gsps-experience/mathematics/
 description: ""
+variant: markdown
 ---
 ### **Mathematics**
 #### **Mission**
