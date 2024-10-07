@@ -28,12 +28,12 @@ links:
   - title: PROGRAMMES
     url: /programmes
     sublinks:
+      - title: English Language
+        url: /our-gsps-experience/english/
       - title: Character and Citizenship Edu
         url: /our-gsps-experience/cce/
       - title: Co-Curricular Activities Prog
         url: /our-gsps-experience/cca/
-      - title: English Language
-        url: /our-gsps-experience/english/
       - title: Info & Communication Tech
         url: /our-gsps-experience/ict/
       - title: Mathematics
@@ -50,25 +50,6 @@ links:
         url: /our-gsps-experience/llp/
       - title: Applied Learning Programme
         url: /our-gsps-experience/permalink
-  - title: DEPARTMENTS
-    url: /permalink
-    sublinks:
-      - title: English
-        url: /permalink
-      - title: Mathematics
-        url: /permalink
-      - title: Science
-        url: /permalink
-      - title: Mother Tongue
-        url: /permalink
-      - title: Physical Education
-        url: /permalink
-      - title: Aesthetics
-        url: /permalink
-      - title: Character Citizenship Ed
-        url: /permalink
-      - title: Information Communication Tech
-        url: /permalink
   - title: STAFF
     url: /staff
     sublinks:
