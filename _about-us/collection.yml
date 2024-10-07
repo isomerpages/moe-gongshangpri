@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Ethos.md
       - Our School Crest and Song.md
       - Our History.md
       - Principal's Message.md
