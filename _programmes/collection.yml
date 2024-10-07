@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Mathematics/.keep
       - Termly Maths Quiz.md
       - Fun With Math (FWM).md
       - Excellence 2000 Mathematics (E2K).md
