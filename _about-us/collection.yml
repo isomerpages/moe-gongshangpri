@@ -2,8 +2,8 @@ collections:
   about-us:
     output: true
     order:
-      - School Advisory Committee (SAC).md
-      - Our Ethos.md
-      - Our School Crest and Song.md
-      - Our History.md
       - Principal's Message.md
+      - Our History.md
+      - Our School Crest and Song.md
+      - Our Ethos.md
+      - School Advisory Committee (SAC).md
