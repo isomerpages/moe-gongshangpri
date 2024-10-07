@@ -53,7 +53,9 @@ links:
     sublinks: []
   - title: STAFF
     url: /staff
-    sublinks: []
+    sublinks:
+      - title: School Management Committee
+        url: /permalink
   - title: STUDENTS
     url: /students
     sublinks: []
