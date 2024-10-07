@@ -54,6 +54,9 @@ links:
   - title: STAFF
     url: /staff
     sublinks: []
+  - title: STUDENTS
+    url: /students
+    sublinks: []
   - title: MK@Gongshang
     url: /kindergarten/about-mk/
     sublinks:
@@ -69,6 +72,6 @@ links:
     url: /faq/
   - title: Contact Us
     url: /contact-us/
-  - title: STUDENTS
-    url: /students
+  - title: PARENTS & PARTNERS
+    url: /parents & partners
     sublinks: []
