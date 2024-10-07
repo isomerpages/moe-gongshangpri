@@ -23,7 +23,7 @@ links:
         url: /our-gsps-family/psg/
       - title: Alumni
         url: /our-gsps-family/alumni/alumni-association/
-  - title: Programmes
+  - title: PROGRAMMES
     url: /programmes
     sublinks:
       - title: Character and Citizenship Edu
@@ -51,6 +51,9 @@ links:
   - title: DEPARTMENTS
     url: /permalink
     sublinks: []
+  - title: STAFF
+    url: /staff
+    sublinks: []
   - title: MK@Gongshang
     url: /kindergarten/about-mk/
     sublinks:
@@ -66,6 +69,3 @@ links:
     url: /faq/
   - title: Contact Us
     url: /contact-us/
-  - title: STAFF
-    url: /staff
-    sublinks: []
