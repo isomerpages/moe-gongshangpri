@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Mathematics.md
       - Mathematics/.keep
       - Character and Citizenship Edu/.keep
       - Co Curricular Activities Prog/.keep
