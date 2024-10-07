@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Mathematics/Learning Support in Mathematics (LSM).md
       - Mathematics/Fun With Math (FWM).md
       - Mathematics/Termly Maths Quiz.md
       - Mathematics/Improving Confidence and Achievement in Numeracy (ICAN).md
