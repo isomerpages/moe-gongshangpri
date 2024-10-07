@@ -7,8 +7,8 @@ collections:
       - English Language/Programmes.md
       - English Language/Assessment.md
       - English Language/Achievements.md
-      - Mathematics/Programmes.md
       - Mathematics/.keep
+      - Mathematics/Programmes.md
       - Mathematics/Excellence 2000 Mathematics (E2K).md
       - Mathematics/Learning Support in Mathematics (LSM).md
       - Mathematics/Fun With Math (FWM).md
@@ -21,6 +21,7 @@ collections:
       - Science/Assessment.md
       - Science/Achievements.md
       - Mother Tongue Language/.keep
+      - Physical Education & Aesthetic/.keep
       - Character and Citizenship Edu/.keep
       - Co Curricular Activities Prog/.keep
       - Info & Communication Tech/.keep
@@ -31,7 +32,6 @@ collections:
       - Info & Communication Tech/The Student Learning Space.md
       - Info & Communication Tech/Code for Fun Programme.md
       - Info & Communication Tech/I am a Tech Know Kid Project.md
-      - Physical Education & Aesthetic/.keep
-      - Staff Professional Development.md
       - Learning for Life Programme (LLP).md
       - Applied Learning Programme (ALP).md
+      - Staff Professional Development.md
