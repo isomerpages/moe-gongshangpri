@@ -94,7 +94,11 @@ links:
         url: /permalink
   - title: STUDENTS
     url: /students
-    sublinks: []
+    sublinks:
+      - title: Prefectorial Board
+        url: /permalink
+      - title: Peer Support Leaders
+        url: /permalink
   - title: PARENTS & PARTNERS
     url: /parents & partners
     sublinks: []
