@@ -2,4 +2,5 @@ collections:
   staff:
     output: true
     order:
+      - Principal's Message.md
       - School Management Committee.md
