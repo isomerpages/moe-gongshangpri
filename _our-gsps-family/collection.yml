@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - School Management Committee (SMC).md
-      - Form Teachers.md
       - Teaching & Non Teaching Staff.md
       - Parent Support Group/.keep
       - Parent Support Group/Parent Support Group (GSPEARS).md
