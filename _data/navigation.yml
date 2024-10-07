@@ -74,18 +74,8 @@ links:
     sublinks:
       - title: School Management Committee
         url: /school-management-committee/
-      - title: P1 Form Teachers
-        url: /permalink
-      - title: P2 Form Teachers
-        url: /permalink
-      - title: P3 Form Teachers
-        url: /permalink
-      - title: P4 Form Teachers
-        url: /permalink
-      - title: P5 Form Teachers
-        url: /permalink
-      - title: P6 Form Teachers
-        url: /permalink
+      - title: Form Teachers
+        url: /form-teachers
       - title: Non-Form Teachers
         url: /permalink
       - title: Non-Teaching Staff
