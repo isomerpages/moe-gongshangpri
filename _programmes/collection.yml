@@ -1,5 +1,5 @@
 collections:
-  our-gsps-experience:
+  programmes:
     output: true
     order:
       - Character and Citizenship Edu/.keep
