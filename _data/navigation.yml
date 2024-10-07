@@ -50,7 +50,21 @@ links:
         url: /our-gsps-experience/permalink
   - title: DEPARTMENTS
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: English
+        url: /permalink
+      - title: Mathematics
+        url: /permalink
+      - title: Science
+        url: /permalink
+      - title: Mother Tongue
+        url: /permalink
+      - title: Physical Education
+        url: /permalink
+      - title: Aesthetics
+        url: /permalink
+      - title: Character Citizenship Ed
+        url: /permalink
   - title: STAFF
     url: /staff
     sublinks:
