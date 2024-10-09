@@ -2,6 +2,7 @@ collections:
   parents-and-partners:
     output: true
     order:
+      - Information on secondary schools.md
       - Parent Volunteer.md
       - Homework Policy.md
       - General Information.md
