@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - MOE Financial Assistance Scheme (FAS).md
       - Home Based Learning/.keep
       - Home Based Learning/HBL General Information.md
       - Transfer In/.keep
