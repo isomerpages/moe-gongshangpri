@@ -11,7 +11,8 @@ is to develop all staff with the necessary competencies and dispositions
 and to provide a quality learning experience to the learners. We strongly
 believe that such an experience is built on strong teacher-student relationships
 and on teachers being practitioners and reflective in their interactions
-with students. This is in alignment with the&nbsp;<a href="https://www.moe.gov.sg/about/singapore-teaching-practice" rel="noopener noreferrer nofollow" target="_blank">Singapore Teaching Practice</a>&nbsp;<strong>website unavailable</strong> model.</p>
+with students. This is in alignment with the&nbsp;Singapore Teaching Practice
+model.</p>
 <h4><strong>The Processes</strong></h4>
 <p>The process of the planning, implementation and review of key processes
 of the staff resource planning and development is systematic and intentional.</p>
