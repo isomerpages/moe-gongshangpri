@@ -25,7 +25,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Soh-Lim Tzyy Shiuan</p>
+<p><a href="mailto:gsps@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Soh-Lim Tzyy Shiuan</a></p>
 </td>
 </tr>
 <tr>
@@ -34,7 +34,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Selina Lee</p>
+	<p><a href="mailto:gsps@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Selina Lee</a></p>
 </td>
 </tr>
 <tr>
@@ -43,7 +43,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nora Osman</p>
+	<p><a href="mailto:gsps@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Nora Osman</a></p>
 </td>
 </tr>
 <tr>
@@ -52,7 +52,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Fong Wai Khin</p>
+	<p><a href="mailto:gsps@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Fong Wai Khin</a></p>
 </td>
 </tr>
 <tr>
