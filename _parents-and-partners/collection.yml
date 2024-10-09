@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Alumni Organisational Chart.md
+      - Alumni/Application Forms.md
       - Alumni/Homecoming.md
       - Alumni/Alumni Association.md
       - Alumni/.keep
