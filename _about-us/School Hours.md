@@ -133,12 +133,8 @@ are as follow:</p>
 <h3><strong>After-School Programmes</strong></h3>
 <p>Parents will be informed for all co-curricular activities (CCAs) and remedial/supplementary
 lessons that take place after school hours.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2024 uploads/1200x630wa.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://pg.moe.edu.sg/"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2024 uploads/1200x630wa.png"></a>
 <p>Do ensure your Parents Gateway(PG) app's notifications settings are set
-to receive notifications from the school. Download the mobile app from
-Apple AppStore, Google Play or Huawei AppGallery.</p>
+to receive notifications from the school.</p>
 <p></p>
 <p></p>
