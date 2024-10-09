@@ -4,27 +4,22 @@ permalink: /faq/
 variant: tiptap
 description: ""
 ---
-<h2><strong>Frequently Asked Questions</strong></h2>
+<h3><strong>Frequently Asked Questions</strong></h3>
 <p></p>
-<h4><strong>Is Gongshang Primary a SAP School?</strong></h4>
-<blockquote>
-<p>No. We are not on the Special Assistance Plan (SAP).</p>
-</blockquote>
+<p><strong>Is Gongshang Primary a SAP School?</strong>
+<br>No. We are not on the Special Assistance Plan (SAP).</p>
 <p></p>
-<h4><strong>Is Gongshang Primary supported by any Clan Associations?</strong></h4>
-<blockquote>
-<p>No. We are a Government primary school.</p>
-</blockquote>
+<p><strong>Is Gongshang Primary supported by any Clan Associations?</strong>
+<br>No. We are a Government primary school.</p>
 <p></p>
-<h4><strong>Is Gongshang Primary affiliated with any secondary schools?</strong></h4>
-<blockquote>
-<p>No. We are not affiliated with any secondary schools.</p>
-</blockquote>
+<p><strong>Is Gongshang Primary affiliated with any secondary schools?</strong>
+<br>No. We are not affiliated with any secondary schools.</p>
 <p></p>
 <p><strong>What time can parents enter the school premises to make purchases from the school bookshop?</strong>
 </p>
 <p>The school bookshop is open from 8.30am to 3.30pm (Except every Wed to
 2.30pm). Parents may come in after 2pm to make purchases for their child.</p>
+<p></p>
 <p><strong>5. Where can I buy school uniform for my child/ward?</strong>
 </p>
 <p>You can buy the school uniform from the address below:
