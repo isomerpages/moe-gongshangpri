@@ -1,7 +1,7 @@
 ---
 title: School Management Committee
 permalink: /school-management-committee/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h4><strong>School Management Committee (SMC)</strong></h4>
@@ -25,7 +25,8 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gsps@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Soh-Lim Tzyy Shiuan</a></p>
+<p><a href="mailto:gsps@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Soh-Lim Tzyy Shiuan</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -34,7 +35,8 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-	<p><a href="mailto:gsps@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Selina Lee</a></p>
+<p><a href="mailto:gsps@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Selina Lee</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -43,7 +45,8 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-	<p><a href="mailto:gsps@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Nora Osman</a></p>
+<p><a href="mailto:gsps@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Nora Osman</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -52,7 +55,8 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-	<p><a href="mailto:gsps@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Fong Wai Khin</a></p>
+<p><a href="mailto:gsps@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Fong Wai Khin</a>
+</p>
 </td>
 </tr>
 <tr>
