@@ -2,6 +2,7 @@ collections:
   staff:
     output: true
     order:
+      - Staff Well Being.md
       - School Management Committee.md
       - Form Teachers.md
       - Teaching & Non Teaching Staff.md
