@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - PSG Organizational Chart.md
       - Parent Support Group (GSPEARS).md
       - General Information.md
       - Monthly Bulletin.md
