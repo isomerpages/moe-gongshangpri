@@ -75,7 +75,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:suryati.abdul.latiff@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mdm Suryati Bte Abdul Latiff </a>
+<p><a href="mailto:suryati.abdul.latiff@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mdm Suryati Bte Abdul Latiff</a>
 </p>
 </td>
 </tr>
