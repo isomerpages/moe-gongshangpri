@@ -2,5 +2,6 @@ collections:
   parents-and-partners:
     output: true
     order:
+      - Fathers @ Gongshang.md
       - Join Us.md
       - Members' Guidelines.md
