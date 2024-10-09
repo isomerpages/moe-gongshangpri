@@ -2,6 +2,7 @@ collections:
   parents-and-partners:
     output: true
     order:
+      - Parent Volunteer.md
       - Homework Policy.md
       - General Information.md
       - Parent Support Group (GSPEARS).md
