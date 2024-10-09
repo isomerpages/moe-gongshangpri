@@ -2,11 +2,11 @@ collections:
   about-us:
     output: true
     order:
-      - School Hours.md
       - About Us.md
       - Principal's Message.md
       - Our History.md
       - Our School Crest and Song.md
       - Our Ethos.md
       - School Advisory Committee (SAC).md
+      - School Hours.md
       - faq.md
