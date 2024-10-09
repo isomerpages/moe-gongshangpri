@@ -23,10 +23,10 @@ are as follow:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h3>Monday</h3>
+<p>Monday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.30 a.m. - 1.30 p.m.</p>
+<p>7.30 am - 1.30 pm</p>
 </td>
 </tr>
 <tr>
@@ -34,7 +34,7 @@ are as follow:</p>
 <p>Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.30 a.m. - 1.30 p.m.</p>
+<p>7.30 am - 1.30 pm</p>
 </td>
 </tr>
 <tr>
@@ -42,7 +42,7 @@ are as follow:</p>
 <p>Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.30 a.m. - 1.30 p.m.</p>
+<p>7.30 am - 1.30 pm</p>
 </td>
 </tr>
 <tr>
@@ -50,7 +50,7 @@ are as follow:</p>
 <p>Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.30 a.m. - 1.30 p.m.</p>
+<p>7.30 am - 1.30 pm</p>
 </td>
 </tr>
 <tr>
@@ -58,7 +58,7 @@ are as follow:</p>
 <p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.30 a.m. - 1.30 p.m.</p>
+<p>7.30 am - 1.30 pm</p>
 </td>
 </tr>
 </tbody>
@@ -84,7 +84,7 @@ are as follow:</p>
 <p>P1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8.30 a.m. - 9.00 a.m.</p>
+<p>8.30 am - 9.00 am</p>
 </td>
 </tr>
 <tr>
@@ -92,7 +92,7 @@ are as follow:</p>
 <p>P2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9.00 a.m. - 9.30 a.m.</p>
+<p>9.00 am - 9.30 am</p>
 </td>
 </tr>
 <tr>
@@ -100,7 +100,7 @@ are as follow:</p>
 <p>P3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9.30 a.m. - 10.00 a.m.</p>
+<p>9.30 am - 10.00 am</p>
 </td>
 </tr>
 <tr>
@@ -108,7 +108,7 @@ are as follow:</p>
 <p>P4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10.00 a.m. - 10.30 a.m.</p>
+<p>10.00 am - 10.30 am</p>
 </td>
 </tr>
 <tr>
@@ -116,7 +116,7 @@ are as follow:</p>
 <p>P5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10.30 a.m. - 11.00 a.m.</p>
+<p>10.30 am - 11.00 am</p>
 </td>
 </tr>
 <tr>
@@ -124,7 +124,7 @@ are as follow:</p>
 <p>P6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11.00 a.m. - 11.30 a.m.</p>
+<p>11.00 am - 11.30 am</p>
 </td>
 </tr>
 </tbody>
