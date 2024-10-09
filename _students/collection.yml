@@ -2,4 +2,5 @@ collections:
   students:
     output: true
     order:
+      - Peer Support Leaders.md
       - Prefectorial Board.md
