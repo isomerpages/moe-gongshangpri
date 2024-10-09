@@ -50,12 +50,12 @@ links:
       - title: Staff Well Being
         url: /permalink
   - title: PUPILS
-    url: /students
+    url: /pupils
     sublinks:
       - title: Prefectorial Board
         url: /prefectorial-board/
       - title: Peer Support Leaders
-        url: /permalink
+        url: /peer-support-leaders/
   - title: PARENTS & PARTNERS
     url: /parents & partners
     sublinks:
