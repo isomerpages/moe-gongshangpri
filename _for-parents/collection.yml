@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - Monthly Bulletin.md
       - Homework Policy.md
       - MOE Financial Assistance Scheme (FAS).md
       - DigitalAccess@Home.md
