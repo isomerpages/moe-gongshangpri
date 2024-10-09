@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Fathers @ Gongshang.md
       - PSG Organizational Chart.md
       - Parent Support Group (GSPEARS).md
       - General Information.md
