@@ -1,18 +1,9 @@
 logo: /images/GSPS_Wordmark_2024_bitmap.png
 links:
-  - title: ABOUT US
-    url: /principal-message/
-    sublinks:
-      - title: Principal's Message
-        url: /principal-message/
-      - title: Our History
-        url: /our-history/
-      - title: Our School Crest and Song
-        url: /our-gsps-family/our-school-crest-and-song/
-      - title: Our Ethos
-        url: /our-ethos/
-      - title: School Advisory Committee
-        url: /sac/
+  - title: News
+    resource_room: true
+  - title: About Us
+    collection: about-us
   - title: PROGRAMMES
     url: /english/
     sublinks:
