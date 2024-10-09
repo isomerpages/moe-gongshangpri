@@ -1,5 +1,5 @@
 collections:
-  students:
+  pupils:
     output: true
     order:
       - Prefectorial Board.md
