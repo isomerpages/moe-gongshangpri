@@ -2,8 +2,8 @@ collections:
   staff:
     output: true
     order:
-      - Teacher Leaders.md
       - School Management Committee.md
+      - Teacher Leaders.md
       - Form Teachers.md
       - Teaching & Non Teaching Staff.md
       - Staff Professional Development.md
