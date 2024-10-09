@@ -2,6 +2,7 @@ collections:
   parents-and-partners:
     output: true
     order:
+      - Alumni/Alumni Association.md
       - Alumni/.keep
       - MOE Financial Assistance Scheme (FAS).md
       - DigitalAccess@Home.md
