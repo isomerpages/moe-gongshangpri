@@ -5,90 +5,273 @@ description: ""
 variant: tiptap
 third_nav_title: About Us
 ---
-### **Our History**
-#### **The School**
-The school was founded in January 1920 by Mr Shi Su. The running of the school was financed by Mr Lin Zeyang and his fellow supporters.
-
-It began as a night school at 267 Tanjong Pagar Road - a place on loan from Yinbin Club. The school catered to the needs of the young migrants from China. On 1 March 1920, the school moved to 30 Enggor Street and a day school was initiated. It helped to provide education to the children of the migrants.
-
-#### **The Troubled Years**
-<img src="/images/history1.jpg" style="width:35%" align="left">
-
-<br clear="left">
-
-In August 1920, Mr Shi Su returned to China. In February the following year, Mr Lin Zeyang succeeded him as the principal. In July the same year, however, the school was closed by the landlord for default in rent payment. Led by night class students Messrs Lin Muqun, Kang Zhen-Bo, Zhuang Huiquan and Li Tienmin, the students raised enough funds to clear the debt.
-
-More obstacles cropped up. In September, new rules were laid down for the registration of schools. The Board of Directors voted for the closure of the school. Mr Lin Muqun again came to the rescue. He reorganised the school, formed a new Board of Directors and applied for registration. It was then officially registered.
-
-The school again ran into financial difficulty in 1922. And it was again Mr Lin Muqun and other night class students who saved the school. As Gongshang was a privately run Chinese school, it was unable to secure any grant from the British Government. All expenses were met by donations received mainly from the Chinese community. Times were hard.
-
-<img src="/images/history2.jpg" style="width:65%" align="left">
-
-<br clear="left">
-
-#### **The Foundation**
-Under the capable and innovative leadership of Mr Lin Zeyang, the school was able to forge ahead. The Old Boys' Association was set up in 1923 - a move that proved to be of great help to the school.
-
-The Association organised activities not only to raise funds for the school but also to promote cultural activities and sports among its members. It put up shows like the 'Choir's Night', renowned plays like 'Home', 'Spring' and 'Autumn'. All were critically acclaimed. The winning feats of its basketball team spread far and wide.
-
-Mr Lin looked beyond the needs of basic education. His far-sightedness was reflected clearly in his incorporation of vocational training into the school curriculum - a move unheard of then.
-
-<img src="/images/history3.jpg" style="width:45%" align="left">
-
-<br clear="left">
-
-#### **York Hill**
-The school enrolment increased rapidly and Mr Lin anticipated the need for expansion. In 1926, with the support of the Old Boys' Association, the Board of Directors and the migrant Chinese society, Mr Lin set up a committee for the school building fund. A piece of land at Outram Road, the York Hill was acquired. The school moved into its new building in June 1929, a place it could call its own. It was a pride of the time - a spacious, ultra-modern and well-equipped building.
-
-<img src="/images/history4.gif" style="width:45%" align="left">
-
-<br clear="left">
-
-Mr Lin's dedication to the school and education was hard to match. He oversaw all aspects of the school administration, teaching methodology, building maintenance and even gardening. Nothing was too big or too small for him. Under his guidance, the school expanded and its enrolment hit 3,800 in the 50's - a great feat for a Chinese school. The school could proudly claim to have played an important role in nation building.
-
-#### **Zeyang Hall**
-
-<img src="/images/history5.jpg" style="width:45%" align="left">
-
-<br clear="left">
-
-Mr Lin Zeyang, a bachelor, passed away of ill health on 16 July 1948. He had lived in the school quarters and spent all his time tending to the needs of the school. He left behind neither property nor money to his name. He can be deservedly called "FATHER OF GONGSHANG". Mr Chen Guoxiang succeeded him as principal. A new hall was built and named after Mr Lin Zeyang to commemorate his contributions to the school.
-
-#### **Third Location**
-After the demise of Mr Lin Zeyang, the principals succeeding him were :<br>
-Chen Guoxiang 1949 - 1964<br>
-Yu Songnian 1964 - 1970<br>
-Chen Dexiao 1971 - 1975<br>
-Yang Mazhu 1975 - 1984
-
-In the late seventies, the school faced the problems of urban redevelopment and an ageing population in the vicinity. The school enrolment plummeted. It was time to move to a new location. In a series of meetings in 1984 between the school management and the Ministry of Education officials, it was agreed that the school be moved to Tampines New Town. It was renamed Gongshang Primary School in place of The Chinese Industrial and Commercial Continuation School (N.B. Gongshang means industrial and commercial).
-
-Then Mr Yang Mazhu retired at the end of 1984. He was succeeded by Mr Wee Fui Twee, our incumbent principal (1984-2001). The school was temporarily housed in Tampines Primary School building until 1987 when our own premises at Tampines Street 42 were completed. It was declared open by the late Dr Tay Eng Soon, former Senior Minister of State for Education, two years later. Now the school has a pupil population of more than 2000.
-
-#### **Lin Mu Qun - An Old Gongshang Boy**
-Gongshang Primary School was plagued by financial difficulties in the early stage of its development. Many a time, it faced the threat of closure. And each time it was Mr Lin Muqun's resourcefulness, perseverance and commitment to the cause that saved the day.
-
-Mr Lin was born in the Hokkien Province of China. He migrated to Singapore when he was very young. He enrolled in Gongshang to better himself. In 1921, when the school was served with the notice of closure for falling behind in rent, he and his schoolmates raised enough funds from donation to tide the school over.
-
-When the Board of Directors decided to close the school because of stringent regulations introduced by the British Colonial Government for the registration of non-English schools, Mr Lin Muqun worked hand in hand with the principal Mr Lin Zeyang to revamp the school set up in order to meet the requirements for registration.
-
-He was also instrumental in the setting up of the Old Boys' Association. The Association later played an important role in promoting cultural and social activities for the then Chinese Community.
-
-He did all these during his spare time in the name of education. He was then a manager of a company. When he passed away in 1929, the school erected a pavilion in the school compound to commemorate his contributions to the school.
-
-#### **Father of Gongshang**
-Mr. Lin Zeyang was born in the Hokkien Province of China. His surname was actually Yang. His mother's family name was Lin. Since there was no male offspring in her family to succeed the family line, her husband consented to let his second son adopt the surname Lin. Thus he was named Lin Zeyang. His intelligence was seen at an early age of 4. He learned to read and write first from his mother.
-
-When he went to school at the age of 7, his teachers were taken aback by his brilliance. Unfortunately, his father passed away when Zeyang was thirteen. The family ran into financial hardship. Nevertheless, his mother toiled to provide him an education. Eventually, he graduated from the Hokkien Teachers' College. He served in a few primary schools before he came to Southeast Asia in 1911. He taught in Malaya and Indonesia. He was well-loved by the people wherever he served.
-
-He was one of the founder members of the school. He began his career as a principal of Gongshang from 1911. He remained as one until 1948 when he died of ill health.
-
-When Mr Lin took over the school, it was facing a crisis. The school was behind in rent. It was closed by the landlord. Together with the help of the night class students and the Board of Directors, he was able to raise enough cash to tide over the difficulty.
-
-Next the British Governor laid down rules for the registration of all schools in Singapore. Mr Lin had to revamp the set up in order to comply with the rules. The school was fully registered. There were more financial problems to come. Mr Lin appealed to the Old Boys' Association for help.
-
-Under his able leadership, the school enrolment increased steadily and before long it was clear that expansion was necessary. A piece of land along Outram Road, known as York Hill, was acquired. The new premises were completed in 1929. The reputation of the school spread and the enrolment increased every year.
-
-The Second World War broke out and the school stopped functioning temporarily. In 1945, the school resumed operation. There was an unusually large number of overaged pupils seeking admission as they were deprived of it during the War. The school bought over another 180 000 square feet of land adjacent to it for a new school building. Unfortunately, before Mr Lin could realise his plan, he was struck down with illness. Even on his sick bed, he showed concern for the school. He planned and guided his subordinates until his last days. He passed away at the age of 60 on 16 July 1948. It was a great loss, not only to Gongshang but also to education in Singapore. Such an educationist is rare. He helped the school through its difficult years. He had helped bond the school management, Old Boys' Association and the migrant Chinese society into a single force for the furtherance of education.
-
-We are fortunate to have him.
+<h3><strong>Our History</strong></h3>
+<h4><strong>The Beginning</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TCIC.jpg">
+</div>
+<p>Gongshang Primary School was established as The Chinese Industrial and
+Commercial continuation School in January 1920 by Mr Shi Su as a night
+school that catered to the needs of the young migrants from China. The
+school operated at 267 Tanjong Pagar Road on premises that was on loan
+from Yinbin Club.</p>
+<p>The school moved to 30 Enggor Street on 1 March 1920, where a day school
+was initiated to provide education for children of migrants at the time.</p>
+<p></p>
+<h4><strong>The Troubled Years</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/pavillion1.jpg">
+</div>
+<p>In August 1920, Mr Shi Su returned to China. In February 1921, Mr Lin
+Zeyang succeeded him as the principal. However, in July 1921, the school
+was forced by the landlord to close for defaulting in rent payment. In
+response, several students who attended the night classes students such
+as Messrs Lin Muqun, Kang Zhen-Bo, Zhuang Huiquan and Li Tienmin, raised
+funds to keep the school running.</p>
+<div class="isomer-image-wrapper">
+<img style="width:35%" height="auto" width="100%" src="/images/history1.jpg">
+</div>
+<p>Around the same time in September 1921, new rules were enacted by the
+colonial government for the registration of schools in Singapore, which
+led to the Board of Directors then to vote in favour of closing the school.
+Mr Lin Muqun led efforts to reorganise the school, form a new Board of
+Directors and officially registered the school with the Education Department.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/pavillion.jpg">
+</div>
+<p>The school ran into financial difficulty again in 1922. Similar to events
+in the previous year, Mr Lin Muqun and other night class students raised
+the necessary funds to keep the school operational.</p>
+<p>As Gongshang was a privately-run Chinese school, it was unable to secure
+any grant from the British Government. Instead, the school was reliant
+on donations received mainly from the Chinese community for its expenses.</p>
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/history2.jpg">
+</div>
+<p>
+<br>
+</p>
+<h4><strong>The Foundation</strong></h4>
+<p>Mr Lin Zeyang looked beyond the needs of basic education and incorporated
+vocational training into the school curriculum, a move unheard of then.</p>
+<p>In addition, the Old Boys' Association was set up in 1923 and proved to
+be a strong source of support the school. The Association organised activities
+that not only raised funds for the school but also promoted cultural activities
+and sports among its members. Under the Association, performances such
+as 'Choir's Night' were put up, renowned plays such as 'Home', 'Spring'
+and 'Autumn' were performed to critical acclaim, and a highly successful
+basketball team was groomed.</p>
+<div class="isomer-image-wrapper">
+<img style="width:45%" height="auto" width="100%" src="/images/history3.jpg">
+</div>
+<p>
+<br>
+</p>
+<h4><strong>York Hill</strong></h4>
+<p>The school enrolment increased rapidly and Mr Lin anticipated the need
+for expansion. In 1926, with the support of the Old Boys' Association,
+the Board of Directors and the migrant Chinese society, Mr Lin set up a
+committee which oversaw the acquisition of land at York Hill along Outram
+Road and the construction of a new school building. The school moved into
+its spacious, ultra-modern and well-equipped building in June 1929. It
+was closed during the Japanese Occupation and reopened after the war.</p>
+<div class="isomer-image-wrapper">
+<img style="width:45%" height="auto" width="100%" src="/images/history4.gif">
+</div>
+<p>
+<br>Mr Lin's dedication to the school and education was hard to match. He
+oversaw all aspects of the school administration, teaching methodology,
+building maintenance and even gardening. At its height in the 1950s, the
+school had a record 3800 students who attended both day and night school.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/gsstudents.jpg">
+</div>
+<p></p>
+<h4><strong>Zeyang Hall</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width:45%" height="auto" width="100%" src="/images/history5.jpg">
+</div>
+<p>Mr Lin Zeyang, a bachelor, passed away of ill health on 16 July 1948.
+He had lived in the school quarters and spent all his time tending to the
+needs of the school. He left behind neither property nor money to his name.
+He can be deservedly called "Father of Gongshang". A new hall was built
+and named after him to commemorate his contributions to the school.</p>
+<p></p>
+<h4><strong>Serving the Needs of a New Town</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1980.jpg">
+</div>
+<p>In the late 1970's, due to problems of urban redevelopment and an ageing
+population in the vicinity, the school enrolment plummeted to 105. After
+a series of meetings in 1984 with the Ministry of Education, the school
+management agreed to the proposal moved to a new location in Tampines New
+Town and to become a Goverment school in 1985. The school was renamed "Gongshang"
+which retained the original meaning of "Industrial and Commercial" to mark
+its roots.</p>
+<p>Mr Wee Fui Twee succeeded Mr Yang Mazhu at the end of 1984 and served
+till 2001. The school operated out of Tampines Primary School as a holding
+site until 1987 when the current premises at Tampines Street 42 was completed.</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ1VDVC3yG_sJF5CmPxEYBJdAfLnqIyUL3Hr90urJyDfujnD-Gxk6WUtti3xCU3fziZNcrdl7WiN-9x/embed?start=false&amp;loop=true&amp;delayms=5000&amp;slide=id.g22b85a714a8_0_16"></iframe>
+</div>
+<p>Gongshang Primary School was was officially declared open by the late
+Dr Tay Eng Soon, former Senior Minister of State for Education, in 1989.
+The school became single session in 2015. It set up its Alumni Youth Wing
+in 2016, which coincided with its first homecoming in the school’s history.</p>
+<p>Now the school has a pupil population of more than 2000.</p>
+<p></p>
+<h4><strong>Principals</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Shi Su</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1920</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lin Zeyang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1921 - 1948</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chen Guoxiang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1949 - 1964</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Yu Songnian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1964 - 1970</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chen Dexiao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1971 - 1975</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Yang Mazhu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1975 - 1984</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Wee Fui Twee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1985–2001</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Daisie Yip Choon Hua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2002–2008</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Kok Chow Hiong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2009–2017</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lim Tzyy Shiuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2018–present</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h2>Noteworthy Individuals</h2>
+<h4><strong>Lin Mu Qun – An Old Boy</strong></h4>
+<p>In the early days of Gongshang Primary School, financial difficulties
+threatened its very existence. Yet, time and again, Mr Lin Mu Qun's resourcefulness,
+perseverance, and dedication saved the school from closure.</p>
+<p>Born in the Hokkien Province of China, Mr Lin migrated to Singapore at
+a young age and enrolled at Gongshang to further his education. In 1921,
+the school faced closure over unpaid rent, and Mr Lin, together with his
+classmates, raised enough funds through donations to keep the school open.</p>
+<p>Later, when the British Colonial Government imposed strict regulations
+for non-English schools, Mr Lin collaborated with the principal, Mr Lin
+Zeyang, to make essential changes so as to meet the registration requirements.
+Mr Lin also helped establish the Old Boys’ Association, which became a
+cornerstone for promoting cultural and social activities within the local
+Chinese community.</p>
+<p>Despite being a busy company manager, Mr Lin gave his time to support
+education. When he passed away in 1929, Gongshang honored his legacy by
+erecting a pavilion in the school grounds to commemorate his contributions.</p>
+<p></p>
+<h4><strong>Lin Zeyang - Father of Gongshang</strong></h4>
+<p>Mr Lin Zeyang, born in Hokkien Province, China, adopted his mother’s surname,
+Lin, to continue her family line. Despite having Yang as his surname, his
+father permitted him to adopt the surname of Lin as there was no male offspring
+within the his mother's family to succeed the family line.</p>
+<p>He showed signs of remarkable intelligence from the age of 4 where he
+learnt to read and write from his mother. When he went to school at the
+age of 7, his teachers were taken aback by his brilliance. Unfortunately,
+his father passed away when Zeyang was 13 and the family ran into financial
+hardship. Nevertheless, his mother toiled to provide him an education.
+Eventually, he graduated from the Hokkien Teachers’ College. After teaching
+in China, he moved to Southeast Asia, gaining respect and admiration wherever
+he taught.</p>
+<p>As a founding member of Gongshang Primary School, Mr Lin became its first
+principal in 1921, leading the school until his passing in 1948. When Mr
+Lin took over, the school was in crisis, even closed briefly due to unpaid
+rent. With support from night class students and the Board of Directors,
+he raised the necessary funds to reopen the school.</p>
+<p>Under British rule, Mr Lin ensured Gongshang complied with new registration
+requirements, preserving its status and reputation. Faced with continuous
+financial challenges, he turned to the Old Boys' Association for support.
+With his steady leadership, school enrolment grew, eventually necessitating
+a move to a larger site at York Hill in 1929.</p>
+<p>After World War II, the school reopened to accommodate students who had
+missed out on education during the war. Mr Lin arranged for the purchase
+of additional land for expansion, though he was unable to see his vision
+realized due to illness. Even from his sickbed, he continued to guide his
+colleagues until his passing on 16 July 1948.</p>
+<p>Mr Lin Zeyang’s dedication to Gongshang left a profound legacy, uniting
+the school’s management, alumni, and the Chinese community in their commitment
+to education. His impact on Gongshang and Singaporean education is deeply
+felt to this day.</p>
+<p></p>
