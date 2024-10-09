@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - faq.md
       - About Us.md
       - Principal's Message.md
       - Our History.md
       - Our School Crest and Song.md
       - Our Ethos.md
       - School Advisory Committee (SAC).md
+      - faq.md
