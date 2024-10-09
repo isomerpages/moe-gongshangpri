@@ -4,7 +4,7 @@ permalink: /school-management-committee/
 variant: tiptap
 description: ""
 ---
-<h3><strong>School Management Committee (SMC)</strong></h3>
+<h4><strong>School Management Committee (SMC)</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -12,171 +12,137 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Designation</p>
-</th>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>Principal</strong>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Mrs Soh-Lim Tzyy Shiuan</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Principal</p>
-</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>Vice Principal</strong>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Mrs Selina Lee</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Vice Principal</p>
-</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>Vice Principal</strong>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nora Osman</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Vice Principal</p>
-</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>Vice Principal (Administration)</strong>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Mr Fong Wai Khin</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>Vice Principal (Administration)</p>
+<p><strong>School Staff Developer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:egwin.lian@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mr Egwin Lian</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Egwin Lian</p>
+<p><strong>HOD (English Language)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Staff Developer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Jannie Lee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD (English Language)</p>
+<p><a href="mailto:jannie.lee@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mrs Jannie Lee</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Isaac Foo Yong Wei</p>
+<p><strong>HOD (Mother Tongue Languages)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD (Mother Tongue Languages)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Jenny Tan (Mrs Chan)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD (Mathematics)</p>
+<p><a href="mailto:isaac.foo@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mr Isaac Foo Yong Wei</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Loy-Chow Yoke Yeong</p>
+<p><strong>HOD (Mathematics)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD (Science)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Mehrun Nisha</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD (Physical Education, Aesthetics, Music &amp; Co-Curricular Activities)</p>
+<p><a href="jenny.tan@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mrs Jenny Chan (Mdm Jenny Tan)</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Hamidah Bte Abdullah</p>
+<p><strong>HOD (Science)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD (Character &amp; Citizenship Education)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Yeo Soh Fang Jennifer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD (Student Management)</p>
+<p><a href="mailto:chow.yoke.yeong@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mrs Loy-Chow Yoke Yeong</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ngiam Song Wee</p>
+<p><strong>HOD (Physical Education, Aesthetics, Music &amp; Co-Curricular Activities)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD (Information and Communication Technology)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:mehrun.nisha@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mdm Mehrun Nisha</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Shirley Puay</p>
+<p><strong>HOD (Character &amp; Citizenship Education)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (P1 &amp; P6)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Yusri Yunos</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head (P1 &amp; P6)</p>
+<p><a href="mailto:hamidah.abdullah@gsps.edu.sg" rel="noopener nofollow" target="_blank">Ms Hamidah Bte Abdullah</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Fadzillah Bte Aslam Khan</p>
+<p><strong>HOD (Student Management)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (P2 &amp; P3)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Scott Lai</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head (P2 &amp; P3)</p>
+<p><a href="mailto:jennifer.yeo@gsps.edu.sg" rel="noopener nofollow" target="_blank">Ms Yeo Soh Fang Jennifer</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Angie Wong</p>
+<p><strong>HOD (Information and Communication Technology)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (P4 &amp; P5)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Sunil Rai</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head (P4 &amp; P5)</p>
+<p><a href="mailto:ngiam.song.wee@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mr Ngiam Song Wee</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -189,74 +155,62 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Melissa Chan</p>
+<p><strong>Year Head (P1 &amp; P6)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Level Head (English Language)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Yap-Loy Sim Lan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Level Head (Chinese Language)</p>
+<p><a href="mailto:shirley.lee@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mrs Shirley Puay</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Fadhilah Binte Saneb</p>
+<p><strong>Assistant Year Head (P1 &amp; P6)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Malay Language)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Chua Aik Ching Bryan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Level Head (Mathematics)</p>
+<p><a href="mailto:yusri@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mr Yusri Yunos</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Wendy Chu</p>
+<p><strong>Year Head (P2 &amp; P3)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Level Head (Science)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Foo Tseh Chyn</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head (Physical Education)</p>
+<p><a href="mailto:fadzillah.khan@gsps.edu.sg" rel="noopener nofollow" target="_blank">Ms Fadzillah Bte Aslam Khan</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Pearlyn Ang</p>
+<p><strong>Assistant Year Head (P2 &amp; P3)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Student Well-Being)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Ng-Thiam Siow Foon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head (Student Management)</p>
+<p><a href="mailto:scott.lai@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mr Scott Lai</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Henry Lee</p>
+<p><strong>Year Head (P4 &amp; P5)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Partnerships and Engagement)</p>
+<p><a href="mailto:angie.wong@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mrs Angie Wong</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Assistant Year Head (P4 &amp; P5)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sunil.rai@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mr Sunil Rai</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -269,26 +223,130 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tham Weng Wah Eric</p>
+<p><strong>Level Head (English Language)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Administration Manager</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Mohd Faizal bin Mohd Firoz</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Information and Communication Technology Manager</p>
+<p><a href="mailto:melissa.chan@gsps.edu.sg" rel="noopener nofollow" target="_blank">Miss Melissa Chan</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Danial Bin Mohamed Yusoff</p>
+<p><strong>Level Head (Chinese Language)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operations Manager</p>
+<p><a href="mailto:loy.sim.lan@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mrs Yap-Loy Sim Lan</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Subject Head (Malay Language)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:fadhilah.saneb@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mdm Siti Fadhilah Binte Saneb</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Level Head (Mathematics)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:bryan.chua@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mr Chua Aik Ching Bryan</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Level Head (Science)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wendy.chu@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mrs Wendy Chu</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Subject Head (Physical Education)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:foo.tsehchyn@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mdm Foo Tseh Chyn</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Subject Head (Student Well-Being)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:pearlyn.ang@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mrs Pearlyn Ang</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Subject Head (Student Management)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:thiam.siow.foon@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mrs Ng-Thiam Siow Foon</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Subject Head (Partnerships and Engagement)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:henry.lee@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mr Henry Lee</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Administration Manager</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:eric.tham@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mr Tham Weng Wah Eric</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Information and Communication Technology Manager</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:faizal.firoz@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mr Mohd Faizal bin Mohd Firoz</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Operations Manager</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:danial.yusoff@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mr Muhammad Danial Bin Mohamed Yusoff</a>
+</p>
 </td>
 </tr>
 </tbody>
