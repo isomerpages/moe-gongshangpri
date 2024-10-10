@@ -1,0 +1,6 @@
+collections:
+  pupils:
+    output: true
+    order:
+      - Prefectorial Board.md
+      - Peer Support Leaders.md
