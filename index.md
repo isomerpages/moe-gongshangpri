@@ -10,9 +10,6 @@ sections:
       background: /images/2024 uploads/Website_Hero_Photo2.jpg
       url: /contact-us/
       key_highlights:
-        - title: News
-          description: See latest updates
-          url: /news/
         - title: For parents
           description: Find useful info
           url: /useful-links/for-parents/
