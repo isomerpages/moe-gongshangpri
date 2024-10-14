@@ -2,19 +2,19 @@ collections:
   parents-and-partners:
     output: true
     order:
-      - Briefing Slides.md
+      - Parent Support Group (GSPEARS).md
+      - Parent Volunteer.md
+      - Alumni/.keep
       - Alumni/Alumni Organisational Chart.md
       - Alumni/Application Forms.md
       - Alumni/Homecoming.md
       - Alumni/Alumni Association.md
-      - Alumni/.keep
+      - Briefing Slides.md
       - MOE Financial Assistance Scheme (FAS).md
       - DigitalAccess@Home.md
       - Information on secondary schools.md
-      - Parent Volunteer.md
       - Homework Policy.md
       - General Information.md
-      - Parent Support Group (GSPEARS).md
       - PSG Organizational Chart.md
       - Fathers @ Gongshang.md
       - Join Us.md
