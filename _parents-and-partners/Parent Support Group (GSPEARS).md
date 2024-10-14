@@ -14,3 +14,4 @@ through various activities as well as learning life-skills.</p>
 <p>The members of the PSG provide support in major school events such as
 Sports Day, ICT Carnival, P3 and P6 school camps, Racial Harmony Day, Teachers’
 Day, Children's Day, P6 Entrepreneur Bazaar and the Primary 1 Orientation.</p>
+<p></p>
