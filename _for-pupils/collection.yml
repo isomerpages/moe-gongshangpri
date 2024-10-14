@@ -2,6 +2,5 @@ collections:
   for-pupils:
     output: true
     order:
-      - The Singapore Student Learning Space.md
       - Student iCON.md
       - Learning Platforms.md
