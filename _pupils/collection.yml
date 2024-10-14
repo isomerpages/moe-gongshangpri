@@ -2,5 +2,6 @@ collections:
   pupils:
     output: true
     order:
+      - All Ears login.md
       - Prefectorial Board.md
       - Peer Support Leaders.md
