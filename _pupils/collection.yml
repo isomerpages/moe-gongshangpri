@@ -2,6 +2,7 @@ collections:
   pupils:
     output: true
     order:
+      - The Singapore Student Learning Space.md
       - All Ears login.md
       - Prefectorial Board.md
       - Peer Support Leaders.md
