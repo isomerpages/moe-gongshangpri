@@ -2,9 +2,9 @@ collections:
   pupils:
     output: true
     order:
-      - Learning Platforms.md
-      - Student iCON.md
-      - The Singapore Student Learning Space.md
-      - All Ears login.md
       - Prefectorial Board.md
       - Peer Support Leaders.md
+      - The Singapore Student Learning Space.md
+      - Student iCON.md
+      - All Ears login.md
+      - Learning Platforms.md
