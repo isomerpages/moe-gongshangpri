@@ -13,9 +13,6 @@ sections:
         - title: News
           description: See latest updates
           url: /news/
-        - title: For Pupils
-          description: Access online platforms
-          url: /useful-links/for-pupils/
         - title: For parents
           description: Find useful info
           url: /useful-links/for-parents/
