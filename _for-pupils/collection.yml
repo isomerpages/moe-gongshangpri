@@ -1,5 +1,4 @@
 collections:
   for-pupils:
     output: true
-    order:
-      - Learning Platforms.md
+    order: []
