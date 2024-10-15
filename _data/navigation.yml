@@ -4,10 +4,10 @@ links:
     resource_room: true
   - title: About Us
     collection: about-us
-  - title: Programmes
-    collection: programmes
   - title: Staff
     collection: staff
+  - title: Programmes
+    collection: programmes
   - title: Pupils
     collection: pupils
   - title: Parents and Partners
