@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Physical Education/.keep
-      - Physical Education/Physical Education.md
       - Physical Education/Programmes.md
       - Physical Education/Assessment.md
       - Physical Education/Achievements.md
