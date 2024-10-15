@@ -2,30 +2,22 @@ collections:
   programmes:
     output: true
     order:
-      - National Education/Learning Journeys.md
-      - National Education/NE Show.md
-      - National Education/National Day.md
-      - National Education/Racial Harmony Day.md
-      - National Education/International Friendship Day.md
-      - National Education/Total Defence Day.md
-      - National Education/National Education.md
-      - National Education/.keep
+      - Character and Citizenship Edu/.keep
       - Character and Citizenship Edu/Edusave Character Award.md
       - Character and Citizenship Edu/Sexuality Education.md
       - Character and Citizenship Edu/Value In Action (VIA).md
       - Character and Citizenship Edu/Trips for International Experience (TIE).md
       - Character and Citizenship Edu/Character and Citizenship Education
         (CCE).md
-      - Character and Citizenship Edu/.keep
       - English Language/.keep
       - English Language/English Language.md
       - English Language/Programmes.md
       - English Language/Assessment.md
       - English Language/Achievements.md
       - Mother Tongue Languages/.keep
+      - Mathematics/.keep
       - Mathematics/Formative Assessments.md
       - Mathematics/Assessment.md
-      - Mathematics/.keep
       - Mathematics/Programmes.md
       - Mathematics/Excellence 2000 Mathematics.md
       - Mathematics/Learning Support in Mathematics.md
@@ -37,23 +29,31 @@ collections:
       - Science/Programmes.md
       - Science/Assessment.md
       - Science/Achievements.md
+      - Physical Education/.keep
       - Physical Education/Achievements.md
       - Physical Education/Assessment.md
       - Physical Education/Programmes.md
       - Physical Education/Physical Education.md
-      - Physical Education/.keep
+      - National Education/.keep
+      - National Education/Learning Journeys.md
+      - National Education/NE Show.md
+      - National Education/National Day.md
+      - National Education/Racial Harmony Day.md
+      - National Education/International Friendship Day.md
+      - National Education/Total Defence Day.md
+      - National Education/National Education.md
+      - Visual Arts/.keep
       - Visual Arts/Achievements.md
       - Visual Arts/Assessments.md
       - Visual Arts/Programmes.md
       - Visual Arts/Visual Arts.md
-      - Visual Arts/.keep
+      - Music/.keep
       - Music/Programmes.md
       - Music/Music.md
-      - Music/.keep
       - Co Curricular Activities/.keep
       - Info and Communication Tech/.keep
       - Info and Communication Tech/Supporting a Holistic Education.md
-      - Programme for Active Learning/Programme for Active Learning.md
       - Programme for Active Learning/.keep
+      - Programme for Active Learning/Programme for Active Learning.md
       - Applied Learning Programme.md
       - Learning for Life Programme.md
