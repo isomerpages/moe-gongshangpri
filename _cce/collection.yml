@@ -1,6 +1,0 @@
-collections:
-  cce:
-    output: true
-    order:
-      - Programmes/.keep
-      - National Education/.keep
