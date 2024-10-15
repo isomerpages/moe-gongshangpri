@@ -2,8 +2,6 @@ collections:
   ccas:
     output: true
     order:
-      - CCA Day & Time/.keep
-      - CCA Day & Time/CCA Day & Time.md
       - Physical Sports/.keep
       - Physical Sports/Badminton.md
       - Physical Sports/Basketball.md
