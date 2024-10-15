@@ -2,7 +2,7 @@ collections:
   ccas:
     output: true
     order:
-      - Co Curricular Activities (CCA) Programme.md
+      - Co Curricular Activities.md
       - CCA Application/.keep
       - CCA Application/CCA Application.md
       - CCA Appeal/.keep
