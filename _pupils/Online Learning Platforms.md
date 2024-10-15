@@ -14,10 +14,35 @@ variant: tiptap
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">All Ears</div>
-<div class="isomer-card-description">Many surveys are done on this platform.</div>
+<div class="isomer-card-description">Many surveys are done on this platform</div>
 <div class="isomer-card-link">Login here</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2024 uploads/icon.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://workspace.google.com/dashboard" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Student iCON" src="/images/2024 uploads/icon.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Student iCON</div><div class="isomer-card-description">Access email and other Google tools here</div><div class="isomer-card-link">Login here</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://ezhishi.com/contents/login.html" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="eZhiShi" src="/images/2024 uploads/ezhishi.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">eZhiShi</div>
+<div class="isomer-card-description">Used for Chinese Language online learning</div>
+<div class="isomer-card-link">Login here</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://member.koobits.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="KooBits" src="/images/2024 uploads/kbits.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">KooBits</div><div class="isomer-card-description">Often used for maths</div><div class="isomer-card-link">Login here</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.office.com/?ref=login" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Office 365" src="/images/2024 uploads/office_365_apps.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Office 365</div>
+<div class="isomer-card-description">Use Microsoft Word, Powerpoint, Excel etc. MIMS account is good for 5
+desktop installations too.</div>
+<div class="isomer-card-link">Login here</div>
+</div>
+</a>
 </div>
 <p></p>
 <h3><strong>Learning Platforms</strong></h3>
