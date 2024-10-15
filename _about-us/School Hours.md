@@ -63,7 +63,7 @@ are as follow:</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>Recess and Snack Breaks </strong></h3>
+<h3><strong>Recess and Snack Breaks</strong></h3>
 <p>The recess timings for each level is staggered:</p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -91,7 +91,7 @@ are as follow:</p>
 <p>8.30 am - 9.00 am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>11.30 am - 11.45 am</p>
 </td>
 </tr>
 <tr>
@@ -102,7 +102,7 @@ are as follow:</p>
 <p>9.00 am - 9.30 am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>11.30 am - 11.45 am</p>
 </td>
 </tr>
 <tr>
@@ -113,7 +113,7 @@ are as follow:</p>
 <p>9.30 am - 10.00 am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>12.00 noon - 12.15 pm</p>
 </td>
 </tr>
 <tr>
@@ -124,7 +124,7 @@ are as follow:</p>
 <p>10.00 am - 10.30 am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>12.00 noon - 12.15 pm</p>
 </td>
 </tr>
 <tr>
@@ -135,7 +135,7 @@ are as follow:</p>
 <p>10.30 am - 11.00 am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>8.30 am - 8.45 am</p>
 </td>
 </tr>
 <tr>
@@ -146,7 +146,7 @@ are as follow:</p>
 <p>11.00 am - 11.30 am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>8.30 am - 8.45 am</p>
 </td>
 </tr>
 </tbody>
