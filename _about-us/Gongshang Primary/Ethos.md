@@ -39,8 +39,8 @@ third_nav_title: Gongshang Primary
 <td rowspan="1" colspan="1">
 <p><strong>Perseverance</strong>
 </p>
-<p>Every Gongshanger will understand the value of hard work.</p>
-<p>Every Gongshanger will continue to work towards his/her goals despite
+<p>Every Gongshanger will understand the value of hard work.
+<br>Every Gongshanger will continue to work towards his/her goals despite
 challenges.</p>
 </td>
 </tr>
@@ -54,8 +54,8 @@ challenges.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Thrift</strong>
 </p>
-<p>Every Gongshanger is able to tell the difference between 'needs' and 'wants'.</p>
-<p>Every Gongshanger is able to use resources prudently to avoid wastage.</p>
+<p>Every Gongshanger is able to tell the difference between 'needs' and 'wants'.
+<br>Every Gongshanger is able to use resources prudently to avoid wastage.</p>
 </td>
 </tr>
 <tr>
@@ -69,8 +69,8 @@ challenges.</p>
 <p><strong>Integrity</strong>
 </p>
 <p>Every Gongshanger will do the right thing even when nobody is around or
-watching.</p>
-<p>Every Gongshanger will have the moral courage to stand up for what is
+watching.
+<br>Every Gongshanger will have the moral courage to stand up for what is
 right.</p>
 </td>
 </tr>
@@ -84,8 +84,8 @@ right.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Respect</strong>
 </p>
-<p>Every Gongshanger will have pride and confidence in themselves.</p>
-<p>Every Gongshanger will appreciate differences in others and be sensitive
+<p>Every Gongshanger will have pride and confidence in themselves.
+<br>Every Gongshanger will appreciate differences in others and be sensitive
 to the feelings of others.</p>
 </td>
 </tr>
