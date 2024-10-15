@@ -16,13 +16,11 @@ description: ""
 <br>No. We are not affiliated with any secondary schools.</p>
 <p></p>
 <p><strong>What time can parents enter the school premises to make purchases from the school bookshop?</strong>
-</p>
-<p>The school bookshop is open from 8.30am to 3.30pm (Except every Wed to
+<br>The school bookshop is open from 8.30am to 3.30pm (Except every Wed to
 2.30pm). Parents may come in after 2pm to make purchases for their child.</p>
 <p></p>
 <p><strong>5. Where can I buy school uniform for my child/ward?</strong>
-</p>
-<p>You can buy the school uniform from the address below:
+<br>You can buy the school uniform from the address below:
 <br>Chop Kong Chong
 <br>604 Sembawang Road
 <br>Sembawang Shopping Centre #02-13
