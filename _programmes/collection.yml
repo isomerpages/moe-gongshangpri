@@ -3,8 +3,7 @@ collections:
     output: true
     order:
       - Character and Citizenship Edu/.keep
-      - Character and Citizenship Edu/Character and Citizenship Education
-        (CCE).md
+      - Character and Citizenship Edu/Character and Citizenship Education.md
       - Character and Citizenship Edu/Value In Action.md
       - Character and Citizenship Edu/Trips for International Experience.md
       - Character and Citizenship Edu/Sexuality Education.md
