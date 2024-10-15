@@ -8,7 +8,7 @@ description: ""
 <p>Singapore Citizens in financial need can get assistance from MOE on school
 fees and other expenses. Learn if your child is eligible here: <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>
 </p>
-<h3><strong>Straits Times School Pocket Money Fund </strong></h3>
+<h3><strong>Straits Times School Pocket Money Fund</strong></h3>
 <p>The Straits Times School Pocket Money Fund provides pocket money to children
 from low-income families to help them through school. Find out more here:
 <a href="https://www.spmf.org.sg/primary-secondary-students" rel="noopener noreferrer nofollow" target="_blank">https://www.spmf.org.sg/primary-secondary-students</a>
@@ -35,4 +35,62 @@ or up to three months of cash assistance. Find out more here: <a href="https://n
 <p>ComCare supports lower-income households with basic living expenses. Find
 out more here: <a href="https://www.msf.gov.sg/what-we-do/comcare" rel="noopener nofollow" target="_blank">https://www.msf.gov.sg/what-we-do/comcare</a>
 </p>
+<hr>
+<h4><strong>Ethnic-based Self-Help Groups</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 uploads/CDAC_Logo.png">
+</div>
+<p>The CDAC is a non-profit self-help group that offers programmes and assistance
+schemes to help the less privileged in the community maximise their potential
+and strive for social mobility through self-help and mutual support.</p>
+<p>Find about about their <a href="https://www.cdac.org.sg/family-assistance" rel="noopener nofollow" target="_blank">family assistance </a>and
+<a href="https://www.cdac.org.sg/student-bursary" rel="noopener nofollow" target="_blank">student bursary</a>.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 uploads/mendakilogo.png">
+</div>
+<p>Yayasan MENDAKI is a Self-Help Group and was set up in 1982 to uplift
+the academic performance of the Malay/Muslim community in Singapore through
+education and lifelong learning.</p>
+<p>Find out more about their <a href="https://www.mendaki.org.sg/assistance-landing/" rel="noopener nofollow" target="_blank">assistance programmes</a> here.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 uploads/sindalogo.png">
+</div>
+<p>SINDA is a Self Help Group established in 1991 to uplift the socio-economic
+status of the Indian community in Singapore. It aims to raise the academic
+performance of Indian students and youth through tutorials, enrichment
+and motivation. It also offers a wide range of services to support parents
+and help families in need.</p>
+<p>Find out about their <a href="https://www.sinda.org.sg/services/assistance/" rel="noopener nofollow" target="_blank">assistance programmes</a> here.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
