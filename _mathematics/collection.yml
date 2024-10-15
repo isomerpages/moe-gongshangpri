@@ -2,7 +2,6 @@ collections:
   mathematics:
     output: true
     order:
-      - Formative Assessments.md
       - Achievements/.keep
       - Achievements/Achievements.md
       - Achievements/2021 Competitions.md
