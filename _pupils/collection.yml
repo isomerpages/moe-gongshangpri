@@ -2,11 +2,11 @@ collections:
   pupils:
     output: true
     order:
-      - Responsible Use Policy.md
       - Discipline.md
       - Pastoral Care.md
       - Prefectorial Board.md
       - Peer Support Leaders.md
       - Student Leadership.md
       - Education and Career Guidance.md
+      - Responsible Use Policy.md
       - Online Learning Platforms.md
