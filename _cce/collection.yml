@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Programmes/.keep
-      - Programmes/MOE Sexuality Education in schools.md
+      - Programmes/Sexuality Education.md
       - Programmes/MOE Edusave Character Award (ECHA).md
       - National Education/National Education.md
       - National Education/Total Defence Day.md
