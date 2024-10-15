@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Vendors/.keep
-      - Bookshop.md
       - Gongshang Primary/.keep
       - Gongshang Primary/Profile.md
       - Gongshang Primary/History.md
