@@ -6,21 +6,6 @@ links:
     collection: about-us
   - title: Programmes
     collection: programmes
-  - title: PUPILS
-    url: /prefectorial-board/
-    sublinks:
-      - title: Prefectorial Board
-        url: /prefectorial-board/
-      - title: Peer Support Leaders
-        url: /peer-support-leaders/
-      - title: Student Learning Space (SLS)
-        url: /sls/
-      - title: Student ICON Email
-        url: /student-icon/
-      - title: All Ears Login
-        url: /all-ears/
-      - title: Learning Platforms
-        url: /learning-platforms/
   - title: Staff
     collection: staff
   - title: PARENTS & PARTNERS
@@ -57,3 +42,5 @@ links:
         url: /kindergarten/staff/
   - title: Contact Us
     url: /contact-us/
+  - title: Pupils
+    collection: pupils
