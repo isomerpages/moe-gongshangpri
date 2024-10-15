@@ -2,8 +2,6 @@ collections:
   ccas:
     output: true
     order:
-      - CCA Appeal/.keep
-      - CCA Appeal/CCA Appeal.md
       - CCA Day & Time/.keep
       - CCA Day & Time/CCA Day & Time.md
       - Physical Sports/.keep
