@@ -4,42 +4,8 @@ links:
     resource_room: true
   - title: About Us
     collection: about-us
-  - title: PROGRAMMES
-    url: /english/
-    sublinks:
-      - title: English Language
-        url: /english/
-      - title: Mathematics
-        url: /our-gsps-experience/mathematics/
-      - title: Science
-        url: /our-gsps-experience/science/
-      - title: Mother Tongue Language
-        url: /our-gsps-experience/mtl/
-      - title: Physical Education & Aesthetic
-        url: /our-gsps-experience/pe-and-aesthetics/
-      - title: Co-Curricular Activities Prog
-        url: /our-gsps-experience/cca/
-      - title: Character and Citizenship Edu
-        url: /our-gsps-experience/cce/
-      - title: Info & Communication Tech
-        url: /our-gsps-experience/ict/
-      - title: Learning for Life Programme
-        url: /our-gsps-experience/llp/
-      - title: Applied Learning Programme
-        url: /our-gsps-experience/permalink
-  - title: STAFF
-    url: /school-management-committee/
-    sublinks:
-      - title: School Management Committee
-        url: /school-management-committee/
-      - title: Form Teachers
-        url: /form-teachers
-      - title: Teaching & non-Teaching Staff
-        url: /teaching-non-teaching-staff
-      - title: Staff Professional Development
-        url: /staff-professional-development/
-      - title: Staff Well Being
-        url: /staff-well-being/
+  - title: Programmes
+    collection: programmes
   - title: PUPILS
     url: /prefectorial-board/
     sublinks:
@@ -55,6 +21,8 @@ links:
         url: /all-ears/
       - title: Learning Platforms
         url: /learning-platforms/
+  - title: Staff
+    collection: staff
   - title: PARENTS & PARTNERS
     url: /gspears
     sublinks:
