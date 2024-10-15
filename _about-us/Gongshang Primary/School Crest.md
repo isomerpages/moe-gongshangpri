@@ -6,6 +6,7 @@ variant: tiptap
 third_nav_title: Gongshang Primary
 ---
 <h3><strong>School Crest</strong></h3>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -14,7 +15,10 @@ third_nav_title: Gongshang Primary
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
@@ -23,7 +27,6 @@ third_nav_title: Gongshang Primary
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/2024 uploads/GSPS_Crest_2024_Bitmap.png">
 </div>
