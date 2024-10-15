@@ -2,12 +2,12 @@ collections:
   about-us:
     output: true
     order:
-      - About Us/.keep
-      - About Us/Profile.md
-      - About Us/History.md
-      - About Us/School Crest.md
-      - About Us/School Song.md
-      - About Us/Ethos.md
+      - Gongshang Primary/.keep
+      - Gongshang Primary/Profile.md
+      - Gongshang Primary/History.md
+      - Gongshang Primary/School Crest.md
+      - Gongshang Primary/School Song.md
+      - Gongshang Primary/Ethos.md
       - Principal's Message.md
       - School Advisory Committee (SAC).md
       - School Hours.md
