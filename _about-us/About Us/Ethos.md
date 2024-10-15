@@ -33,7 +33,7 @@ third_nav_title: About Us
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 uploads/perserverance.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 uploads/perserverance.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -48,7 +48,7 @@ challenges.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 uploads/thrift.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 uploads/thrift.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -62,13 +62,13 @@ challenges.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 uploads/integrity.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 uploads/integrity.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Integrity</strong>
 </p>
-<p>Every Gongshang will do the right thing even when nobody is around or
+<p>Every Gongshanger will do the right thing even when nobody is around or
 watching.</p>
 <p>Every Gongshanger will have the moral courage to stand up for what is
 right.</p>
@@ -78,7 +78,7 @@ right.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 uploads/respect.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 uploads/respect.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -86,12 +86,9 @@ right.</p>
 </p>
 <p>Every Gongshanger will have pride and confidence in themselves.</p>
 <p>Every Gongshanger will appreciate differences in others and be sensitive
-to the feeligns of others.</p>
+to the feelings of others.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/values.jpg">
-</div>
 <p></p>
