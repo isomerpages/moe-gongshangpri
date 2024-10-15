@@ -58,6 +58,9 @@ third_nav_title: Vendors
 </tr>
 </tbody>
 </table>
-<p>
+<p></p>
+<p>This arrangement is in-force for 2 years, from Jan 2023 to Dec 2024. Please
+see this <a href="/files/Info Sheet on School Bus Services 2023 Letterhead.pdf" rel="noopener noreferrer nofollow" target="_blank">infosheet </a>for
+more information.
 <br>
 </p>
