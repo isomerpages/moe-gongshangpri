@@ -2,11 +2,11 @@ collections:
   parents-and-partners:
     output: true
     order:
-      - PSG/Members' Guidelines.md
+      - PSG/.keep
+      - PSG/Parent Support Group.md
       - PSG/PSG Organizational Chart.md
       - PSG/Fathers @ Gongshang.md
-      - PSG/Parent Support Group.md
-      - PSG/.keep
+      - PSG/Members' Guidelines.md
       - Great School Home Partnerships.md
       - Resources.md
       - Parent Volunteer.md
