@@ -28,7 +28,7 @@ accept new applications.</p>
 <p>For Parents who have applied, you would have be informed of the outcome
 by email by 31 May 2024.</p>
 <hr>
-<h3><strong>2025 Recruitment Exercise - Closed</strong></h3>
+<h3><strong>2025 Recruitment Exercise</strong></h3>
 <p>For children who are born between 2 Jan 2020 and 1 Jan 2021 (both dates
 inclusive), the details for parent volunteer recruitment exercise 2025
 will be posted on our school website by end Feb/early Mar 2025.</p>
