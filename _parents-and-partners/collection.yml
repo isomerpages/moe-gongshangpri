@@ -2,6 +2,7 @@ collections:
   parents-and-partners:
     output: true
     order:
+      - HBL General Information.md
       - General Information.md
       - Parent Support Group (GSPEARS).md
       - Parent Volunteer.md
