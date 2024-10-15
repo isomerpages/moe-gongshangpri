@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - National Education/.keep
+      - Character and Citizenship Edu/Trips for International Experience (TIE).md
       - Character and Citizenship Edu/Character and Citizenship Education
         (CCE).md
       - Character and Citizenship Edu/.keep
