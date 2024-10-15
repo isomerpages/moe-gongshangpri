@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Vendors/Bookshop.md
       - Vendors/.keep
       - Gongshang Primary/.keep
       - Gongshang Primary/Profile.md
