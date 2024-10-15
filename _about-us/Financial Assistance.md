@@ -77,8 +77,12 @@ education and lifelong learning.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 uploads/sindalogo.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2024 uploads/sindalogo.png">
 </div>
 <p>SINDA is a Self Help Group established in 1991 to uplift the socio-economic
 status of the Indian community in Singapore. It aims to raise the academic
@@ -88,7 +92,15 @@ and help families in need.</p>
 <p>Find out about their <a href="https://www.sinda.org.sg/services/assistance/" rel="noopener nofollow" target="_blank">assistance programmes</a> here.</p>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/2024 uploads/ea_logo.png">
+</div>
+<p>The Eurasian Association (EA) preserves and promotes awareness of Eurasian
+heritage in Singapore and supports the less fortunate through community
+initiatives.</p>
 <p></p>
+<p>Find out about their <a href="https://www.eurasians.sg/families" rel="noopener nofollow" target="_blank">family support services</a> and
+<a href="https://www.eurasians.sg/education" rel="noopener nofollow" target="_blank">education initiatives</a>.</p>
 </td>
 </tr>
 </tbody>
