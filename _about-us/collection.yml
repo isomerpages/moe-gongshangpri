@@ -2,9 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Admission/Transfers.md
-      - Admission/P1 Registration.md
-      - Admission/.keep
       - Gongshang Primary/.keep
       - Gongshang Primary/Profile.md
       - Gongshang Primary/History.md
@@ -14,5 +11,8 @@ collections:
       - Principal's Message.md
       - School Advisory Committee.md
       - School Hours.md
+      - Admission/.keep
+      - Admission/Transfers.md
+      - Admission/P1 Registration.md
       - Uniform.md
       - Frequently Asked Questions.md
