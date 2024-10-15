@@ -1,5 +1,4 @@
 collections:
   our-gsps-family:
     output: true
-    order:
-      - School Management Committee (SMC).md
+    order: []
