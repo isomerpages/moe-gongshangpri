@@ -45,31 +45,21 @@ desktop installations too.</div>
 </a>
 </div>
 <p></p>
-<h3><strong>Learning Platforms</strong></h3>
-<ul data-tight="true" class="tight">
+<p>For any SLS account or password queries, please approach the following:</p>
+<ol data-tight="true" class="tight">
 <li>
-<p><a href="https://kahoot.it/" rel="noopener noreferrer nofollow" target="_blank">Kahoot</a>
+<p>your Form Teacher</p>
+</li>
+<li>
+<p>school-based helpdesk at 6783 1191 ext. 244</p>
+</li>
+<li>
+<p>school-based helpdesk email <a href="mailto:helpdesk@gsps.edu.sg" rel="noopener nofollow" target="_blank">helpdesk@gsps.edu.sg</a>
 </p>
 </li>
 <li>
-<p><a href="https://problemsums.koobits.com/" rel="noopener noreferrer nofollow" target="_blank">KooBits</a>
-</p>
+<p>SLS Helpline
+<br>6702 6513 (Mon - Fri 9am - 9pm, Sat 9am - 3pm)</p>
 </li>
-<li>
-<p><a href="https://quizizz.com/" rel="noopener noreferrer nofollow" target="_blank">Quizizz</a>
-</p>
-</li>
-<li>
-<p><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">Student iCON</a>
-</p>
-</li>
-<li>
-<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">The Student Learning Space</a>
-</p>
-</li>
-<li>
-<p><a href="https://schoolibrary.moe.edu.sg/gongshangpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" rel="noopener noreferrer nofollow" target="_blank">School Library OPAC System</a>
-</p>
-</li>
-</ul>
+</ol>
 <p></p>
