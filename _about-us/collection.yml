@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Uniform.md
       - Gongshang Primary/.keep
       - Gongshang Primary/Profile.md
       - Gongshang Primary/History.md
