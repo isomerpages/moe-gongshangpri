@@ -54,8 +54,3 @@ Committee, Staff and Parents working together to achieve excellence.</p>
 <p></p>
 <p>The colour Red signifies enthusiasm, diligence and respect while yellow
 symbolizes honesty and brightness.</p>
-<h3>School Song</h3>
-<div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/School%20Song.png">
-</div>
-<p></p>
