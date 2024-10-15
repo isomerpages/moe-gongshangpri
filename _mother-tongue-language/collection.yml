@@ -2,7 +2,6 @@ collections:
   mother-tongue-language:
     output: true
     order:
-      - Mother Tongue Language.md
       - Reading Fiesta @ Gongshang.md
       - MTL Fortnight.md
       - Chinese Language Department/.keep
