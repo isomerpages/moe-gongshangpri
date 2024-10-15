@@ -1,6 +1,0 @@
-collections:
-  pe-and-aesthetics:
-    output: true
-    order:
-      - Physical Education/.keep
-      - Visual Arts/.keep
