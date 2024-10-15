@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Programmes/.keep
-      - National Education/Learning Journey.md
+      - National Education/Learning Journeys.md
       - National Education/.keep
