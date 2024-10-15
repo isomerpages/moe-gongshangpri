@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Vendors/School Bus Service.md
       - Vendors/Uniform.md
       - Vendors/Bookshop.md
       - Vendors/.keep
