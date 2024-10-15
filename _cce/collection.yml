@@ -1,5 +1,5 @@
 collections:
-  character-and-citizenship-edu:
+  cce:
     output: true
     order:
       - Character and Citizenship Education (CCE).md
