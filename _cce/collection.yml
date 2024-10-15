@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Programmes/.keep
-      - Programmes/Edusave Character Award.md
       - National Education/National Education.md
       - National Education/Total Defence Day.md
       - National Education/International Friendship Day.md
