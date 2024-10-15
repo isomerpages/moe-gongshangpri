@@ -3,5 +3,3 @@ collections:
     output: true
     order:
       - Home Based Learning/.keep
-      - Transfer In/.keep
-      - Transfer In/Waiting List.md
