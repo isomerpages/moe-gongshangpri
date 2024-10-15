@@ -27,7 +27,7 @@ third_nav_title: Gongshang Primary
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 uploads/ball.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024 uploads/ball.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -39,7 +39,7 @@ of an all-round education.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 uploads/banner.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024 uploads/banner.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -51,7 +51,7 @@ acquisition of knowledge for progress in life.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 uploads/triangle_tripartite.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024 uploads/triangle_tripartite.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -69,5 +69,5 @@ Committee, Staff and Parents working together to achieve excellence.</p>
 </tr>
 </tbody>
 </table>
-<p>The colour Red signifies enthusiasm, diligence and respect while yellow
-symbolizes honesty and brightness.</p>
+<p>The colour red signifies enthusiasm, diligence and respect while the colour
+yellow symbolizes honesty and brightness.</p>
