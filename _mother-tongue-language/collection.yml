@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Chinese Language Department/.keep
-      - Chinese Language Department/Programmes.md
+      - Chinese Language Department/Chinese Language.md
       - Chinese Language Department/Assessment.md
       - Chinese Language Department/Achievements.md
       - Malay Language Department/.keep
