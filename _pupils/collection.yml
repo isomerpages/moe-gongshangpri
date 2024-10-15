@@ -2,10 +2,10 @@ collections:
   pupils:
     output: true
     order:
-      - Education and Career Guidance.md
       - Discipline.md
       - Pastoral Care.md
       - Prefectorial Board.md
       - Peer Support Leaders.md
       - Student Leadership.md
+      - Education and Career Guidance.md
       - Online Learning Platforms.md
