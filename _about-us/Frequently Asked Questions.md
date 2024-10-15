@@ -19,26 +19,6 @@ description: ""
 <br>The school bookshop is open from 8.30am to 3.30pm (Except every Wed to
 2.30pm). Parents may come in after 2pm to make purchases for their child.</p>
 <p></p>
-<p><strong>5. Where can I buy school uniform for my child/ward?</strong>
-<br>You can buy the school uniform from the address below:
-<br>Chop Kong Chong
-<br>604 Sembawang Road
-<br>Sembawang Shopping Centre #02-13
-<br>Singapore 758459</p>
-<p><a href="https://www.euniforms.com.sg/shop/" rel="noopener noreferrer nofollow" target="_blank">https://www.euniforms.com.sg/shop/</a>
-</p>
-<h5><strong>ADMISSION</strong></h5>
-<p><strong>1. How do I register my child/ward for Primary One in Gongshang Primary School?</strong>
-</p>
-<p>The Primary One Registration Exercise is generally conducted from June
-to September every year. Parents should refer to the registration phases
-and procedures to find out which phase their children are eligible for,
-how to register and the documents required for registration posted on the
-MOE website.</p>
-<p>For more information on the Primary One Registration Exercise, please
-refer to the following website:
-<br><a href="https://www.moe.gov.sg/primary/p1-registration" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary/p1-registration</a>
-</p>
 <h5><strong>SCHOOL-HOME PARTNERSHIP</strong></h5>
 <p><strong>1. How can I communicate with my child/ward's teachers?</strong>
 </p>
@@ -67,33 +47,11 @@ be responsible for any loss or damage.</p>
 <p>You can go to the Useful Links/For Parents tab on our website. Please
 contact the school at gsps@moe.edu.sg for more information on signing up
 as a Parent Volunteer.</p>
-<h5><strong>FINANCE</strong></h5>
-<p><strong>Financial Assistance Scheme</strong>
-</p>
-<p>Please approach any of the General Office staff to find out more or you
-can click <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-find out more about it.</p>
+<p></p>
 <h5><strong>CAMPUS WORKS</strong></h5>
 <p><strong>PERI PLUS UPGRADING</strong>
 </p>
 <p>Please refer to this <a href="https://www.gongshangpri.moe.edu.sg/files/GSPS%20PERI%20Upgrading%20FAQ%20(dated%2013%20March%202020).pdf" rel="noopener noreferrer nofollow" target="_blank">FAQ</a> to
 find out more.</p>
-<h5><strong>ALUMNI</strong></h5>
-<p><strong>1. How can I join the Gongshang Primary Alumni?</strong>
-</p>
-<p>To apply to join the Gongshang Alumni, please contact any of the following
-via email:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="mailto:ada.lye@gsps.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Ada Lye</a>
-</p>
-</li>
-<li>
-<p><a href="mailto:teo.shaw.ping@gsps.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Teo Shaw Ping</a>
-</p>
-</li>
-</ul>
-<p>Information for Alumni may be found under Our GSPS Family/Alumni on the
-school website.</p>
-<p>You may also visit the Alumni Facebook page at&nbsp;<a href="https://www.facebook.com/gongshangprimaryalumni/" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/gongshangprimaryalumni/</a>
-</p>
+<h5></h5>
+<p></p>
