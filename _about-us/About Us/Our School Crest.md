@@ -2,10 +2,10 @@
 title: Our School Crest
 permalink: /our-gsps-family/our-school-crest-and-song/
 description: ""
-variant: markdown
+variant: tiptap
 third_nav_title: About Us
 ---
-<h3>School Crest</h3>
+<h3><strong>School Crest</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -51,6 +51,5 @@ Committee, Staff and Parents working together to achieve excellence.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p>The colour Red signifies enthusiasm, diligence and respect while yellow
 symbolizes honesty and brightness.</p>
