@@ -2,9 +2,9 @@ collections:
   pupils:
     output: true
     order:
-      - Student Leadership.md
       - Discipline.md
       - Pastoral Care.md
       - Prefectorial Board.md
       - Peer Support Leaders.md
+      - Student Leadership.md
       - Online Learning Platforms.md
