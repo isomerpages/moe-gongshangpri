@@ -2,7 +2,6 @@ collections:
   pe-and-aesthetics:
     output: true
     order:
-      - Physical Education & Aesthetics.md
       - Physical Education/.keep
       - Physical Education/Physical Education.md
       - Physical Education/Programmes.md
