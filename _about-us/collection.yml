@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - Vendors/School Bus Service.md
-      - Vendors/Uniform.md
-      - Vendors/Bookshop.md
       - Vendors/.keep
+      - Vendors/Bookshop.md
+      - Vendors/Uniform.md
+      - Vendors/School Bus Service.md
       - Gongshang Primary/.keep
       - Gongshang Primary/Profile.md
       - Gongshang Primary/History.md
