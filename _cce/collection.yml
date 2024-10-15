@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Programmes/.keep
-      - Programmes/Value In Action (VIA).md
       - Programmes/MOE Sexuality Education in schools.md
       - Programmes/MOE Edusave Character Award (ECHA).md
       - National Education/National Education.md
