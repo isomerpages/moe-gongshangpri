@@ -2,8 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - Music/.keep
-      - Visual Arts/.keep
       - Character and Citizenship Edu/.keep
       - English Language/.keep
       - English Language/English Language.md
@@ -26,6 +24,8 @@ collections:
       - Science/Achievements.md
       - Physical Education & Aesthetic/.keep
       - Physical Education & Aesthetic/Physical Education.md
+      - Visual Arts/.keep
+      - Music/.keep
       - Co Curricular Activities/.keep
       - Info and Communication Tech/.keep
       - Info and Communication Tech/Supporting a Holistic Education.md
