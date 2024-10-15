@@ -53,21 +53,25 @@ out more here: <a href="https://www.msf.gov.sg/what-we-do/comcare" rel="noopener
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 uploads/CDAC_Logo.png">
 </div>
+</td>
+<td rowspan="1" colspan="1">
 <p>The CDAC is a non-profit self-help group that offers programmes and assistance
 schemes to help the less privileged in the community maximise their potential
 and strive for social mobility through self-help and mutual support.</p>
 <p>Find about about their <a href="https://www.cdac.org.sg/family-assistance" rel="noopener nofollow" target="_blank">family assistance </a>and
 <a href="https://www.cdac.org.sg/student-bursary" rel="noopener nofollow" target="_blank">student bursary</a>.</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 uploads/mendakilogo.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2024 uploads/mendakilogo.png">
 </div>
+</td>
+<td rowspan="1" colspan="1">
 <p>Yayasan MENDAKI is a Self-Help Group and was set up in 1982 to uplift
 the academic performance of the Malay/Muslim community in Singapore through
 education and lifelong learning.</p>
@@ -76,14 +80,11 @@ education and lifelong learning.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2024 uploads/sindalogo.png">
 </div>
+</td>
+<td rowspan="1" colspan="1">
 <p>SINDA is a Self Help Group established in 1991 to uplift the socio-economic
 status of the Indian community in Singapore. It aims to raise the academic
 performance of Indian students and youth through tutorials, enrichment
@@ -91,10 +92,14 @@ and motivation. It also offers a wide range of services to support parents
 and help families in need.</p>
 <p>Find out about their <a href="https://www.sinda.org.sg/services/assistance/" rel="noopener nofollow" target="_blank">assistance programmes</a> here.</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/2024 uploads/ea_logo.png">
+<img style="width: 55%;" height="auto" width="100%" alt="" src="/images/2024 uploads/ea_logo.png">
 </div>
+</td>
+<td rowspan="1" colspan="1">
 <p>The Eurasian Association (EA) preserves and promotes awareness of Eurasian
 heritage in Singapore and supports the less fortunate through community
 initiatives.</p>
@@ -105,4 +110,5 @@ initiatives.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
