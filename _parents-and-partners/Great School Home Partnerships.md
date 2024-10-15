@@ -10,7 +10,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 uploads/guideschoolhome.png">
 </div>
 <p></p>
-<h4><strong>Great School-Home Partnerships</strong><br><strong>Raise a Happy, Confident, and Kind Generation Together</strong></h4>
+<h4><strong>Raising a Happy, Confident, and Kind Generation Together</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 uploads/guideschoolhomeelab.png">
