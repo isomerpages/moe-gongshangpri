@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Admission/P1 Registration.md
       - Admission/.keep
       - Gongshang Primary/.keep
       - Gongshang Primary/Profile.md
