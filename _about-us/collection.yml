@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Financial Assistance.md
       - Gongshang Primary/.keep
       - Gongshang Primary/Profile.md
       - Gongshang Primary/History.md
@@ -17,4 +16,5 @@ collections:
       - Admission/Returning Singaporeans.md
       - Admission/Transfers.md
       - Uniform.md
+      - Financial Assistance.md
       - Frequently Asked Questions.md
