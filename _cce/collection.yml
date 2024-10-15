@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Programmes/.keep
-      - Programmes/Pastoral Care.md
       - Programmes/Discipline.md
       - Programmes/Trips for International Experience (TIE).md
       - Programmes/Value In Action (VIA).md
