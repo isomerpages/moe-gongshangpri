@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - School Management Committee (SMC).md
-      - Parent Support Group/.keep
       - Alumni/.keep
