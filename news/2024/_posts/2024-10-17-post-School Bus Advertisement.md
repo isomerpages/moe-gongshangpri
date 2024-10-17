@@ -16,7 +16,8 @@ Procedure below.</p>
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
-<p></p>
+<p><a href="call_for_proposal.pdf" rel="noopener nofollow" target="_blank">Call for Proposal</a>
+</p>
 </li>
 </ol>
 <p>&nbsp;</p>
