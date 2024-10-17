@@ -34,69 +34,43 @@ Procedure below.</p>
 <p>&nbsp;</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Complete the <a href="call for proposal - annex_a.pdf" rel="noopener nofollow" target="_blank">Call for Proposal - Annex A</a> (Information
+<p>Complete the <a href="/files/call for proposal - annex_a.pdf" rel="noopener nofollow" target="_blank">Call for Proposal - Annex A</a> (Information
 Required from Vendor)</p>
 </li>
 </ol>
 <p>2. Submit the completed Call for Proposal - Annex A by closing date on
 28 October 2024 12.00 pm, to the School's General Office.</p>
 <p>&nbsp;</p>
-<p>* Photocopy of the NRIC (front and back)</p>
-<p>&nbsp;</p>
-<p>* List of proposed menu and pricing for all items</p>
-<p>&nbsp;</p>
-<p>* Photocopy of relevant certificates such as Basic Food Hygiene Course,
-etc</p>
-<p>&nbsp;</p>
-<p>3\. Submit the completed application form and documents by closing date
-via email OR to the School's General Office.</p>
-<p>&nbsp;</p>
-<p>* Address: 1 Tampines Street 42, Singapore 529176</p>
-<p>&nbsp;</p>
-<p>* Contact No: +65 6783 1191</p>
-<p>&nbsp;</p>
-<p>* Email: <a rel="noopener noreferrer nofollow" target="_blank">gsps@moe.edu.sg</a>
+<ul data-tight="true" class="tight">
+<li>
+<p>Address: 1 Tampines Street 42, Singapore 529176</p>
+</li>
+<li>
+<p>Contact Number: 67831191</p>
+</li>
+<li>
+<p>Email: <a href="mailto:gsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gsps@moe.edu.sg</a>
 </p>
-<p>&nbsp;</p>
-<p>* Contact Person: Mr. Danial</p>
+</li>
+<li>
+<p>Contact Person: Mr Eric Tham</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 <p><strong>How to get there?</strong>
 </p>
 <p>&nbsp;</p>
-<p>* Nearest MRT: Tampines MRT (EW2) – 9 minutes walking distance from Exit
-B</p>
-<p>&nbsp;</p>
-<p>* Bus number: 4, 8, 18, 19, 21, 37, 38 and 81 - 3 minutes walking distance
+<ul data-tight="true" class="tight">
+<li>
+<p>Nearest MRT (EWL) Station: Tampines MRT (EW2) – 13 minutes walk</p>
+</li>
+<li>
+<p>Nearest MRT (DTL) Station: Tampines East MRT (DT33) – 9 minutes walk</p>
+</li>
+<li>
+<p>Nearest Bus Stop: Bus 4, 8, 18, 19, 21, 37, 38 and 81 - 3 minutes walk
 from bus stop 76201</p>
-<p>&nbsp;</p>
-<p><strong>Interest applicants must meet the following criteria:</strong>
-</p>
-<p>&nbsp;</p>
-<p>* Singapore citizen or Singapore Permanent Resident (SPR) for stallholder
-and stall assistant.</p>
-<p>&nbsp;</p>
-<p>* Able to provide good service and quality food with prices determined
-in consultation with the school.</p>
-<p>&nbsp;</p>
-<p>* Able to provide cooked food that meets the health / nutritional standards
-set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools
-Programme (HMSP)" guidelines (see link) <a rel="noopener noreferrer nofollow" target="_blank">https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme</a>.</p>
-<p>&nbsp;</p>
-<p>* Able to maintain high standard of food safety and personal hygiene.</p>
-<p>&nbsp;</p>
-<p>* Healthy and fit to operate the stall.</p>
-<p>&nbsp;</p>
-<p><strong>Applicants should preferably fulfil the following criteria:</strong>
-</p>
-<p>&nbsp;</p>
-<p>* Successful applicant and stall assistant(s) must possess the WSQ Basic
-Food Hygiene Certificate.</p>
-<p>&nbsp;</p>
-<p>* Possess catering experience or experience operating in a school environment.</p>
-<p>&nbsp;</p>
-<p>* Successful applicant is required to apply for a food stall license from
-Singapore Food Agency (SFA).</p>
-<p>&nbsp;</p>
-<p>Only shortlisted applicants will be notified for an interview and will
-be required to provide food sampling for the School Canteen Selection Committee
-at the applicant's own expense.</p>
+<p></p>
+</li>
+</ul>
+<p></p>
