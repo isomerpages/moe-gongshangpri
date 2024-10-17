@@ -117,7 +117,7 @@ its roots.</p>
 till 2001. The school operated out of Tampines Primary School as a holding
 site until 1987 when the current premises at Tampines Street 42 was completed.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ1VDVC3yG_sJF5CmPxEYBJdAfLnqIyUL3Hr90urJyDfujnD-Gxk6WUtti3xCU3fziZNcrdl7WiN-9x/embed?start=false&amp;loop=true&amp;delayms=5000&amp;slide=id.g22b85a714a8_0_16"></iframe>
+<iframe height="569" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ1VDVC3yG_sJF5CmPxEYBJdAfLnqIyUL3Hr90urJyDfujnD-Gxk6WUtti3xCU3fziZNcrdl7WiN-9x/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <p>Gongshang Primary School was was officially declared open by the late
 Dr Tay Eng Soon, former Senior Minister of State for Education, in 1989.
