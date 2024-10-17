@@ -34,13 +34,12 @@ Procedure below.</p>
 <p>&nbsp;</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Complete the</p>
+<p>Complete the <a href="call for proposal - annex_a.pdf" rel="noopener nofollow" target="_blank">Call for Proposal - Annex A</a> (Information
+Required from Vendor)</p>
 </li>
 </ol>
-<p>&nbsp;</p>
-<p>[Application Form](/files/school%20canteen%20application%20form.pdf)</p>
-<p>&nbsp;</p>
-<p>2\. Attached the following documents together with the application form:</p>
+<p>2. Submit the completed Call for Proposal - Annex A by closing date on
+28 October 2024 12.00 pm, to the School's General Office.</p>
 <p>&nbsp;</p>
 <p>* Photocopy of the NRIC (front and back)</p>
 <p>&nbsp;</p>
