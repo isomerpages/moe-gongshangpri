@@ -19,6 +19,10 @@ Procedure below.</p>
 <p><a href="call_for_proposal.pdf" rel="noopener nofollow" target="_blank">Call for Proposal</a>
 </p>
 </li>
+<li>
+<p><a href="" rel="noopener nofollow" target="_blank">Terms and Conditions for School Bus Operator to Provide School Bus Services</a>
+</p>
+</li>
 </ol>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
