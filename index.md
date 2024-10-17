@@ -16,10 +16,10 @@ sections:
           url: /news/
         - title: Pupils
           description: access learning platforms
-          url: /pupils
+          url: pupils/online-learning-platforms/
         - title: Parents
           description: find useful info
-          url: /general-info/
+          url: partnership/school-home-partnership/
   - resources:
       title: Latest Updates
       id: resources
