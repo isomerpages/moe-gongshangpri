@@ -9,17 +9,17 @@ sections:
   - hero:
       background: /images/2024 uploads/Website_Hero_Photo2.jpg
       url: /contact-us/
+      variant: center
       key_highlights:
         - title: News
-          description: See latest updates
+          description: see latest updates
           url: /news/
-        - title: For Pupils
-          description: Access online platforms
-          url: /useful-links/for-pupils/
-        - title: For parents
-          description: Find useful info
-          url: /useful-links/for-parents/
-      variant: center
+        - title: Pupils
+          description: access learning platforms
+          url: /pupils
+        - title: Parents
+          description: find useful info
+          url: /general-info/
   - resources:
       title: Latest Updates
       id: resources

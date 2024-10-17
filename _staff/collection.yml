@@ -1,0 +1,10 @@
+collections:
+  staff:
+    output: true
+    order:
+      - School Management Committee.md
+      - Teacher Leaders.md
+      - Form Teachers.md
+      - Teaching & Non Teaching Staff.md
+      - Professional Development.md
+      - Staff Well Being.md

@@ -1,8 +1,0 @@
-collections:
-  for-pupils:
-    output: true
-    order:
-      - All Ears login.md
-      - The Singapore Student Learning Space.md
-      - Student iCON.md
-      - Learning Platforms.md

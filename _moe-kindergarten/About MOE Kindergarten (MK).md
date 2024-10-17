@@ -15,7 +15,11 @@ variant: tiptap
 <p>To provide quality pre-school education that is affordable to Singaporeans
 and catalyse quality improvements in the sector.</p>
 <h4><strong>MK Programme &amp; Operating Hours</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -54,7 +58,12 @@ and catalyse quality improvements in the sector.</p>
 <p>If tyou require a full-day service, you can register for Kindergarten
 Care(KCare), which is offered at all MKs. Your child will be in KCare before
 and after the MK session within the same premises.</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -98,7 +107,11 @@ and depends on the number of applicants and vacancies at the school during
 the P1 Registration Exercise.</p>
 <p></p>
 <h4><strong>MK@Gongshang collaborates with the following Early Years Centre(EYC):</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -126,58 +139,5 @@ the P1 Registration Exercise.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>For further information please contact us at:</strong></h4>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Phone</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>(65) 6783 1191</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Fax</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>(65) 6788 0004</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Email</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:mk_gongshang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mk_gongshang@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Address</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 Tampines Street 42, Singapore 529176</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
+<h4></h4>
 <p></p>
