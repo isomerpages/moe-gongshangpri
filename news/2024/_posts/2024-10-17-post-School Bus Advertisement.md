@@ -8,12 +8,9 @@ image: ""
 variant: tiptap
 ---
 <h3><strong>School Bus Advertisement</strong></h3>
-<p></p>
 <p>To apply, please refer to the Service Requirements and the Application
 Procedure below.</p>
-<p></p>
 <p>Service Requirements</p>
-<p></p>
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="/files/call_for_proposal.pdf" rel="noopener nofollow" target="_blank">Call for Proposal</a>
@@ -29,48 +26,129 @@ Procedure below.</p>
 </li>
 </ol>
 <p>&nbsp;</p>
-<p><strong>Application Procedure</strong>
-</p>
-<p>&nbsp;</p>
+<h3><strong>Application Procedure</strong></h3>
 <ol data-tight="true" class="tight">
 <li>
 <p>Complete the <a href="/files/call for proposal - annex_a.pdf" rel="noopener nofollow" target="_blank">Call for Proposal - Annex A</a> (Information
 Required from Vendor)</p>
 </li>
+<li>
+<p>Submit the completed Call for Proposal - Annex A by closing date on 28
+October 2024 12.00 noon, to the School's General Office.</p>
+</li>
 </ol>
-<p>2. Submit the completed Call for Proposal - Annex A by closing date on
-28 October 2024 12.00 pm, to the School's General Office.</p>
 <p>&nbsp;</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Address: 1 Tampines Street 42, Singapore 529176</p>
-</li>
-<li>
-<p>Contact Number: 67831191</p>
-</li>
-<li>
-<p>Email: <a href="mailto:gsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gsps@moe.edu.sg</a>
-</p>
-</li>
-<li>
-<p>Contact Person: Mr Eric Tham</p>
-</li>
-</ul>
-<p>&nbsp;</p>
-<p><strong>How to get there?</strong>
-</p>
-<p>&nbsp;</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Nearest MRT (EWL) Station: Tampines MRT (EW2) – 13 minutes walk</p>
-</li>
-<li>
-<p>Nearest MRT (DTL) Station: Tampines East MRT (DT33) – 9 minutes walk</p>
-</li>
-<li>
-<p>Nearest Bus Stop: Bus 4, 8, 18, 19, 21, 37, 38 and 81 - 3 minutes walk
-from bus stop 76201</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
-</li>
-</ul>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Address</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Tampines Street 42
+<br>Singapore 529176</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Contact Number</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6783 1191</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Email</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:gsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gsps@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Contact Person</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Eric Tham</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h3><strong>How to get there?</strong></h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nearest MRT (EWL) Station</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tampines MRT (EW2)
+<br>13 minutes walk</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nearest MRT (DTL) Station</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tampines East MRT (DT33)
+<br>9 minutes walk</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nearest Bus Stop</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bus Stop 76201
+<br>3 minutes walk
+<br>Bus Services 4, 8, 18, 19, 21, 37, 38 and 81</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>
