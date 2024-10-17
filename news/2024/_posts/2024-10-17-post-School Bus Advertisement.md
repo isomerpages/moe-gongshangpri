@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>School Bus Advertisement</p>
+<h3><strong>School Bus Advertisement</strong></h3>
 <p></p>
 <p>To apply, please refer to the Service Requirements and the Application
 Procedure below.</p>
@@ -16,25 +16,27 @@ Procedure below.</p>
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="call_for_proposal.pdf" rel="noopener nofollow" target="_blank">Call for Proposal</a>
+<p><a href="/files/call_for_proposal.pdf" rel="noopener nofollow" target="_blank">Call for Proposal</a>
 </p>
 </li>
 <li>
-<p><a href="terms and conditions_for_school_bus_operator_to_provide_school_bus_services.pdf" rel="noopener nofollow" target="_blank">Terms and Conditions for School Bus Operator to Provide School Bus Services</a>
+<p><a href="/files/terms and conditions_for_school_bus_operator_to_provide_school_bus_services.pdf" rel="noopener nofollow" target="_blank">Terms and Conditions for School Bus Operator to Provide School Bus Services</a>
 </p>
 </li>
 <li>
-<p></p>
+<p><a href="/files/request_for_school_bus_service.pdf" rel="noopener nofollow" target="_blank">Request for School Bus Services</a>
+</p>
 </li>
 </ol>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p><strong>Application Procedure</strong>
 </p>
 <p>&nbsp;</p>
-<p>1\. Download and complete the application form. You may also request for
-a hardcopy from the School’s General Office.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Complete the</p>
+</li>
+</ol>
 <p>&nbsp;</p>
 <p>[Application Form](/files/school%20canteen%20application%20form.pdf)</p>
 <p>&nbsp;</p>
