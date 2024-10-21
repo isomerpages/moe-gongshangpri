@@ -100,8 +100,9 @@ sharing of experience working in science-related industries. Through working
 in groups, pupils also hone up their communication skills and learn to
 work with others. Together, they develop and strengthen their abilities
 to study phenomena and their possible causes.</p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -119,20 +120,12 @@ to study phenomena and their possible causes.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/picture26.jpg">
 </div>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/picture24.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/picture22.jpg">
-</div>
-</td>
+</th>
 </tr>
 </tbody>
 </table>
