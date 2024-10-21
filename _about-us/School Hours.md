@@ -1,6 +1,6 @@
 ---
 title: School Hours
-permalink: /school-hours/
+permalink: /about-us/school-hours/
 variant: tiptap
 description: ""
 ---

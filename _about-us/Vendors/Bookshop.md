@@ -1,6 +1,6 @@
 ---
 title: Bookshop
-permalink: /bookshop/
+permalink: /about-us/bookshop/
 variant: tiptap
 description: ""
 third_nav_title: Vendors

@@ -1,6 +1,6 @@
 ---
 title: School Song
-permalink: /about-us/school-song/
+permalink: /about-us/song/
 variant: tiptap
 description: ""
 third_nav_title: Gongshang Primary

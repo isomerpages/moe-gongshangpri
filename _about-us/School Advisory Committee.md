@@ -1,6 +1,6 @@
 ---
 title: School Advisory Committee
-permalink: /sac/
+permalink: /about-us/sac/
 description: ""
 variant: tiptap
 ---

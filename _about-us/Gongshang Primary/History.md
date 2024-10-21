@@ -1,6 +1,6 @@
 ---
 title: History
-permalink: /about-us/our-history/
+permalink: /about-us/history/
 description: ""
 variant: tiptap
 third_nav_title: Gongshang Primary

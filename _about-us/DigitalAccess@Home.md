@@ -1,6 +1,6 @@
 ---
 title: DigitalAccess@Home
-permalink: /digital-access/
+permalink: /about-us/digital-access/
 variant: tiptap
 description: ""
 ---

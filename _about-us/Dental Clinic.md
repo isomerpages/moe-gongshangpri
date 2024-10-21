@@ -1,6 +1,6 @@
 ---
 title: Dental Clinic
-permalink: /dental-clinic/
+permalink: /about-us/dental-clinic/
 variant: tiptap
 description: ""
 ---

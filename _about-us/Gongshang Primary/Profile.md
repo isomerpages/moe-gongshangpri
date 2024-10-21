@@ -1,6 +1,6 @@
 ---
 title: Profile
-permalink: /about-us/
+permalink: /about-us/profile/
 variant: tiptap
 description: ""
 third_nav_title: Gongshang Primary

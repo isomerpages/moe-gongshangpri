@@ -1,6 +1,6 @@
 ---
 title: School Crest
-permalink: /about-us/our-school-crest-and-song/
+permalink: /about-us/crest/
 description: ""
 variant: tiptap
 third_nav_title: Gongshang Primary
