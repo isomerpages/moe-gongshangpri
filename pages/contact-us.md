@@ -18,11 +18,6 @@ contacts:
       - other: ""
     title: Telephone
   - content:
-      - phone: +65 6788 0004
-      - email: ""
-      - other: ""
-    title: Fax
-  - content:
       - phone: ""
       - email: gsps@moe.edu.sg
       - other: ""
