@@ -64,9 +64,85 @@ of their knowledge in situations that stretch beyond the curriculum, we
 hope to imbue in them a sense of curiosity and develop their critical thinking
 skills.</p>
 <p>P6 – Making a Catapult</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/1729472927161.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/IMG20241010093602_.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/1729472927189.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p>3) E2K</p>
+<p>The E2K Science Programme offers opportunities for pupils to engage in
+scientific investigations involving advanced science concepts. It allows
+pupils to engage in scientific inquiry that enables them to develop the
+habits, attitudes and dispositions a scientist possess. The rich learning
+experiences offered by the programme aims to imbue important 21st century
+competencies such as critical thinking, invention thinking and effective
+communication skills. From 2021, we have worked with scientists from various
+fields to expose pupils to real-life applications of science concepts and
+sharing of experience working in science-related industries. Through working
+in groups, pupils also hone up their communication skills and learn to
+work with others. Together, they develop and strengthen their abilities
+to study phenomena and their possible causes.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/picture23.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/picture26.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/picture24.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/picture22.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
 <p></p>
