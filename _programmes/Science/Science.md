@@ -74,13 +74,13 @@ skills.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/IMG20241010093602_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/1729472927189.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/1729472927189.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/IMG20241010093602_.jpg">
 </div>
 </th>
 </tr>
