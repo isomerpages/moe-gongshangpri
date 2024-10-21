@@ -2,7 +2,7 @@
 title: Handbells and Handchimes Ensemble
 permalink: /our-gsps-experience/cca/visual-and-performing-arts/handbells-and-handchimes-ensemble/
 description: ""
-third_nav_title: Visual and Performing Arts
+third_nav_title: Performing Arts
 variant: tiptap
 ---
 <h3><strong>Handbells and Handchimes Ensemble</strong></h3>

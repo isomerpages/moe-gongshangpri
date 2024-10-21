@@ -2,7 +2,7 @@
 title: Modern Dance
 permalink: /cca/performing-arts/modern-dance/
 description: ""
-third_nav_title: Visual and Performing Arts
+third_nav_title: Performing Arts
 variant: tiptap
 ---
 <h3><strong>Modern Dance</strong></h3>

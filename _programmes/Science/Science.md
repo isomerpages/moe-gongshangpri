@@ -20,8 +20,9 @@ mix. The Plant Journal contains simple instructions to teach the pupils
 how to grow and care for their plants. It also has simple activity sheets
 which the pupils can do. They can also share their plant stories with their
 classmates.</p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -39,20 +40,12 @@ classmates.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/picture2.jpg">
 </div>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/picture3.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/picture4.jpg">
 </div>
-</td>
+</th>
 </tr>
 </tbody>
 </table>
@@ -81,13 +74,13 @@ skills.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/IMG20241010093602_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/1729472927189.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/1729472927189.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/IMG20241010093602_.jpg">
 </div>
 </th>
 </tr>
@@ -107,8 +100,9 @@ sharing of experience working in science-related industries. Through working
 in groups, pupils also hone up their communication skills and learn to
 work with others. Together, they develop and strengthen their abilities
 to study phenomena and their possible causes.</p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -117,7 +111,7 @@ to study phenomena and their possible causes.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/picture23.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Science/picture23.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -126,20 +120,12 @@ to study phenomena and their possible causes.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/picture26.jpg">
 </div>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/picture24.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/picture22.jpg">
-</div>
-</td>
+</th>
 </tr>
 </tbody>
 </table>

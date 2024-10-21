@@ -2,7 +2,7 @@
 title: Speech and Drama
 permalink: /cca/performing-arts/speech-and-drama/
 description: ""
-third_nav_title: Visual and Performing Arts
+third_nav_title: Performing Arts
 variant: tiptap
 ---
 <h3><strong>Speech and Drama</strong></h3>

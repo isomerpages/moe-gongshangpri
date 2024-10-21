@@ -2,7 +2,7 @@
 title: String Ensemble
 permalink: /cca/performing-arts/string-ensemble/
 description: ""
-third_nav_title: Visual and Performing Arts
+third_nav_title: Performing Arts
 variant: tiptap
 ---
 <h3><strong>String Ensemble</strong></h3>
