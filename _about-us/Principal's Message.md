@@ -31,7 +31,7 @@ Community,</p>
 <p></p>
 <p>Founded in 1920 by Mr Shi Su and originally known as ‘The Chinese Industrial
 and Commercial Continuation School’, Gongshang Primary School is an institution
-deeply rooted in history and committed to nurturing <strong><em>active learners, confident leaders, and gracious citizens.</em></strong> 
+deeply rooted in history and committed to nurturing <strong><em>active learners, confident leaders, and gracious citizens.</em></strong>
 </p>
 </td>
 </tr>
