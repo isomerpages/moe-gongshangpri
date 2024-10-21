@@ -20,8 +20,9 @@ mix. The Plant Journal contains simple instructions to teach the pupils
 how to grow and care for their plants. It also has simple activity sheets
 which the pupils can do. They can also share their plant stories with their
 classmates.</p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -39,20 +40,12 @@ classmates.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/picture2.jpg">
 </div>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/picture3.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/picture4.jpg">
 </div>
-</td>
+</th>
 </tr>
 </tbody>
 </table>
