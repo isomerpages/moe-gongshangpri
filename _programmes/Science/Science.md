@@ -57,6 +57,15 @@ classmates.</p>
 </tbody>
 </table>
 <p></p>
+<p>2) Science Week</p>
+<p>The Science week activities aim to engage pupils in hands-on activities
+related to the curriculum that they have learnt. Through the application
+of their knowledge in situations that stretch beyond the curriculum, we
+hope to imbue in them a sense of curiosity and develop their critical thinking
+skills.</p>
+<p>P6 – Making a Catapult</p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
