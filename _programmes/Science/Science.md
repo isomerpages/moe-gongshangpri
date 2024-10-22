@@ -86,6 +86,36 @@ skills.</p>
 </tr>
 </tbody>
 </table>
+<p>P4 – Keeping it cold</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/IMG_20240624_131529.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/IMG_20240624_131447.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/IMG_5291.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p>3) E2K</p>
 <p>The E2K Science Programme offers opportunities for pupils to engage in
