@@ -11,7 +11,11 @@ variant: tiptap
 with skills and competencies as active learner and critical thinkers to
 contribute in the 21st century.</p>
 <h4><strong>Key Programmes</strong></h4>
-<p>1) Every Child a Seed</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Every Child a Seed</p>
+</li>
+</ul>
 <p>We seek to share with your child that Singapore’s greenery is a result
 of every Singaporean’s dedicated effort and that they too, can play a part
 in maintaining our City in a Garden. Each Primary 3 pupil will receive
@@ -49,13 +53,106 @@ classmates.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p>2) Science Week</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Science Week</p>
+</li>
+</ul>
 <p>The Science week activities aim to engage pupils in hands-on activities
 related to the curriculum that they have learnt. Through the application
 of their knowledge in situations that stretch beyond the curriculum, we
 hope to imbue in them a sense of curiosity and develop their critical thinking
 skills.</p>
+<p>P3 – Keeping it cold</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/IMG_20240624_131529.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/IMG_20240624_131447.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/IMG_5291.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p>P4 – What's in the hull?</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/20240627_080946.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/20240627_082746.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/20240627_082746.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p>P5 – Paper Circuits</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Science/20240626_161217.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/20240628_100234.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/20240628_100034.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p>P6 – Making a Catapult</p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -86,8 +183,11 @@ skills.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p>3) E2K</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>E2K</p>
+</li>
+</ul>
 <p>The E2K Science Programme offers opportunities for pupils to engage in
 scientific investigations involving advanced science concepts. It allows
 pupils to engage in scientific inquiry that enables them to develop the
@@ -129,6 +229,8 @@ to study phenomena and their possible causes.</p>
 </tr>
 </tbody>
 </table>
+<h4></h4>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
