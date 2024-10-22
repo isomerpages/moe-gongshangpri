@@ -11,7 +11,11 @@ variant: tiptap
 with skills and competencies as active learner and critical thinkers to
 contribute in the 21st century.</p>
 <h4><strong>Key Programmes</strong></h4>
-<p>1) Every Child a Seed</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Every Child a Seed</p>
+</li>
+</ul>
 <p>We seek to share with your child that Singapore’s greenery is a result
 of every Singaporean’s dedicated effort and that they too, can play a part
 in maintaining our City in a Garden. Each Primary 3 pupil will receive
@@ -49,8 +53,11 @@ classmates.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p>2) Science Week</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Science Week</p>
+</li>
+</ul>
 <p>The Science week activities aim to engage pupils in hands-on activities
 related to the curriculum that they have learnt. Through the application
 of their knowledge in situations that stretch beyond the curriculum, we
@@ -176,8 +183,11 @@ skills.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p>3) E2K</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>E2K</p>
+</li>
+</ul>
 <p>The E2K Science Programme offers opportunities for pupils to engage in
 scientific investigations involving advanced science concepts. It allows
 pupils to engage in scientific inquiry that enables them to develop the
@@ -219,10 +229,7 @@ to study phenomena and their possible causes.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Assessment</strong></h4>
-<p>Please click <a href="https://www.gongshangpri.moe.edu.sg/files/sci%20assessment.pdf" rel="noopener nofollow" target="_blank">here</a> for
-Science assessment format</p>
-<h4><strong>Achievements</strong></h4>
+<h4></h4>
 <p></p>
 <p></p>
 <p></p>
