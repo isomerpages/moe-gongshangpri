@@ -132,7 +132,7 @@ to study phenomena and their possible causes.</p>
 <h4><strong>Assessment</strong></h4>
 <p>Please click <a href="https://www.gongshangpri.moe.edu.sg/files/sci%20assessment.pdf" rel="noopener nofollow" target="_blank">here</a> for
 Science assessment format</p>
-<h4><strong>Acheivement</strong></h4>
+<h4><strong>Acheivements</strong></h4>
 <p></p>
 <p></p>
 <p></p>
