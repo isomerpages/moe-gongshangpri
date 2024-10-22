@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h3><strong>Invitation to attend MoneySense for Your Child </strong></h3>
+<h3><strong>Invitation to attend MoneySense for Your Child (for parents only)</strong></h3>
 <p>Join Institute for Financial Literacy (IFL) in the “Ask-Me-Anything” Facebook
 Live session, complimentary workshops and talks to learn the importance
 of inculcating good financial habits from young.</p>
