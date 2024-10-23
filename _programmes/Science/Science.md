@@ -216,7 +216,7 @@ CCA.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/WhatsApp_Image_2024_09_03_at_11_36_10_AM__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/1729674225276.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
