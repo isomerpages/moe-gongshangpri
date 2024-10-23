@@ -187,21 +187,18 @@ skills.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>E2K</p>
+<p>Earth Day</p>
 </li>
 </ul>
-<p>The E2K Science Programme offers opportunities for pupils to engage in
-scientific investigations involving advanced science concepts. It allows
-pupils to engage in scientific inquiry that enables them to develop the
-habits, attitudes and dispositions a scientist possess. The rich learning
-experiences offered by the programme aims to imbue important 21st century
-competencies such as critical thinking, invention thinking and effective
-communication skills. From 2021, we have worked with scientists from various
-fields to expose pupils to real-life applications of science concepts and
-sharing of experience working in science-related industries. Through working
-in groups, pupils also hone up their communication skills and learn to
-work with others. Together, they develop and strengthen their abilities
-to study phenomena and their possible causes.</p>
+<p>As part of the school's Earth Day commemoration event, we want to educate
+pupils about taking “Earthly” actions. Each of us play a small part, but
+together we can make a big difference to restore nature and build a healthy
+planet Earth for our children and their children. There is a wide variety
+of activities organized for pupils to participate in every year. For instance,
+the E-waste disposal programme in partnership with ALBA Recycling Company,
+Recycled Artwork Display by the Art Department, Green Issues Showcase by
+the Environmental Science Club and Save the Pens project by the Scouts
+CCA.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
