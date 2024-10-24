@@ -53,6 +53,7 @@ classmates.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Science Week</p>
@@ -117,7 +118,7 @@ skills.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/20240627_082746.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/20240627_082835.jpg">
 </div>
 </th>
 </tr>
@@ -183,23 +184,21 @@ skills.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>E2K</p>
+<p>Earth Day</p>
 </li>
 </ul>
-<p>The E2K Science Programme offers opportunities for pupils to engage in
-scientific investigations involving advanced science concepts. It allows
-pupils to engage in scientific inquiry that enables them to develop the
-habits, attitudes and dispositions a scientist possess. The rich learning
-experiences offered by the programme aims to imbue important 21st century
-competencies such as critical thinking, invention thinking and effective
-communication skills. From 2021, we have worked with scientists from various
-fields to expose pupils to real-life applications of science concepts and
-sharing of experience working in science-related industries. Through working
-in groups, pupils also hone up their communication skills and learn to
-work with others. Together, they develop and strengthen their abilities
-to study phenomena and their possible causes.</p>
+<p>As part of the school's Earth Day commemoration event, we want to educate
+pupils about taking “Earthly” actions. Each of us play a small part, but
+together we can make a big difference to restore nature and build a healthy
+planet Earth for our children and their children. There is a wide variety
+of activities organized for pupils to participate in every year. For instance,
+the E-waste disposal programme in partnership with ALBA Recycling Company,
+Recycled Artwork Display by the Art Department, Green Issues Showcase by
+the Environmental Science Club and Save the Pens project by the Scouts
+CCA.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -211,19 +210,19 @@ to study phenomena and their possible causes.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Science/picture23.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/1729062121324.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/picture26.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/1729674225276.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/picture24.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/1729673717901.jpg">
 </div>
 </th>
 </tr>

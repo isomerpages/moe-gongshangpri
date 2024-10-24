@@ -15,31 +15,26 @@ variant: tiptap
 provide a holistic education for the pupils.</p>
 </li>
 <li>
-<p>Your support in the programmes and activities organised by the school
+<p>Your support in the programmes and activities organized by the school
 is greatly encouraged and appreciated.</p>
 </li>
 <li>
-<p>You are advised to put on your PSG passes at all times when you are in
-the school premises for official duties as a member.</p>
-</li>
-<li>
 <p>Please take note of the dates, time and meeting places for your area of
-involvement and turn up punctually for them.&nbsp;</p>
-</li>
-<li>
-<p>If, for any reason, you are unable to turn up for your duty, please inform
-the PSG committee member IC or the teacher IC of that activity/programme
-so that a replacement can be made for you.&nbsp;<strong>Your absence may mean the inadvertent cancellation of excursions, for instance, as a ratio of 1 adult to 20 students is needed. We really seek your co-operation in this.</strong>
-</p>
+involvement and turn up punctually for them. If, for any reason, you are
+unable to turn up for your duty, please inform the PSG committee member
+IC or the teacher IC of that activity/programme so that a replacement can
+be made for you.</p>
 </li>
 <li>
 <p>Your role and responsibility in the area(s) you are involved in will be
 given to you by the HOD or teacher IC. Please do not hesitate to approach
-them if you have any doubts or queries.&nbsp;</p>
+them if you have any doubts or queries.</p>
 </li>
 <li>
 <p>Your ideas and suggestions are valuable to the school, so please channel
-them to the PSG committee members, PSG teachers or the Principal and Vice-Principal.&nbsp;</p>
+them to the PSG committee members, PSG teachers or the Principal and Vice-Principal.
+Do send in your suggestions to <a href="mailto:gsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gsps@moe.edu.sg</a>
+</p>
 </li>
 <li>
 <p>You can help maintain the positive climate of participation by working

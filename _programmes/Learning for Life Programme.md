@@ -1,6 +1,6 @@
 ---
 title: Learning for Life Programme
-permalink: /programmes/alp/
+permalink: /programmes/llp/
 description: ""
 variant: tiptap
 ---
