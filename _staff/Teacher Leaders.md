@@ -81,7 +81,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Senior Teacher (Social Studies)</strong>
+<p><strong>Senior Teacher (Social Studies) (Acting)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -91,7 +91,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Senior Teacher (Art)</strong>
+<p><strong>Senior Teacher (Art) (Acting)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
