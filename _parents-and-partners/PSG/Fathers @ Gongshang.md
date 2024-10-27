@@ -47,11 +47,9 @@ their services! Do contact us via <a href="mailto:gsps.psg@gmail.com" rel="noope
 </tr>
 </tbody>
 </table>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 uploads/Picture4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 uploads/IMG_20241027_WA0000.jpg">
 </div>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
