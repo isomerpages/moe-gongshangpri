@@ -18,44 +18,17 @@ is eligible to sign up for our activities.</p>
 their services! Do contact us via <a href="mailto:gsps.psg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">gsps.psg@gmail.com</a>
 </p>
 <p></p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 uploads/Picture1.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2025 uploads/Picture1.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 uploads/Picture2.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 uploads/Picture3.jpg">
 </div>
-</th>
-</tr>
-</tbody>
-</table>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 uploads/IMG_20241027_WA0000.jpg">
 </div>
-<p></p>
-<p></p>
-<p></p>
-<p><u>&nbsp;</u>
-</p>
-<p></p>
 <p></p>
 <p>&nbsp;</p>
 <p></p>
