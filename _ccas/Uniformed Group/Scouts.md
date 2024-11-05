@@ -5,35 +5,39 @@ description: ""
 third_nav_title: Uniformed Group
 variant: tiptap
 ---
-<h3><strong>Scouts</strong></h3>
-<p>Our GSPS Otter Unit flag</p>
+<h2><strong>Scouts</strong></h2>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Otter_Unit_Flag.jpg">
 </div>
-<p><strong>Objectives of CCA:</strong>
+<p><em>Our GSPS Otter Unit flag</em>
 </p>
+<h3><strong>Our Structure</strong></h3>
 <p>A Cub Scout Group (also known as a Cub Pack) gathers weekly or fortnightly
-and is divided into groups called Sixes and led by a Sixer. A Sixer is
-a Cub of good standing who carries out tasks that have been set by their
-Akela (Cub Scout Leader). Cubs learn to manage themselves and take care
-of their peers.Activities are typically carried out in Sixes. This encourages
-Cubs to take ownership of themselves and grow through peer-led learning.
-Pack meetings are opportunities for adventures, learning life skills, hikes,
-outdoor cooking, camps, games, shelter-building, knotting, craftwork, and
-other Scouting skills – all while making new friends.</p>
-<p><strong>Games</strong> – Games are part of every pack meeting (CCA session)
-&amp; are typically carried out in Sixes. This provide opportunities for
-every Cub to contribute &amp; grow together with their Six.</p>
-<p><strong>Adventures</strong> – Cubs are not sit-down creatures; they are
-active go-getters! They are at an age where they are adventurous &amp;
-excitable. They easily pick up new skills &amp; push their own boundaries.
-Cub Scout activities build onto these, &amp; one will find that Cubs are
-naturally inspired, curious &amp; raring to go!</p>
-<p><strong>Community &amp; Environmental Involvement</strong> – Cubs learn
-about the environment &amp; regularly participate in meaningful projects
-to improve their surroundings. They are helpers in their homes &amp; communities.
-The Scout Law &amp; Promise guides them to do their best to be of service
-to others.</p>
+and is divided into groups called Sixes and led by a Sixer.</p>
+<p>A Sixer is a Cub of good standing who carries out tasks that have been
+set by their Akela (Cub Scout Leader). Cubs learn to manage themselves
+and take care of their peers. Activities are typically carried out in Sixes.
+This encourages Cubs to take ownership of themselves and grow through peer-led
+learning.</p>
+<p>Pack meetings are opportunities for adventures, learning life skills,
+hikes, outdoor cooking, camps, games, shelter-building, knotting, craftwork,
+and other Scouting skills – all while making new friends.</p>
+<h3><strong>Games</strong></h3>
+<p>Games are part of every pack meeting (CCA session) &amp; are typically
+carried out in Sixes. This provide opportunities for every Cub to contribute
+&amp; grow together with their Six.</p>
+<h3><strong>Adventures</strong> </h3>
+<p>Cubs are not sit-down creatures; they are active go-getters! They are
+at an age where they are adventurous &amp; excitable. They easily pick
+up new skills &amp; push their own boundaries. Cub Scout activities build
+onto these, &amp; one will find that Cubs are naturally inspired, curious
+&amp; raring to go!</p>
+<h3><strong>Community &amp; Environmental Involvement</strong></h3>
+<p>Cubs learn about the environment &amp; regularly participate in meaningful
+projects to improve their surroundings. They are helpers in their homes
+&amp; communities. The Scout Law &amp; Promise guides them to do their
+best to be of service to others.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
