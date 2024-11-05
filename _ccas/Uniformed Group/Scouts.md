@@ -10,7 +10,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Otter_Unit_Flag.jpg">
 </div>
-<p></p>
 <p><strong>Objectives of CCA:</strong>
 </p>
 <p>Cub Scouts (Cubs) is for boys and girls aged 7 – 12 years old.</p>
@@ -113,11 +112,9 @@ and challenges, to do their very best in all things and at all times!</p>
 </table>
 <h3></h3>
 <h3><strong>Tent Pitching</strong></h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/scout2.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/scout1.jpg">
 </div>
