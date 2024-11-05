@@ -109,7 +109,6 @@ and challenges, to do their very best in all things and at all times!</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <h3><strong>Tent Pitching</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/scout2.jpg">
@@ -117,7 +116,6 @@ and challenges, to do their very best in all things and at all times!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/scout1.jpg">
 </div>
-<p></p>
 <h3><strong>Explorer Camp</strong></h3>
 <p>The Explorer Camp is organised to provide avenue for the cub scouts to
 complete their badgeworks while enjoying outdoor learning. The camp aims
