@@ -12,18 +12,13 @@ variant: tiptap
 </div>
 <p><strong>Objectives of CCA:</strong>
 </p>
-<p>Cub Scouts (Cubs) is for boys and girls aged 7 – 12 years old.</p>
-<p>1. The objective of the Cub Scout programme is to develop the child in
-an environment that is intellectually and physically stimulating as well
-as providing challenges for the child to face and overcome.</p>
 <p>A Cub Scout Group (also known as a Cub Pack) gathers weekly or fortnightly
 and is divided into groups called Sixes and led by a Sixer. A Sixer is
 a Cub of good standing who carries out tasks that have been set by their
 Akela (Cub Scout Leader). Cubs learn to manage themselves and take care
-of their peers. In doing so, they get hands-on leadership experience.</p>
-<p>2. Activities are typically carried out in Sixes. This encourages Cubs
-to take ownership of themselves and grow through peer-led learning. Pack
-meetings are opportunities for adventures, learning life skills, hikes,
+of their peers.Activities are typically carried out in Sixes. This encourages
+Cubs to take ownership of themselves and grow through peer-led learning.
+Pack meetings are opportunities for adventures, learning life skills, hikes,
 outdoor cooking, camps, games, shelter-building, knotting, craftwork, and
 other Scouting skills – all while making new friends.</p>
 <p><strong>Games</strong> – Games are part of every pack meeting (CCA session)
@@ -39,12 +34,6 @@ about the environment &amp; regularly participate in meaningful projects
 to improve their surroundings. They are helpers in their homes &amp; communities.
 The Scout Law &amp; Promise guides them to do their best to be of service
 to others.</p>
-<p>3. The Cub Scout programme is based on The Jungle Book by Rudyard Kipling.
-Taking inspiration from the story, Cubs are taught to be prepared for difficult
-situations and to do so calmly and methodically.</p>
-<p>As the 1st line of the Scout Promise reads, “I promise to do my best!”
-– so every boy and girl Cub will endeavour to overcome difficulties, setbacks
-and challenges, to do their very best in all things and at all times!</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
