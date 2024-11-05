@@ -45,7 +45,6 @@ situations and to do so calmly and methodically.</p>
 <p>As the 1st line of the Scout Promise reads, “I promise to do my best!”
 – so every boy and girl Cub will endeavour to overcome difficulties, setbacks
 and challenges, to do their very best in all things and at all times!</p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -110,7 +109,7 @@ and challenges, to do their very best in all things and at all times!</p>
 </tr>
 </tbody>
 </table>
-<h3></h3>
+<p></p>
 <h3><strong>Tent Pitching</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/scout2.jpg">
