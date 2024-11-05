@@ -10,10 +10,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Otter_Unit_Flag.jpg">
 </div>
-<p>Our GSPS Otter Unit badge</p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Otter_unit_badge.jpg">
-</div>
 <p></p>
 <p><strong>Objectives of CCA:</strong>
 </p>
@@ -31,26 +27,25 @@ to take ownership of themselves and grow through peer-led learning. Pack
 meetings are opportunities for adventures, learning life skills, hikes,
 outdoor cooking, camps, games, shelter-building, knotting, craftwork, and
 other Scouting skills – all while making new friends.</p>
-<p>Games – Games are part of every pack meeting (CCA session) &amp; are typically
-carried out in Sixes. This provide opportunities for every Cub to contribute
-&amp; grow together with their Six.</p>
-<p>Adventures – Cubs are not sit-down creatures; they are active go-getters!
-They are at an age where they are adventurous &amp; excitable. They easily
-pick up new skills &amp; push their own boundaries. Cub Scout activities
-build onto these, &amp; one will find that Cubs are naturally inspired,
-curious &amp; raring to go!</p>
-<p>Community &amp; Environmental Involvement – Cubs learn about the environment
-&amp; regularly participate in meaningful projects to improve their surroundings.
-They are helpers in their homes &amp; communities. The Scout Law &amp;
-Promise guides them to do their best to be of service to others.</p>
+<p><strong>Games</strong> – Games are part of every pack meeting (CCA session)
+&amp; are typically carried out in Sixes. This provide opportunities for
+every Cub to contribute &amp; grow together with their Six.</p>
+<p><strong>Adventures</strong> – Cubs are not sit-down creatures; they are
+active go-getters! They are at an age where they are adventurous &amp;
+excitable. They easily pick up new skills &amp; push their own boundaries.
+Cub Scout activities build onto these, &amp; one will find that Cubs are
+naturally inspired, curious &amp; raring to go!</p>
+<p><strong>Community &amp; Environmental Involvement</strong> – Cubs learn
+about the environment &amp; regularly participate in meaningful projects
+to improve their surroundings. They are helpers in their homes &amp; communities.
+The Scout Law &amp; Promise guides them to do their best to be of service
+to others.</p>
 <p>3. The Cub Scout programme is based on The Jungle Book by Rudyard Kipling.
 Taking inspiration from the story, Cubs are taught to be prepared for difficult
 situations and to do so calmly and methodically.</p>
 <p>As the 1st line of the Scout Promise reads, “I promise to do my best!”
 – so every boy and girl Cub will endeavour to overcome difficulties, setbacks
 and challenges, to do their very best in all things and at all times!</p>
-<p>Write up taken from <a href="https://scout.sg/programmes-and-resources/sections/cubs/" rel="noopener noreferrer nofollow" target="_blank">https://scout.sg/programmes-and-resources/sections/cubs/</a>
-</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -116,17 +111,8 @@ and challenges, to do their very best in all things and at all times!</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p><strong>Break Flag &amp; Lower flag ceremonies in horseshoe formation</strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/scout4.jpg">
-</div>
-<p></p>
-<p></p>
-<p><strong>Tent pitching / striking</strong>
-</p>
+<h3></h3>
+<h3><strong>Tent Pitching</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/scout2.jpg">
@@ -147,7 +133,6 @@ to inculcate values and provide skills for life to cub scouts.</p>
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/sch%20uniform.jpg">
 </div>
-<h3><strong>Uniform Badge placement</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width:80%; margin-bottom:15px" height="auto" width="100%" src="/images/badge1.jpg">
 </div>
