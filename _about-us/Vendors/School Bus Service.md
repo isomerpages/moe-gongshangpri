@@ -135,6 +135,7 @@ is only available to students who are onboard the daily school bus service.</p>
 </tbody>
 </table>
 <p></p>
-<p>Request for School Bus Services (Link to request form)</p>
+<p>Click here to <a href="/files/Request_for_School_Bus_Services_GSPS" rel="noopener nofollow" target="_blank">Request for School Bus Services</a>
+</p>
 <p></p>
 <p></p>
