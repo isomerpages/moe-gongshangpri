@@ -8,7 +8,7 @@ third_nav_title: Vendors
 <h3><strong>School Bus Service</strong></h3>
 <p>We have appointed the following operator to provide Daily School Bus Services:</p>
 <p>Name of Bus Operator: PL Bus Services
-<br>Contact number: 88866876
+<br>Contact number: +65 8886 6876
 <br>Email: <a rel="noopener noreferrer nofollow" target="_blank">plbusservices@outlook.com</a>
 </p>
 <p>Please contact transport coordinator, Ms. Sophie Goh on School Bus transport
