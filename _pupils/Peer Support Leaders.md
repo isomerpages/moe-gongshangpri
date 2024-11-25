@@ -18,3 +18,7 @@ looking out for peers who exhibit signs of distress or have problems befriending
 others. The PSLs play a vital role in the school as they form the additional
 social network support for their peers.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 uploads/1.jpg">
+</div>
+<p></p>
