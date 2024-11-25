@@ -22,3 +22,7 @@ social network support for their peers.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 uploads/1.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 uploads/2.jpg">
+</div>
+<p></p>
