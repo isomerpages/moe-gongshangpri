@@ -17,10 +17,9 @@ empathy in their interactions with others.</p>
 <p>The Curriculum therefore envisions Social Studies students as informed,
 concerned and participative citizens, competent in decision-making and
 driven by a genuine commitment to contribute responsibly to society and
-the global community.</p>
-<p>&nbsp;</p>
+the global community.&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 uploads/SS_curri.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 uploads/SS_curri.png">
 </div>
 <p>A thematic approach is adopted to frame the Social Studies Primary <a href="https://www.moe.gov.sg/-/media/files/primary/2020-social-studies-primary.pdf" rel="noopener nofollow" target="_blank">syllabus</a> and
 is organized into three broad clusters, with each level of study guided
