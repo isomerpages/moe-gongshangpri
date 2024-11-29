@@ -24,7 +24,6 @@ the global community.&nbsp;</p>
 <p>A thematic approach is adopted to frame the Social Studies Primary <a href="https://www.moe.gov.sg/-/media/files/primary/2020-social-studies-primary.pdf" rel="noopener nofollow" target="_blank">syllabus</a> and
 is organized into three broad clusters, with each level of study guided
 by an inquiry focus.</p>
-<p>&nbsp;</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -53,8 +52,7 @@ by an inquiry focus.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Primary 1</u>
-</p>
-<p>Knowing Myself, Others and My Surroundings</p>
+<br>Knowing Myself, Others and My Surroundings</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -64,8 +62,7 @@ by an inquiry focus.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><u>Primary 2</u>
-</p>
-<p>Coming Together as a Nation</p>
+<br>Coming Together as a Nation</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -74,15 +71,12 @@ by an inquiry focus.</p>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>Understanding Singapore in</strong>
-</p>
-<p><strong>the Past and Present</strong>
+<p><strong>Understanding Singapore in the Past and Present</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Primary 3</u>
-</p>
-<p>Understanding Singapore’s Environment and Challenges</p>
+<br>Understanding Singapore’s Environment and Challenges</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -93,8 +87,7 @@ we face?</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><u>Primary 4</u>
-</p>
-<p>Understanding Our Past</p>
+<br>Understanding Our Past</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -103,35 +96,33 @@ we face?</p>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>Appreciating Singapore, the Region and the World</strong>
-</p>
-<p><strong>We Live In</strong>
+<p><strong>Appreciating Singapore, the Region and the World We Live In</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Primary 5</u>
-</p>
-<p></p>
-<p>Part 1: Understanding Singapore’s Development as a Nation</p>
-<p>&nbsp;</p>
-<p></p>
-<p>Part 2: Understanding Southeast Asia’s Diversity and Interconnectedness</p>
+<br><em>Part 1</em>: Understanding Singapore’s Development as a Nation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 <p></p>
-<p></p>
-<p>How has Singapore developed as a nation since its independence?</p>
-<p>&nbsp;</p>
-<p></p>
+<p>How has Singapore developed as a nation since its independence?&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Part 2</em>: Understanding Southeast Asia’s Diversity and Interconnectedness</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>What makes up Southeast Asia and how are the countries interconnected?</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p><u>Primary 6</u>
-</p>
-<p>Understanding Features and Legacies of Civilisations</p>
+<br>Understanding Features and Legacies of Civilisations</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -140,4 +131,7 @@ we face?</p>
 </tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
+<p></p>
+<p></p>
 <p>&nbsp;</p>
