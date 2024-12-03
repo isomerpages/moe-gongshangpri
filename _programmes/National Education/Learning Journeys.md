@@ -84,12 +84,9 @@ of Singapore&nbsp;as well as reinforce the following NE messages:</p>
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
-<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/lj1.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/lj1.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/lj2.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:35%" height="auto" width="100%" src="/images/lj3.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/lj2.jpg">
 </div>
 <p></p>
