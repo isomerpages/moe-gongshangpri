@@ -5,38 +5,15 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>Preamble</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:40%; margin-bottom:15px" height="auto" width="100%" src="/images/mrssoh.jpg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/mrssoh.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <p>Dear Students, Parents, and Valued Members of the Gongshang Primary School
 Community,</p>
-<p></p>
 <p>Founded in 1920 by Mr Shi Su and originally known as ‘The Chinese Industrial
 and Commercial Continuation School’, Gongshang Primary School is an institution
-deeply rooted in history and committed to nurturing <strong><em>active learners, confident leaders, and gracious citizens.</em></strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
+deeply rooted in history and committed to nurturing active learners, confident
+leaders, and gracious citizens.</p>
 <p>As the 10th Principal of the school, I am honored and privileged to stand
 at the helm of a legacy that spans generations and continues to shape the
 lives of young minds.</p>
