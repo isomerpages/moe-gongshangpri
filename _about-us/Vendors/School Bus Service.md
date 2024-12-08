@@ -7,14 +7,63 @@ third_nav_title: Vendors
 ---
 <h3><strong>School Bus Service</strong></h3>
 <p>We have appointed the following operator to provide Daily School Bus Services:</p>
-<p>Name of Bus Operator: PL Bus Services
-<br>Contact number: +65 8886 6876
-<br>Email: <a rel="noopener noreferrer nofollow" target="_blank">plbusservices@outlook.com</a>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name of Operator</strong>
 </p>
-<p>Please contact transport coordinator, Ms. Sophie Goh on School Bus transport
-matters.</p>
-<h4><strong>Bus Fares</strong><br></h4>
-<p>Daily School Bus Services&nbsp;<strong><u>based on Not to Exceed Price</u></strong>&nbsp;(i.e.
+</td>
+<td rowspan="1" colspan="1">
+<p>PL Bus Services</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Contact number</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>+65 8886 6876</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">plbusservices@outlook.com</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Please contact the transport coordinator, Ms Sophie Goh, on School Bus
+transport matters.</p>
+<p></p>
+<h4><strong>Bus Fares</strong></h4>
+<p>Daily School Bus Services&nbsp;based on <strong><u>Not to Exceed Price</u></strong>&nbsp;(i.e.
 for sending students from home to school and vice versa)</p>
 <p></p>
 <table style="minWidth: 125px">
@@ -28,61 +77,70 @@ for sending students from home to school and vice versa)</p>
 <tbody>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Distance Range Category</p>
+<p><strong>Distance Range Category</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Up to 15 seater</p>
+<p><strong>Up to 15 seater</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>&gt;15 seater</p>
+<p><strong>&gt;15 seater</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 way</p>
+<p><strong>1 way</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 way</p>
+<p><strong>2 way</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 way</p>
+<p><strong>1 way</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 way</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Up to 2km</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>160</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>180</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>160</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>180</p>
+<p><strong>2 way</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&gt;2 – 4km</p>
+<p><strong>Up to 2km</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>180</p>
+<p>$160</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>195</p>
+<p>$180</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>180</p>
+<p>$160</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>195</p>
+<p>$180</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2 – 4 km</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$180</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$195</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$180</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$195</p>
 </td>
 </tr>
 </tbody>
@@ -91,7 +149,6 @@ for sending students from home to school and vice versa)</p>
 <p>Bus Services for after school activities (i.e., sending students home
 from school after enrichment programmes, supplementary classes or CCA)
 is only available to students who are onboard the daily school bus service.</p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -101,18 +158,22 @@ is only available to students who are onboard the daily school bus service.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Distance Range Category</p>
+<p><strong>Distance Range Category</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Up to 15 seater (per trip)</p>
+<p><strong>Up to 15 seater (per trip)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&gt;15 seater (per trip)</p>
+<p><strong>&gt;15 seater (per trip)</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Up to 2km</p>
+<p><strong>Up to 2 km</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>$5</p>
@@ -123,7 +184,8 @@ is only available to students who are onboard the daily school bus service.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&gt;2 – 4km</p>
+<p><strong>2 – 4 km</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>$7</p>
@@ -134,7 +196,6 @@ is only available to students who are onboard the daily school bus service.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p>Click here to <a href="/files/2024 uploads/Request_for_School_Bus_Services_GSPS.pdf" rel="noopener nofollow" target="_blank">Request for School Bus Service</a>
 </p>
 <p></p>
