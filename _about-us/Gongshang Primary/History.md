@@ -193,7 +193,7 @@ in 2016, which coincided with its first homecoming in the school’s history.</p
 <p>Mr Wee Fui Twee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1985–2001</p>
+<p>1985 - 2001</p>
 </td>
 </tr>
 <tr>
@@ -201,7 +201,7 @@ in 2016, which coincided with its first homecoming in the school’s history.</p
 <p>Mrs Daisie Yip Choon Hua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2002–2008</p>
+<p>2002 - 2008</p>
 </td>
 </tr>
 <tr>
@@ -209,7 +209,7 @@ in 2016, which coincided with its first homecoming in the school’s history.</p
 <p>Mdm Kok Chow Hiong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2009–2017</p>
+<p>2009 - 2017</p>
 </td>
 </tr>
 <tr>
@@ -217,12 +217,27 @@ in 2016, which coincided with its first homecoming in the school’s history.</p
 <p>Mdm Lim Tzyy Shiuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2018–present</p>
+<p>2018 - 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Stella Kwan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025 - present</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <h2>Noteworthy Individuals</h2>
 <h4><strong>Lin Mu Qun – An Old Boy</strong></h4>
 <p>In the early days of Gongshang Primary School, financial difficulties
