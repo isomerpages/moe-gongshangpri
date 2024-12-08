@@ -31,18 +31,18 @@ and catalyse quality improvements in the sector.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MK</p>
+<p>MK Morning Session</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Morning Session : 8am to 12pm</p>
+<p>8 am to 12 noon</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MK</p>
+<p>MKAfternoon Session</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Afternoon Session : 1pm to 5pm</p>
+<p>1 pm to 5 pm</p>
 </td>
 </tr>
 <tr>
@@ -58,17 +58,13 @@ and catalyse quality improvements in the sector.</p>
 <p>If tyou require a full-day service, you can register for Kindergarten
 Care(KCare), which is offered at all MKs. Your child will be in KCare before
 and after the MK session within the same premises.</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
@@ -81,16 +77,10 @@ and after the MK session within the same premises.</p>
 <p>KCare</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7am to 7pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>7 am to 7 pm</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
