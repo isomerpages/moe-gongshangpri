@@ -5,6 +5,11 @@ variant: tiptap
 description: ""
 third_nav_title: Vendors
 ---
+<h4><strong>School-based Student Care Centre (SCC)</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/2024 uploads/CLSH.png">
+</div>
 <p>Commit Learning SchoolHouse (CLS) has been appointed as the SCC operator
 in Gongshang Primary School.</p>
 <p></p>
@@ -25,8 +30,7 @@ in Gongshang Primary School.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School term
-<br>Mon - Fri</p>
+<p>School term (Mon - Fri)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 pm - 7 pm</p>
@@ -34,8 +38,7 @@ in Gongshang Primary School.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School holidays
-<br>Mon - Fri</p>
+<p>School holidays (Mon - Fri)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7.30 am - 7 pm</p>
@@ -43,8 +46,7 @@ in Gongshang Primary School.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sat, Sun &amp;
-<br>Public Holidays</p>
+<p>Sat, Sun &amp; Public Holidays</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Closed</p>
