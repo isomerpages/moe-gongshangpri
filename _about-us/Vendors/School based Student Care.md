@@ -62,5 +62,17 @@ in Gongshang Primary School.</p>
 </tr>
 </tbody>
 </table>
-<p>For more information, please contact <a href="mailto:admission_cls_gsps@commitlearning.com.sg" rel="noopener noreferrer nofollow" target="_blank">admission_cls_gsps@commitlearning.com.sg</a>
+<p>For more information, please contact</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="mailto:admission_cls_gsps@commitlearning.com.sg" rel="noopener noreferrer nofollow" target="_blank">admission_cls_gsps@commitlearning.com.sg</a>
 </p>
+</li>
+<li>
+<p>+65 6366 3666</p>
+</li>
+<li>
+<p>+65 9732 3166</p>
+</li>
+</ul>
+<p></p>
