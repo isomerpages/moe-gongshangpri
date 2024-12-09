@@ -61,8 +61,18 @@ are as follow:</p>
 <p>7.30 am - 1.30 pm</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
+<p>Pupils are to report to the morning assembly venue punctually by 7.30
+am each day.</p>
 <h3><strong>Recess and Snack Breaks</strong></h3>
 <p>The recess timings for each level is staggered:</p>
 <table style="minWidth: 75px">
@@ -149,9 +159,71 @@ are as follow:</p>
 <p>8.30 am - 8.45 am</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
+<h3><strong>Dismissal</strong></h3>
+<p>For the safety of our younger pupils, P1 and P2 pupils are dismissed earlier:&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Level</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Dismissal Time</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.20 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.25 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P3 to P6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.30 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3><strong>After-School Programmes</strong></h3>
 <p>Parents will be informed for all co-curricular activities (CCAs) and remedial/supplementary
 lessons that take place after school hours.</p>
