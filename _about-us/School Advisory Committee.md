@@ -4,20 +4,15 @@ permalink: /about-us/sac/
 description: ""
 variant: tiptap
 ---
-### **School Advisory Committee (SAC)**
-
-**Chairman:**<br>
-Mr Dennis Yeo Huang Kiat
-
-**Vice-Chairman:**<br>
-Ms Audrey Koh Karmen  
-
-**Hon. Treasurer:**<br>
-Mr Steven Goh Chun Siang
-
-**Hon. Secretary:**<br>
-Mrs Soh-Lim Tzyy Shiuan
-
-**Members:**<br>
-Mr Loo Wee Sing Colin<br>
-Mr Wong See Choon , BBM, PBM
+<h3><strong>School Advisory Committee (SAC)</strong></h3>
+<p><strong>Chairman:</strong>
+<br>Mr Dennis Yeo Huang Kiat</p>
+<p><strong>Vice-Chairman:</strong>
+<br>Ms Audrey Koh Karmen</p>
+<p><strong>Hon. Treasurer:</strong>
+<br>Mr Steven Goh Chun Siang</p>
+<p><strong>Hon. Secretary:</strong>
+<br>Mrs Stella Kwan</p>
+<p><strong>Members:</strong>
+<br>Mr Loo Wee Sing Colin
+<br>Mr Wong See Choon , BBM, PBM</p>
