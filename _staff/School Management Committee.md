@@ -25,7 +25,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gsps@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Soh-Lim Tzyy Shiuan</a>
+<p><a href="mailto:gsps@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Stella Kwan</a>
 </p>
 </td>
 </tr>
