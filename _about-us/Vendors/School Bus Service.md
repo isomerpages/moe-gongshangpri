@@ -36,7 +36,7 @@ third_nav_title: Vendors
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>+65 8886 6876</p>
+<p>+65 8886 6876 (Whatsapp message only)</p>
 </td>
 </tr>
 <tr>
