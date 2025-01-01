@@ -2,7 +2,7 @@
 title: Principal's Message
 permalink: /about-us/principal-message/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <table style="minWidth: 50px">
 <colgroup>
@@ -11,17 +11,22 @@ variant: markdown
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="2" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 uploads/P_Mrs_Stella_Kwan.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
+<h4></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <h4><strong>Our Gongshang Story</strong></h4>
 <p><strong>It is with great excitement and pride that we welcome the 2025 school year at Gongshang Primary School, marking a significant milestone - our 105th anniversary! Founded in January 1920 by Mr. Shi Su, the school was initially established as The Chinese Industrial and Commercial Continuation School. As the 11th principal of this esteemed school, I am deeply privileged to lead a community with such a rich history of educational excellence.</strong>
 </p>
-</th>
+</td>
 </tr>
 </tbody>
 </table>
