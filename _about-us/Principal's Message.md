@@ -2,95 +2,77 @@
 title: Principal's Message
 permalink: /about-us/principal-message/
 description: ""
-variant: tiptap
+variant: markdown
 ---
-<h4><strong>Preamble</strong></h4>
+<h4><strong>Our Gongshang Story</strong></h4>
+<table style="width: 100%;border: 0; border-collapse: collapse;">
+<colgroup>
+	<col style="width: 35%">
+	<col style="width: 65%">
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="2" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/mrssoh.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 uploads/P_Mrs_Stella_Kwan.jpg">
 </div>
-<p>Dear Students, Parents, and Valued Members of the Gongshang Primary School
-Community,</p>
-<p>Founded in 1920 by Mr Shi Su and originally known as ‘The Chinese Industrial
-and Commercial Continuation School’, Gongshang Primary School is an institution
-deeply rooted in history and committed to nurturing active learners, confident
-leaders, and gracious citizens.</p>
-<p>As the 10th Principal of the school, I am honored and privileged to stand
-at the helm of a legacy that spans generations and continues to shape the
-lives of young minds.</p>
-<p></p>
-<h4><strong>A Glimpse into our Heritage</strong></h4>
-<p>Our school's history is a tapestry woven with threads of dedication, resilience,
-and unwavering commitment to excellence. Since its establishment in 1920,
-Gongshang Primary School has stood as a beacon of education in Singapore
-for over 103 years. Throughout this journey, we have witnessed countless
-milestones, such as becoming a government school in 1985 and moving to
-our current campus in Tampines, and the setting up of MOE Kindergarten
-in 2022 to provide quality education at the pre-school level. Each of these
-milestones marks a step forward in our mission to provide holistic education
-to our students.</p>
-<p>From its humble beginnings as a night school at Tanjong Pagar Road, Gongshang
-Primary School has evolved into a vibrant community of learners, educators,
-and parents who collectively contribute to the rich tapestry of our institution.
-Our legacy is characterized by academic achievements, artistic endeavors,
-sporting triumphs, and above all, the nurturing of well-rounded individuals
-ready to face the challenges of the world.</p>
-<h4><strong>Forging Active Learners, Confident Leaders, and Gracious Citizens</strong></h4>
-<p>Our school's Vision of ‘active learners, confident leaders, and gracious
-citizens' encapsulates our commitment to nurturing students who are not
-only academically proficient, but also possess the qualities required to
-succeed in an ever-changing world.</p>
-<blockquote>
-<p><em>Active Learners</em>
+</th>
+<th rowspan="1" colspan="1">
+<h4></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>It is with great excitement and pride that we welcome the 2025 school year at Gongshang Primary School, marking a significant milestone - our 105th anniversary! Founded in January 1920 by Mr. Shi Su, the school was initially established as The Chinese Industrial and Commercial Continuation School. As the 11th principal of this esteemed school, I am deeply privileged to lead a community with such a rich history of educational excellence.
 </p>
-</blockquote>
-<p>At Gongshang, we believe in cultivating a thirst for knowledge that extends
-beyond the classroom. Our students are encouraged to be curious, inquisitive,
-and proactive in their pursuit of learning. By fostering critical thinking,
-creativity, and a love for lifelong learning, we empower our students to
-thrive in a knowledge-driven society. Our Applied Learning Programme (ALP)
-- Fluent Speakers Future Stars: Developing Gongshangers into Effective
-Communicators, and Learning for Life Programme (LLP) - S.O.A.R. (Sports
-Opportunities and Achievement pRogramme) complement our core academic and
-student development programmes, offering our students more opportunities
-to pursue learning in line with their interests, while enabling them to
-develop 21st Century Competencies (21CC).</p>
-<blockquote>
-<p><em>Confident Leaders</em>
-</p>
-</blockquote>
-<p>Leadership is a cornerstone of our educational philosophy. Through a combination
-of guidance, mentorship, and experiential learning opportunities, we empower
-our students to discover and develop their leadership potential. Whether
-it's through student leadership roles (such as prefects, CCA leaders, peer
-support leaders and class representatives), community service projects
-(e.g. P5 VIA project and P6 E-bazaar), or academic pursuits, our students
-graduate with the confidence and skills necessary to make positive contributions
-to society.</p>
-<blockquote>
-<p><em>Gracious Citizens</em>
-</p>
-</blockquote>
-<p>In a globalized world, being a gracious citizen is of paramount importance.
-We instill in our students a deep sense of rootedness to the country, social
-responsibility, empathy, and cultural awareness. Through various community
-engagement initiatives and character education programmes, our students
-learn the value of compassion, respect, and the significance of giving
-back to the community.</p>
-<h4><strong>A Shared Journey Ahead</strong></h4>
-<p>With a dedicated team of educators, supportive parents, and motivated
-students, I am confident that we will continue to uphold the legacy of
-Gongshang Primary School while embracing innovation and change.</p>
-<p>I would like to take this opportunity to extend my heartfelt gratitude
-to our parents for entrusting us with the education and development of
-your children. To our dedicated educators, your passion and commitment
-shape the future of our students. And to our students, remember that you
-are the embodiment of our school's vision, and we are here to guide and
-support you every step of the way.</p>
-<p>Thank you for being a part of the Gongshang Primary School family. Together,
-let us script another chapter of success, growth, and impact.</p>
-<p></p>
-<p>Yours-in-education,
-<br><strong>Mrs Soh-Lim Tzyy Shiuan <br>Principal <br>Gongshang Primary School </strong>
-<br>
-</p>
-<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>The legacy of Gongshang Primary School is built on the dedication, hard
+work and passion of the generations of students, school leaders, staff,
+alumni and parents who have contributed to its success. I would like to
+express my heartfelt gratitude to the previous 10 principals, whose strong
+leadership and vision have shaped Gongshang Primary School into the established
+institution it is today. I am honored to continue building upon their legacy.</p>
+<p>A cornerstone of our success is the strong partnership we share with our
+dedicated stakeholders—our parents, Parent Support Group, Alumni, School
+Advisory Committee and community partners. I extend my deepest thanks to
+these valued partners whose unwavering support plays an integral role in
+the growth and success of our students and school.</p>
+<p>Gongshang Primary School has been a nurturing environment where students
+are inspired to learn, lead, and develop into well-rounded individuals.
+As we look to the future, we recognize that the world around us is rapidly
+evolving, driven by accelerated technological advancements, presenting
+both challenges and exciting opportunities. Our vision of <strong>Active Learners, Confident Leaders, and Gracious Citizens</strong> reflects
+our commitment to equipping our students with the skills, mindset, and
+resilience necessary to thrive in this dynamic and uncertain world. We
+foster adaptability, creativity and collaboration, nurturing our students
+to be learners who embrace each day with curiosity and passion, leaders
+who face challenges with courage and resilience, and citizens who act with
+purpose and compassion.</p>
+<p>At the heart of our school are four core values that guide and shape our
+community - <strong>Perseverance, Thrift, Integrity and Respect</strong>.
+These values empower our students to face challenges with determination,
+manage resources wisely, maintain a strong sense of right and wrong, appreciate
+and treat others with kindness and sensitivity. By embodying these values,
+our students stay grounded and are enabled to positively influence their
+peers and contribute meaningfully to the communities around them.</p>
+<p>Our dedicated educators and staff are committed to fostering a caring
+and enabling school environment where every child is encouraged to enjoy
+learning and forge strong relationships. I look forward to working alongside
+all of you to ensure that Gongshang Primary School continues to be a place
+where every child feels valued, inspired, and empowered to face the future
+with confidence.</p>
+<p>To our Gongshangers, embrace every opportunity to learn, grow, and challenge
+yourselves. Be curious, be kind, and believe in your own strengths. You
+all have immense potential, so give it a try and strive to reach new heights!
+Remember, you are supported by your parents, peers, teachers and community
+around you, all ready to help you along the way.</p>
+<p>As we celebrate our 105th anniversary, we honor the past while looking
+forward to the future. We welcome you to be part of our vibrant community!
+I am excited about the opportunities ahead and look forward to partnering
+with all of you to shape the next memorable chapters of our Gongshang story.</p>
+<p>&nbsp;</p>
+<strong><p>Your partner-in-education<br>Mrs. Stella Kwan<br>Principal</p></strong>
