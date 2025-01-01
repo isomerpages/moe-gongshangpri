@@ -4,10 +4,10 @@ permalink: /about-us/principal-message/
 description: ""
 variant: markdown
 ---
-<table style="minWidth: 50px">
+<table style="width: 100%;border: 0; border-collapse: collapse;">
 <colgroup>
-<col>
-<col>
+	<col style="width: 30%">
+	<col style="width: 70%">
 </colgroup>
 <tbody>
 <tr>
@@ -24,7 +24,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <h4><strong>Our Gongshang Story</strong></h4>
-<p><strong>It is with great excitement and pride that we welcome the 2025 school year at Gongshang Primary School, marking a significant milestone - our 105th anniversary! Founded in January 1920 by Mr. Shi Su, the school was initially established as The Chinese Industrial and Commercial Continuation School. As the 11th principal of this esteemed school, I am deeply privileged to lead a community with such a rich history of educational excellence.</strong>
+<p>It is with great excitement and pride that we welcome the 2025 school year at Gongshang Primary School, marking a significant milestone - our 105th anniversary! Founded in January 1920 by Mr. Shi Su, the school was initially established as The Chinese Industrial and Commercial Continuation School. As the 11th principal of this esteemed school, I am deeply privileged to lead a community with such a rich history of educational excellence.
 </p>
 </td>
 </tr>
