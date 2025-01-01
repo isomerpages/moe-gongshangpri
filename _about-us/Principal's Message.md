@@ -75,4 +75,4 @@ forward to the future. We welcome you to be part of our vibrant community!
 I am excited about the opportunities ahead and look forward to partnering
 with all of you to shape the next memorable chapters of our Gongshang story.</p>
 <p>&nbsp;</p>
-<strong><p>Your partner-in-education<br>Mrs. Stella Kwan<br>Principal</p></strong>
+<strong>Your partner-in-education<br>Mrs. Stella Kwan<br>Principal</strong>
