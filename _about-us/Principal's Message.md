@@ -2,15 +2,30 @@
 title: Principal's Message
 permalink: /about-us/principal-message/
 description: ""
-variant: markdown
+variant: tiptap
 ---
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 uploads/P_Mrs_Stella_Kwan.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
 <h4><strong>Our Gongshang Story</strong></h4>
-<p>It is with great excitement and pride that we welcome the 2025 school
-year at Gongshang Primary School, marking a significant milestone - our
-105th anniversary! Founded in January 1920 by Mr. Shi Su, the school was
-initially established as The Chinese Industrial and Commercial Continuation
-School. As the 11th principal of this esteemed school, I am deeply privileged
-to lead a community with such a rich history of educational excellence.</p>
+<p><strong>It is with great excitement and pride that we welcome the 2025 school year at Gongshang Primary School, marking a significant milestone - our 105th anniversary! Founded in January 1920 by Mr. Shi Su, the school was initially established as The Chinese Industrial and Commercial Continuation School. As the 11th principal of this esteemed school, I am deeply privileged to lead a community with such a rich history of educational excellence.</strong>
+</p>
+</th>
+</tr>
+</tbody>
+</table>
+<h4></h4>
 <p>The legacy of Gongshang Primary School is built on the dedication, hard
 work and passion of the generations of students, school leaders, staff,
 alumni and parents who have contributed to its success. I would like to
@@ -57,6 +72,5 @@ I am excited about the opportunities ahead and look forward to partnering
 with all of you to shape the next memorable chapters of our Gongshang story.</p>
 <p>&nbsp;</p>
 <p>Your partner-in-education</p>
-<p>&nbsp;</p>
 <p>Mrs. Stella Kwan</p>
 <p>Principal</p>
