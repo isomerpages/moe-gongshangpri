@@ -4,10 +4,11 @@ permalink: /about-us/principal-message/
 description: ""
 variant: markdown
 ---
+<h4><strong>Our Gongshang Story</strong></h4>
 <table style="width: 100%;border: 0; border-collapse: collapse;">
 <colgroup>
-	<col style="width: 30%">
-	<col style="width: 70%">
+	<col style="width: 35%">
+	<col style="width: 65%">
 </colgroup>
 <tbody>
 <tr>
@@ -23,14 +24,12 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>Our Gongshang Story</strong></h4>
 <p>It is with great excitement and pride that we welcome the 2025 school year at Gongshang Primary School, marking a significant milestone - our 105th anniversary! Founded in January 1920 by Mr. Shi Su, the school was initially established as The Chinese Industrial and Commercial Continuation School. As the 11th principal of this esteemed school, I am deeply privileged to lead a community with such a rich history of educational excellence.
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4></h4>
 <p>The legacy of Gongshang Primary School is built on the dedication, hard
 work and passion of the generations of students, school leaders, staff,
 alumni and parents who have contributed to its success. I would like to
@@ -65,7 +64,7 @@ and enabling school environment where every child is encouraged to enjoy
 learning and forge strong relationships. I look forward to working alongside
 all of you to ensure that Gongshang Primary School continues to be a place
 where every child feels valued, inspired, and empowered to face the future
-with confidence.&nbsp;</p>
+with confidence.</p>
 <p>To our Gongshangers, embrace every opportunity to learn, grow, and challenge
 yourselves. Be curious, be kind, and believe in your own strengths. You
 all have immense potential, so give it a try and strive to reach new heights!
@@ -76,6 +75,4 @@ forward to the future. We welcome you to be part of our vibrant community!
 I am excited about the opportunities ahead and look forward to partnering
 with all of you to shape the next memorable chapters of our Gongshang story.</p>
 <p>&nbsp;</p>
-<p>Your partner-in-education</p>
-<p>Mrs. Stella Kwan</p>
-<p>Principal</p>
+<strong><p>Your partner-in-education<br>Mrs. Stella Kwan<br>Principal</p></strong>
