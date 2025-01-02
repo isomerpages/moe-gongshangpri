@@ -182,7 +182,7 @@ description: ""
 <p><strong>2C</strong>
 <br><a href="mailto:jessie.ho@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mrs Jessie Ong</a>
 <br><a href="mailto:fadhilah.saneb@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mdm Siti Fadhilah Binte Saneb</a>
-<br><a href="mailto:angeline.ng@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mrs Soh-Ng Kah Fung </a>
+<br><a href="mailto:angeline.ng@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mrs Soh-Ng Kah Fung</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -261,7 +261,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>3T</strong>
 <br><a href="mailto:nazeera.omar@gsps.edu.sg" rel="noopener nofollow" target="_blank">Ms Nazeera Omar</a>
-<br><a href="mailto:zulkarnai@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mr Zulkarnai bin Zulkifli </a>
+<br><a href="mailto:zulkarnai@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mr Zulkarnai bin Zulkifli</a>
 </p>
 </td>
 </tr>
