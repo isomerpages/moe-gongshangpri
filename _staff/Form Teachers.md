@@ -224,7 +224,7 @@ description: ""
 <br><a href="mailto:syahirah.ms@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mdm Syahirah Mohd Said</a>
 <br>
 <br>
-<br><a href="mailto:yoges.singh@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mrs Yoges Wari d/o Nadarajah Singh</a>
+<br>
 </p>
 </td>
 </tr>
@@ -399,7 +399,7 @@ description: ""
 <br><a href="mailto:habibah.ahmad@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mdm Habibah Najihahbi Bte Ahmad</a>
 <br><a href="mailto:jannie.lee@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mrs Jannie Lee</a>
 <br>
-<br><a href="mailto:chang.yating@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mdm Chang Yating</a>
+<br>
 <br><a href="mailto:jennifer.yeo@gsps.edu.sg" rel="noopener nofollow" target="_blank">Ms Yeo Soh Fang Jennifer</a>
 </p>
 </td>
@@ -501,7 +501,7 @@ description: ""
 <br><a href="mailto:angie.wong@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mrs Angie Wong</a>
 <br><a href="mailto:chow.yoke.yeong@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mrs Loy (Mdm Chow Yoke Yeong)</a>
 <br>
-<br><a href="mailto:melissa.chan@gsps.edu.sg" rel="noopener nofollow" target="_blank">Ms Melissa Chan</a>
+<br>
 <br>
 </p>
 </td>
@@ -521,7 +521,7 @@ description: ""
 <br><a href="mailto:sri.asilah.subari@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mdm Sri Asilah Subari</a>
 <br><a href="mailto:thiam.siow.foon@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mrs Ng-Thiam Siow Foon</a>
 <br>
-<br><a href="mailto:tan.chuan.song@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mr Tan Chuan Song</a>
+<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -602,12 +602,14 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>6P</strong>
-<br>
+<br><a href="mailto:melissa.chan@gsps.edu.sg" rel="noopener nofollow" target="_blank">Ms Melissa Chan</a>
+<br><a href="mailto:bryan.chua@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mr Bryan Chua</a>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>6T</strong>
+<br><a href="mailto:chang.yating@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mdm Chang Yating</a>
 <br><a href="mailto:ngiam.song.wee@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mr Ngiam Song Wee</a>
 <br>
 <br>
@@ -618,7 +620,8 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>6I</strong>
-<br>
+<br><a href="mailto:yoges.singh@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mrs Yoges Wari d/o Nadarajah Singh</a>
+<br><a href="mailto:tan.chuan.song@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mr Tan Chuan Song</a>
 <br>
 </p>
 </td>
@@ -633,8 +636,8 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>6C</strong>
 <br><a href="mailto:dorcas.fong@gsps.edu.sg" rel="noopener nofollow" target="_blank">Ms Fong Shiyan Dorcas</a>
-<br><a href="mailto:bryan.chua@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mr Bryan Chua</a>
-<br><a href="mailto:hamidah.abdullah@gsps.edu.sg" rel="noopener nofollow" target="_blank"> </a>
+<br>
+<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
