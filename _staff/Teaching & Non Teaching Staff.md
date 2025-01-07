@@ -17,6 +17,7 @@ variant: tiptap
 <br><a href="mailto:huang.peiwen@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mrs Liu Peiwen</a>
 <br><a href="mailto:noorfizah.a.b.rahman@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mdm Noorfizah Bte A B Rahman</a>
 <br><a href="mailto:pheroza.maricar@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mdm Pheroza Bte Ahmad Maricar</a>
+<br><a href="mailto:anuar.sahri@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mr Mohamed Anuar Bin Mohamed Sahri</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
