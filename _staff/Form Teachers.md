@@ -99,7 +99,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>1K</strong>
 <br><a href="mailto:haslinah.yahya@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mdm Haslinah Bte Yahya</a>
-<br><a href="mailto:nurathirah@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mdm Nurathirah Md Sharoni</a>
+<br><a href="mailto:nurathirah@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mrs Nurathirah Aiman</a>
 </p>
 </td>
 </tr>
