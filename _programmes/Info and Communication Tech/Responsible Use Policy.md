@@ -3,6 +3,7 @@ title: Responsible Use Policy
 permalink: /responsible-use-policy/
 variant: tiptap
 description: ""
+third_nav_title: Info and Communication Tech
 ---
 <h3><strong>Responsible Use Policy (RUP) </strong><br><strong>for Computing Devices</strong></h3>
 <p>Dear Gongshang pupils,</p>
