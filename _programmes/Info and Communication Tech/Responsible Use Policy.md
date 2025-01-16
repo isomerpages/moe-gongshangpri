@@ -42,7 +42,7 @@ usernames and passwords, or share photos of myself or my friends, with
 others.</p>
 </li>
 </ul>
-<p><strong>Being Kind to Others </strong>
+<p><strong>Being Kind to Others</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
