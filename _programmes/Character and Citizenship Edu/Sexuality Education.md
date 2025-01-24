@@ -67,7 +67,7 @@ with others, including those with members of the opposite sex. Students
 are also guided to make wise, informed and responsible decisions to keep
 themselves safe from sexuality-related risks.</p>
 <h4><strong>At&nbsp;Gongshang Primary School, the following Sexuality Education lessons will be taught in&nbsp;2025:</strong></h4>
-<p><strong>2025 SEXUALITY EDUCATION LESSONS in CCE  <br>PRIMARY 5</strong>
+<p><strong>2025 SEXUALITY EDUCATION LESSONS IN CCE <br>PRIMARY 5</strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
