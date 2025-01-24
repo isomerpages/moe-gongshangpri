@@ -69,7 +69,13 @@ themselves safe from sexuality-related risks.</p>
 <h4><strong>At&nbsp;Gongshang Primary School, the following Sexuality Education lessons will be taught in&nbsp;2024:</strong></h4>
 <p><strong>2024 Sexuality Education Lessons in CCE 2021 <br>Primary 5</strong>
 </p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -168,9 +174,15 @@ and how to seek help for themselves and their friends.
 </tr>
 </tbody>
 </table>
-<p><strong>Primary 6</strong>
+<p><strong>PRIMARY 6</strong>
 </p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
