@@ -37,7 +37,7 @@ and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 <p>You may&nbsp;click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more
 information on MOE Sexuality Education.&nbsp;</p>
-<p><strong>OVERVIEW OF GONGSHANG PRIMARY SCHOOL'S SEXUALITY EDUCATION PROGRAMME FOR 2024</strong>
+<p><strong>OVERVIEW OF GONGSHANG PRIMARY SCHOOL'S SEXUALITY EDUCATION PROGRAMME FOR 2025</strong>
 </p>
 <p>4. Sexuality Education is delivered in a holistic manner through the school
 curriculum.&nbsp;The content for Sexuality Education is grouped into five
@@ -48,7 +48,7 @@ in the school curriculum.</p>
 <p>5. The subjects that incorporate topics on sexuality include:
 <br>a. Science
 <br>b. Character and Citizenship Education (CCE)</p>
-<p><strong>Sexuality Education Lessons</strong>:
+<p><strong><u>Sexuality Education Lessons</u></strong><u>: </u>
 <br>6. The upper primary years mark the onset of puberty. With better nutrition
 and improved health care, children are reaching puberty at a younger age
 and have to grapple with physical, emotional and psychological changes
@@ -66,8 +66,8 @@ in their growing years. They learn to build healthy and rewarding relationships
 with others, including those with members of the opposite sex. Students
 are also guided to make wise, informed and responsible decisions to keep
 themselves safe from sexuality-related risks.</p>
-<h4><strong>At&nbsp;Gongshang Primary School, the following Sexuality Education lessons will be taught in&nbsp;2024:</strong></h4>
-<p><strong>2024 Sexuality Education Lessons in CCE 2021 <br>Primary 5</strong>
+<h4><strong>At&nbsp;Gongshang Primary School, the following Sexuality Education lessons will be taught in&nbsp;2025:</strong></h4>
+<p><strong>2025 SEXUALITY EDUCATION LESSONS IN CCE <br>PRIMARY 5</strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -79,16 +79,16 @@ themselves safe from sexuality-related risks.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>CCE(FTGP) theme</p>
+<p>CCE(FTGP) THEME</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Lesson title/ duration</p>
+<p>LESSON TITLE/ DURATION</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Lesson overview</p>
+<p>LESSON OVERVIEW</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Time period</p>
+<p>TIME PERIOD</p>
 </th>
 </tr>
 <tr>
@@ -105,11 +105,11 @@ caused by physical changes during puberty. Students will learn to describe
 the healthy ways to manage their negative feelings during this time. They
 will also learn to recognise that one’s identity need not be negatively
 affected, even when one’s body is experiencing changes due to puberty.
-<br><em>This lesson is conducted separately for boys and girls in different classrooms so that the students will feel more comfortable during the discussions.</em>
+<br><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 1</p>
+<p>Term 2 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -129,11 +129,11 @@ of being exposed to sexually explicit materials and reject the viewing
 and/or reading of pornographic materials. They will learn to evaluate their
 own responses when they encounter pornography by applying the strategy
 ‘<strong>Stop-Think-Do</strong>’.
-<br><em>This lesson is conducted separately for boys and girls in different classrooms so that the students will feel more comfortable during the discussions.</em>
+<br><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 2</p>
+<p>Term 2 Week 6</p>
 </td>
 </tr>
 <tr>
@@ -151,11 +151,11 @@ own responses when they encounter pornography by applying the strategy
 during online and offline interactions and the impact of such abuse on
 victims. They also learn how to take precautionary measures to be safe
 and how to seek help for themselves and their friends.
-<br><em>This lesson is conducted separately for boys and girls in different classrooms so that the students will feel more comfortable during the discussions.</em>
+<br><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 5</p>
+<p>Term 2 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -186,16 +186,16 @@ and how to seek help for themselves and their friends.
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>CCE(FTGP) theme</p>
+<p>CCE(FTGP) THEME</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Lesson title / duration</p>
+<p>LESSON TITLE / DURATION</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Lesson overview</p>
+<p>LESSON OVERVIEW</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Time period</p>
+<p>TIME PERIOD</p>
 </th>
 </tr>
 <tr>
@@ -217,7 +217,7 @@ romantic relationship. Instead, they should focus on building strong and
 healthy friendships with their circles of friends.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 9</p>
+<p>Term 1 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -237,7 +237,7 @@ of teasing their peers who may be experiencing the feelings of infatuation
 and learn to behave maturely towards each other.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 1</p>
+<p>Term 1 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -256,12 +256,16 @@ and learn to behave maturely towards each other.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Information for Parents</strong>
+<p><strong>INFORMATION FOR PARENTS</strong>
 </p>
-<p>8. Parents who wish to opt their children out of the Sexuality Education
+<p>8. Parents may opt their children out of Sexuality Education lessons,
+and/or supplementary Sexuality Education Programmes by MOE-approved external
+providers.</p>
+<p>9. Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated
 to parents at the start of the year and is also downloadable <a href="https://go.gov.sg/sexualityeducationoptout" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-The completed opt-out form is to be submitted by&nbsp;<strong>28/02/2024</strong>.&nbsp;</p>
-<p>9. Parents can contact the school at 67831191 and speak to their child's
+The completed opt-out form is to be submitted by&nbsp;<strong>10/02/2025</strong>.&nbsp;</p>
+<p>10. Parents can contact the school at 67831191 and speak to their child's
 form teacher or Mrs Singh for discussion or to seek clarification about
 the school’s Sexuality Education Programme.</p>
+<p></p>
