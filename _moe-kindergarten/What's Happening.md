@@ -8,7 +8,7 @@ variant: tiptap
 <p>The MOE Kindergarten online registration exercise for 2025 K1 admission
 is closed. Parents who have missed the registration exercise and would
 like to apply for MK@Gongshang, please submit the Waitlist Application
-and supporting documents via <a href="https://go.gov.sg/mkgspswaitlist" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mkgspswaitlist</a>
+and supporting documents via <a href="https://go.gov.sg/mkwaitlist2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mkwaitlist2025</a>
 </p>
 <p></p>
 <ol data-tight="true" class="tight">
