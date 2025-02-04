@@ -18,7 +18,7 @@ variant: tiptap
 <div class="isomer-card-link">Login here</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://workspace.google.com/dashboard" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Student iCON" src="/images/2024 uploads/icon.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Student iCON</div><div class="isomer-card-description">Access email and other Google tools here</div><div class="isomer-card-link">Login here</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://ezhishi.com/contents/login.html" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://www.ezhishi.com/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="eZhiShi" src="/images/2024 uploads/ezhishi.png">
