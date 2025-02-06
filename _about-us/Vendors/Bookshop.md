@@ -57,6 +57,7 @@ third_nav_title: Vendors
 </table>
 <p></p>
 <p>For your convenience, the bookshop also carries the school House T-shirts.
-<br>The school bookshop is open from 8.30am to 3.30pm (Except every Wed to
-2.30pm).
-<br>Parents may come in after 2 pm to make purchases for their child.</p>
+<br>The school bookshop is open from 8.30 am to 3.30 pm (except every Wed
+to 2.30 pm).
+<br>Parents or guardians may enter the school after 2 pm to make purchases
+for their child.</p>
