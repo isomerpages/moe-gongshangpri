@@ -10,10 +10,7 @@ variant: tiptap
 <tr></tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/MK matters/staff_formal_website_update.jpg">
-</div>
-<p>Updated: 18 September 2024</p>
+<p>Updated: 6 February 2025</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
