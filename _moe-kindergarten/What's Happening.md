@@ -13,7 +13,7 @@ and supporting documents via <a href="https://go.gov.sg/mkwaitlist2025" rel="noo
 <p></p>
 <p>Please click <a href="/files/2025 uploads/MK_OPEN_HOUSE_POSTER_2025.pdf" rel="noopener nofollow" target="_blank">here</a> for
 the K1 2025 MOE Kindergarten Open House on 15 February 2025.</p>
-<p></p>
+<p>Please click for the Open House Slides.</p>
 <p></p>
 <p>If you have any queries regarding MK@Gongshang, you may email the MK at&nbsp;
 <a href="mailto:mk_gongshang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mk_gongshang@moe.edu.sg</a>&nbsp;or call 6783 1191.</p>
