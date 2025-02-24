@@ -7,8 +7,8 @@ description: ""
 <h3><strong>Parent Volunteers (PV)</strong></h3>
 <p>Gongshang Primary School values the contributions of our PVs.</p>
 <p>The PV scheme provides parents who have volunteered their time and effort
-in a primary school through priority during the P1 registration exercise.
-Specifically, the children of PVs can register at the Phase 2B stage where:</p>
+in a primary school through priority during the P1 registration exercise.</p>
+<p>Specifically, the children of PVs can register at the Phase 2B stage where:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>the parent has joined Gongshang Primary School as a parent volunteer not
