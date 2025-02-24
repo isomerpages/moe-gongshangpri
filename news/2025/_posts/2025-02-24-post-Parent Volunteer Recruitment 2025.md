@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h4><strong>Parent Volunteer (PV) Scheme -  Recruitment Exercise 2025</strong></h4>
+<h4><strong>Parent Volunteer (PV) Scheme - Recruitment Exercise 2025</strong></h4>
 <p>&nbsp;</p>
 <p>Dear Parents</p>
 <p>Parent volunteer recruitment exercise for children who are born between
