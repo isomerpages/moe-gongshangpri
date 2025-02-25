@@ -29,9 +29,10 @@ accept new applications.</p>
 by email by 31 May 2024.</p>
 <hr>
 <h3><strong>2025 Recruitment Exercise</strong></h3>
-<p>For children who are born between 2 Jan 2020 and 1 Jan 2021 (both dates
-inclusive), the details for parent volunteer recruitment exercise 2025
-will be posted on our school website by end Feb/early Mar 2025.</p>
-<p>Please keep a lookout for the information and submit your application
-when the time comes.</p>
+<p>Parent volunteer recruitment exercise for children who are born between
+2 Jan 2020 and 1 Jan 2021 (both dates inclusive) is now open.</p>
+<p>Applications can be done via this link <a href="https://go.gov.sg/gsps-parentsvolunteer2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/gsps-parentsvolunteer2025</a>.</p>
+<p>The closing date for submitting an application is <strong><u>28 March 2025, 3pm</u></strong>.
+We will not consider any incomplete or late applications.</p>
+<p>Parents will be informed of the application outcome by June 2025.</p>
 <p></p>
