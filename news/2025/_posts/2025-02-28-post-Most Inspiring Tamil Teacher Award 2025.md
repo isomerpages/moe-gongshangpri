@@ -9,7 +9,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025 uploads/2__MITT_2025_Poster.jpg">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/2025 uploads/2__MITT_2025_Poster.jpg">
 </div>
 <p></p>
 <p></p>
@@ -26,7 +26,7 @@ teachers from your school. Parents can submit nominations online at <a rel="noop
 the QR code provided below. Nominations are open from <strong>3 February to 4 April 2025</strong>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025 uploads/3__MITT_2025_Nomination_QR_code.png">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/2025 uploads/3__MITT_2025_Nomination_QR_code.png">
 </div>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
