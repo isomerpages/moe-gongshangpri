@@ -36,10 +36,10 @@ Presentation (SYF).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Dorcas Fong (OIC)</p>
+<p>Mdm Safiah Bte Sidek (OIC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>dorcas.fong@gsps.edu.sg</p>
+<p>safiah.sidek@gsps.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -52,18 +52,10 @@ Presentation (SYF).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Ling Jia Ying</p>
+<p>Ms Maragatham</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>seng.jiaying@gsps.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Safiah Bte Sidek</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>safiah.sidek@gsps.edu.sg</p>
+<p>maragatham@gsps.edu.sg</p>
 </td>
 </tr>
 <tr>
