@@ -21,11 +21,11 @@ registration, or</p>
 </li>
 </ul>
 <hr>
-<h3><strong>2025 Recruitment Exercise</strong></h3>
+<h3><strong>2025 Recruitment Exercise Closed</strong></h3>
+<p><strong>&nbsp;</strong>
+</p>
 <p>Parent volunteer recruitment exercise for children who are born between
-2 Jan 2020 and 1 Jan 2021 (both dates inclusive) is now open.</p>
-<p>Applications can be done via this link <a href="https://go.gov.sg/gsps-parentsvolunteer2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/gsps-parentsvolunteer2025</a>.</p>
-<p>The closing date for submitting an application is <strong><u>28 March 2025, 3pm</u></strong>.
-We will not consider any incomplete or late applications.</p>
-<p>Parents will be informed of the application outcome by June 2025.</p>
-<p></p>
+2 Jan 2020 and 1 Jan 2021 (both dates inclusive) is now closed. We no longer
+accept new applications.</p>
+<p>&nbsp;For parents who have applied, you will be informed of the application&nbsp;outcome
+via email by June 2025.</p>
