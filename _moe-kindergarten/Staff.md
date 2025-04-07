@@ -53,21 +53,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Marscella</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Deputy Centre Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:marscella_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">marscella_a@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ma Yan</p>
 </td>
 <td rowspan="1" colspan="1">
