@@ -27,6 +27,5 @@ registration, or</p>
 <p>Parent volunteer recruitment exercise for children who are born between
 2 Jan 2020 and 1 Jan 2021 (both dates inclusive) is now closed. We no longer
 accept new applications.</p>
-<p>&nbsp;</p>
-<p>For Parents who have applied, you will be informed of the application&nbsp;outcome
+<p>&nbsp;For parents who have applied, you will be informed of the application&nbsp;outcome
 via email by June 2025.</p>
