@@ -20,6 +20,9 @@ sections:
         - title: Parents
           description: find useful info
           url: partnership/school-home-partnership/
+        - title: Open Houses (Sec)
+          description: make informed decisions
+          url: https://gsps.padlet.org/swngiam/upcoming-open-houses-gytibg66efl2a7j8
   - resources:
       title: Latest Updates
       id: resources
