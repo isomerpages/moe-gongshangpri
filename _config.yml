@@ -2,19 +2,19 @@ title: Gongshang Primary School
 url: https://www.gongshangpri.moe.edu.sg
 favicon: /images/gsps_favicon_2024.png
 colors:
-  primary-color: "#002841"
-  secondary-color: "#002841"
+  primary-color: "#112962"
+  secondary-color: "#112962"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#002288"
     - title: media-color-two
-      color: "#49759a"
+      color: "#002288"
     - title: media-color-three
-      color: "#00838f"
+      color: "#ffcc00"
     - title: media-color-four
-      color: "#00838f"
+      color: "#e2b600"
     - title: media-color-five
-      color: "#00838f"
+      color: "#cea500"
 description: ""
 permalink: none
 baseurl: ""
