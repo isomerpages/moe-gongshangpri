@@ -81,21 +81,21 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Senior Teacher (Social Studies) (Acting)</strong>
+<p><strong>Senior Teacher (Art)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:dorcas.fong@gsps.edu.sg" rel="noopener nofollow" target="_blank">Ms Fong Shiyan Dorcas</a>
+<p><a href="mailto:hazmi.hasan@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mr Hazmi B Hasan</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Senior Teacher (Art) (Acting)</strong>
+<p><strong>Senior Teacher (Social Studies) (Acting)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:hazmi.hasan@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mr Hazmi B Hasan</a>
+<p><a href="mailto:dorcas.fong@gsps.edu.sg" rel="noopener nofollow" target="_blank">Ms Fong Shiyan Dorcas</a>
 </p>
 </td>
 </tr>
