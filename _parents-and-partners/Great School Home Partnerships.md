@@ -4,8 +4,7 @@ permalink: /partnership/school-home-partnership/
 variant: tiptap
 description: ""
 ---
-<h3><strong>GSPS: <u>G</u>reat <u>S</u>chool-Home <u>P</u>artnership<u>S</u></strong></h3>
-<p></p>
+<h3><strong>Home-School Partnerships </strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 uploads/guideschoolhome.png">
 </div>
