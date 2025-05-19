@@ -345,7 +345,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Information and Communication Technology Manager</strong>
+<p><strong>Administration Manager (ICT)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
