@@ -136,7 +136,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>ICT Manager</strong>
+<p><strong>Administration Manager (ICT)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
