@@ -51,9 +51,6 @@ desktop installations too.</div>
 <p>your Form Teacher</p>
 </li>
 <li>
-<p>school-based helpdesk at 6783 1191 ext. 244</p>
-</li>
-<li>
 <p>school-based helpdesk email <a href="mailto:helpdesk@gsps.edu.sg" rel="noopener nofollow" target="_blank">helpdesk@gsps.edu.sg</a>
 </p>
 </li>
