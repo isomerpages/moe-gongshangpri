@@ -91,7 +91,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Senior Teacher (Social Studies) (Acting)</strong>
+<p><strong>Senior Teacher (Social Studies)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
