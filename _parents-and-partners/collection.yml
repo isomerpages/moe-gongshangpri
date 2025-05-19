@@ -2,6 +2,7 @@ collections:
   parents-and-partners:
     output: true
     order:
+      - Assessment.md
       - Great School Home Partnerships.md
       - Homework Policy.md
       - Resources.md
