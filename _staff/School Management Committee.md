@@ -189,7 +189,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Assistant Year Head (P3 &amp; P4) (Acting)</strong>
+<p><strong>Assistant Year Head (P3 &amp; P4)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -209,7 +209,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Assistant Year Head (P5 &amp; P6) (Acting)</strong>
+<p><strong>Assistant Year Head (P5 &amp; P6)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
