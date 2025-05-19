@@ -2,9 +2,9 @@ collections:
   parents-and-partners:
     output: true
     order:
-      - Assessment.md
       - Great School Home Partnerships.md
       - Homework Policy.md
+      - Assessment.md
       - Resources.md
       - PSG/.keep
       - PSG/Join Us.md
