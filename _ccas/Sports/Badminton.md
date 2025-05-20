@@ -30,11 +30,19 @@ of sporting excellence.</p>
 </ul>
 <p>We look forward to your kind co-operation and fullest support in our pursuit
 of sporting excellence.</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Teachers-in-charge</p>
+<p>Level</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Teachers-in charge</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Email address</p>
@@ -42,48 +50,67 @@ of sporting excellence.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Chuan Song (OIC)</p>
+<p>Primary 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan.chuan.song@gsps.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Safini Razali (2IC)</p>
+<p>Mr Zulkarnai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>safini.razali@gsps.edu.sg</p>
+<p><a href="mailto:zulkarnai@gsps.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zulkarnai@gsps.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Primary 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Normalis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:siti.normalis@gsps.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti.normalis@gsps.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nurathirah</p>
 <p>Mdm Teo Shaw Ping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>teo.shaw.ping@gsps.edu.sg</p>
+<p><a href="mailto:nurathirah@gsps.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurathirah@gsps.edu.sg</a>
+</p>
+<p><a href="mailto:teo.shaw.ping@gsps.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo.shaw.ping@gsps.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Wong Ngok Hiong</p>
+<p>Primary 6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>wong.ngok.hiong@gsps.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Muhammad Luqman Bin Mohd Shapie</p>
+<p>Mdm Safini</p>
+<p>Ms Dorcas Fong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>muhammad.luqman.bms@gsps.edu.sg</p>
+<p><a href="mailto:safini.razali@gsps.edu.sg" rel="noopener noreferrer nofollow" target="_blank">safini.razali@gsps.edu.sg</a>
+</p>
+<p><a href="mailto:safini.razali@gsps.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dorcas.fong@gsps.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p><strong>Training schedule:</strong>*</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -123,23 +150,19 @@ of sporting excellence.</p>
 <p>*Pupils may refer to their own schedules given in the letter sent via
 Parents Gateway.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton/Photo1_Badminton_Senior_Boys.jpg">
-</div>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton/Photo2_Badminton_Senior_Girls.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 uploads/Webpage2.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton/Photo3_Badminton_Senior_Girls_and_Boys.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton/Photo4_Badminton_Training_Session_01.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton/Photo5_Badminton_Training_Session_02.jpg">
-</div>
+<p><strong>Highlights</strong>
+</p>
+<p><u>2025</u>
+</p>
+<p>National School Games, Senior Boys – Silver Winners In League 5</p>
+<p>National School Games, Senior Boys – 1<sup>st</sup> In Group A</p>
+<p>National School Games, Senior Boys – 2<sup>nd</sup> In Pool E</p>
+<p>National School Games, Senior Girls – 4<sup>th</sup> In Group C</p>
+<p>National School Games, Senior Girls – 4<sup>th</sup> In Pool B1</p>
 <p></p>
