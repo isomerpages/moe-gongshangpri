@@ -156,6 +156,9 @@ Parents Gateway.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 uploads/Webpage2.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 uploads/WhatsApp_Image_2025_05_20_at_2_38_15_PM.jpg">
+</div>
 <p><strong>Highlights</strong>
 </p>
 <p><u>2025</u>
