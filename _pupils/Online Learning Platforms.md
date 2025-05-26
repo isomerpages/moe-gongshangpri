@@ -75,7 +75,7 @@ learn how to make capital letters and type three more keys: the apostrophe,
 slash and full stop.</div>
 <div class="isomer-card-link">Start Learning</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.typingclub.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="typing club" src="/images/2025 uploads/typingclub.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Typing Club</div><div class="isomer-card-description">A series of lessons for improving your touch typing</div><div class="isomer-card-link">Start Learning</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.typingclub.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="typing club" src="/images/2025 uploads/typingclub.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Typing Club</div><div class="isomer-card-description">A series of lessons for improving your touch typing.</div><div class="isomer-card-link">Start Learning</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://monkeytype.com/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -84,7 +84,7 @@ slash and full stop.</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Monkeytype</div>
-<div class="isomer-card-description">A website that tests your speed of typing</div>
+<div class="isomer-card-description">A website that tests your speed of typing.</div>
 <div class="isomer-card-link">Test your speed</div>
 </div>
 </a>
