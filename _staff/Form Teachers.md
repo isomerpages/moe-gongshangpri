@@ -432,42 +432,42 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>5P</strong>
-<br><a href="mailto:angie.wong@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mrs Angie Wong</a>
-<br><a href="mailto:chow.yoke.yeong@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mrs Loy (Mdm Chow Yoke Yeong)</a>
+<br><a href="mailto:Pang_yong_hiang_angie@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Angie Wong</a>
+<br><a href="mailto:chow_yoke_yeong@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Loy (Mdm Chow Yoke Yeong)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>5T</strong>
-<br><a href="mailto:jenny.tan@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mrs Jenny Chan</a>
-<br><a href="mailto:henry.lee@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mr Henry Lee</a>
+<br><a href="mailto:tan_jenny@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Jenny Chan</a>
+<br><a href="mailto:lee_hung_tong_henry@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Henry Lee</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>5I</strong>
-<br><a href="mailto:sri.asilah.subari@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mdm Sri Asilah Subari</a>
-<br><a href="mailto:thiam.siow.foon@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mrs Ng-Thiam Siow Foon</a>
+<br><a href="mailto:sri_asilah_subari@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Sri Asilah Subari</a>
+<br><a href="mailto:ng-thiam_siow_foon@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Ng-Thiam Siow Foon</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>5R</strong>
-<br><a href="mailto:jennifer.jacob@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mdm Jennifer d/o Jacob</a>
-<br><a href="mailto:isaac.foo@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mr Isaac Foo Yong Wei</a>
+<br><a href="mailto:jennifer_jacob@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Jennifer d/o Jacob</a>
+<br><a href="mailto:isaac_foo_yong_wei@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Isaac Foo Yong Wei</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>5C</strong>
-<br><a href="mailto:norizah.maakiap@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mdm Norizah Bte Maakiap</a>
-<br><a href="mailto:suryati.abdul.latiff@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mdm Suryati Bte Abdul Latiff</a>
+<br><a href="mailto:norizah_maakiap@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Norizah Bte Maakiap</a>
+<br><a href="mailto:suryati_abdul_latiff@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Suryati Bte Abdul Latiff</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>5H</strong>
-<br><a href="mailto:hamidah.abdullah@gsps.edu.sg" rel="noopener nofollow" target="_blank">Ms Hamidah Bte Abdullah</a>
-<br><a href="mailto:ismail.jemaah@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mr Ismail Jemaah</a>
+<br><a href="mailto:hamidah_abdullah@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Hamidah Bte Abdullah</a>
+<br><a href="mailto:ismail_jemaah@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Ismail Jemaah</a>
 </p>
 </td>
 </tr>
@@ -487,7 +487,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:angie.wong@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mrs Angie Wong</a>
+<p><a href="mailto:Pang_yong_hiang_angie@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Angie Wong</a>
 </p>
 </td>
 </tr>
@@ -497,7 +497,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sunil.rai@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mr Sunil Rai</a>
+<p><a href="mailto:sunil_rai@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Sunil Rai</a>
 </p>
 </td>
 </tr>
@@ -520,42 +520,42 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>6P</strong>
-<br><a href="mailto:bryan.chua@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mr Bryan Chua</a>
-<br><a href="mailto:melissa.chan@gsps.edu.sg" rel="noopener nofollow" target="_blank">Ms Melissa Chan</a>
+<br><a href="mailto:chua_aik_ching_bryan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Bryan Chua</a>
+<br><a href="mailto:chan_beng_neo_melissa@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Melissa Chan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>6T</strong>
-<br><a href="mailto:chang.yating@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mdm Chang Yating</a>
-<br><a href="mailto:ngiam.song.wee@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mr Ngiam Song Wee</a>
+<br><a href="mailto:chang_yating@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Chang Yating</a>
+<br><a href="mailto:ngiam_song_wee@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Ngiam Song Wee</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>6I</strong>
-<br><a href="mailto:yoges.singh@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mrs Yoges Wari d/o Nadarajah Singh</a>
-<br><a href="mailto:tan.chuan.song@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mr Tan Chuan Song</a>
+<br><a href="mailto:yoges_wari_nadarajah@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Yoges Wari d/o Nadarajah Singh</a>
+<br><a href="mailto:tan_chuan_song@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Tan Chuan Song</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>6R</strong>
-<br><a href="mailto:ada.lye@gsps.edu.sg" rel="noopener nofollow" target="_blank">Ms Lye Kit Yeng Ada</a>
-<br><a href="mailto:sunil.rai@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mr Sunil Rai</a>
+<br><a href="mailto:Lye_kit_yeng_ada@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Lye Kit Yeng Ada</a>
+<br><a href="mailto:sunil_rai@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Sunil Rai</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>6C</strong>
-<br><a href="mailto:dorcas.fong@gsps.edu.sg" rel="noopener nofollow" target="_blank">Ms Fong Shiyan Dorcas</a>
-<br><a href="mailto:rosilah.abdullah@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mdm Rosilah Bte Abdullah</a>
+<br><a href="mailto:fong_shiyan_dorcas@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Fong Shiyan Dorcas</a>
+<br><a href="mailto:rosilah_abdullah@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Rosilah Bte Abdullah</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>6H</strong>
-<br><a href="mailto:marsita.omar@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mdm Marsita Bte Omar</a>
-<br><a href="mailto:zheng.minghui@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mdm Zheng Minghui</a>
+<br><a href="mailto:marsita_omar@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Marsita Bte Omar</a>
+<br><a href="mailto:zheng_minghui@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Zheng Minghui</a>
 </p>
 </td>
 </tr>
