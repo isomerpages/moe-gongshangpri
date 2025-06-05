@@ -18,12 +18,16 @@ variant: tiptap
 <br><a href="mailto:noorfizah_a_b_rahman@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Noorfizah Bte A B Rahman</a>
 <br><a href="mailto:pheroza_ahmad_maricar@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Pheroza Bte Ahmad Maricar</a>
 </p>
+<p><a href="tan_mui_joo@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Amelia Tan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:suraya_mohamed_ismail_b@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Suraya Bte Mohd Ismail</a>
 <br><a href="mailto:tang_ee_peng@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Tang Ee Peng</a>
 <br><a href="mailto:teh_shi_yin@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Teh Shi Yin</a>
 <br><a href="mailto:wong_mai_ling@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Wong Mai Ling</a>
+</p>
+<p><a href="tan.whaisze@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mdm Tan Whai Sze</a>
 </p>
 </td>
 </tr>
