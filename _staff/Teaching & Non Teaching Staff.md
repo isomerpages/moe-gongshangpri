@@ -300,7 +300,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="helpdesk@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mr Zulhilmi Bin Haslim </a>
+<p><a href="helpdesk@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mr Zulhilmi Bin Haslim</a>
 </p>
 </td>
 </tr>
