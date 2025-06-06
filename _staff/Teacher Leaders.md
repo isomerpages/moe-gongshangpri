@@ -25,7 +25,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:alvinna@gsps.edu.sg" rel="noopener nofollow" target="_blank"><u>Ms Alvinna Alphonso</u></a>
+<p><a href="mailto:alvinna_alphonso@schools.gov.sg" rel="noopener nofollow" target="_blank"><u>Ms Alvinna Alphonso</u></a>
 </p>
 </td>
 </tr>
@@ -35,7 +35,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lu.yanyu@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mdm Lu Yanyu</a>
+<p><a href="mailto:lu_yanyu@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Lu Yanyu</a>
 </p>
 </td>
 </tr>
@@ -45,7 +45,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:razilah.yahya@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mdm Razilah Bte Yahya</a>
+<p><a href="mailto:razilah_yahya@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Razilah Bte Yahya</a>
 </p>
 </td>
 </tr>
@@ -55,7 +55,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sri.asilah.subari@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mdm Sri Asilah Subari</a>
+<p><a href="mailto:sri_asilah_subari@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Sri Asilah Subari</a>
 </p>
 </td>
 </tr>
@@ -65,7 +65,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:widayu.kemat@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mdm Widayu Bte Kemat</a>
+<p><a href="mailto:widayu_kemat@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Widayu Bte Kemat</a>
 </p>
 </td>
 </tr>
@@ -75,7 +75,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:suryati.abdul.latiff@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mdm Suryati Bte Abdul Latiff</a>
+<p><a href="mailto:suryati_abdul_latiff@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Suryati Bte Abdul Latiff</a>
 </p>
 </td>
 </tr>
@@ -85,7 +85,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:hazmi.hasan@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mr Hazmi B Hasan</a>
+<p><a href="mailto:hazmi_hasan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Hazmi B Hasan</a>
 </p>
 </td>
 </tr>
@@ -95,7 +95,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:dorcas.fong@gsps.edu.sg" rel="noopener nofollow" target="_blank">Ms Fong Shiyan Dorcas</a>
+<p><a href="mailto:fong_shiyan_dorcas@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Fong Shiyan Dorcas</a>
 </p>
 </td>
 </tr>
