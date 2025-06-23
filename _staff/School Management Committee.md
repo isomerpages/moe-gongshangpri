@@ -241,7 +241,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:loy_sim_lan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Yap-Loy Sim Lan</a>
+<p><a href="mailto:loy_sim_lan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Yap Loy Sim Lan</a>
 </p>
 </td>
 </tr>
