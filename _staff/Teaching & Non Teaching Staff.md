@@ -33,7 +33,7 @@ variant: tiptap
 </p>
 <p><a href="mailto:law.kimhwee@gsps.edu.sg" rel="noopener nofollow" target="_blank">Miss Law Kim Hwee</a>
 </p>
-<p><a href="noordiyana@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mdm Noordiyana</a>
+<p><a href="noordiyana@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mdm Noordiyana Binte Mohamed Shariff</a>
 </p>
 </td>
 </tr>
