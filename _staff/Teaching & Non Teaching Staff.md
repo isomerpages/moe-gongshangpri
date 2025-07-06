@@ -20,6 +20,8 @@ variant: tiptap
 </p>
 <p><a href="tan_mui_joo@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Amelia Tan</a>
 </p>
+<p><a href="liu.xiaoyun@gsps.edu.sg" rel="noopener nofollow" target="_blank">Ms Liu Xiaoyun</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:suraya_mohamed_ismail_b@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Suraya Bte Mohd Ismail</a>
@@ -28,6 +30,10 @@ variant: tiptap
 <br><a href="mailto:wong_mai_ling@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Wong Mai Ling</a>
 </p>
 <p><a href="tan.whaisze@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mdm Tan Whai Sze</a>
+</p>
+<p><a href="mailto:law.kimhwee@gsps.edu.sg" rel="noopener nofollow" target="_blank">Miss Law Kim Hwee</a>
+</p>
+<p><a href="noordiyana@gsps.edu.sg" rel="noopener nofollow" target="_blank">Mdm Noordiyana Binte Mohamed Shariff</a>
 </p>
 </td>
 </tr>
