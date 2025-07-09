@@ -12,11 +12,11 @@ to $150. To apply to join us, fill in the form here: <a href="/files/alumniappli
 <p>For more information, you may wish to contact</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="mailto:ada.lye@gsps.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Ada Lye</a>
+<p><a href="mailto:Lye_kit_yeng_ada@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Ada Lye</a>
 </p>
 </li>
 <li>
-<p><a href="mailto:teo.shaw.ping@gsps.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Teo Shaw Ping</a>
+<p><a href="mailto:teo_shaw_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Teo Shaw Ping</a>
 </p>
 </li>
 </ul>
