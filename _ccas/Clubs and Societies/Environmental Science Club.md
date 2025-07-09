@@ -24,7 +24,11 @@ fun and experiential way.</p>
 and teamwork.</p>
 </li>
 </ul>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -39,7 +43,8 @@ and teamwork.</p>
 <p>Mrs Jessie Ong (OIC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>jessie.ho@gsps.edu.sg</p>
+<p><a href="mailto:ho_jia_xin_jessie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_jia_xin_jessie@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -47,7 +52,8 @@ and teamwork.</p>
 <p>Mrs Wendy Chu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>wendy.chu@gsps.edu.sg</p>
+<p><a href="mailto:chew_suat_ling_wendy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_suat_ling_wendy@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -55,7 +61,8 @@ and teamwork.</p>
 <p>Mdm Widayu Kemat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>widayu.kemat@gsps.edu.sg</p>
+<p><a href="mailto:widayu_kemat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">widayu_kemat@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -69,7 +76,11 @@ and teamwork.</p>
 </tbody>
 </table>
 <p><strong>Training schedule:</strong>*</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
