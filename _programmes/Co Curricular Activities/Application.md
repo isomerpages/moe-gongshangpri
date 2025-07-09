@@ -21,7 +21,7 @@ school resources.</p>
 <p>Where there is an overwhelming number of applicants for a CCA, a ballot
 will be held by the HOD (PE/CCA/Aesthetics).</p>
 <p><strong>To apply for CCA, please click on the link below:</strong>
-<br><a href="https://form.gov.sg/66a855beff1c0b9a7af5b2d7" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/66a855beff1c0b9a7af5b2d7</a>
+<br><a rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/6869fc812ca7812ac64611b7</a>
 </p>
 <hr>
 <h3>Appeal for an alternative CCA</h3>
