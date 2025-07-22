@@ -131,8 +131,8 @@ of the following stages will have at least two distinct groups of stakeholders:<
 <td rowspan="1" colspan="1">
 <p>Nomination of pupils for the award is opened to all staff, pupils, parents,
 and coaches or instructors of Co-Curricular Activities. Only shortlisted
-nominees (as informed by the Form Teacher) are required to write a short
-reflection.</p>
+nominees (will be informed by the Form Teacher) are required to write a
+short reflection</p>
 </td>
 </tr>
 <tr>
@@ -147,6 +147,9 @@ will be sought from all teachers.</p>
 from the Student Development Team (SDT). The panel will look at the rank-order
 of the nominees and deliberate further. It will also present the final
 list of awardees (up to 2% of eligible pupils) to the Endorsement Panel.</p>
+<p>
+<br>
+</p>
 </td>
 </tr>
 <tr>
@@ -154,10 +157,10 @@ list of awardees (up to 2% of eligible pupils) to the Endorsement Panel.</p>
 <p>Endorsement</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Endorsement Panel comprises of the Principal, Vice-Principal (2),
-1 Key Personnel (not in the shortlisting panel) and 2 representatives from
-the Parent Support Group. The panel will conduct group dialogues with the
-shortlisted nominees.</p>
+<p>The Endorsement Panel comprises of the Principal, 1 Vice-Principal. 1
+Key Personnel (not in the shortlisting panel) and 1 representative from
+the School Advisory Committee and Parent Support Group respectively. The
+panel will conduct group dialogues with the shortlisted nominees.</p>
 </td>
 </tr>
 </tbody>
