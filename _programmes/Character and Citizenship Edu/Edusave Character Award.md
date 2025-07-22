@@ -88,23 +88,28 @@ Award according to the quantum as shown:</p>
 </tr>
 </tbody>
 </table>
-<h3>Selection</h3>
-<h4>Criteria</h4>
+<h4>Selection Criteria</h4>
 <p>The basic criterion for selection is the awardees’ strong and consistent
 demonstration of the following in their behaviour and actions:</p>
 <ul>
 <li>
-<p><strong>Excellence in Personal Conduct </strong>
+<p><strong>Excellence in Personal Conduct</strong>
 <br>Attitude in class, punctuality, adherence to the School Rules</p>
 </li>
+</ul>
+<ul>
 <li>
 <p><strong>Embodying School Values</strong>
-<br>Respect, Thrift, Integrity, Perseverance</p>
+<br>Respect, Thrift, Integrity, Perseverance as well as School Values (Perseverance,
+Thrift, Integrity and Respect as well as Courage, Harmony, Graciousness
+and Kindness)</p>
 </li>
+</ul>
+<ul>
 <li>
-<p><strong>Possessing Qualities of Resilience </strong>
-<br>Perseverance and Resilience despite of difficult circumstances, Civic
-Consciousness, Care and Harmony</p>
+<p><strong>Possessing Qualities of Resilience </strong>(despite challenging
+or difficult circumstances),<strong> Civic Responsibility, Care and Harmony</strong>
+</p>
 </li>
 </ul>
 <h4>Process</h4>
