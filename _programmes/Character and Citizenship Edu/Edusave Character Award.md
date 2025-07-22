@@ -168,11 +168,10 @@ Character Award is final.
 Character Award.</p>
 <h3>How to Nominate</h3>
 <h4>Online Nomination</h4>
-<p>Fill in the online nomination form here:&nbsp;<strong><a href="https://for.edu.sg/gsps-echa" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/gsps-echa</a></strong>
-</p>
-<h4>Hardcopy Nomination</h4>
-<p>Print a copy of the&nbsp;<a href="https://www.gongshangpri.moe.edu.sg/files/2024%20uploads/ECHA_2024_N2_Nomination_Form__Parents_Coaches___21jul24_.pdf" rel="noopener noreferrer nofollow" target="_blank">nomination form</a>.
-<br>The completed form must be duly signed and submitted to the General Office
-before the deadline.</p>
-<h3>Timeframe</h3>
+<p>Fill in the online nomination via <a href="https://go.gov.sg/gsps-echa" rel="noopener noreferrer nofollow" target="_blank">Form.sg</a> at following link:&nbsp;
+<a href="https://go.gov.sg/gsps-echa" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/gsps-echa</u>
+</a><s> </s>or QR Code.</p>
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="187" width="172" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe1RvlopkEuki0ZtanKBhTTVHR5uTvyehxeTicfJYwxfMXsot6Kd75MXKJbAq6US2H8Xq__YDR1LJDSH5JPdOjwiw-eswuP9DjtI9siSZq00ZmXStTTtPidq4xWv7FpWbZ0qBgMztAcdU8Vy-Rnhw?key=nGhDioWvXejX6AKKtpnuyw">
+</div>
 <p>The nomination for 2024 has ended.</p>
