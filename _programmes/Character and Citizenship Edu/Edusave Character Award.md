@@ -181,7 +181,6 @@ Character Award.</p>
 <a href="https://go.gov.sg/gsps-echa" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/gsps-echa</u>
 </a><s> </s>or QR Code.</p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="187" width="172" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe1RvlopkEuki0ZtanKBhTTVHR5uTvyehxeTicfJYwxfMXsot6Kd75MXKJbAq6US2H8Xq__YDR1LJDSH5JPdOjwiw-eswuP9DjtI9siSZq00ZmXStTTtPidq4xWv7FpWbZ0qBgMztAcdU8Vy-Rnhw?key=nGhDioWvXejX6AKKtpnuyw">
+<img style="width: 50%;" height="187" width="172" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe1RvlopkEuki0ZtanKBhTTVHR5uTvyehxeTicfJYwxfMXsot6Kd75MXKJbAq6US2H8Xq__YDR1LJDSH5JPdOjwiw-eswuP9DjtI9siSZq00ZmXStTTtPidq4xWv7FpWbZ0qBgMztAcdU8Vy-Rnhw?key=nGhDioWvXejX6AKKtpnuyw">
 </div>
 <p>The nomination for 2025 will end on Tuesday, 12 August 2025 at 5.00 pm</p>
-<p>The nomination for 2024 has ended.</p>
