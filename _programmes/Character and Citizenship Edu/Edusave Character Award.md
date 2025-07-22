@@ -16,10 +16,10 @@ citizens.</p>
 <p>ECHA aims to recognise pupils for demonstrating exemplary values and civic
 responsibility through their behaviour and actions. This is aligned with
 MOE’s emphasis on Values, Character and Citizenship Education.</p>
-<h3>Eligibility</h3>
+<h3><strong>Eligibility</strong></h3>
 <p>To qualify for the Edusave Character Award, every nominee must meet the
 criteria as stipulated in both the Basic Tier and the 2nd Tier:</p>
-<h4>Criteria for Basic Tier</h4>
+<p>Criteria for Basic Tier</p>
 <ul>
 <li>
 <p>Student of Gongshang Primary for at least 6 months at the point of nomination</p>
@@ -36,15 +36,16 @@ the current year</p>
 display of personal qualities</p>
 </li>
 </ul>
-<h4>Criteria for 2nd Tier</h4>
+<h4><strong>Criteria for 2nd Tier</strong></h4>
 <p>In addition, the nominee must strongly and consistently demonstrate the
 following qualities in both behaviour and actions:</p>
 <ul>
 <li>
-<p>School Values (Respect, Thrift, Integrity, Perseverance)</p>
+<p>School Values (Perseverance, Thrift, Integrity and Respect as well as
+Courage, Harmony, Graciousness and Kindness)</p>
 </li>
 <li>
-<p>Qualities of Resilience / Civic Consciousness / Care and Harmony.
+<p>Qualities of Resilience / Civic Responsibility / Care for Others.
 <br>Pupils demonstrated how they have persevered and shown resilience despite
 difficult circumstances (e.g. through financial difficulties, facing family
 issues, health issues etc.) and have managed to overcome the odds and still
