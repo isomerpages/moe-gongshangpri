@@ -16,10 +16,10 @@ citizens.</p>
 <p>ECHA aims to recognise pupils for demonstrating exemplary values and civic
 responsibility through their behaviour and actions. This is aligned with
 MOE’s emphasis on Values, Character and Citizenship Education.</p>
-<h3>Eligibility</h3>
+<h3><strong>Eligibility</strong></h3>
 <p>To qualify for the Edusave Character Award, every nominee must meet the
 criteria as stipulated in both the Basic Tier and the 2nd Tier:</p>
-<h4>Criteria for Basic Tier</h4>
+<p>Criteria for Basic Tier</p>
 <ul>
 <li>
 <p>Student of Gongshang Primary for at least 6 months at the point of nomination</p>
@@ -36,15 +36,16 @@ the current year</p>
 display of personal qualities</p>
 </li>
 </ul>
-<h4>Criteria for 2nd Tier</h4>
+<h4><strong>Criteria for 2nd Tier</strong></h4>
 <p>In addition, the nominee must strongly and consistently demonstrate the
 following qualities in both behaviour and actions:</p>
 <ul>
 <li>
-<p>School Values (Respect, Thrift, Integrity, Perseverance)</p>
+<p>School Values (Perseverance, Thrift, Integrity and Respect as well as
+Courage, Harmony, Graciousness and Kindness)</p>
 </li>
 <li>
-<p>Qualities of Resilience / Civic Consciousness / Care and Harmony.
+<p>Qualities of Resilience / Civic Responsibility / Care for Others.
 <br>Pupils demonstrated how they have persevered and shown resilience despite
 difficult circumstances (e.g. through financial difficulties, facing family
 issues, health issues etc.) and have managed to overcome the odds and still
@@ -88,23 +89,28 @@ Award according to the quantum as shown:</p>
 </tr>
 </tbody>
 </table>
-<h3>Selection</h3>
-<h4>Criteria</h4>
+<h4>Selection Criteria</h4>
 <p>The basic criterion for selection is the awardees’ strong and consistent
 demonstration of the following in their behaviour and actions:</p>
 <ul>
 <li>
-<p><strong>Excellence in Personal Conduct </strong>
+<p><strong>Excellence in Personal Conduct</strong>
 <br>Attitude in class, punctuality, adherence to the School Rules</p>
 </li>
+</ul>
+<ul>
 <li>
 <p><strong>Embodying School Values</strong>
-<br>Respect, Thrift, Integrity, Perseverance</p>
+<br>Respect, Thrift, Integrity, Perseverance as well as School Values (Perseverance,
+Thrift, Integrity and Respect as well as Courage, Harmony, Graciousness
+and Kindness)</p>
 </li>
+</ul>
+<ul>
 <li>
-<p><strong>Possessing Qualities of Resilience </strong>
-<br>Perseverance and Resilience despite of difficult circumstances, Civic
-Consciousness, Care and Harmony</p>
+<p><strong>Possessing Qualities of Resilience </strong>(despite challenging
+or difficult circumstances),<strong> Civic Responsibility, Care and Harmony</strong>
+</p>
 </li>
 </ul>
 <h4>Process</h4>
@@ -131,8 +137,8 @@ of the following stages will have at least two distinct groups of stakeholders:<
 <td rowspan="1" colspan="1">
 <p>Nomination of pupils for the award is opened to all staff, pupils, parents,
 and coaches or instructors of Co-Curricular Activities. Only shortlisted
-nominees (as informed by the Form Teacher) are required to write a short
-reflection.</p>
+nominees (will be informed by the Form Teacher) are required to write a
+short reflection</p>
 </td>
 </tr>
 <tr>
@@ -147,6 +153,9 @@ will be sought from all teachers.</p>
 from the Student Development Team (SDT). The panel will look at the rank-order
 of the nominees and deliberate further. It will also present the final
 list of awardees (up to 2% of eligible pupils) to the Endorsement Panel.</p>
+<p>
+<br>
+</p>
 </td>
 </tr>
 <tr>
@@ -154,10 +163,10 @@ list of awardees (up to 2% of eligible pupils) to the Endorsement Panel.</p>
 <p>Endorsement</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Endorsement Panel comprises of the Principal, Vice-Principal (2),
-1 Key Personnel (not in the shortlisting panel) and 2 representatives from
-the Parent Support Group. The panel will conduct group dialogues with the
-shortlisted nominees.</p>
+<p>The Endorsement Panel comprises of the Principal, 1 Vice-Principal. 1
+Key Personnel (not in the shortlisting panel) and 1 representative from
+the School Advisory Committee and Parent Support Group respectively. The
+panel will conduct group dialogues with the shortlisted nominees.</p>
 </td>
 </tr>
 </tbody>
@@ -168,11 +177,6 @@ Character Award is final.
 Character Award.</p>
 <h3>How to Nominate</h3>
 <h4>Online Nomination</h4>
-<p>Fill in the online nomination form here:&nbsp;<strong><a href="https://for.edu.sg/gsps-echa" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/gsps-echa</a></strong>
-</p>
-<h4>Hardcopy Nomination</h4>
-<p>Print a copy of the&nbsp;<a href="https://www.gongshangpri.moe.edu.sg/files/2024%20uploads/ECHA_2024_N2_Nomination_Form__Parents_Coaches___21jul24_.pdf" rel="noopener noreferrer nofollow" target="_blank">nomination form</a>.
-<br>The completed form must be duly signed and submitted to the General Office
-before the deadline.</p>
-<h3>Timeframe</h3>
-<p>The nomination for 2024 has ended.</p>
+<p>Fill in the online nomination form at <a href="https://go.gov.sg/gsps-echa" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/gsps-echa </u></a>or
+scan the QR Code below:</p><a class="isomer-image-wrapper" href="https://go.gov.sg/gsps-echa"><img style="width: 50%;" height="187" width="172" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe1RvlopkEuki0ZtanKBhTTVHR5uTvyehxeTicfJYwxfMXsot6Kd75MXKJbAq6US2H8Xq__YDR1LJDSH5JPdOjwiw-eswuP9DjtI9siSZq00ZmXStTTtPidq4xWv7FpWbZ0qBgMztAcdU8Vy-Rnhw?key=nGhDioWvXejX6AKKtpnuyw"></a>
+<p>The nomination for 2025 will end on Tuesday, 12 Aug 2025 at 5 pm</p>
