@@ -179,8 +179,5 @@ Character Award.</p>
 <h4>Online Nomination</h4>
 <p>Fill in the online nomination via <a href="https://go.gov.sg/gsps-echa" rel="noopener noreferrer nofollow" target="_blank">Form.sg</a> at following link:&nbsp;
 <a href="https://go.gov.sg/gsps-echa" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/gsps-echa</u>
-</a><s> </s>or QR Code.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="187" width="172" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe1RvlopkEuki0ZtanKBhTTVHR5uTvyehxeTicfJYwxfMXsot6Kd75MXKJbAq6US2H8Xq__YDR1LJDSH5JPdOjwiw-eswuP9DjtI9siSZq00ZmXStTTtPidq4xWv7FpWbZ0qBgMztAcdU8Vy-Rnhw?key=nGhDioWvXejX6AKKtpnuyw">
-</div>
+</a><s> </s>or QR Code.</p><a class="isomer-image-wrapper" href="https://go.gov.sg/gsps-echa"><img style="width: 50%;" height="187" width="172" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe1RvlopkEuki0ZtanKBhTTVHR5uTvyehxeTicfJYwxfMXsot6Kd75MXKJbAq6US2H8Xq__YDR1LJDSH5JPdOjwiw-eswuP9DjtI9siSZq00ZmXStTTtPidq4xWv7FpWbZ0qBgMztAcdU8Vy-Rnhw?key=nGhDioWvXejX6AKKtpnuyw"></a>
 <p>The nomination for 2025 will end on Tuesday, 12 August 2025 at 5.00 pm</p>
