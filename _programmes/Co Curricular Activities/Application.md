@@ -20,8 +20,8 @@ allocation a function of student vacancies vis-a-vis the availability of
 school resources.</p>
 <p>Where there is an overwhelming number of applicants for a CCA, a ballot
 will be held by the HOD (PE/CCA/Aesthetics).</p>
-<p><strong>To apply for CCA, please click on the link below:</strong>
-<br><a rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/6869fc812ca7812ac64611b7</a>
+<p><strong><a href="https://form.gov.sg/6869fc812ca7812ac64611b7" rel="noopener nofollow" target="_blank">Click here to apply for CCA</a></strong>
+<br>
 </p>
 <hr>
 <h3>Appeal for an alternative CCA</h3>
@@ -31,14 +31,13 @@ a fair time for a pupil to learn about the CCA experientially.</p>
 <p>The outcome of any appeal will be subject to available vacancies. Should
 there be no vacancy, the pupil will be placed on the wait-list.</p>
 <p></p>
-<p><strong>To appeal for an alternative CCA, please click on the link below:</strong>
-<br><a href="https://form.gov.sg/66aaea312ad5e83f3140bae9" rel="noopener noreferrer nofollow" target="_blank"><u>https://form.gov.sg/66aaea312ad5e83f3140bae9</u></a>
+<p><strong><a href="https://form.gov.sg/6869fc812ca7812ac64611b7" rel="noopener nofollow" target="_blank">Click here to appeal for an alternative CCA</a></strong>
 </p>
 <hr>
 <h4>Further Enquiries</h4>
 <p></p>
-<p>For CCA enquiries and feedback, please contact <strong><a href="mailto:mehrun.nisha@gsps.edu.sg" rel="noopener nofollow" target="_blank">HOD (PE/CCA/Aesthetics) Mdm Mehrun Nisha</a></strong>
+<p>For CCA enquiries and feedback, please contact <strong><a href="mailto:mehrun_nisha@schools.gov.sg" rel="noopener nofollow" target="_blank">HOD (PE/CCA/Aesthetics) Mdm Mehrun Nisha</a></strong>
 </p>
-<p>For sports-related enquiries, please contact <strong><a href="mailto:foo.tsehchyn@gsps.edu.sg" rel="noopener nofollow" target="_blank">SH (PE/CCA) Mdm Foo Tseh Chyn</a></strong>
+<p>For sports-related enquiries, please contact <strong><a href="mailto:foo_tseh_chyn@schools.gov.sg" rel="noopener nofollow" target="_blank">SH (PE/CCA) Mdm Foo Tseh Chyn</a></strong>
 </p>
 <p></p>
