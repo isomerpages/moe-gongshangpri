@@ -13,16 +13,16 @@ personal qualities through their behaviour and actions.</p>
 <p>The award also supports schools’ continuing efforts in nurturing pupils
 of good values and character, who are active contributors and concerned
 citizens.</p>
-<p>ECHA aims to recognise pupils for demonstrating exemplary values and civic
-responsibility through their behaviour and actions. This is aligned with
-MOE’s emphasis on Values, Character and Citizenship Education.</p>
+<p>The ECHA aims to recognise pupils for demonstrating exemplary values and
+civic responsibility through their behaviour and actions. This is aligned
+with MOE’s emphasis on Values, Character and Citizenship Education.</p>
 <h3><strong>Eligibility</strong></h3>
 <p>To qualify for the Edusave Character Award, every nominee must meet the
 criteria as stipulated in both the Basic Tier and the 2nd Tier:</p>
 <p>Criteria for Basic Tier</p>
 <ul>
 <li>
-<p>Student of Gongshang Primary for at least 6 months at the point of nomination</p>
+<p>Pupil of Gongshang Primary for at least 6 months at the point of nomination</p>
 </li>
 <li>
 <p>Singapore Citizen</p>
@@ -45,11 +45,11 @@ following qualities in both behaviour and actions:</p>
 Courage, Harmony, Graciousness and Kindness)</p>
 </li>
 <li>
-<p>Qualities of Resilience / Civic Responsibility / Care for Others.
+<p>Qualities of Resilience / Civic Responsibility / Care for Others
 <br>Pupils demonstrated how they have persevered and shown resilience despite
 difficult circumstances (e.g. through financial difficulties, facing family
-issues, health issues etc.) and have managed to overcome the odds and still
-do commendably well in both academic and non-academic domains.</p>
+issues, health issues, etc.) and have managed to overcome the odds and
+still do commendably well in both academic and non-academic domains.</p>
 </li>
 </ul>
 <p>The maximum quota per year for each mainstream school is set at up to
@@ -101,15 +101,14 @@ demonstration of the following in their behaviour and actions:</p>
 <ul>
 <li>
 <p><strong>Embodying School Values</strong>
-<br>Respect, Thrift, Integrity, Perseverance as well as School Values (Perseverance,
-Thrift, Integrity and Respect as well as Courage, Harmony, Graciousness
-and Kindness)</p>
+<br>(Perseverance, Thrift, Integrity and Respect as well as Courage, Harmony,
+Graciousness and Kindness)</p>
 </li>
 </ul>
 <ul>
 <li>
 <p><strong>Possessing Qualities of Resilience </strong>(despite challenging
-or difficult circumstances),<strong> Civic Responsibility, Care and Harmony</strong>
+or difficult circumstances),<strong> Civic Responsibility </strong>and<strong> Care for Others</strong>
 </p>
 </li>
 </ul>
@@ -164,9 +163,10 @@ list of awardees (up to 2% of eligible pupils) to the Endorsement Panel.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The Endorsement Panel comprises of the Principal, 1 Vice-Principal. 1
-Key Personnel (not in the shortlisting panel) and 1 representative from
-the School Advisory Committee and Parent Support Group respectively. The
-panel will conduct group dialogues with the shortlisted nominees.</p>
+Key Personnel (not in the Shortlisting / Selection Panel) and 1 representative
+from the School Advisory Committee (SAC) and Parent Support Group (PSG)
+respectively. The panel will conduct group dialogues with the shortlisted
+nominees.</p>
 </td>
 </tr>
 </tbody>
