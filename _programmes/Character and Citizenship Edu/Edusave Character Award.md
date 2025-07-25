@@ -13,16 +13,16 @@ personal qualities through their behaviour and actions.</p>
 <p>The award also supports schools’ continuing efforts in nurturing pupils
 of good values and character, who are active contributors and concerned
 citizens.</p>
-<p>ECHA aims to recognise pupils for demonstrating exemplary values and civic
-responsibility through their behaviour and actions. This is aligned with
-MOE’s emphasis on Values, Character and Citizenship Education.</p>
+<p>The ECHA aims to recognise pupils for demonstrating exemplary values and
+civic responsibility through their behaviour and actions. This is aligned
+with MOE’s emphasis on Values, Character and Citizenship Education.</p>
 <h3><strong>Eligibility</strong></h3>
 <p>To qualify for the Edusave Character Award, every nominee must meet the
 criteria as stipulated in both the Basic Tier and the 2nd Tier:</p>
 <p>Criteria for Basic Tier</p>
 <ul>
 <li>
-<p>Student of Gongshang Primary for at least 6 months at the point of nomination</p>
+<p>Pupil of Gongshang Primary for at least 6 months at the point of nomination</p>
 </li>
 <li>
 <p>Singapore Citizen</p>
@@ -101,9 +101,8 @@ demonstration of the following in their behaviour and actions:</p>
 <ul>
 <li>
 <p><strong>Embodying School Values</strong>
-<br>Respect, Thrift, Integrity, Perseverance as well as School Values (Perseverance,
-Thrift, Integrity and Respect as well as Courage, Harmony, Graciousness
-and Kindness)</p>
+<br>Perseverance, Thrift, Integrity, Respect as well as Courage, Harmony,
+Graciousness and Kindness)</p>
 </li>
 </ul>
 <ul>
@@ -164,9 +163,10 @@ list of awardees (up to 2% of eligible pupils) to the Endorsement Panel.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The Endorsement Panel comprises of the Principal, 1 Vice-Principal. 1
-Key Personnel (not in the shortlisting panel) and 1 representative from
-the School Advisory Committee and Parent Support Group respectively. The
-panel will conduct group dialogues with the shortlisted nominees.</p>
+Key Personnel (not in the Shortlisting/ Selection Panel) and 1 representative
+from the School Advisory Committee (SAC) and Parent Support Group (PSG)
+respectively. The panel will conduct group dialogues with the shortlisted
+nominees.</p>
 </td>
 </tr>
 </tbody>
