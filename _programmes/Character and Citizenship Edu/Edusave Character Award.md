@@ -101,14 +101,14 @@ demonstration of the following in their behaviour and actions:</p>
 <ul>
 <li>
 <p><strong>Embodying School Values</strong>
-<br>(Perseverance, Thrift, Integrity, Respect as well as Courage, Harmony,
+<br>(Perseverance, Thrift, Integrity and Respect as well as Courage, Harmony,
 Graciousness and Kindness)</p>
 </li>
 </ul>
 <ul>
 <li>
 <p><strong>Possessing Qualities of Resilience </strong>(despite challenging
-or difficult circumstances),<strong> Civic Responsibility, Care for Others and Harmony</strong>
+or difficult circumstances),<strong> Civic Responsibility and Care for Others</strong>
 </p>
 </li>
 </ul>
