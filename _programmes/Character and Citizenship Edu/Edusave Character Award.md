@@ -108,7 +108,7 @@ Graciousness and Kindness)</p>
 <ul>
 <li>
 <p><strong>Possessing Qualities of Resilience </strong>(despite challenging
-or difficult circumstances),<strong> Civic Responsibility, Care and Harmony</strong>
+or difficult circumstances),<strong> Civic Responsibility, Care for Others and Harmony</strong>
 </p>
 </li>
 </ul>
