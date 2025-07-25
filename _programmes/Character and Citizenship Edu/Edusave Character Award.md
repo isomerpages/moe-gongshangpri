@@ -48,8 +48,8 @@ Courage, Harmony, Graciousness and Kindness)</p>
 <p>Qualities of Resilience / Civic Responsibility / Care for Others.
 <br>Pupils demonstrated how they have persevered and shown resilience despite
 difficult circumstances (e.g. through financial difficulties, facing family
-issues, health issues etc.) and have managed to overcome the odds and still
-do commendably well in both academic and non-academic domains.</p>
+issues, health issues, etc.) and have managed to overcome the odds and
+still do commendably well in both academic and non-academic domains.</p>
 </li>
 </ul>
 <p>The maximum quota per year for each mainstream school is set at up to
@@ -101,7 +101,7 @@ demonstration of the following in their behaviour and actions:</p>
 <ul>
 <li>
 <p><strong>Embodying School Values</strong>
-<br>Perseverance, Thrift, Integrity, Respect as well as Courage, Harmony,
+<br>(Perseverance, Thrift, Integrity, Respect as well as Courage, Harmony,
 Graciousness and Kindness)</p>
 </li>
 </ul>
@@ -163,7 +163,7 @@ list of awardees (up to 2% of eligible pupils) to the Endorsement Panel.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The Endorsement Panel comprises of the Principal, 1 Vice-Principal. 1
-Key Personnel (not in the Shortlisting/ Selection Panel) and 1 representative
+Key Personnel (not in the Shortlisting / Selection Panel) and 1 representative
 from the School Advisory Committee (SAC) and Parent Support Group (PSG)
 respectively. The panel will conduct group dialogues with the shortlisted
 nominees.</p>
