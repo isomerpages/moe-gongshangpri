@@ -45,7 +45,7 @@ following qualities in both behaviour and actions:</p>
 Courage, Harmony, Graciousness and Kindness)</p>
 </li>
 <li>
-<p>Qualities of Resilience / Civic Responsibility / Care for Others.
+<p>Qualities of Resilience / Civic Responsibility / Care for Others
 <br>Pupils demonstrated how they have persevered and shown resilience despite
 difficult circumstances (e.g. through financial difficulties, facing family
 issues, health issues, etc.) and have managed to overcome the odds and
