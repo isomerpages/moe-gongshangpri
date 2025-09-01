@@ -8,9 +8,9 @@ image: ""
 variant: tiptap
 ---
 <p>Dear Gongshang Alumni,</p>
-<p>We are delighted to welcome you back to reconnect with your teachers on <strong>Thursday, 4 September 2025</strong>,
-between <strong>10:45 am to 12:30 pm</strong>, as part of our Teachers’
-Day Celebration.</p>
+<p>As part of our Teachers’ Day Celebration, we are delighted to welcome
+you back to reconnect with your teachers on <strong>Thursday, 4 September 2025</strong>, <strong>after 11.15am</strong>.
+Please wait in the canteen if you do arrive earlier.</p>
 <p></p>
 <p>To help us make your visit smooth and meaningful, please take note of
 the following:</p>
