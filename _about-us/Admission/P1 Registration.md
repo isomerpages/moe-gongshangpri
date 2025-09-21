@@ -8,9 +8,8 @@ third_nav_title: Admission
 <p>Primary 1 Registration is conducted centrally by MOE from June to September
 every year, for parents to register their children in primary schools.</p>
 <p></p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -18,9 +17,6 @@ every year, for parents to register their children in primary schools.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p>Phase</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Period</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Description</p>
@@ -31,18 +27,12 @@ every year, for parents to register their children in primary schools.</p>
 <p>Phase 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 Jul - 4 Jul</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>For a child who has a sibling studying in the primary school.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Phase 2A</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>11 Jul - 12 Jul</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For a child:</p>
@@ -70,9 +60,6 @@ primary school.</p>
 <p>Phase 2B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>22 Jul - 23 Jul</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>For a child:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -95,18 +82,12 @@ with the primary school.</p>
 <p>Phase 2C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 Jul - 1 Aug</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>For a child who is not yet registered in a primary school.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Phase 2C Supplementary</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>15 Aug - 16 Aug</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For a child who is not yet registered in a primary school after Phase
