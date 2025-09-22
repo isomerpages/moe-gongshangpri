@@ -135,23 +135,27 @@ Parents Gateway.</p>
 <p><strong>SYF 2022 at SOTA</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:80%; margin-bottom:15px" height="auto" width="100%" src="/images/stringensemble1.jpg">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width:80%; margin-bottom:15px" height="auto" width="100%" src="/images/stringensemble2.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/stringensemble3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 uploads/WhatsApp_Image_2025_07_02_at_8_52_11_AM__1_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 uploads/WhatsApp_Image_2025_07_02_at_8_52_12_AM.jpg">
 </div>
 <p><strong>We enjoy playing music!</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80%; margin-bottom:15px" height="auto" width="100%" src="/images/stringensemble4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 uploads/WhatsApp_Image_2025_07_02_at_8_52_11_AM.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80%; margin-bottom:15px" height="auto" width="100%" src="/images/stringensemble5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 uploads/WhatsApp_Image_2025_09_22_at_11_11_52_AM.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/stringensemble6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 uploads/WhatsApp_Image_2025_09_22_at_11_05_30_AM.jpg">
 </div>
 <p></p>
