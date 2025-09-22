@@ -138,14 +138,14 @@ Parents Gateway.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Floorball/3_Reflecting_on_areas_to_improve_before_starting_the_next_practice_match.jpeg">
 </div>
 <p></p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 uploads/WhatsApp_Image_2025_09_22_at_9_34_59_AM__1_.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 uploads/WhatsApp_Image_2025_09_22_at_9_34_59_AM.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Floorball/6_Developing_team_camaraderie_through_our_weekly_trainings.jpg">
 </div>
