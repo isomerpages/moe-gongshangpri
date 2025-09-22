@@ -24,7 +24,11 @@ be able to pursue various sporting endeavours with confidence.</p>
 with our school values</p>
 </li>
 </ul>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -78,7 +82,11 @@ with our school values</p>
 </table>
 <p><strong>Training Schedule*</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -131,11 +139,11 @@ Parents Gateway.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Floorball/4_Listening_to_Coach_Khai_before_the_practise.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 uploads/WhatsApp_Image_2025_09_22_at_9_34_59_AM__1_.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Floorball/5_Getting_ready_for_our_first_training_session_of_the_year_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 uploads/WhatsApp_Image_2025_09_22_at_9_34_59_AM.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">

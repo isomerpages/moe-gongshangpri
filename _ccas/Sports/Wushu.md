@@ -25,7 +25,11 @@ are opportunities created for our students to also dazzle the audience
 with breathtaking performances during school events. With continued support
 from all of us. our students will have a memorable and successful experience,
 fostering a spirit of camaraderie and sportsmanship.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -86,7 +90,11 @@ fostering a spirit of camaraderie and sportsmanship.</p>
 </tbody>
 </table>
 <p><strong>Training Schedule</strong>*</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -125,12 +133,13 @@ fostering a spirit of camaraderie and sportsmanship.</p>
 <p>*Pupils may refer to their own schedules given in the letter sent via
 Parents Gateway.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Wushu/Photo1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 uploads/WhatsApp_Image_2025_09_22_at_9_50_04_AM.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Wushu/Photo2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 uploads/WhatsApp_Image_2025_09_22_at_9_50_23_AM.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -146,6 +155,6 @@ Parents Gateway.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Wushu/Photo6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 uploads/WhatsApp_Image_2025_09_22_at_9_50_50_AM.jpg">
 </div>
 <p></p>
