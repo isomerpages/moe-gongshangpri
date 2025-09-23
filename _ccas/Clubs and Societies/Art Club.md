@@ -150,28 +150,5 @@ pupils.
 <div class="isomer-image-wrapper">
 <img style="width:85%;margin-bottom:15px" height="auto" width="100%" src="/images/ac13.jpg">
 </div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:85%;margin-bottom:15px" height="auto" width="100%" src="images/Art Club/scottartclub1.jpg">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:85%;margin-bottom:15px" height="auto" width="100%" src="images/Art Club/scottartclub3.jpg">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:85%;margin-bottom:15px" height="auto" width="100%" src="images/Art Club/scottartclub4.jpg">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:85%;margin-bottom:15px" height="auto" width="100%" src="images/Art Club/scottartclub5.jpg">
-</div>
+<p></p>
 <p></p>
