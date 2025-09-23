@@ -32,7 +32,11 @@ ideas</p>
 <p>ICT – to use technological tools to express and share their ideas</p>
 </li>
 </ul>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -62,7 +66,12 @@ ideas</p>
 </table>
 <p><strong>Training schedule:</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -92,12 +101,18 @@ ideas</p>
 <img style="width:80%;margin-bottom:15px" height="auto" width="100%" src="/images/snd1.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width:80%;margin-bottom:15px" height="auto" width="100%" src="/images/snd2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 uploads/WhatsApp_Image_2025_09_23_at_9_21_21_AM.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:80%;margin-bottom:15px" height="auto" width="100%" src="/images/snd3.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/snd4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 uploads/WhatsApp_Image_2025_09_23_at_9_21_20_AM.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 uploads/WhatsApp_Image_2025_09_23_at_9_21_21_AM__1_.jpg">
 </div>
 <p></p>
