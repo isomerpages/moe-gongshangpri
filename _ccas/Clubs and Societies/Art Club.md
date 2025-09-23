@@ -132,23 +132,22 @@ pupils.
 <br>- Earth Day Competition 2023
 <br>- National Day Art Competition 2023</p>
 <h4><strong>Pupils and teachers in action</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:85%; margin-bottom:15px" height="auto" width="100%" src="/images/ac9.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 uploads/WhatsApp_Image_2025_09_23_at_9_52_59_AM.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:85%; margin-bottom:15px" height="auto" width="100%" src="/images/ac10.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:85%; margin-bottom:15px" height="auto" width="100%" src="/images/ac11.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 uploads/WhatsApp_Image_2025_09_23_at_9_53_00_AM.jpg">
 </div>
 <p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:85%; margin-bottom:15px" height="auto" width="100%" src="/images/ac12.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:85%;margin-bottom:15px" height="auto" width="100%" src="/images/ac13.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 uploads/WhatsApp_Image_2025_09_23_at_9_53_00_AM__1_.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 uploads/WhatsApp_Image_2025_09_23_at_9_53_01_AM.jpg">
+</div>
 <p></p>
