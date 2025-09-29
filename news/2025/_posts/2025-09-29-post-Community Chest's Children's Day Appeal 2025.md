@@ -13,7 +13,10 @@ where every dream can take flight. In this milestone year, the Children’s
 Day Appeal (CDA) 2025 continues to nurture caring and sharing, encouraging
 children to embrace the spirit of giving and grow into compassionate, community-minded
 individuals.</p>
-<p>&lt;pending picture&gt;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 uploads/cda2025_page.jpg">
+</div>
 <p>In conjunction with Children’s Day on 3 October 2025, Gongshang Primary
 School has accepted the invitation to once again be part of the Children’s
 Day Appeal (CDA) 2025, organised by Community Chest as part of the school’s
@@ -36,7 +39,10 @@ of each act of kindness.</p>
 the PayNow QR code below to contribute — together, your family’s support
 will uplift lives and inspire young hearts to lead with kindness and embrace
 inclusivity.</p>
-<p>&lt;pending picture&gt;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2025 uploads/comchestQR25.png">
+</div>
 <p>As we celebrate SG60 with CDA, let’s remember how far we have come and
 how much more we can achieve together. May every small act of giving help
 a million dreams take flight.</p>
