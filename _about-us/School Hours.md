@@ -172,6 +172,10 @@ am each day.</p>
 </tr>
 </tbody>
 </table>
+<p>Snack breaks will take place during lesson time, and students may eat
+in the classroom. For your child’s well-being, please pack only light and
+healthy snacks (e.g. uncut fruits, biscuits, buns). Only water is allowed
+— packet or sweetened drinks are not permitted.</p>
 <h3><strong>Dismissal</strong></h3>
 <p>For the safety of our younger pupils, P1 and P2 pupils are dismissed earlier:&nbsp;</p>
 <table style="minWidth: 50px">
