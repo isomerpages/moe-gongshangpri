@@ -129,6 +129,10 @@ homework. If homework is to be given during the school holidays, the daily
 homework load will not be more than 50% of the daily load given during
 the school week.</p>
 <h4><strong>Types of Homework</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/2025 uploads/homework.png">
+</div>
 <p>Homework can be thought of as four types which serve different purposes:</p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -241,6 +245,17 @@ and resourcefulness</p>
 <p>Create new designs, plans or proposals</p>
 </li>
 </ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
