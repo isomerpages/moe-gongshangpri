@@ -111,9 +111,9 @@ by academic levels.</p>
 </tbody>
 </table>
 <p>Subject teachers will coordinate their assignment of homework to ensure
-students are not overloaded.</p>
-<p>EL and MTL departments will coordinate weekly spelling so that they do
-not fall on the same day of the week.</p>
+students are not overloaded. In particular, EL and MTL departments will
+coordinate weekly spelling so that they do not fall on the same day of
+the week.</p>
 <p>Reading is essential and it is expected that all students read daily.
 Therefore reading assignments (e.g. reading aloud to others, reading quietly)
 may also be given as homework.</p>
@@ -154,7 +154,8 @@ the school week.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Prepare</p>
+<p><strong>Prepare</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Prepare students for upcoming lessons</p>
@@ -181,7 +182,8 @@ the school week.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Practise</p>
+<p><strong>Practise</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Provide students with review and reinforcement of knowledge and skills
@@ -207,7 +209,8 @@ knowledge and deepening of conceptual understanding</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Extend</p>
+<p><strong>Extend</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Stretch students' conceptual understanding from knowledge and skills introduced
@@ -229,7 +232,8 @@ in lesson(s) so as to encourage collaborative and self-directed pursuit</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Create</p>
+<p><strong>Create</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Provide students with opportunities that allow them to create, analyse,
