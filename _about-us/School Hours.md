@@ -172,6 +172,10 @@ am each day.</p>
 </tr>
 </tbody>
 </table>
+<p>Snack breaks will take place during lesson time, and students may eat
+in the classroom. For your child’s well-being, please pack only light and
+healthy snacks (e.g. uncut fruits, biscuits, buns). Only water is allowed
+— packet or sweetened drinks are not permitted.</p>
 <h3><strong>Dismissal</strong></h3>
 <p>For the safety of our younger pupils, P1 and P2 pupils are dismissed earlier:&nbsp;</p>
 <table style="minWidth: 50px">
@@ -220,6 +224,97 @@ am each day.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Parents/guardians are to wait for their children at the <strong>designated dismissal points</strong> near
+the school gates and should not go beyond these areas:
+<br>• Main Gate (Tampines St 42)
+<br>• Side Gate (Tampines Ave 7)</p>
+<p><strong>School Bus Service:</strong>
+<br>Students taking school buses will gather at the foyer before boarding.
+School staff and bus operators will assist, and buses will depart from <strong>1.40 pm onwards</strong>.</p>
+<p><strong>Private Vehicles:</strong>
+<br>The main gate will open for vehicles <strong>after 1.45 pm</strong>, once
+school buses have left. Parents may then pick up their children safely
+at the <strong>sheltered Pick-Up/Drop-Off point (PUDO)</strong>. Please
+refer to the table below for details on pick-up after CCA.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Mon – Fri</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Mon/Tue/Thu (after CCA)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Wed (after CCA)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>After 1.45 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>After 4.30 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>After 4 pm</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>If a student is found waiting for more than <strong>15 minutes</strong> at
+the PUDO beyond the stipulated time, he/she will be brought to the <strong>General Office</strong> for
+safety reasons. Parents arriving late should proceed to the General Office
+for pick-up.</p>
+<p><strong>Students with Siblings / After-School Student Care:</strong>
+<br>Students waiting for siblings or after-school care providers will wait
+at the <strong>designated areas</strong>, unless alternative arrangements
+have been made.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Students</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Waiting Area</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Waiting for siblings</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>In front of school bookshop at the canteen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>External After-School Student Care</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Foyer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School-based Student Care Centre</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Respective classrooms</p>
 </td>
 </tr>
 </tbody>
