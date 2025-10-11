@@ -229,17 +229,45 @@ healthy snacks (e.g. uncut fruits, biscuits, buns). Only water is allowed
 </tbody>
 </table>
 <p>Parents/guardians are to wait for their children at the <strong>designated dismissal points</strong> near
-the school gates and should not go beyond these areas:
-<br>• Main Gate (Tampines St 42)
-<br>• Side Gate (Tampines Ave 7)</p>
-<p><strong>School Bus Service:</strong>
-<br>Students taking school buses will gather at the foyer before boarding.
-School staff and bus operators will assist, and buses will depart from <strong>1.40 pm onwards</strong>.</p>
-<p><strong>Private Vehicles:</strong>
-<br>The main gate will open for vehicles <strong>after 1.45 pm</strong>, once
-school buses have left. Parents may then pick up their children safely
-at the <strong>sheltered Pick-Up/Drop-Off point (PUDO)</strong>. Please
-refer to the table below for details on pick-up after CCA.</p>
+the school gates and should not go beyond these areas:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/d/u/0/embed?mid=1aksC-FGv0sJUpGpD3tDEq2aANdNghl0&amp;ehbc=2E312F&amp;noprof=1&amp;ll=1.35756,103.95018&amp;z=19&amp;t=m"></iframe>
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/d/u/0/embed?mid=1aksC-FGv0sJUpGpD3tDEq2aANdNghl0&amp;ehbc=2E312F&amp;noprof=1&amp;ll=1.35685,103.94887&amp;z=19&amp;t=m"></iframe>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Main Gate (along Tampines St 42)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Side Gate (Tampines Ave 7)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><br><strong>School Bus Service</strong></h4>
+<p>Students taking school buses will gather at the foyer before boarding.</p>
+<p>Buses depart from 1.40 pm onwards.</p>
+<p></p>
+<h4><strong>Private Vehicles</strong></h4>
+<p>
+<br>The main gate will open for vehicles after 1.45 pm, once school buses
+have left. Parents may then pick up their children safely at the sheltered
+Pick-Up/Drop-Off point (PUDO).</p>
+<p>Please refer to the table below for details on pick-up after CCA.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -275,7 +303,9 @@ refer to the table below for details on pick-up after CCA.</p>
 the PUDO beyond the stipulated time, he/she will be brought to the <strong>General Office</strong> for
 safety reasons. Parents arriving late should proceed to the General Office
 for pick-up.</p>
-<p><strong>Students with Siblings / After-School Student Care:</strong>
+<p></p>
+<h4><strong>Students with Siblings / After-School Student Care</strong></h4>
+<p>
 <br>Students waiting for siblings or after-school care providers will wait
 at the <strong>designated areas</strong>, unless alternative arrangements
 have been made.</p>
@@ -319,7 +349,7 @@ have been made.</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>After-School Programmes</strong></h3>
+<h4><strong>After-School Programmes</strong></h4>
 <p>Parents will be informed for all co-curricular activities (CCAs) and remedial/supplementary
 lessons that take place after school hours.</p>
 <p></p>
