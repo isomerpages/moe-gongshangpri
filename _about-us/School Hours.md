@@ -229,7 +229,7 @@ healthy snacks (e.g. uncut fruits, biscuits, buns). Only water is allowed
 </tbody>
 </table>
 <p>Parents/guardians are to wait for their children at the <strong>designated dismissal points</strong> near
-the school gates and should not go beyond these areas:</p>
+the school gates:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
