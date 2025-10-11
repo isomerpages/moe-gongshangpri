@@ -307,4 +307,4 @@ will be arranged.</p>
 time, arrangements can be made on how the student can be supported with
 homework and other areas of academic needs.</p>
 <p></p>
-<p>Adapter from <a href="https://www.gongshangpri.moe.edu.sg/files/homework%20policy%202024%20for%20parents.pdf" rel="noopener nofollow" target="_blank">GSPS Homework Policy (Apr 2024)</a>.</p>
+<p>Adapted from <a href="https://www.gongshangpri.moe.edu.sg/files/homework%20policy%202024%20for%20parents.pdf" rel="noopener nofollow" target="_blank">GSPS Homework Policy (Apr 2024)</a>.</p>
