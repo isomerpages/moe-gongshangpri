@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>School Hours</strong></h3>
-<p>Gongshang Primary operates as a single-session school and the school hours
-are as follow:</p>
+<p>Gongshang Primary operates as a single-session school.</p>
+<p>The school hours are as follow:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -297,6 +297,17 @@ Pick-Up/Drop-Off point (PUDO).</p>
 <p>After 4 pm</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>If a student is found waiting for more than <strong>15 minutes</strong> at
@@ -345,6 +356,14 @@ have been made.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Respective classrooms</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
