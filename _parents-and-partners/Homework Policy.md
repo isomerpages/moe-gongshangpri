@@ -305,5 +305,6 @@ will be based on the reasons and if need be, a parent-teacher conference
 will be arranged.</p>
 <p>If a student is medically excused from school for an extended length of
 time, arrangements can be made on how the student can be supported with
-homework and other areas of academic needs</p>
+homework and other areas of academic needs.</p>
 <p></p>
+<p>Adapter from <a href="https://www.gongshangpri.moe.edu.sg/files/homework%20policy%202024%20for%20parents.pdf" rel="noopener nofollow" target="_blank">GSPS Homework Policy (Apr 2024)</a>.</p>
