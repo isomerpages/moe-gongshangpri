@@ -150,7 +150,7 @@ the school week.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Preparation</p>
+<p>Prepare</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Prepare students for upcoming lessons</p>
@@ -161,23 +161,23 @@ the school week.</p>
 <p>Gather material for class presentations</p>
 </li>
 <li>
-<p>Background reading</p>
+<p>Read background material</p>
 </li>
 <li>
-<p>Library research</p>
+<p>Conduct library research</p>
 </li>
 <li>
-<p>Learning spelling</p>
+<p>Learn spelling</p>
 </li>
 <li>
-<p>Learning multiplication tables</p>
+<p>Learn multiplication tables</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Practice</p>
+<p>Practise</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Provide students with review and reinforcement of knowledge and skills
@@ -187,20 +187,23 @@ knowledge and deepening of conceptual understanding</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Workbook, worksheet and revision exercises</p>
+<p>Attempt workbooks, worksheets and revision exercises</p>
 </li>
 <li>
-<p>Post-lesson assignments</p>
+<p>Complete post-lesson assignments</p>
 </li>
 <li>
-<p>Tasks, DIY experiments and sharing of findings with class</p>
+<p>Conduct tasks and experiments</p>
+</li>
+<li>
+<p>Record and share findings</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Extension</p>
+<p>Extend</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Stretch students' conceptual understanding from knowledge and skills introduced
@@ -209,20 +212,20 @@ in lesson(s) so as to encourage collaborative and self-directed pursuit</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Individual and group projects</p>
+<p>Perform individual and group projects</p>
 </li>
 <li>
-<p>Creative writing</p>
+<p>Attempt creative writing</p>
 </li>
 <li>
-<p>Non-routine tasks</p>
+<p>Perform non-routine learning activities</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Creative</p>
+<p>Create</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Provide students with opportunities that allow them to create, analyse,
@@ -232,7 +235,7 @@ and resourcefulness</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Independent ideation</p>
+<p>Brainstorm independently</p>
 </li>
 <li>
 <p>Create new designs, plans or proposals</p>
@@ -307,4 +310,7 @@ will be arranged.</p>
 time, arrangements can be made on how the student can be supported with
 homework and other areas of academic needs.</p>
 <p></p>
-<p>Adapted from <a href="https://www.gongshangpri.moe.edu.sg/files/homework%20policy%202024%20for%20parents.pdf" rel="noopener nofollow" target="_blank">GSPS Homework Policy (Apr 2024)</a>.</p>
+<p></p>
+<p></p>
+<p><em>Adapted from <a href="https://www.gongshangpri.moe.edu.sg/files/homework%20policy%202024%20for%20parents.pdf" rel="noopener nofollow" target="_blank">GSPS Homework Policy (Apr 2024)</a>.</em>
+</p>
