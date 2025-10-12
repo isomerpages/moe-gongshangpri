@@ -5,7 +5,10 @@ variant: tiptap
 description: ""
 ---
 <blockquote>
-<p><em>Homework refers to any learning activity that schools require students to complete outside of curriculum time, regardless of the mode of delivery (i.e. pen-and-paper, virtual / online). This includes assignments and projects but not revision of schoolwork or studying for tests and examinations.</em>
+<p><em>Homework refers to any learning activity that schools require students to complete outside of curriculum time, regardless of the mode of delivery (i.e. pen-and-paper, virtual / online). </em>
+</p>
+<p></p>
+<p><em>This includes assignments and projects but not revision of schoolwork or studying for tests and examinations.</em>
 </p>
 </blockquote>
 <p></p>
@@ -13,20 +16,23 @@ description: ""
 <p>Homework, when used appropriately, can reinforce students’ learning, provide
 feedback on their progress and cultivate a healthy disposition towards
 continual learning.</p>
-<p><strong><em>Effective use of homework can</em></strong>
+<p><strong><em>Effective use of homework allow students to</em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>reinforce learning and deepen understanding of lessons taught;</p>
 </li>
 <li>
-<p>allow students to regularly practise, and apply skills and concepts taught;</p>
+<p>practise regularly;</p>
 </li>
 <li>
-<p>develop good study skills and habits; and</p>
+<p>apply skills and concepts taught;</p>
 </li>
 <li>
-<p>encourage greater ownership and responsibility for independent learning.</p>
+<p>develop healthy dispositions; and</p>
+</li>
+<li>
+<p>encourage greater ownership and responsibility for self-directed learning.</p>
 </li>
 </ul>
 <p><strong><em>Homework also provides parents with</em></strong>
@@ -36,7 +42,7 @@ continual learning.</p>
 <p>timely information on the learning progress of their child; and</p>
 </li>
 <li>
-<p>opportunity to be involved in the child’s learning.</p>
+<p>opportunities to be involved in their child’s learning.</p>
 </li>
 </ul>
 <p></p>
@@ -111,9 +117,8 @@ by academic levels.</p>
 </tbody>
 </table>
 <p>Subject teachers will coordinate their assignment of homework to ensure
-students are not overloaded. In particular, EL and MTL departments will
-coordinate weekly spelling so that they do not fall on the same day of
-the week.</p>
+students are not overloaded. In particular, EL and MTL teachers will coordinate
+weekly spelling so that they do not fall on the same day of the week.</p>
 <p>Reading is essential and it is expected that all students read daily.
 Therefore reading assignments (e.g. reading aloud to others, reading quietly)
 may also be given as homework.</p>
@@ -298,26 +303,28 @@ and is free of distractions);</p>
 <p>supervise and provide support for your child’s learning;</p>
 </li>
 <li>
-<p>plan set a regular schedule with your child for completing homework for
-each day;</p>
+<p>plan a regular schedule with your child for homework each day;</p>
 </li>
 <li>
-<p>inculcate a healthy habit with your child in checking their learning journals
-daily for the homework assigned so as to help monitor the progress and
-completion status of the homework;</p>
+<p>build executive functioning skills with your child such as checking against
+their learning journals daily so as to monitor progress and pace towards
+deadlines for homework;</p>
 </li>
 <li>
 <p>reinforce good study habits and attitudes by encouraging and motivating
 your child;</p>
 </li>
 <li>
-<p>be mindful of the stresses arising from school homework and out-of-school
-activities, and help your child prioritise his / her time among these activities;
+<p>practise mindfulness in coping with potential stresses arising from school
+homework and out-of-school activities,</p>
+</li>
+<li>
+<p>assist child in prioritising his/her time among different activities;
 and</p>
 </li>
 <li>
 <p>work in partnership with the school and teachers to support your child’s
-learning and development.</p>
+overall learning and development.</p>
 </li>
 </ul>
 <h4><strong>Non-completion of Homework</strong></h4>
