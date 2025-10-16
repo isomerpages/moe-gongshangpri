@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Admin Matters/Library Books.md
       - Admin Matters/Lost & Found Matters.md
       - Admin Matters/Home Address and Telephone Number.md
       - Admin Matters/Fees Payable.md
