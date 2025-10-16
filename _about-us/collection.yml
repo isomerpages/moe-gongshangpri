@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Admin Matters/Home Address and Telephone Number.md
       - Admin Matters/Fees Payable.md
       - Admin Matters/Payment through GIRO.md
       - Admin Matters/Edusave Account.md
