@@ -79,7 +79,7 @@ are <strong>not to wait or park</strong> at these critical areas:</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025 uploads/6mrdjunction.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 uploads/6mrdjunction.jpg">
 </div>
 </th>
 </tr>
@@ -129,8 +129,9 @@ are <strong>not to wait or park</strong> at these critical areas:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025 uploads/zebra.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 uploads/zebra.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
