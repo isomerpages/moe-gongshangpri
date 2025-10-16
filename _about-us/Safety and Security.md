@@ -27,5 +27,4 @@ at all times while in the school.</p>
 assistance. Teachers and other staff members have been instructed to stop
 outsiders or unfamiliar persons from entering the school premises and to
 check on visitors, even if they are wearing a pass/sticker.</p>
-<p>e.Visitors are not to proceed to the school canteen to be with their</p>
-<p>children during the recess or lunc</p>
+<p>e.Visitors are not to proceed to the school canteen to be their</p>
