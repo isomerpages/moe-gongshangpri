@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Admin Matters/.keep
       - Gongshang Primary/.keep
       - Gongshang Primary/Profile.md
       - Gongshang Primary/History.md
