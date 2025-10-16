@@ -35,6 +35,15 @@ or up to three months of cash assistance. Find out more here: <a href="https://n
 <p>ComCare supports lower-income households with basic living expenses. Find
 out more here: <a href="https://www.msf.gov.sg/what-we-do/comcare" rel="noopener nofollow" target="_blank">https://www.msf.gov.sg/what-we-do/comcare</a>
 </p>
+<h3><strong>DigitalAccess@Home</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/digitalaccess.jpg">
+</div>
+<p>DigitalAccess@Home provides subsidised broadband and laptops/tablets to
+lower-income households to support their lifestyle needs, including work
+and social activities. Find out more here: <a href="https://eservice.imda.gov.sg/das/homepage" rel="noopener noreferrer nofollow" target="_blank">https://eservice.imda.gov.sg/das/homepage</a>
+</p>
+<p></p>
 <hr>
 <h4><strong>Ethnic-based Self-Help Groups</strong></h4>
 <table style="minWidth: 50px">
