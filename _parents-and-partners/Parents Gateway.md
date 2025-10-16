@@ -53,42 +53,24 @@ the app developer is “Ministry of Education (Singapore)”:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 uploads/ios.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://for.edu.sg/pg-ios"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 uploads/ios.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 uploads/pg_android.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://for.edu.sg/pg-android"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 uploads/pg_android.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 uploads/harmonyos.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://for.edu.sg/pg-harmonyos"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 uploads/harmonyos.png"></a>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 uploads/iOS_appstore.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://for.edu.sg/pg-ios"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 uploads/iOS_appstore.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 uploads/google_playstore.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://for.edu.sg/pg-android"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 uploads/google_playstore.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 uploads/appgallery.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://for.edu.sg/pg-harmonyos"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 uploads/appgallery.png"></a>
 </td>
 </tr>
 </tbody>
