@@ -2,13 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Admin Matters/.keep
-      - Admin Matters/Fees Payable.md
-      - Admin Matters/Payment through GIRO.md
-      - Admin Matters/Edusave Account.md
-      - Admin Matters/Home Address and Telephone Number.md
-      - Admin Matters/Lost & Found Matters.md
-      - Admin Matters/Library Books.md
       - Gongshang Primary/.keep
       - Gongshang Primary/Profile.md
       - Gongshang Primary/History.md
@@ -25,6 +18,13 @@ collections:
       - Safety and Security/Insurance.md
       - Safety and Security/Emergency Plan.md
       - Safety and Security/Safety Matters.md
+      - Admin Matters/.keep
+      - Admin Matters/Fees Payable.md
+      - Admin Matters/Payment through GIRO.md
+      - Admin Matters/Edusave Account.md
+      - Admin Matters/Home Address and Telephone Number.md
+      - Admin Matters/Lost & Found Matters.md
+      - Admin Matters/Library Books.md
       - Dental Clinic.md
       - Vendors/.keep
       - Vendors/School based Student Care.md
