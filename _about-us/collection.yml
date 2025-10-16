@@ -2,8 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Safety and Security/Safety and Security.md
-      - Safety and Security/.keep
       - Gongshang Primary/.keep
       - Gongshang Primary/Profile.md
       - Gongshang Primary/History.md
@@ -13,6 +11,8 @@ collections:
       - Principal's Message.md
       - School Advisory Committee.md
       - School Hours.md
+      - Safety and Security/.keep
+      - Safety and Security/Safety and Security.md
       - Dental Clinic.md
       - Vendors/.keep
       - Vendors/School based Student Care.md
