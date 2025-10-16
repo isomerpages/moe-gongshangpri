@@ -16,7 +16,7 @@ crossings.</p>
 <p></p>
 <p><strong>Cycling to School</strong>
 <br>Your child should take the necessary safety precautions, including but
-notlimited to the following:</p>
+not limited to the following:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Before cycling to school, always make sure that the bicycle is in good
