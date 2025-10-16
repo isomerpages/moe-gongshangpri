@@ -42,13 +42,13 @@ the app developer is “Ministry of Education (Singapore)”:</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Apple</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Android</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Huawei</p>
 </th>
 </tr>
 <tr>
