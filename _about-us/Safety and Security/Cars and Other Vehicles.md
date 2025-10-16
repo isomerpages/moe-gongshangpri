@@ -61,8 +61,8 @@ to follow instructions by school staff and/or traffic directional signs/notices.
 <p></p>
 <h4><strong>Indiscriminate Parking Outside School</strong></h4>
 <p>Vehicles that are parked indiscriminately outside the school cause inconveniences,
-obstruction and danger to road users, which include our students.</p>
-<p>All drivers are not to wait or park at these critical areas:</p>
+obstruction and danger to road users, which include our students. All drivers
+are <strong>not to wait or park</strong> at these critical areas:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
