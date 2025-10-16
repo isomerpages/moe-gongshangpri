@@ -93,14 +93,6 @@ are <strong>not to wait or park</strong> at these critical areas:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025 uploads/bustop.png">
 </div>
@@ -117,14 +109,6 @@ are <strong>not to wait or park</strong> at these critical areas:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Parking abreast to another vehicle</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
