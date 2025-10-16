@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Safety and Security/Safety and Security.md
       - Safety and Security/.keep
       - Gongshang Primary/.keep
       - Gongshang Primary/Profile.md
