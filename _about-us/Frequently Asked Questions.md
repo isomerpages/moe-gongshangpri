@@ -24,8 +24,7 @@ the teacher through handwritten notes. You may also call the General Office
 and leave a message for the teacher concerned.</p>
 <p></p>
 <p><strong>What must I do if I need to fetch my child/ward from school early?</strong>
-</p>
-<p>Students will only be allowed to leave the school premises early if accompanied
+<br>Students will only be allowed to leave the school premises early if accompanied
 by an authorized adult. The adult fetching the child must report to the
 General Office and fill in the necessary form(s) before leaving the school
 compound. Please do inform the Form Teacher in advance if you know that
