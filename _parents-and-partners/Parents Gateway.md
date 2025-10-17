@@ -76,3 +76,5 @@ the app developer is “Ministry of Education (Singapore)”:</p>
 </tbody>
 </table>
 <p></p>
+<p>Please visit <a href="https://ask.gov.sg/parentsgateway" rel="noopener noreferrer nofollow" target="_blank">https://ask.gov.sg/parentsgateway</a> for
+PG FAQs.</p>
