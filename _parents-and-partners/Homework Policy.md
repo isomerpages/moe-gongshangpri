@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <blockquote>
-<p><em>Homework refers to any learning activity that schools require students to complete outside of curriculum time, regardless of the mode of delivery (i.e. pen-and-paper, virtual / online). </em>
+<p><em>Homework refers to any learning activity that schools require students to complete outside of curriculum time, regardless of the mode of delivery (i.e. pen-and-paper, virtual / online).</em>
 </p>
 <p></p>
 <p><em>This includes assignments and projects but not revision of schoolwork or studying for tests and examinations.</em>
@@ -61,7 +61,7 @@ CCA, competitions, enrichment classes, preparation for upcoming Weighted
 Assessments, tests and examinations) are accounted for; and</p>
 </li>
 <li>
-<p><u>Ability</u>
+<p><u>Age-Appropriate</u>
 <br>Students are provided with homework that is age-appropriate, and differentiated
 by academic levels.</p>
 </li>
@@ -138,7 +138,8 @@ the school week.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/2025 uploads/homework.png">
 </div>
-<p>Homework can be thought of as four types which serve different purposes:</p>
+<p>There are generally four types of homework that are assigned and they
+serve different purposes:</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -192,7 +193,7 @@ the school week.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Provide students with review and reinforcement of knowledge and skills
-introduced in previous lesson(s) so as to facilitation retention of factual
+introduced in previous lesson(s) so as to facilitate retention of factual
 knowledge and deepening of conceptual understanding</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -204,7 +205,7 @@ knowledge and deepening of conceptual understanding</p>
 <p>Complete post-lesson assignments</p>
 </li>
 <li>
-<p>Conduct tasks and experiments</p>
+<p>Complete tasks</p>
 </li>
 <li>
 <p>Record and share findings</p>
@@ -248,7 +249,7 @@ and resourcefulness</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Brainstorm independently</p>
+<p>Brainstorm ideas independently</p>
 </li>
 <li>
 <p>Create new designs, plans or proposals</p>
@@ -271,7 +272,7 @@ and resourcefulness</p>
 </table>
 <p></p>
 <h4><strong>Roles and Responsibilities</strong></h4>
-<p>Students and parents both play important roles in enduring that homework
+<p>Students and parents both play important roles in ensuring that homework
 serves its intended purposes.</p>
 <p><strong><em>Students </em></strong>should</p>
 <ul data-tight="true" class="tight">
@@ -315,8 +316,8 @@ deadlines for homework;</p>
 your child;</p>
 </li>
 <li>
-<p>practise mindfulness in coping with potential stresses arising from school
-homework and out-of-school activities,</p>
+<p>be mindful in helping your child cope with potential stresses arising
+from school homework and out-of-school activities,</p>
 </li>
 <li>
 <p>assist child in prioritising his/her time among different activities;
@@ -335,8 +336,3 @@ will be arranged.</p>
 <p>If a student is medically excused from school for an extended length of
 time, arrangements can be made on how the student can be supported with
 homework and other areas of academic needs.</p>
-<p></p>
-<p></p>
-<p></p>
-<p><em>Adapted from <a href="https://www.gongshangpri.moe.edu.sg/files/homework%20policy%202024%20for%20parents.pdf" rel="noopener nofollow" target="_blank">GSPS Homework Policy (Apr 2024)</a>.</em>
-</p>
