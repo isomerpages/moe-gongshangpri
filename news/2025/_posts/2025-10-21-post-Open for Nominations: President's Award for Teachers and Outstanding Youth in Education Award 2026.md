@@ -33,7 +33,7 @@ students and peers through their words and deeds.&nbsp; Teachers who are
 35 years old and below in 2026 are eligible for the award.</p>
 <p></p>
 <h3>Nominations Now Open</h3>
-<p>Nominations for PAT 2025 and OYEA 2026 are <strong>now open</strong> and
+<p>Nominations for PAT 2026 and OYEA 2026 are <strong>now open</strong> and
 will <strong>close at 12 noon on Friday, 9 January 2026</strong>. Submit
 your nomination(s) for one or more deserving teacher(s) by clicking on
 the URLs or scanning the QR codes below. Your nomination(s) will be a source
