@@ -67,8 +67,7 @@ description: ""
 <p></p>
 <p><strong>Nearest Bus Stop</strong>
 </p>
-<p>Gongshang Primary School is a 3-min walk from bus stop 76201, which is
-served by bus services <a href="https://svc.simplygo.com.sg/eservice/eguide/service_route.php?service=4" rel="noopener nofollow" target="_blank">4</a>,
+<p>3-min walk from bus stop 76201, which is served by bus services <a href="https://svc.simplygo.com.sg/eservice/eguide/service_route.php?service=4" rel="noopener nofollow" target="_blank">4</a>,
 <a href="https://svc.simplygo.com.sg/eservice/eguide/service_route.php?service=8" rel="noopener nofollow" target="_blank">8</a>, <a href="https://svc.simplygo.com.sg/eservice/eguide/service_route.php?service=18" rel="noopener nofollow" target="_blank">18</a>,
 <a href="https://svc.simplygo.com.sg/eservice/eguide/service_route.php?service=19" rel="noopener nofollow" target="_blank">19</a>, <a href="https://svc.simplygo.com.sg/eservice/eguide/service_route.php?service=19" rel="noopener nofollow" target="_blank">19</a>,
 <a href="https://svc.simplygo.com.sg/eservice/eguide/service_route.php?service=19" rel="noopener nofollow" target="_blank">19</a>, <a href="https://svc.simplygo.com.sg/eservice/eguide/service_route.php?service=38" rel="noopener nofollow" target="_blank">38</a> and
@@ -76,5 +75,10 @@ served by bus services <a href="https://svc.simplygo.com.sg/eservice/eguide/serv
 <div class="iframe-wrapper">
 <iframe style="border:0;" height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.onemap.gov.sg/main/v2/?lat=1.356875&amp;lng=103.9479675&amp;zoom=17"></iframe>
 </div>
-<h4></h4>
+<p></p>
+<p><strong>Nearest MRT (DTL) Station</strong>
+</p>
+<p>9-min walk from Tampines East MRT (DT33) Exit A</p>
+<p></p>
+<p></p>
 <p></p>
