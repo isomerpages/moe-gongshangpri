@@ -59,8 +59,8 @@ timing upon safety risk assessment. If there is construction or road works
 within the school premises, we seek your understanding and cooperation
 to follow instructions by school staff and/or traffic directional signs/notices.</p>
 <p></p>
-<h4><strong>Indiscriminate Parking Outside School</strong></h4>
-<p>Vehicles that are parked indiscriminately outside the school cause inconveniences,
+<p><strong>Indiscriminate Parking Outside School</strong>
+<br>Vehicles that are parked indiscriminately outside the school cause inconveniences,
 obstruction and danger to road users, which include our students. All drivers
 are <strong>not to wait or park</strong> at these critical areas:</p>
 <table style="minWidth: 50px">
@@ -73,7 +73,7 @@ are <strong>not to wait or park</strong> at these critical areas:</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025 uploads/bend.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2025 uploads/bend.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -94,7 +94,7 @@ are <strong>not to wait or park</strong> at these critical areas:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025 uploads/bustop.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2025 uploads/bustop.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -115,13 +115,13 @@ are <strong>not to wait or park</strong> at these critical areas:</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 uploads/zebra.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025 uploads/zebra.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 uploads/schoolzone.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2025 uploads/schoolzone.png">
 </div>
 </td>
 </tr>
