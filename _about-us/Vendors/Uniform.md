@@ -7,7 +7,7 @@ third_nav_title: Vendors
 ---
 <h3><strong>School Uniform</strong></h3>
 <p>You can buy the school uniform from:</p>
-<p><strong><a href="https://www.euniforms.com.sg/shop/product-category/primary-schools/gps/" rel="noopener nofollow" target="_blank">Chop Kong Chong</a></strong>
+<p><strong><a href="https://www.euniforms.com.sg/shop/product-category/primary-schools/gps/" rel="noopener nofollow" target="_blank">Kong Chong</a></strong>
 <br>Sembawang Shopping Centre
 <br>604 Sembawang Road #02-13
 <br>Singapore 758459</p>
