@@ -5,22 +5,25 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Discipline</strong></h3>
-<p>The Philosophy of Gongshang’s Discipline is “Discipline with Care”.&nbsp;
-Every child and adult in the school has the right to a safe and conducive
-environment for learning and teaching.&nbsp; Thus, everyone in the school
-has the responsibility to ensure the safety of themselves and others by
-behaving in a reasonable manner.</p>
-<p>The eventual goal of Discipline is Self-Discipline, which is anchored
-on the school’s core values of Respect, Integrity, Perseverance and Thrift
-as well as the core values of Responsibility, Resilience, Care and Harmony.</p>
-<p>In order to achieve this, the school rules state the conduct expected
-of Gongshang pupils. When a pupil misbehaves inside or outside school,
-appropriate corrective actions will be taken to help him/her to improve.&nbsp;</p>
-<p>In line with the educational goal of character building, one of the corrective
-actions is the award of “FAIR” for Conduct grade.&nbsp; A pupil awarded
-a “FAIR” grade will NOT be eligible for any School or National Award, including
-Academic, CCA, or Edusave Awards for that year.</p>
-<p>Teachers, pupils and their parents are encouraged to be familiar with
-the school rules and the appropriate behaviour expected of every Gongshang
-Primary School pupil so that we can work together to grow the Gongshanger
-into a gracious person with character.</p>
+<p>Gongshang Primary believes in disciplining with care. We seek to guide
+every student to grow into a <strong>self-disciplined </strong>individual
+who demonstrates Perseverance, Thrift, Integrity and Respect for themselves,
+others and the environment.</p>
+<p>To achieve this objective, Gongshang Primary believes that every student
+in school bears the responsibility to create a safe and conducive environment
+where everyone can play, learn and grow positively.</p>
+<p>&nbsp;To foster a caring and conducive school environment, our school
+rules reflect the conduct expected of every Gongshang student at all times
+- both within and outside of school. When a student demonstrates misbehaviour,
+support and guidance will be given by the school to help him / her to:</p>
+<p>&nbsp;</p>
+<p>a. Reflect on the impact of his / her actions,</p>
+<p>b. Understand the need to abide by school rules and regulations, and the
+consequences for not doing so,</p>
+<p>c. Assume responsibility and accountability for his / her misconduct,</p>
+<p>d. Propose&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; solutions/resolutions&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+for&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; reconciliation and self-improvement.</p>
+<p>&nbsp;For recalcitrant or serious cases, students may receive a ‘Fair’
+or ‘Poor’ for their conduct grade, which will affect their eligibility
+for any school or national award (e.g. scholarships, CCA or Edusave awards)
+for the academic year.</p>
