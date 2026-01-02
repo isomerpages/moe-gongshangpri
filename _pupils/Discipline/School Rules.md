@@ -84,9 +84,63 @@ may wear a small pair of plain ear studs, with one stud on each earlobe.</p>
 <p>&nbsp;</p>
 <p>3.4&nbsp;&nbsp;<u>Fingernails are to be kept short, clean and neat.</u> Nail
 varnish (including transparent varnish) and decorations are not allowed.</p>
-<p></p>
-<p></p>
-<p></p>
+<p><strong>4.</strong>&nbsp;&nbsp;<strong><u> Personal Conduct</u></strong>
+</p>
+<p><strong>&nbsp;</strong>4.1&nbsp;&nbsp; Students are to show respect for
+the school by singing the School Song with pride, and by not bringing disrepute
+to the school during and after school hours, both in and out of school.</p>
+<p>&nbsp;4.2&nbsp;&nbsp; Students are responsible for their own behaviour
+and learning by:</p>
+<p>a. Being attentive during lesson or activities,</p>
+<p>b. Listening and complying with all given instructions and school rules
+carefully and fully,</p>
+<p>c.&nbsp;Completing all given work by themselves (i.e. not copying from
+others) neatly and diligently,</p>
+<p>d. Submitting all given work and assignments punctually</p>
+<p>e. Being honest during assessments (e.g. test, examination, checking of
+scripts, etc) by not copying from others or making unapproved alterations
+on assessment scripts and official documents.</p>
+<p>4.3&nbsp; Students are to show good behaviour by always maintaining self-discipline
+during and outside school hours both in and out of school by showing respect
+for themselves and others through:</p>
+<p>a. Being respectful, sensitive, considerate, and responsible when interacting
+with other pupils, teachers and school staff – face-to-face, online and
+through all forms of communication channels.</p>
+<p>b. Respecting and taking care of all school or public facilities and property
+by not damaging, removing or vandalizing them.</p>
+<p>4.4&nbsp; Students are to <u>observe Safety Rules at all times.</u>
+</p>
+<p>a. Students are not to cause hurt, discomfort or pose a threat to others
+(i.e. <strong>Strictly No Bullying </strong>– in thoughts, words or actions
+– face-to-face, online and through all forms of communication channels).
+Dangerous and hurtful or harmful behaviour (both actions and words) is
+not allowed and will not be tolerated. Such behaviour should be reported
+to school staff immediately.</p>
+<p>b. Students must move quietly and in an orderly manner within the school
+premises. Unsupervised and reckless running within the school ground is
+not allowed.</p>
+<p>c.&nbsp; Students can only run or engage in recreational play (with school
+equipment unless otherwise instructed by teachers) in the parade square
+area.</p>
+<p>d. Students are not allowed to play outdoors when the Lightning Warning
+System has been activated or as instructed by the school.</p>
+<p>e. Students are not allowed to remain in the classroom, along the corridors
+and staircases during recess, lunch breaks or after school except when
+accompanied by a teacher.</p>
+<p>f. Students <strong>MUST </strong>follow traffic rules and <strong>always observe road safety.</strong>
+</p>
+<p>4.5 Students are to keep the school clean at all times.</p>
+<p>a. Students are only allowed to consume food and drinks within the canteen.</p>
+<p>b. Students are to return all used cutlery, plates and cups to the respective
+food stalls after their meals.</p>
+<p>c. Students are to ensure that the tables, benches and areas that they
+have used are clean before they leave the canteen. d.Students are to dispose
+all litter in the bins provided and keep every part of the school clean.
+During snack breaks, pupils should dispose all unconsumed food and food-related
+litter into the bins outside their classrooms.</p>
+<p>4.6&nbsp;Students are to be responsible for the safekeeping of their personal
+valuables (e.g. wallets) and belongings by taking good care of them at
+all times (i.e. not leaving them unattended at any time).</p>
 <p></p>
 <p></p>
 <p></p>
