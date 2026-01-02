@@ -2,8 +2,8 @@ collections:
   pupils:
     output: true
     order:
-      - Try/Discipline.md
-      - Try/.keep
+      - Discipline/Discipline.md
+      - Discipline/.keep
       - Pastoral Care.md
       - Prefectorial Board.md
       - Peer Support Leaders.md
