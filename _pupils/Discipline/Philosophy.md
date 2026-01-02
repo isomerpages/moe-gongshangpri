@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: Discipline
 ---
-<h3><strong>Discipline Philo</strong></h3>
+<h3><strong>Discipline Philosophy</strong></h3>
 <p>Gongshang Primary believes in disciplining with care. We seek to guide
 every student to grow into a <strong>self-disciplined </strong>individual
 who demonstrates Perseverance, Thrift, Integrity and Respect for themselves,
