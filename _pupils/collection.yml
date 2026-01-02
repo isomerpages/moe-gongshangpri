@@ -2,7 +2,6 @@ collections:
   pupils:
     output: true
     order:
-      - School rules/.keep
       - Pastoral Care.md
       - Prefectorial Board.md
       - Peer Support Leaders.md
