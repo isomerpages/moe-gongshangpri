@@ -2,7 +2,6 @@ collections:
   pupils:
     output: true
     order:
-      - School Rules.md
       - Discipline.md
       - Pastoral Care.md
       - Prefectorial Board.md
