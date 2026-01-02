@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Try/.keep
-      - Discipline.md
       - Pastoral Care.md
       - Prefectorial Board.md
       - Peer Support Leaders.md
