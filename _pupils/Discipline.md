@@ -16,8 +16,7 @@ where everyone can play, learn and grow positively.</p>
 rules reflect the conduct expected of every Gongshang student at all times
 - both within and outside of school. When a student demonstrates misbehaviour,
 support and guidance will be given by the school to help him / her to:</p>
-<p>&nbsp;</p>
-<p>a. Reflect on the impact of his / her actions,</p>
+<p>&nbsp;a. Reflect on the impact of his / her actions,</p>
 <p>b. Understand the need to abide by school rules and regulations, and the
 consequences for not doing so,</p>
 <p>c. Assume responsibility and accountability for his / her misconduct,</p>
