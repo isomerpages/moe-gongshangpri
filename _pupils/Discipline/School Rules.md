@@ -54,18 +54,39 @@ tucked in at all times.</p>
 cover the balls of the ankles.</p>
 <p>3.2&nbsp; <u>Students’ hair must be kept neat and tidy at all times. No tinted,</u>  <u>dyed, messy or fanciful hairstyles are allowed. Please refer to</u>  <u>the photos for acceptable and appropriate hairstyles.</u>
 </p>
-<p><strong><em>                                              <u>Proper Attire</u></em></strong>
+<p><strong><em><u>Proper Attire</u></em></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2026/Screenshot_2026_01_02_160225.png">
 </div>
 <p><em>Prescribed School Uniform&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PE Attire</em>
 </p>
-<p><em>&nbsp;</em>
+<p><u>Boys:</u>
 </p>
-<p><em>&nbsp;</em>
+<p>a. Hair length must be two fingers above the shirt or t-shirt-collar and
+neatly cut / trimmed / combed. <strong>Hair should not touch the ears, shirt or t-shirt-collar</strong>.
+Fringe must be above the eyebrows.</p>
+<p>b. <strong>Boys are to be neat in appearance, clean-shaven and no facial hair is allowed.</strong>
 </p>
-<p><em>&nbsp;</em>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Screenshot_2026_01_02_160713.png">
+</div>
+<p>Girls:</p>
+<p>a. Girls with long hair must tie their hair neatly with plain, black or
+dark blue accessories.</p>
+<p><strong>b. Fringe must be above the eyebrows. Long fringes or long strands of hair at the sides of the head must be clipped up or pushed back with simple black / dark blue clips or hairband.</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Screenshot_2026_01_02_160736.png">
+</div>
+<p>3.3&nbsp;&nbsp;<u>All students are not allowed to wear any form of jewellery or</u>  <u>accessories.</u> Girls
+may wear a small pair of plain ear studs, with one stud on each earlobe.</p>
+<p>&nbsp;</p>
+<p>3.4&nbsp;&nbsp;<u>Fingernails are to be kept short, clean and neat.</u> Nail
+varnish (including transparent varnish) and decorations are not allowed.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
