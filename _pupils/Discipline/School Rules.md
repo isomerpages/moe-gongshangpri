@@ -81,8 +81,7 @@ dark blue accessories.</p>
 </div>
 <p>3.3&nbsp;&nbsp;<u>All students are not allowed to wear any form of jewellery or</u>  <u>accessories.</u> Girls
 may wear a small pair of plain ear studs, with one stud on each earlobe.</p>
-<p>&nbsp;</p>
-<p>3.4&nbsp;&nbsp;<u>Fingernails are to be kept short, clean and neat.</u> Nail
+<p>&nbsp;3.4&nbsp;&nbsp;<u>Fingernails are to be kept short, clean and neat.</u> Nail
 varnish (including transparent varnish) and decorations are not allowed.</p>
 <p><strong>4.</strong>&nbsp;&nbsp;<strong><u> Personal Conduct</u></strong>
 </p>
