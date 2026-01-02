@@ -54,42 +54,11 @@ tucked in at all times.</p>
 cover the balls of the ankles.</p>
 <p>3.2&nbsp; <u>Students’ hair must be kept neat and tidy at all times. No tinted,</u>  <u>dyed, messy or fanciful hairstyles are allowed. Please refer to</u>  <u>the photos for acceptable and appropriate hairstyles.</u>
 </p>
-<p><strong><em><u>Proper Attire</u></em></strong>
+<p><strong><em>                                              <u>Proper Attire</u></em></strong>
 </p>
-<p><strong><em>&nbsp;</em></strong>
-</p>
-<p><strong><em>&nbsp;</em></strong>
-</p>
-<p><strong><em>&nbsp;</em></strong>
-</p>
-<p><strong><em>&nbsp;</em></strong>
-</p>
-<p><strong><em>&nbsp;</em></strong>
-</p>
-<p><strong><em>&nbsp;</em></strong>
-</p>
-<p><strong><em>&nbsp;</em></strong>
-</p>
-<p><strong><em>&nbsp;</em></strong>
-</p>
-<p><strong><em>&nbsp;</em></strong>
-</p>
-<p><strong><em>&nbsp;</em></strong>
-</p>
-<p><strong><em>&nbsp;</em></strong>
-</p>
-<p><strong><em>&nbsp;</em></strong>
-</p>
-<p><strong><em>&nbsp;</em></strong>
-</p>
-<p><strong><em>&nbsp;</em></strong>
-</p>
-<p><strong><em>&nbsp;</em></strong>
-</p>
-<p><strong><em>&nbsp;</em></strong>
-</p>
-<p><strong><em>&nbsp;</em></strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2026/Screenshot_2026_01_02_160225.png">
+</div>
 <p><em>Prescribed School Uniform&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PE Attire</em>
 </p>
 <p><em>&nbsp;</em>
