@@ -140,6 +140,48 @@ litter into the bins outside their classrooms.</p>
 <p>4.6&nbsp;Students are to be responsible for the safekeeping of their personal
 valuables (e.g. wallets) and belongings by taking good care of them at
 all times (i.e. not leaving them unattended at any time).</p>
+<ol start="5" data-tight="true" class="tight">
+<li>
+<p><strong><u>Mobile phones / Smartwatches and Othe Unauthorised</u> <u>Devices</u></strong>
+</p>
+</li>
+</ol>
+<p><strong>&nbsp;</strong>5.1 Students are not to use mobile phones and/or
+wear smartwatches except the POSB Smart Buddy watch, during school hours
+including recess, CCA and after-school programmes (e.g. remedial / supplementary
+/ enrichment etc).</p>
+<p>5.2 Students who bring such devices to school are to switch them off and
+put them in their lockers or their school bags before school starts, and
+retrieve them only after school ends. Students are to be responsible for
+the safekeeping and use of these devices (in accordance with the school
+rules) if they want to bring such items to school. The use of POSB Smart
+Buddy watches is allowed throughout the school day.</p>
+<p>5.3 After school hours, students are not allowed to use mobile phones
+and/or smartwatches(except the POSB Smart Buddy watch) within the school
+compound, except at the main / side gates or car porch after school, while
+waiting for their parents to fetch them.</p>
+<p>&nbsp;5.4 Students are not allowed to bring any toys, card games, scissors
+and unauthorised electronic / communication / entertainment / gaming devices
+capable of capturing, storing, displaying and / or transmitting visual,
+audio or verbal information to others, to school. This does not apply to
+the POSB Smart Buddy watch.</p>
+<ol start="6" data-tight="true" class="tight">
+<li>
+<p><strong><u>Prohibited Items &amp; Involvement / Behaviour</u></strong>
+</p>
+</li>
+</ol>
+<p><strong>&nbsp;</strong>6.1 All students are not allowed to have in their
+possession any prohibited items / weapons / weapon-like items which can
+be used, or intended to be used, to cause harm to others.</p>
+<p>&nbsp;6.2&nbsp;&nbsp; Students are not allowed to possess any improper
+or unlawful material. Students are not to behave inappropriately in school
+or in public.</p>
+<p>&nbsp;6.3&nbsp; Students are not to be involved in smoking / vaping /
+any type of gang activity. Any student found participating in such activities
+will be referred to the authorities accordingly...</p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
