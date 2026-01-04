@@ -20,11 +20,20 @@ if he/she is unwell.</p>
 <p>f.&nbsp; Students exhibiting any of the following conditions on the day
 of assessment will be sent home to rest and not be allowed to take the
 assessment:</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>•&nbsp; Fever</p>
+</li>
+<li>
 <p>•&nbsp; Flu-like symptoms</p>
-<p>•&nbsp; Communicable diseases</p>
-<p>(e.g. HFMD, chickenpox, gastroenteritis)</p>
+</li>
+<li>
+<p>•&nbsp; Communicable diseases (e.g. HFMD, chickenpox, gastroenteritis)</p>
+</li>
+<li>
 <p>•&nbsp; On medical leave</p>
+</li>
+</ul>
 <p>g.&nbsp; Alternative arrangements will be made for students who are selected
 to participate in National School Games (NSG) or Singapore Youth Festival
 (SYF) competitions to take the assessment at a different time, should the
