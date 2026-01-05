@@ -129,12 +129,15 @@ Fringe must be above the eyebrows.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>image without words here</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Screenshot_2026_01_05_143920.png">
+</div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>For boys</em>
+<p><em>                            For boys</em>
 </p>
 </td>
 </tr>
@@ -145,9 +148,6 @@ Fringe must be above the eyebrows.</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Screenshot_2026_01_02_160713.png">
-</div>
 <p>Girls:</p>
 <p>a. Girls with long hair must tie their hair neatly with plain, black or
 dark blue accessories.</p>
@@ -162,7 +162,10 @@ dark blue accessories.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p>image here of short hair</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Screenshot_2026_01_05_144032.png">
+</div>
 </th>
 </tr>
 <tr>
@@ -173,10 +176,16 @@ dark blue accessories.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>image here of long hair</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Screenshot_2026_01_05_144053.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p>image here of long hair</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Screenshot_2026_01_05_144106.png">
+</div>
 </td>
 </tr>
 <tr>
@@ -199,9 +208,6 @@ dark blue accessories.</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Screenshot_2026_01_02_160736.png">
-</div>
 <p>3.3&nbsp;&nbsp;<u>All students are not allowed to wear any form of jewellery or</u>  <u>accessories.</u> Girls
 may wear a small pair of plain ear studs, with one stud on each earlobe.</p>
 <p>&nbsp;3.4&nbsp;&nbsp;<u>Fingernails are to be kept short, clean and neat.</u> Nail
