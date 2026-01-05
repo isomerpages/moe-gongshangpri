@@ -32,7 +32,7 @@ consequences for not doing so,</p>
 <p>Propose solutions/resolutions for reconciliation and self-improvement.</p>
 </li>
 </ol>
-<p>&nbsp;For recalcitrant or serious cases, students may receive a ‘Fair’
-or ‘Poor’ for their conduct grade, which will affect their eligibility
-for any school or national award (e.g. scholarships, CCA or Edusave awards)
-for the academic year.</p>
+<p>For recalcitrant or serious cases, students may receive a ‘Fair’ or ‘Poor’
+for their conduct grade, which will affect their eligibility for any school
+or national award (e.g. scholarships, CCA or Edusave awards) for the academic
+year.</p>
