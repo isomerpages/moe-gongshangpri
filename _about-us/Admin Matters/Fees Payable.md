@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Admin Matters
 ---
 <p>The table below shows the monthly fees in Singapore Dollars (SGD) for
-2025:</p>
+2026:</p>
 <p></p>
 <table style="minWidth: 100px">
 <colgroup>
