@@ -72,10 +72,16 @@ cover the balls of the ankles.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>image here</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2026/Screenshot_2026_01_05_143338.png">
+</div>
 </th>
 <th rowspan="1" colspan="1">
-<p>image here</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2026/Screenshot_2026_01_05_143504.png">
+</div>
 </th>
 </tr>
 <tr>
@@ -98,9 +104,6 @@ cover the balls of the ankles.</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2026/Screenshot_2026_01_02_160225.png">
-</div>
 <p><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em>
 </p>
 <p><u>Boys:</u>
