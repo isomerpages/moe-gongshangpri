@@ -153,8 +153,12 @@ Always check the facts. Approach a trusted adult if unsure.</p>
 <li>
 <p>Stop using screens at least one hour before bedtime so that you sleep
 well.</p>
+<p></p>
 </li>
 </ol>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/Screenshot_2026_01_06_125922.png">
+</div>
 <p>
 <br><em>If you wish to know more about Cyber Wellness and Learning with a Learning Device, visit <a href="https://go.gov.sg/cw-studentkitpri" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/cw-studentkitpri</u></a></em>
 </p>
