@@ -24,7 +24,7 @@ Management System “MIMS”)</p>
 <p>We want to use EdTech safely, kindly and responsibly so that all of us
 can learn well and stay safe online. Read on to find out how we can do
 so.</p>
-<p><strong>                                      Using School EdTech</strong>
+<p><strong>Using School EdTech</strong>
 </p>
 <ol>
 <li>
@@ -45,7 +45,7 @@ so.</p>
 </ol>
 <p><strong><em>School devices are shared across fellow students. When a school device is damaged, another student may not to get to use it for learning.</em></strong>
 </p>
-<p><strong>                           Being a Responsible Digital Citizen</strong>
+<p><strong>Being a Responsible Digital Citizen</strong>
 </p>
 <ol start="6" data-tight="true" class="tight">
 <li>
