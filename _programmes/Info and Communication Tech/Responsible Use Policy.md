@@ -57,7 +57,7 @@ so.</p>
 <p>racist or offensive,</p>
 </li>
 <li>
-<p>rude, hurtful or unkindbodyshaming, or</p>
+<p>rude, hurtful or bodyshaming, or</p>
 </li>
 <li>
 <p>vulgar or using bad language.</p>
@@ -128,7 +128,7 @@ properly.&nbsp;</p>
 <p>Be careful when clicking links or downloading files.</p>
 </li>
 <li>
-<p>Do not talk to or meet strangers online.'</p>
+<p>Do not talk to or meet strangers online.</p>
 <p></p>
 <ol start="16" data-tight="true" class="tight">
 <li>
