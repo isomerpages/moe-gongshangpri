@@ -444,14 +444,14 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>5C</strong>
-<br><a href="mailto:norizah_maakiap@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Bryan Chua</a>
-<br><a href="mailto:suryati_abdul_latiff@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Nazeera Omar</a>
+<br><a href="mailto:chua_aik_ching_bryan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Bryan Chua</a>
+<br><a href="mailto:Siti_Nazeera_Omar@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Nazeera Omar</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>5H</strong>
-<br><a href="mailto:hamidah_abdullah@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Melissa Chan</a>
-<br><a href="mailto:ismail_jemaah@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Lye Kit Yeng Ada</a>
+<br><a href="mailto:chan_beng_neo_melissa@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Melissa Chan</a>
+<br><a href="mailto:Lye_kit_yeng_ada@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Lye Kit Yeng Ada</a>
 </p>
 </td>
 </tr>
