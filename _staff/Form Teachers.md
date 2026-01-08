@@ -272,27 +272,29 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>3I</strong>
 <br><a href="mailto:safiah_sidek@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Safiah Bte Sidek</a>
-<br><a href="mailto:Chan_Wen_Di@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Chan Wen Di </a>
+<br><a href="mailto:Chan_Wen_Di@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Chan Wen Di</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>3R</strong>
-<br><a href="mailto:muhammad_luqman_mohd_shapie@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Muhd Luqman B Mohd Shapie</a>
-<br><a href="mailto:low_peggy@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Low Peggy</a>
+<br><a href="mailto:Egwin_Lian@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Egwin Lian</a>
+<br><a href="mailto:ngiam_song_wee@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Ngiam Song Wee</a>
+</p>
+<p><a href="mailto:foo_tseh_chyn@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Foo Tseh Chyn</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>3C</strong>
-<br><a href="mailto:Narayanasamy_Kavitha@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Narayanasamy Kavitha</a>
-<br><a href="mailto:sakinah_omar@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Sakinah Bte Omar</a>
+<br><a href="mailto:chew_suat_ling_wendy@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Wendy Chu</a>
+<br><a href="mailto:siti_normalis_mohamed_is@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Siti Normalis Bte Mohamed Ismail</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>3H</strong>
-<br><a href="mailto:mohammad_azhari_dzulkifli@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Mohd Azhari B Dzulkifli</a>
-<br><a href="mailto:ling_joelle@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Ling Joelle</a>
+<br><a href="mailto:lim_choon_hong_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Lim Choon Hong</a>
+<br><a href="mailto:huang_peiwen@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Liu Peiwen</a>
 </p>
 </td>
 </tr>
