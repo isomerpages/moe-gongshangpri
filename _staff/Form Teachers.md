@@ -180,28 +180,32 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2C</strong>
-<br><a href="mailto:ho_jia_xin_jessie@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Jessie Ong</a>
-<br><a href="mailto:siti_fadhilah_saneb@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Siti Fadhilah Binte Saneb</a>
-<br><a href="mailto:ng_kah_fung@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Soh-Ng Kah Fung</a>
+<br><a href="mailto:roslinda_johari@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Roslinda Bte Johari</a>
+<br><a href="mailto:teo_shaw_ping@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Teo Shaw Ping</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2H</strong>
-<br><a href="mailto:hazmi_hasan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Hazmi B Hasan</a>
-<br><a href="mailto:chee_siew_fong@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Pearlyn Ang</a>
-<br><a href="mailto:syahirah_mohd_said@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Syahirah Mohd Said</a>
+<br><a href="mailto:widayu_kemat@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Widayu Bte Kemat</a>
+<br><a href="mailto:lee_ser_meei@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Lee Ser Meei</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2G</strong>
-<br><a href="mailto:Suhaidah_Mokhtar@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Suhaidah Bte Mokhtar</a>
-<br><a href="mailto:Yasmin_Abdul_Razak@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Yasmin Bte Abdul Razak</a>
+<br><a href="mailto:tan_chuan_song@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Tan Chuan Song</a>
+<br><a href="mailto:habibah_tahar@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Habibah Bte Tahar</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>2K</strong>
+</p>
+<p><a href="mailto:nurathirah_md_sharoni@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Nurathirah Aiman</a>
+<br><a href="mailto:yeo_soh_fang@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Yeo Soh Fang Jennifer</a>
+</p>
+<p><a href="mailto:Kavitha_Senthil_Kumar@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Kavitha Senthil Kumar</a>
+</p>
 </td>
 </tr>
 </tbody>
