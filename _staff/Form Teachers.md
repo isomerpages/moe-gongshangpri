@@ -347,16 +347,16 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>4R</strong>
-<br><a href="mailto:gavin_bi@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Gavin Bi</a>
-<br><a href="mailto:foo_tseh_chyn@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Foo Tseh Chyn</a>
+<br><a href="mailto:muhammad_luqman_mohd_shapie@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Muhd Luqman B Mohd Shapie</a>
+<br><a href="mailto:low_peggy@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Peggy Low</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>4C</strong>
-<br><a href="mailto:Egwin_Lian@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Egwin Lian</a>
-<br><a href="mailto:siti_normalis_mohamed_is@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Siti Normalis Bte Mohamed Ismail</a>
+<br><a href="mailto:sakinah_omar@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Sakinah Bte Omar</a>
+<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
