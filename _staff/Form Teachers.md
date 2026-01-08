@@ -420,24 +420,24 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>5T</strong>
-<br><a href="mailto:tan_jenny@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Haslinah Bte Yahya</a>
-<br><a href="mailto:lee_hung_tong_henry@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Ismail Jemaah</a>
+<br><a href="mailto:haslinah_yahya@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Haslinah Bte Yahya</a>
+<br><a href="mailto:ismail_jemaah@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Ismail Jemaah</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>5I</strong>
-<br><a href="mailto:sri_asilah_subari@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Zheng Minghui</a>
-<br><a href="mailto:ng-thiam_siow_foon@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Rosilah Bte Abdullah</a>
+<br><a href="mailto:zheng_minghui@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Zheng Minghui</a>
+<br><a href="mailto:rosilah_abdullah@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Rosilah Bte Abdullah</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>5R</strong>
-<br><a href="mailto:jennifer_jacob@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Fong Shiyan Dorcas</a>
-<br><a href="mailto:isaac_foo_yong_wei@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr  Hazmi B Hasan</a>
+<br><a href="mailto:fong_shiyan_dorcas@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Fong Shiyan Dorcas</a>
+<br><a href="mailto:hazmi_hasan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Hazmi B Hasan</a>
 </p>
-<p><a href="mailto:ng-thiam_siow_foon@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Lai Yao Khuan Scott</a>
+<p><a href="mailto:lai_yao_khuan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Lai Yao Khuan Scott</a>
 </p>
 </td>
 </tr>
