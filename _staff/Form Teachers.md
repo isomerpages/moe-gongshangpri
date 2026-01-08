@@ -361,8 +361,8 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>4H</strong>
-<br><a href="mailto:lai_yao_khuan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Lai Yao Khuan Scott</a>
-<br><a href="mailto:heng_mui_gek_anne@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Anne Heng</a>
+<br><a href="mailto:mohammad_azhari_dzulkifli@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Mohd Azhari B Dzulkifli</a>
+<br><a href="mailto:ling_joelle@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Ling Joelle</a>
 </p>
 </td>
 </tr>
