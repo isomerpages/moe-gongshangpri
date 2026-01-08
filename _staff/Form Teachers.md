@@ -263,16 +263,16 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>3T</strong>
-<br><a href="mailto:Siti_Nazeera_Omar@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Nazeera Omar</a>
-<br><a href="mailto:zulkarnai_zulkifli@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Zulkarnai bin Zulkifli</a>
+<br><a href="mailto:Wang_Jingzi@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Wang Jingzi</a>
+<br><a href="mailto:Suhaidah_Mokhtar@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Suhaidah Bte Mokhtar</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>3I</strong>
-<br><a href="mailto:mehrun_nisha@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Mehrun Nisha</a>
-<br><a href="mailto:ng_chor_leng@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Ng Chor Leng</a>
+<br><a href="mailto:safiah_sidek@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Safiah Bte Sidek</a>
+<br><a href="mailto:Chan_Wen_Di@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Chan Wen Di </a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
