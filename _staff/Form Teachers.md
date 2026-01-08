@@ -13,7 +13,7 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Year Head:</strong>
+<p><strong>Year Head (Lower Primary):</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -50,56 +50,56 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>1P</strong>
-<br><a href="mailto:gwendolyn_khong_wei_sze@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Gwendolyn Khong Wei Sze</a>
-<br><a href="mailto:loy_sim_lan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Yap (Mdm Loy Sim Lan)</a>
+<br><a href="mailto:lu_yanyu@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Lu Yanyu</a>
+<br><a href="mailto:Suriawati_Ahmad_Sapari_A@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Suriawati Bte Ahmad Sapari</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>1T</strong>
-<br><a href="mailto:safini_razali@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Safini Razali</a>
-<br><a href="mailto:lee_yuet_sim@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Shirley Puay</a>
+<br><a href="mailto:razilah_yahya@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Razilah Bte Yahya</a>
+<br><a href="mailto:Hafiza_Sapiee@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Hafiza Binte Sapiee</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>1I</strong>
-<br><a href="mailto:tang_swee_har@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Jessica Tang</a>
-<br><a href="mailto:muhamad_fadzly_zainal@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Muhd Fadzly B Zainal</a>
+<br><a href="mailto:Bindiya_vaswani@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Bindiya Manoj Aswani</a>
+<br><a href="mailto:Yu_Danning@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Yu Danning</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>1R</strong>
-<br><a href="mailto:Horis_Hosri@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Horis B Hosri</a>
-<br><a href="mailto:ng_bee_san@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Ng Bee San</a>
+<br><a href="mailto:siti_fadhilah_saneb@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Siti Fadhilah Binte Saneb</a>
+<br><a href="mailto:seng_jia_ying@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Seng Jia Ying</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>1C</strong>
-<br><a href="mailto:teo_shaw_ping@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Teo Shaw Ping</a>
-<br><a href="mailto:roslinda_johari@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Roslinda Bte Johari</a>
+<br><a href="mailto:maragatham_sivalingam@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Maragatham D/O Sivalingam</a>
+<br><a href="mailto:he_na@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm He Na</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>1H</strong>
-<br><a href="mailto:lee_ser_meei@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Lee Ser Meei</a>
-<br><a href="mailto:widayu_kemat@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Widayu Bte Kemat</a>
+<br><a href="mailto:chee_siew_fong@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Pearlyn Ang</a>
+<br><a href="mailto:syahirah_mohd_said@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Syahirah Mohd Said</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>1G</strong>
-<br><a href="mailto:habibah_tahar@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Habibah Bte Tahar</a>
-<br><a href="mailto:loh_hui_zhi_natalie@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Natalie Neo</a>
+<br><a href="mailto:sunil_rai@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Sunil Rai</a>
+<br><a href="mailto:heng_mui_gek_anne@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Anne Heng</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>1K</strong>
-<br><a href="mailto:haslinah_yahya@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Haslinah Bte Yahya</a>
-<br><a href="mailto:nurathirah_md_sharoni@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Nurathirah Aiman</a>
+<br><a href="mailto:Habibah_Najihahbi_Ahmad@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Habibah Najihahbi Binte Ahmad</a>
+<br><a href="mailto:Yasmin_Abdul_Razak@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Yasmin Bte Abdul Razak</a>
 </p>
 </td>
 </tr>
