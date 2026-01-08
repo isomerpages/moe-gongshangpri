@@ -230,16 +230,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Assistant Year Head:</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lai_yao_khuan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Lai Yao Khuan Scott</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -310,21 +300,11 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Year Head:</strong>
+<p><strong>Year Head (Upper Primary):</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:fadzillah_aslam_khan@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Fadzillah Bte Aslam Khan</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Assistant Year Head:</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lai_yao_khuan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Lai Yao Khuan Scott</a>
 </p>
 </td>
 </tr>
@@ -347,24 +327,22 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>4P</strong>
-<br><a href="mailto:Habibah_Najihahbi_Ahmad@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Habibah Najihahbi Bte Ahmad</a>
-<br><a href="mailto:loh_sook_fun_jannie@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Jannie Lee</a>
+<br><a href="mailto:fadzillah_aslam_khan@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Fadzillah Bte Aslam Khan</a>
+<br><a href="mailto:chang_yating@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Chang Yating</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>4T</strong>
-<br><a href="mailto:Bindiya_vaswani@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Bindiya Manoj Aswani</a>
-<br><a href="mailto:Ang_Jing_Wen_Vanessa@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Vanessa Ang</a>
+<br><a href="mailto:loh_hui_zhi_natalie@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Natalie Neo</a>
+<br><a href="mailto:zulkarnai_zulkifli@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Zulkarnai Bin Zulkifli</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>4I</strong>
-<br><a href="mailto:chew_suat_ling_wendy@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Wendy Chu</a>
-<br><a href="mailto:razilah_yahya@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Razilah Bte Yahya</a>
-</p>
-<p><a href="mailto:maragatham_sivalingam@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Maragatham Sivalingam</a>
+<br><a href="mailto:mehrun_nisha@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Mehrun Nisha</a>
+<br><a href="mailto:gavin_bi@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Gavin Bi</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
