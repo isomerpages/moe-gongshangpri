@@ -220,7 +220,7 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Year Head:</strong>
+<p><strong>Year Head (Lower Primary):</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -257,9 +257,8 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>3P</strong>
-<br><a href="mailto:fadzillah_aslam_khan@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Fadzillah Bte Aslam Khan</a>
-<br><a href="mailto:lu_yanyu@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Lu Yanyu</a>
-<br><a href="mailto:seng_jia_ying@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Ling (Ms Seng Jia Ying)</a>
+<br><a href="mailto:yusri_yunos@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Yusri B Yunos</a>
+<br><a href="mailto:marsita_omar@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Marsita Bte Omar</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
