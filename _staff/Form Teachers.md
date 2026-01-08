@@ -115,7 +115,7 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Year Head:</strong>
+<p><strong>Year Head (Lower Primary):</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -152,28 +152,28 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2P</strong>
-<br><a href="mailto:alvinna_alphonso@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Alvinna Alphonso</a>
-<br><a href="mailto:teo_siet_ney_rosalynn@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Rosalynn Ong</a>
+<br><a href="mailto:loy_sim_lan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Yap Loy Sim Lan</a>
+<br><a href="mailto:gwendolyn_khong_wei_sze@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Gwendolyn Khong Wei Sze</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2T</strong>
-<br><a href="mailto:goh_chwee_yin_sarah@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Sarah Ang</a>
-<br><a href="mailto:yusri_yunos@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Yusri B Yunos</a>
+<br><a href="mailto:lee_yuet_sim@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Shirley Puay</a>
+<br><a href="mailto:safini_razali@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Safini Razali</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2I</strong>
-<br><a href="mailto:azman_mohammed_noh@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Azman Bin Mohammed Noh</a>
-<br><a href="mailto:yeo_soh_fang@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Yeo Soh Fang Jennifer</a>
+<br><a href="mailto:muhamad_fadzly_zainal@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Muhd Fadzly B Zainal</a>
+<br><a href="mailto:tang_swee_har@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Jessica Tang</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2R</strong>
-<br><a href="mailto:safiah_sidek@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Safiah Bte Sidek</a>
-<br><a href="mailto:Dong_Cancan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Dong Cancan</a>
+<br><a href="mailto:ng-thiam_siow_foon@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Ng-Thiam Siow Foon</a>
+<br><a href="mailto:Horis_Hosri@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Horis Bin Hosri</a>
 </p>
 </td>
 </tr>
