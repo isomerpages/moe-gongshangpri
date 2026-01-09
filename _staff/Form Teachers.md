@@ -301,8 +301,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>4C</strong>
 <br><a href="mailto:sakinah_omar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sakinah Bte Omar</a>
-</p>
-<p><a href="NARAYANASAMY_KAVITHA@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Mdm Narayanasamy Kavitha</a>
+<br><a href="NARAYANASAMY_KAVITHA@SCHOOLS.GOV.SG" rel="noopener nofollow" target="_blank">Mdm Narayanasamy Kavitha</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
