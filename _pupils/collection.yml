@@ -2,7 +2,9 @@ collections:
   pupils:
     output: true
     order:
-      - Discipline.md
+      - Discipline/.keep
+      - Discipline/Philosophy.md
+      - Discipline/School Rules.md
       - Pastoral Care.md
       - Prefectorial Board.md
       - Peer Support Leaders.md
