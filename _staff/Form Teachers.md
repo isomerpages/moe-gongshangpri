@@ -75,21 +75,20 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1G</strong>
-<br><a href="mailto:sunil_rai@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Sunil Rai</a>
-<br><a href="mailto:heng_mui_gek_anne@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Anne Heng</a>
+<p><strong>1P</strong>
+<br><a href="mailto:lu_yanyu@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Lu Yanyu</a>
+<br><a href="mailto:Suriawati_Ahmad_Sapari_A@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Suriawati Bte Ahmad Sapari</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>1K</strong>
-<br><a href="mailto:Habibah_Najihahbi_Ahmad@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Habibah Najihahbi Binte Ahmad</a>
-<br><a href="mailto:Yasmin_Abdul_Razak@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Yasmin Bte Abdul Razak</a>
+<p><strong>1T</strong>
+<br><a href="mailto:razilah_yahya@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Razilah Bte Yahya</a>
+<br><a href="mailto:Hafiza_Sapiee@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Hafiza Binte Sapiee</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <h4><strong>Primary 2</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
