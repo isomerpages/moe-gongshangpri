@@ -74,13 +74,13 @@ so.</p>
 </li>
 <li>
 <p>threaten, bully or pretend to be someone else.</p>
+</li>
+</ul>
 <ol start="8" data-tight="true" class="tight">
 <li>
 <p>Do not use school accounts for buying or selling things.</p>
 </li>
 </ol>
-</li>
-</ul>
 <p><strong><em>The school will take disciplinary action against anyone who breaks the rules stated above.</em></strong>
 </p>
 <p><strong>Respecting Other People’s Work</strong>
