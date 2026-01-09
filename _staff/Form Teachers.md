@@ -411,7 +411,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>6P</strong>
 <br><a href="mailto:Pang_yong_hiang_angie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Angie Wong</a>
-<br><a href="mailto:chow_yoke_yeong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Loy Yoke Yeong</a>
+<br><a href="mailto:chow_yoke_yeong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Loy-Chow Yoke Yeong</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
