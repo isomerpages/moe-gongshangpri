@@ -260,7 +260,6 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>3R</strong>
 <br><a href="mailto:Egwin_Lian@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Egwin Lian</a>
-<br><a href="mailto:ngiam_song_wee@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Ngiam Song Wee</a>
 </p>
 <p><a href="mailto:foo_tseh_chyn@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Foo Tseh Chyn</a>
 </p>
