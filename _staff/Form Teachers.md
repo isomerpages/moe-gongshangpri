@@ -13,7 +13,7 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Year Head (Lower Primary):</strong>
+<p><strong>Year Head:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -31,22 +31,6 @@ description: ""
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>1P</strong>
@@ -115,7 +99,7 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Year Head (Lower Primary):</strong>
+<p><strong>Year Head:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -123,22 +107,6 @@ description: ""
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2P</strong>
@@ -208,7 +176,7 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Year Head (Lower Primary):</strong>
+<p><strong>Year Head:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -226,14 +194,6 @@ description: ""
 </p>
 </td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>3P</strong>
@@ -288,7 +248,7 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Year Head (Upper Primary):</strong>
+<p><strong>Year Head:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -296,22 +256,6 @@ description: ""
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>4P</strong>
@@ -366,7 +310,7 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Year Head (Upper Primary):</strong>
+<p><strong>Year Head:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -374,22 +318,6 @@ description: ""
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>5P</strong>
@@ -445,7 +373,7 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Year Head (Upper Primary):</strong>
+<p><strong>Year Head:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -463,22 +391,6 @@ description: ""
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>6P</strong>
