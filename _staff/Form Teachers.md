@@ -190,8 +190,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2K</strong>
-</p>
-<p><a href="mailto:nurathirah_md_sharoni@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Nurathirah Aiman</a>
+<br><a href="mailto:nurathirah_md_sharoni@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Nurathirah Aiman</a>
 <br><a href="mailto:yeo_soh_fang@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Yeo Soh Fang Jennifer</a>
 <br><a href="mailto:Kavitha_Senthil_Kumar@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Kavitha Senthil Kumar</a>
 </p>
