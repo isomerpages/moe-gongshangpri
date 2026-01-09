@@ -193,8 +193,7 @@ description: ""
 </p>
 <p><a href="mailto:nurathirah_md_sharoni@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Nurathirah Aiman</a>
 <br><a href="mailto:yeo_soh_fang@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Yeo Soh Fang Jennifer</a>
-</p>
-<p><a href="mailto:Kavitha_Senthil_Kumar@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Kavitha Senthil Kumar</a>
+<br><a href="mailto:Kavitha_Senthil_Kumar@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Kavitha Senthil Kumar</a>
 </p>
 </td>
 </tr>
@@ -260,8 +259,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>3R</strong>
 <br><a href="mailto:Egwin_Lian@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Egwin Lian</a>
-</p>
-<p><a href="mailto:foo_tseh_chyn@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Foo Tseh Chyn</a>
+<br><a href="mailto:foo_tseh_chyn@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Foo Tseh Chyn</a>
 </p>
 </td>
 </tr>
@@ -418,8 +416,7 @@ description: ""
 <p><strong>5R</strong>
 <br><a href="mailto:fong_shiyan_dorcas@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Fong Shiyan Dorcas</a>
 <br><a href="mailto:hazmi_hasan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Hazmi B Hasan</a>
-</p>
-<p><a href="mailto:lai_yao_khuan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Lai Yao Khuan Scott</a>
+<br><a href="mailto:lai_yao_khuan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Lai Yao Khuan Scott</a>
 </p>
 </td>
 </tr>
@@ -501,15 +498,13 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>6I</strong>
 <br><a href="mailto:sri_asilah_subari@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Sri Asilah Subari</a>
-</p>
-<p><a href="mailto:ng_chor_leng@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Hamidah Bte Abdullah</a>
+<br><a href="mailto:ng_chor_leng@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Hamidah Bte Abdullah</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>6R</strong>
 <br><a href="mailto:jennifer_jacob@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Jennifer d/o Jacob</a>
-</p>
-<p><a href="mailto:Kan_Yue_Lian@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Kan Yue Lian</a>
+<br><a href="mailto:Kan_Yue_Lian@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Kan Yue Lian</a>
 </p>
 </td>
 </tr>
