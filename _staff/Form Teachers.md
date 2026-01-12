@@ -90,9 +90,9 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>1T</strong>
-<br><a href="mailto:razilah_yahya@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Razilah Bte Yahya</a>
-<br><a href="mailto:Hafiza_Sapiee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Hafiza Binte Sapiee</a>
+<p><strong>1K</strong>
+<br><a href="Habibah_Najihahbi_Ahmad@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Habibah Najihahbi</a>
+<br><a href="Yasmin_Abdul_Razak@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Yasmin Bte Abdul Razak</a>
 </p>
 </td>
 </tr>
