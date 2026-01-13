@@ -425,7 +425,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>6I</strong>
 <br><a href="mailto:sri_asilah_subari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sri Asilah Subari</a>
-<br><a href="mailto:ng_chor_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Hamidah Bte Abdullah</a>
+<br><a href="mailto:ng_chor_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ng Chor Leng</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
