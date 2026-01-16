@@ -9,7 +9,6 @@ to consolidate all information on a one-stop platform—the school website.
 This allows information to be easily accessible, readily available, and
 kept up to date for parents.</p>
 <p>All the content available are the same to previous printed version.</p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -50,4 +49,6 @@ kept up to date for parents.</p>
 </tr>
 </tbody>
 </table>
+<p>School Calendar for Y2026 can be found in Parents Gateway App. Click on
+Services and you will be able to see School Calendar function.</p>
 <p></p>
