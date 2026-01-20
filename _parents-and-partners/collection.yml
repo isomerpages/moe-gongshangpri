@@ -2,7 +2,6 @@ collections:
   parents-and-partners:
     output: true
     order:
-      - Parent Handbook.md
       - Great School Home Partnerships.md
       - Parents Gateway.md
       - Homework Policy.md
