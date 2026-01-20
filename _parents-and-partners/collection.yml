@@ -2,6 +2,7 @@ collections:
   parents-and-partners:
     output: true
     order:
+      - Parent Handbook.md
       - Great School Home Partnerships.md
       - Parents Gateway.md
       - Homework Policy.md
@@ -10,7 +11,6 @@ collections:
       - PSG/.keep
       - PSG/Join Us.md
       - PSG/Parent Support Group.md
-      - PSG/Fathers @ Gongshang.md
       - PSG/Members' Guidelines.md
       - Parent Volunteer.md
       - Alumni/.keep

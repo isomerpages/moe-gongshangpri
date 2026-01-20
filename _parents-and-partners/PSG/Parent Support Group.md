@@ -7,8 +7,9 @@ third_nav_title: PSG
 ---
 <h3><strong>Parent Support Group (G*SPEARS)</strong></h3>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 uploads/PSG2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GSPS_PSG_Org_Chart_2026.jpg">
 </div>
 <p>The PSG works hand-in-hand with the school to encourage family bonding
 through various activities as well as learning life-skills.</p>
