@@ -30,17 +30,13 @@ of sporting excellence.</p>
 </ul>
 <p>We look forward to your kind co-operation and fullest support in our pursuit
 of sporting excellence.</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Level</p>
-</th>
 <th rowspan="1" colspan="1">
 <p>Teachers-in charge</p>
 </th>
@@ -50,55 +46,46 @@ of sporting excellence.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 3</p>
+<p>Mr Zulkarnai (IC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Zulkarnai</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:zulkarnai@gsps.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zulkarnai@gsps.edu.sg</a>
+<p><a href="mailto:zulkarnai_zulkifli@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zulkarnai@gsps.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 4</p>
+<p>Mdm Safini</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Normalis</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:siti.normalis@gsps.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti.normalis@gsps.edu.sg</a>
+<p><a href="mailto:safini_razali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">safini.razali@gsps.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Nurathirah</p>
 <p>Mdm Teo Shaw Ping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nurathirah@gsps.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurathirah@gsps.edu.sg</a>
-</p>
-<p><a href="mailto:teo.shaw.ping@gsps.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo.shaw.ping@gsps.edu.sg</a>
+<p><a href="mailto:teo_shaw_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo.shaw.ping@gsps.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Safini</p>
 <p>Ms Dorcas Fong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:safini.razali@gsps.edu.sg" rel="noopener noreferrer nofollow" target="_blank">safini.razali@gsps.edu.sg</a>
+<p><a href="mailto:fong_shiyan_dorcas@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">dorcas.fong@gsps.edu.sg</a>
 </p>
-<p><a href="mailto:safini.razali@gsps.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dorcas.fong@gsps.edu.sg</a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Roslinda</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:roslinda_johari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">dorcas.fong@gsps.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -129,6 +116,7 @@ of sporting excellence.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P5 – P6</p>
+<p>*P6 last CCA lesson will be in Term 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3.00 p.m. – 5.00 p.m.</p>
@@ -140,6 +128,7 @@ of sporting excellence.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P3 – P4</p>
+<p>*P3 first CCA lesson will be in Term 3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.15 p.m. – 3.45 p.m.</p>
