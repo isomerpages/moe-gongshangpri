@@ -49,7 +49,7 @@ of sporting excellence.</p>
 <p>Mr Zulkarnai (IC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zulkarnai_zulkifli@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zulkarnai@gsps.edu.sg</a>
+<p><a href="mailto:zulkarnai_zulkifli@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zulkarnai_zulkifli@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -58,7 +58,7 @@ of sporting excellence.</p>
 <p>Mdm Safini</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:safini_razali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">safini.razali@gsps.edu.sg</a>
+<p><a href="mailto:safini_razali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">safini_razali@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -67,7 +67,7 @@ of sporting excellence.</p>
 <p>Mdm Teo Shaw Ping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teo_shaw_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo.shaw.ping@gsps.edu.sg</a>
+<p><a href="mailto:teo_shaw_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_shaw_ping@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -76,7 +76,7 @@ of sporting excellence.</p>
 <p>Ms Dorcas Fong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:fong_shiyan_dorcas@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">dorcas.fong@gsps.edu.sg</a>
+<p><a href="mailto:fong_shiyan_dorcas@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fong_shiyan_dorcas@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -85,7 +85,7 @@ of sporting excellence.</p>
 <p>Mdm Roslinda</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:roslinda_johari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">dorcas.fong@gsps.edu.sg</a>
+<p><a href="mailto:roslinda_johari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">roslinda_johari@schools.gov.sg</a>
 </p>
 </td>
 </tr>
