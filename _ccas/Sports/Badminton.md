@@ -116,6 +116,7 @@ of sporting excellence.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P5 – P6</p>
+<p>*P6 last CCA lesson will be in Term 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3.00 p.m. – 5.00 p.m.</p>
@@ -127,6 +128,7 @@ of sporting excellence.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P3 – P4</p>
+<p>*P3 first CCA lesson will be in Term 3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.15 p.m. – 3.45 p.m.</p>
