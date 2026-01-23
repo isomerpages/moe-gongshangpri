@@ -37,7 +37,7 @@ and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 <p>You may&nbsp;click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more
 information on MOE Sexuality Education.&nbsp;</p>
-<p><strong>OVERVIEW OF GONGSHANG PRIMARY SCHOOL'S SEXUALITY EDUCATION PROGRAMME FOR 2025</strong>
+<p><strong>OVERVIEW OF GONGSHANG PRIMARY SCHOOL'S SEXUALITY EDUCATION PROGRAMME FOR 2026</strong>
 </p>
 <p>4. Sexuality Education is delivered in a holistic manner through the school
 curriculum.&nbsp;The content for Sexuality Education is grouped into five
@@ -66,8 +66,8 @@ in their growing years. They learn to build healthy and rewarding relationships
 with others, including those with members of the opposite sex. Students
 are also guided to make wise, informed and responsible decisions to keep
 themselves safe from sexuality-related risks.</p>
-<h4><strong>At&nbsp;Gongshang Primary School, the following Sexuality Education lessons will be taught in&nbsp;2025:</strong></h4>
-<p><strong>2025 SEXUALITY EDUCATION LESSONS IN CCE <br>PRIMARY 5</strong>
+<h4><strong>At&nbsp;Gongshang Primary School, the following Sexuality Education lessons will be taught in&nbsp;2026:</strong></h4>
+<p><strong>2026 SEXUALITY EDUCATION LESSONS IN CCE <br>PRIMARY 5</strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -109,7 +109,7 @@ affected, even when one’s body is experiencing changes due to puberty.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 6</p>
+<p>Term 2 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -133,7 +133,7 @@ own responses when they encounter pornography by applying the strategy
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 7</p>
+<p>Term 2 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -155,7 +155,7 @@ and how to seek help for themselves and their friends.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 8</p>
+<p>Term 2 Week 9</p>
 </td>
 </tr>
 <tr>
@@ -217,7 +217,7 @@ romantic relationship. Instead, they should focus on building strong and
 healthy friendships with their circles of friends.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 7</p>
+<p>Term 1 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -237,7 +237,7 @@ of teasing their peers who may be experiencing the feelings of infatuation
 and learn to behave maturely towards each other.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 8</p>
+<p>Term 1 Week 9</p>
 </td>
 </tr>
 <tr>
@@ -263,8 +263,8 @@ and/or supplementary Sexuality Education Programmes by MOE-approved external
 providers.</p>
 <p>9. Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated
-to parents at the start of the year and is also downloadable <a href="/files/2025 uploads/2025_parents_opt_out_form_hardcopy.pdf" rel="noopener nofollow" target="_blank">here</a>.
-The completed opt-out form is to be submitted by&nbsp;<strong>10/02/2025</strong>.&nbsp;</p>
+to parents at the start of the year and is also downloadable <a href="mailto: go.gov.sg/gspsp6sed26" rel="noopener nofollow" target="_blank">here</a> The
+completed opt-out form is to be submitted by&nbsp;<strong>02/02/2026</strong>.&nbsp;</p>
 <p>10. Parents can contact the school at 67831191 and speak to their child's
 form teacher or Mrs Singh for discussion or to seek clarification about
 the school’s Sexuality Education Programme.</p>
