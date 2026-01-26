@@ -114,7 +114,7 @@ waiting for CCAs to start.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Drama Club</p>
+<p>Speech and Drama Club</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wed 2.00 pm – 4.00 pm</p>
