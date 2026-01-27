@@ -105,7 +105,7 @@ waiting for CCAs to start.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Strung Ensemble</p>
+<p>String Ensemble</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mon 3.00pm - 5.00pm (All P3-6)</p>
