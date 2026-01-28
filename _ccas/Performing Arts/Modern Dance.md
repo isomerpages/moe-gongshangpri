@@ -52,7 +52,7 @@ through movement</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Roslinda Bte Johari (2IC)</p>
+<p>Mdm Suhaidah Bte Mokhtar (2IC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>roslinda.johari@gsps.edu.sg</p>
@@ -60,10 +60,10 @@ through movement</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Suhaidah Bte Mokhtar</p>
+<p>Mdm Marsita Binte Omar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>suhaidah.mokhtar@gsps.edu.sg</p>
+<p>marsita.omar@gsps.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -76,10 +76,6 @@ through movement</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Training session:</strong>*</p>
-<p>*Please click <a href="https://go.gov.sg/moderndanceschedule" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-the 2024 training schedule.</p>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 uploads/MD_3.jpg">
@@ -95,8 +91,11 @@ the 2024 training schedule.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Modern Dance/5.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Modern Dance/6.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/MD_1.jpg">
 </div>
 <p></p>
