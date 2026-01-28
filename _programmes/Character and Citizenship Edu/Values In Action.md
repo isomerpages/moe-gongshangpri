@@ -6,13 +6,11 @@ third_nav_title: Character and Citizenship Edu
 variant: tiptap
 ---
 <h3><strong>Values in Action (VIA)</strong></h3>
-<p>Values in Action (VIA) in Gongshang aims to nurture our pupils to become
+<p>Values in Action (VIA) in Gongshang aims to nurture our students to become
 socially responsible citizens and to help them understand that every citizen
-has a role in enhancing the well-being of the community.</p>
-<p>VIA experiences are also closely linked to the CCE domains which vary
-from self to community as this spiral approach will allow pupils to progress
-at their own pace and there will be better coherence with regards to all
-the experiences that they are receiving.</p>
+has a role in enhancing the well-being of the community. Through these
+initiatives, our students learn to care for their environment, respect
+community members and take proactive steps to make a positive impact.</p>
 <p><strong>Key Programmes</strong>
 </p>
 <table style="minWidth: 50px">
@@ -35,7 +33,7 @@ the experiences that they are receiving.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Life Skills - Looking after ourselves and being independent</p>
+<p>Kindness begins at home</p>
 </td>
 </tr>
 <tr>
@@ -44,7 +42,7 @@ the experiences that they are receiving.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Care for Family – Helping with the chores</p>
+<p>Showing kindness in school</p>
 </td>
 </tr>
 <tr>
@@ -53,7 +51,7 @@ the experiences that they are receiving.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Love our Environment</p>
+<p>Care for our Environment: Buddy Clean Workshop</p>
 </td>
 </tr>
 <tr>
@@ -71,7 +69,7 @@ the experiences that they are receiving.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Food Drive</p>
+<p>Grow and Give</p>
 </td>
 </tr>
 <tr>
@@ -80,7 +78,7 @@ the experiences that they are receiving.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Entrepreneur Bazaar</p>
+<p>Care for our Environment: Clean Heroes</p>
 </td>
 </tr>
 <tr>
