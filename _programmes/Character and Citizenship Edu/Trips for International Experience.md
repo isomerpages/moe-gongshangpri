@@ -43,6 +43,3 @@ and experience local cuisine.</p>
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2026/TIE_Pic.png">
 </div>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
