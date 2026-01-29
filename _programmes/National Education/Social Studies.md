@@ -21,7 +21,7 @@ the global community.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 uploads/SS_curri.png">
 </div>
-<p>A thematic approach is adopted to frame the Social Studies Primary <a href="https://www.moe.gov.sg/-/media/files/primary/2020-social-studies-primary.pdf" rel="noopener nofollow" target="_blank">syllabus</a> and
+<p>A thematic approach is adopted to frame the Social Studies Primary <a href="https://www.moe.gov.sg/api/media/d8ea4817-c1b3-4217-84d4-82838d39d75c/2020-social-studies-primary.pdf" rel="noopener nofollow" target="_blank">syllabus</a> and
 is organized into three broad clusters, with each level of study guided
 by an inquiry focus.</p>
 <table style="minWidth: 75px">
