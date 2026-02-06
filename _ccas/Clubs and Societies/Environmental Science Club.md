@@ -6,24 +6,22 @@ third_nav_title: Clubs and Societies
 variant: tiptap
 ---
 <h3><strong>Environmental Science Club</strong></h3>
-<p>In Environmental Science Club, members will learn about the environment
-and science phenomenon through using various scientific equipment and investigative
-techniques.&nbsp;Our club also participates in activities advocating environmental
-awarenesss. For example, members will carry out scientific investigations
-and explore how they can play a part through hands-on ‘green’ activities.
-Through these authentic activities, members will learn the subject in a
-fun and experiential way.</p>
-<p><strong>Objectives of CCA:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>To develop care and acquire a sense of responsibility for their environment</p>
-</li>
-<li>
-<p>To acquire important life skills such as working collaboratively, problem-solving
-and teamwork.</p>
-</li>
-</ul>
+<p>The Environmental Science Club provides a vibrant platform for pupils
+to investigate real-world environmental issues and sustainability through
+hands-on experiments and mini-inquiries. As members collaborate on these
+investigations, they build strong friendships and learn to work together
+meaningfully. The club also encourages pupils to understand the importance
+of sustainable practices and explore ways they can contribute towards protecting
+the environment.</p>
+<p>Beyond learning, the club emphasizes enjoyment and exploration — allowing
+pupils to discover nature, exchange ideas and participate in activities
+that spark curiosity, promote sustainable habits and nurture a love for
+the environment.</p>
+<p><strong>Objectives of the Club:</strong>
+<br>• To develop pupils’ sense of responsibility and care towards the environment
+through sustainable practices.
+<br>• To cultivate collaboration, critical thinking and inquiry skills through
+hands-on scientific investigations.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -37,15 +35,6 @@ and teamwork.</p>
 <th rowspan="1" colspan="1">
 <p>Email address</p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Jessie Ong (OIC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ho_jia_xin_jessie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_jia_xin_jessie@schools.gov.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
