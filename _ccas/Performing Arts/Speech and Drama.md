@@ -6,32 +6,40 @@ third_nav_title: Performing Arts
 variant: tiptap
 ---
 <h3><strong>Speech and Drama</strong></h3>
-<h4><strong>Lights, camera, action!</strong></h4>
-<p>This fun and exciting new CCA will give students the opportunity to express
-their imagination and creativity using various drama techniques. The students
-will get a chance to go for a professional drama production at least once
-a year and learn from the experts in the drama scene. Students will also
-prepare for their own productions in school such as during English Week
-and Teacher’s Day. Through these activities, we hope to develop our students
-into competent communicators and confident users of the English Language.</p>
-<p><strong>Some of the highlights of our club activities include:</strong>
+<h4><strong>Lights, Camera, Action!</strong></h4>
+<p>&nbsp;</p>
+<p>The Speech and Drama CCA at Gongshang Primary School is a fun, dynamic,
+and enriching programme designed to ignite students’<strong> </strong>imagination
+and creativity through the performing arts. Through engaging <strong>drama techniques</strong> and <strong>hands-on experiences,</strong> students
+learn to <strong>express themselves confidently</strong> while <strong>developing a strong command of the English language.</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Script writing – to learn how to write a simple screenplay</p>
-</li>
-<li>
-<p>Educational Games – to build rapport with one another through games such
-as Conversational Cards and debates</p>
-</li>
-<li>
-<p>Public speaking – to build confidence to take the stage and present their
-ideas</p>
-</li>
-<li>
-<p>ICT – to use technological tools to express and share their ideas</p>
-</li>
-</ul>
+<p>&nbsp;Students will have opportunities to <strong>attend at least one professional drama production each year</strong>,
+where they can <strong>observe</strong>, <strong>learn from,</strong> and
+be <strong>inspired </strong>by practitioners in Singapore’s vibrant drama
+scene. In school, members will <strong>work collaboratively</strong> to <strong>plan and perform productions</strong> for
+key events such as <strong>English Week</strong> and <strong>Teacher’s Day</strong>,
+gaining valuable experience both on and off stage.</p>
+<p>&nbsp;In 2026, a <strong>selected team</strong> from the Speech and Drama
+CCA will proudly represent Gongshang Primary School at the <strong>Singapore Youth Festival (SYF) 2026</strong>,
+where students will showcase their <strong>creativity, teamwork,</strong> and <strong>performance skills</strong> on
+a national platform.</p>
+<p>&nbsp;Through these rich learning experiences, the CCA aims to nurture
+students into <strong>confident performers, effective communicators, and articulate users</strong> of
+the English language.</p>
+<p>&nbsp;<strong>Highlights of our CCA include:</strong>
+</p>
+<p>&nbsp;<strong>Educational Drama Games</strong>
+</p>
+<p>Interactive activities such as conversational cards, role-play, and debates
+help build rapport, confidence, and collaboration.</p>
+<p>&nbsp;<strong>Public Speaking &amp; Performance</strong>
+</p>
+<p>Students develop stage presence and confidence as they present ideas,
+perform characters, and speak clearly before an audience.</p>
+<p>&nbsp;<strong>ICT in Drama</strong>
+</p>
+<p>Students use technological tools to enhance performances and creatively
+express and share their ideas.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -48,18 +56,30 @@ ideas</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Bindiya Aswani (OIC)</p>
+<p>Mdm Habibah Tahar (OIC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>bindiya.aswani@gsps.edu.sg</p>
+<p><a href="mailto:habibah_tahar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">habibah_tahar@schools.gov.sg</a>
+</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Habibah Tahar (2IC)</p>
+<p>Mdm Bindiya Aswani (2IC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>habibah.tahar@gsps.edu.sg</p>
+<p><a href="mailto:Bindiya_vaswani@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Bindiya_vaswani@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Maragatham (3IC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:maragatham_sivalingam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">maragatham_sivalingam@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -89,10 +109,10 @@ ideas</p>
 <p>Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.15 p.m. - 3.45 p.m.</p>
+<p>2.00 p.m. - 4.00 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teaching Lab (Level 5)</p>
+<p>PAL Room (Level 4)</p>
 </td>
 </tr>
 </tbody>
