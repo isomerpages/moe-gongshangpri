@@ -1,5 +1,5 @@
 ---
-title: Staff
+title: Our People
 permalink: /kindergarten/staff/
 description: ""
 variant: tiptap
@@ -46,6 +46,108 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Marscella</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Deputy Centre Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:marscella@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">marscella@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wee Yu Qian, Regina</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wee_yu_qian_regina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wee_yu_qian_regina@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nur Aqilah Binte Jamil</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EL Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Nur_Aqilah_Jamil@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Nur_Aqilah_Jamil@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nur Faiqah Khan Binte</p>
+<p>Ayub Khan Surattee</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EL Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Nur_Faiqah_Khan_Ayub@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Nur_Faiqah_Khan_Ayub@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gwyneth Lim Jia Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EL Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:gwyneth_lim_jia_yi_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gwyneth_lim_jia_yi_A@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nashitah D/O Mohamed</p>
+<p>Irfan</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EL Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nashitah_mohamed_irfan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nashitah_mohamed_irfan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chan Hui Yan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EL Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chan_hui_yan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_hui_yan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Christopher Santhiya</p>
+<p>Motcha dido</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EL Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Santhiya_Motcha_Dido_Christopher@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Santhiya_Motcha_Dido_Christopher@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ma Yan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -65,30 +167,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:alicia_chua_mei_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">alicia_chua_mei_yin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sharifah Hidayah Fajriyah Fadzli Al- Edrus</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English Language Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:sharifah_hidayah_fajriyah_fadzli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sharifah_hidayah_fajriyah_fadzli@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lavanya Naidu D/O Kanaiyahnaidu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English Language Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lavanya_naidu_kanaiyahnaidu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lavanya_naidu_kanaiyahnaidu@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -286,25 +364,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Harene D/O Balasubramaniam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tamil Language Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:harene_balasubramaniam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">harene_balasubramaniam@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Soo Thoo Su Yin (Kristin)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MK FAJ</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:soo_thoo_su_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soo_thoo_su_yin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nurulhuda Hashim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FAJ (ML)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nurulhuda_hashim_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurulhuda_hashim_a@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
