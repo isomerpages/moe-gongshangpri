@@ -14,7 +14,11 @@ variant: tiptap
 <h4><strong>Our Mission</strong></h4>
 <p>To provide quality pre-school education that is affordable to Singaporeans
 and catalyse quality improvements in the sector.</p>
-<h4><strong>MK Programme &amp; Operating Hours</strong></h4>
+<h4><strong>MK Operating Hours</strong></h4>
+<p>8.00am to 12noon</p>
+<p>If you have any queries, please contact us at <a href="mailto:mk_gongshang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mk_gongshang@moe.edu.sg</a> or call
+6783 1191.</p>
+<h4><strong>KCare Operating Hours</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -31,72 +35,30 @@ and catalyse quality improvements in the sector.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MK Morning Session</p>
+<p>School Term</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8 am to 12 noon</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MKAfternoon Session</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 pm to 5 pm</p>
+<p>12 noon to 7 pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>School Holidays</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>7.00 am to 7.00 pm</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>If tyou require a full-day service, you can register for Kindergarten
-Care(KCare), which is offered at all MKs. Your child will be in KCare before
-and after the MK session within the same premises.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>KCare</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7 am to 7 pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>MK@GS children are eligible under Phase 2A in the P1 Registration Exercise
-to Gongshang Primary School. Like all children who may be eligible for
-priority admissions, placement into our primary school is not guaranteed
-and depends on the number of applicants and vacancies at the school during
-the P1 Registration Exercise.</p>
-<p></p>
-<h4><strong>MK@Gongshang collaborates with the following Early Years Centre(EYC):</strong></h4>
+<h4><strong>Our Early Years Centre (EYC) Partners</strong></h4>
+<p>MK@Gongshang collaborates with 4 Early Years Centre (EYC). Under this
+collaboration, partners PCF Sparkletots Preschool operates Early Years
+Centres (EYCs) providing preschool services for children aged two months
+to four years. At age 5, the children will then have a choice to continue
+their Kindergarten 1 (K1) and Kindergarten 2 (K2) programme at a partner
+MOE Kindergarten.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -116,15 +78,35 @@ the P1 Registration Exercise.</p>
 <p>PCF Sparkletots Preschool @ Tampines East Blk 262</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Blk 262 Tampines Street 21 #01-272, S520262Tel: 6783 4463</p>
+<p>Blk 262 Tampines Street 21 #01-272, S520262</p>
+<p>Tel: 6783 4463</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>PCF Sparkletots Preschool @ Tampines Changkat Blk 106</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Blk 106 Tampines St 11 #01-333, S521106</p>
+<p>Tel: 6788 5334</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PCF Sparkletots Preschool @ Tampines West Blk 151</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 151 Tampines St 12 #01-26, S521151</p>
+<p>Tel: 6785 6155</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PCF Sparkletots Preschool @ Tampines West Blk 942</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 942 Tampines Ave 5 #01-251, S520942</p>
+<p>Tel: 6784 9448</p>
 </td>
 </tr>
 </tbody>
