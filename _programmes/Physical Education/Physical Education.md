@@ -3,16 +3,33 @@ title: Physical Education
 permalink: /our-gsps-experience/pe-and-aesthetics/pe/
 description: ""
 third_nav_title: Physical Education
+variant: tiptap
 ---
-### **Physical Education**
-In Gongshang Primary, we aim to equip and nurture pupils with knowledge, skills and values to become a competent mover and to pursue a healthy lifestyle through sports and games.
-
-#### **Learning Outcomes**
-At the end of the of the six years, a Gongshanger will: 
-
-* acquire a range of movement skills to participate in a variety of physical activities, 
-* understand and apply movement concepts, principles and strategies in a range of physical activities,
-* demonstrate safe practices during physical and daily activities with respect to themselves, others and the environment,
-* display positive personal and social behaviour across different experiences, 
-* acquire and maintain health-enhancing fitness through regular participation in physical activities, and
-* enjoy and value the benefits of living a physically active and healthy life.
+<p><strong>Physical Education</strong>
+</p>
+<p><strong>Vision</strong>
+</p>
+<p>Lifelong health, confidence, and sportsmanship – the Gongshang way.</p>
+<p><strong>Mission</strong>
+</p>
+<p>To nurture Gongshang students to be physically competent and confident
+individuals who demonstrate good sportsmanship and embrace a lifetime of
+active, healthy living in a safe and responsible manner.</p>
+<p><strong>Purpose and Goals of PE</strong>
+</p>
+<p><strong>Movement Competence</strong> – Students acquire the skills and
+knowledge to participate in a variety of physical activities individually
+and with others, applying movement concepts across different contexts.</p>
+<p><strong>Healthy Lifestyle Practices</strong> – Students adopt and maintain
+active and healthy lifestyle habits, understanding factors that influence
+their choices and taking personal responsibility for their well-being.</p>
+<p><strong>Safety Mindset</strong> – Students practise safety in physical
+activities, assess and manage risks, and respond responsibly to hazards,
+fostering a balance between adventure and caution.</p>
+<p><strong>Core Values</strong> – Students make responsible decisions guided
+by values such as perseverance, integrity (sportsmanship), respect, courage,
+harmony (teamwork), resilience, and personal responsibility in health,
+fitness, hygiene, and safety.</p>
+<p><strong>Enjoyment</strong> – Students appreciate and enjoy physical activity
+and healthy living, cultivating positive self-concept, meaningful engagement
+with the outdoors, and contributing to a sustainable community.</p>
