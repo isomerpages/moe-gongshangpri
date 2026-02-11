@@ -9,8 +9,8 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/MK_open_house.png">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/mk_open_house_updated_directions.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/MK_directions_.png">
+</div>
 <p></p>
