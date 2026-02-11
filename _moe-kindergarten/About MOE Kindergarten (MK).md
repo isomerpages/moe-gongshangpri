@@ -38,7 +38,7 @@ and catalyse quality improvements in the sector.</p>
 <p>School Term</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12 noon to 7 pm</p>
+<p>12 noon to 7.00 pm</p>
 </td>
 </tr>
 <tr>
@@ -54,11 +54,10 @@ and catalyse quality improvements in the sector.</p>
 <p></p>
 <h4><strong>Our Early Years Centre (EYC) Partners</strong></h4>
 <p>MK@Gongshang collaborates with 4 Early Years Centre (EYC). Under this
-collaboration, partners PCF Sparkletots Preschool operates Early Years
-Centres (EYCs) providing preschool services for children aged two months
-to four years. At age 5, the children will then have a choice to continue
-their Kindergarten 1 (K1) and Kindergarten 2 (K2) programme at a partner
-MOE Kindergarten.</p>
+collaboration, PCF Sparkletots Preschool operates Early Years Centres (EYCs)
+providing preschool services for children aged two months to four years.
+At age 5, the children will then have a choice to continue their Kindergarten
+1 (K1) and Kindergarten 2 (K2) programme at a partner MOE Kindergarten.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
