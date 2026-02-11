@@ -367,7 +367,7 @@ variant: tiptap
 <p>Soo Thoo Su Yin (Kristin)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MK FAJ</p>
+<p>FAJ (EL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:soo_thoo_su_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soo_thoo_su_yin@moe.edu.sg</a>
