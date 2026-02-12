@@ -2,8 +2,8 @@ collections:
   moe-kindergarten:
     output: true
     order:
-      - 2026 MK Open House.md
       - About MOE Kindergarten (MK).md
       - MK Curriculum.md
       - Our People.md
+      - 2026 MK Open House.md
       - MK Admission.md
