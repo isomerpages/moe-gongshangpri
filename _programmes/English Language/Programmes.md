@@ -113,9 +113,6 @@ also encourages students to&nbsp;read widely for knowledge and for enjoyment.
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 uploads/Reading_LRD__1_.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 uploads/Reading_LRD__2_.jpg">
-</div>
 <p><strong>P3 English Enrichment Programme: Speech and Drama</strong>
 </p>
 <p>The school runs a Speech and Drama enrichment programme for selected Primary
