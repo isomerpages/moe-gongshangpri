@@ -33,7 +33,7 @@ improve on their mastery of the language.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 uploads/1_4_Model_Kurikulum_Bahasa_Melayu_Sekolah_rendah_2024.jpg">
 </div>
-<h3><strong>Programmes </strong></h3>
+<h3><strong>Programmes</strong></h3>
 <p><strong>P1 MTL Read with Me Programme (ML session)</strong>
 </p>
 <p>This programme provides a platform for parents to bond with their child
@@ -58,6 +58,31 @@ through shared reading experiences at home.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 uploads/P1_Read_With_My_Child_4.jpg">
+</div>
+<p></p>
+<p><strong>P2 Pentas Cerita – Drama Programme (ALP)</strong>
+</p>
+<p>This drama programme is conceptualized to develop communication skills
+through the integration of interactive drama activities to encourage dynamic
+language learning. Through this programme, P2 students learn to communicate
+their thoughts, expand their vocabulary, perfect their articulation and
+redirect their energy and imagination to effectively express themselves
+in Malay!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 uploads/Pentas_Cerita_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 uploads/Pentas_Cerita_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 uploads/Pentas_Cerita_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 uploads/Pentas_Cerita_4.jpg">
 </div>
 <p><strong>P4&amp;5 HML Petah Pintar - Hosting &amp; Presentation Skills (ALP)</strong>
 </p>
@@ -99,8 +124,7 @@ the National Malay Writing Competition!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 uploads/National_Malay_Writing_Competition_2.jpg">
 </div>
-<p>
-<br><strong>P6 Cultural Camp</strong>
+<p><strong>P6 Cultural Camp</strong>
 </p>
 <p>The Malay pupils participated in two experiential activities which are
 the Wayang Kulit with Puppet Making and Die-cut Rumah Kampung Model Making,
@@ -128,7 +152,11 @@ and self-management.</p>
 <p><strong>Printed Dictionary</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 uploads/Kamus_Dewan.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2026 uploads/Kamus_Dewan.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2026 uploads/kamus_dewan.png">
 </div>
 <p>
 <br>
