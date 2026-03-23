@@ -15,7 +15,7 @@ variant: tiptap
 <th rowspan="2" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 uploads/P_Mrs_Stella_Kwan.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2025 uploads/P_Mrs_Stella_Kwan.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -82,18 +82,18 @@ and enabling school environment where every child is encouraged to enjoy
 learning, embrace challenges, and forge strong relationships. We will continue
 to work closely together to ensure that Gongshang Primary School remains
 a place where every child feels valued, inspired, and empowered to face
-the future with confidence.</p><pre><code>    !-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:DengXian; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-alt:等线; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-1610612033 953122042 22 0 262159 0;} @font-face {font-family:Aptos; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:536871559 3 0 0 415 0;} @font-face {font-family:"\\@DengXian"; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:auto; mso-font-signature:0 0 0 0 0 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin:0in; mso-pagination:widow-orphan; font-size:12.0pt; font-family:"Aptos",sans-serif; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-bidi-font-family:Aptos; mso-ligatures:standardcontextual;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-size:10.0pt; mso-ansi-font-size:10.0pt; mso-bidi-font-size:10.0pt; mso-font-kerning:0pt; mso-ligatures:none;} @page WordSection1 {size:8.5in 11.0in; margin:1.0in 1.0in 1.0in 1.0in; mso-header-margin:.5in; mso-footer-margin:.5in; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} --&gt;</code></pre>
+the future with confidence.</p>
 <p>To our Gongshangers, embrace every opportunity to learn, grow, and challenge
 yourselves. Be curious, be kind, and believe in your own strengths. You
 all have immense potential, so take every opportunity to strive and reach
 new heights! Remember, you are supported by your parents, peers, teachers
 and community around you, all ready to help you along the way.</p>
-<p>&nbsp;As we move forward from our 105th anniversary milestone under the
-theme, <em>Celebrating Legacy, Inspiring Tomorrow</em>, we honour the values,
-traditions and achievements passed down through generations, as we continue
-to guide and inspire the future. We look forward to an exciting and meaningful
-2026, as we journey together to shape the next memorable chapters of our
-Gongshang story. We warmly welcome you to be part of our vibrant community!&nbsp;</p>
+<p>As we move forward from our 105th anniversary milestone under the theme, <em>Celebrating Legacy, Inspiring Tomorrow</em>,
+we honour the values, traditions and achievements passed down through generations,
+as we continue to guide and inspire the future. We look forward to an exciting
+and meaningful 2026, as we journey together to shape the next memorable
+chapters of our Gongshang story. We warmly welcome you to be part of our
+vibrant community!&nbsp;</p>
 <p>&nbsp;</p>
 <p><strong>Your partner-in-education<br>Mrs. Stella Kwan<br>Principal</strong>
 </p>
