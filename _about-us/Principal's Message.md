@@ -2,13 +2,13 @@
 title: Principal's Message
 permalink: /about-us/principal-message/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h4><strong>Our Gongshang Story</strong></h4>
-<table style="width: 100%;border: 0; border-collapse: collapse;">
+<table style="minWidth: 50px">
 <colgroup>
-	<col style="width: 35%">
-	<col style="width: 65%">
+<col>
+<col>
 </colgroup>
 <tbody>
 <tr>
@@ -24,55 +24,76 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>It is with great excitement and pride that we welcome the 2025 school year at Gongshang Primary School, marking a significant milestone - our 105th anniversary! Founded in January 1920 by Mr. Shi Su, the school was initially established as The Chinese Industrial and Commercial Continuation School. As the 11th principal of this esteemed school, I am deeply privileged to lead a community with such a rich history of educational excellence.
-</p>
+<p>It is with great excitement and pride that we welcome the 2026 school
+year at Gongshang Primary School, following a truly meaningful year as
+we commemorated our 105th Anniversary in 2025. As we usher in the new year,
+we warmly welcome all Primary 1 and Kindergarten 1 students and their parents
+to our Gongshang family.</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p>The year 2025 was especially memorable as we celebrated this significant
+milestone alongside our former Principals, School Advisory Committee, Alumni,
+Parent Support Group and parents, highlighted by the official opening of
+our Heritage Gallery. These shared moments have enriched our collective
+identity, deepened our appreciation of our rich heritage, and reinforced
+the bonds that continue to strengthen our Gongshang school spirit.</p>
+<p></p>
+<p>Founded in January 1920 by Mr. Shi Su as The Chinese Industrial and Commercial
+Continuation School, the school carries a proud legacy of over a century.
+As the 11th Principal of this esteemed school, I am deeply privileged to
+lead a community with such a rich history of educational excellence.</p>
+<p></p>
+<p></p>
 <p>The legacy of Gongshang Primary School is built on the dedication, hard
-work and passion of the generations of students, school leaders, staff,
-alumni and parents who have contributed to its success. I would like to
-express my heartfelt gratitude to the previous 10 principals, whose strong
-leadership and vision have shaped Gongshang Primary School into the established
-institution it is today. I am honored to continue building upon their legacy.</p>
+work and passion of generations of students, school leaders, staff and
+parents who have contributed to its success. The strong leadership and
+vision of our former Principals have shaped Gongshang Primary School into
+the established institution it is today. It is upon this rich foundation
+that we continue to build as we move forward together.</p>
+<p></p>
 <p>A cornerstone of our success is the strong partnership we share with our
-dedicated stakeholders—our parents, Parent Support Group, Alumni, School
-Advisory Committee and community partners. I extend my deepest thanks to
-these valued partners whose unwavering support plays an integral role in
-the growth and success of our students and school.</p>
-<p>Gongshang Primary School has been a nurturing environment where students
+dedicated stakeholders — our parents, Parent Support Group, Alumni, School
+Advisory Committee and community partners. Their unwavering support plays
+an integral role in the growth and success of our students and school.</p>
+<p></p>
+<p>Gongshang Primary School has long been a nurturing environment where students
 are inspired to learn, lead, and develop into well-rounded individuals.
-As we look to the future, we recognize that the world around us is rapidly
-evolving, driven by accelerated technological advancements, presenting
-both challenges and exciting opportunities. Our vision of <strong>Active Learners, Confident Leaders, and Gracious Citizens</strong> reflects
-our commitment to equipping our students with the skills, mindset, and
-resilience necessary to thrive in this dynamic and uncertain world. We
-foster adaptability, creativity and collaboration, nurturing our students
-to be learners who embrace each day with curiosity and passion, leaders
-who face challenges with courage and resilience, and citizens who act with
-purpose and compassion.</p>
+As we look ahead, we recognise that the future will be shaped by rapid
+technological advancements, evolving global challenges, and new possibilities
+yet to be imagined. In preparing our students to be <em>future-ready</em>,
+we are committed to equipping them not only with strong knowledge and skills,
+but also with the dispositions to think critically and creatively, adapt
+confidently, and collaborate meaningfully.</p>
+<p>Our vision of <em>Active Learners, Confident Leaders, and Gracious Citizens</em> reflects
+this commitment. We seek to nurture learners who are curious and self-directed,
+leaders who are resilient and forward-thinking, and citizens who are empathetic
+and purposeful.</p>
 <p>At the heart of our school are four core values that guide and shape our
-community - <strong>Perseverance, Thrift, Integrity and Respect</strong>.
-These values empower our students to face challenges with determination,
-manage resources wisely, maintain a strong sense of right and wrong, appreciate
-and treat others with kindness and sensitivity. By embodying these values,
-our students stay grounded and are enabled to positively influence their
-peers and contribute meaningfully to the communities around them.</p>
+community - <em>Perseverance, Thrift, Integrity and Respect</em>. These
+values empower our students to face challenges with determination, manage
+resources wisely, maintain a strong moral compass, and treat others with
+kindness and sensitivity. By embodying these values, our students remain
+grounded whilst being enabled to positively influence their peers and contribute
+meaningfully to the communities around them.</p>
 <p>Our dedicated educators and staff are committed to fostering a caring
 and enabling school environment where every child is encouraged to enjoy
-learning and forge strong relationships. I look forward to working alongside
-all of you to ensure that Gongshang Primary School continues to be a place
-where every child feels valued, inspired, and empowered to face the future
-with confidence.</p>
+learning, embrace challenges, and forge strong relationships. We will continue
+to work closely together to ensure that Gongshang Primary School remains
+a place where every child feels valued, inspired, and empowered to face
+the future with confidence.</p><pre><code>    !-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:DengXian; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-alt:等线; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-1610612033 953122042 22 0 262159 0;} @font-face {font-family:Aptos; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:536871559 3 0 0 415 0;} @font-face {font-family:"\\@DengXian"; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:auto; mso-font-signature:0 0 0 0 0 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin:0in; mso-pagination:widow-orphan; font-size:12.0pt; font-family:"Aptos",sans-serif; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-bidi-font-family:Aptos; mso-ligatures:standardcontextual;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-size:10.0pt; mso-ansi-font-size:10.0pt; mso-bidi-font-size:10.0pt; mso-font-kerning:0pt; mso-ligatures:none;} @page WordSection1 {size:8.5in 11.0in; margin:1.0in 1.0in 1.0in 1.0in; mso-header-margin:.5in; mso-footer-margin:.5in; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} --&gt;</code></pre>
 <p>To our Gongshangers, embrace every opportunity to learn, grow, and challenge
 yourselves. Be curious, be kind, and believe in your own strengths. You
-all have immense potential, so give it a try and strive to reach new heights!
-Remember, you are supported by your parents, peers, teachers and community
-around you, all ready to help you along the way.</p>
-<p>As we celebrate our 105th anniversary, we honor the past while looking
-forward to the future. We welcome you to be part of our vibrant community!
-I am excited about the opportunities ahead and look forward to partnering
-with all of you to shape the next memorable chapters of our Gongshang story.</p>
+all have immense potential, so take every opportunity to strive and reach
+new heights! Remember, you are supported by your parents, peers, teachers
+and community around you, all ready to help you along the way.</p>
+<p>&nbsp;As we move forward from our 105th anniversary milestone under the
+theme, <em>Celebrating Legacy, Inspiring Tomorrow</em>, we honour the values,
+traditions and achievements passed down through generations, as we continue
+to guide and inspire the future. We look forward to an exciting and meaningful
+2026, as we journey together to shape the next memorable chapters of our
+Gongshang story. We warmly welcome you to be part of our vibrant community!&nbsp;</p>
 <p>&nbsp;</p>
-<strong>Your partner-in-education<br>Mrs. Stella Kwan<br>Principal</strong>
+<p><strong>Your partner-in-education<br>Mrs. Stella Kwan<br>Principal</strong>
+</p>
