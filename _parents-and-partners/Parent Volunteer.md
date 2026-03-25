@@ -21,13 +21,16 @@ registration, or</p>
 </li>
 </ul>
 <hr>
-<h3><strong>2026 Recruitment Exercise </strong></h3>
+<h3><strong>2026 Recruitment Exercise (Closed)</strong></h3>
 <p><strong>&nbsp;</strong>Parent volunteer recruitment exercise for children
 who are born between 2 Jan 2021 and 1 Jan 2022 (both dates inclusive) is
-now open.</p>
-<p>Applications can be done via this link <a href="https://go.gov.sg/gspsparentvolunteerform2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/gspsparentvolunteerform2026</a>.</p>
-<p>&nbsp;The closing date for submitting an application is <strong><u>20 March 2026, 3pm</u></strong>.
-Applications received after the deadline will not be considered and appeals
-are not accepted.</p>
-<p>&nbsp;Parents will be informed of the application outcome by June 2026.</p>
+now closed. We no longer accept new applications and appeals are not accepted.
+For Parents who have applied, you will be informed of the application&nbsp;outcome
+via email by June 2026.</p>
 <p></p>
+<h3><strong>2027 Recruitment Exercise </strong></h3>
+<p>&nbsp;For children who are born between 2 Jan 2022 and 1 Jan 2023 (both
+dates inclusive), the details for parent volunteer recruitment exercise
+2027 will be posted on our school website by end Feb/early Mar 2027.</p>
+<p>&nbsp;Please keep a lookout for the information and submit your application
+when the time comes.</p>
