@@ -28,7 +28,7 @@ now closed. We no longer accept new applications and appeals are not accepted.
 For Parents who have applied, you will be informed of the application&nbsp;outcome
 via email by June 2026.</p>
 <p></p>
-<h3><strong>2027 Recruitment Exercise </strong></h3>
+<h3><strong>2027 Recruitment Exercise</strong></h3>
 <p>&nbsp;For children who are born between 2 Jan 2022 and 1 Jan 2023 (both
 dates inclusive), the details for parent volunteer recruitment exercise
 2027 will be posted on our school website by end Feb/early Mar 2027.</p>
