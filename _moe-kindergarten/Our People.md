@@ -364,6 +364,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Nurulhudah Binte Umar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Malay Language Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Nurulhudah_Umar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Nurulhudah_Umar@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Soo Thoo Su Yin (Kristin)</p>
 </td>
 <td rowspan="1" colspan="1">
