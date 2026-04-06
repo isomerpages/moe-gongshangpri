@@ -43,7 +43,8 @@ can be found in the following links:</p>
 </p>
 </li>
 <li>
-<p>Microsoft 365 Pro Plus: <a href="https://www.microsoft.com/en-sg/servicesagreement" rel="noopener noreferrer nofollow" target="_blank">https://portal.office.com/commerce/mosa.aspx</a>&nbsp;</p>
+<p>Microsoft 365 Pro Plus: <a href="https://www.microsoft.com/en-sg/servicesagreement" rel="noopener noreferrer nofollow" target="_blank">https://www.microsoft.com/en-sg/servicesagreement</a>
+</p>
 </li>
 </ul>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For
