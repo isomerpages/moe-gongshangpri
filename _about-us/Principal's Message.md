@@ -5,34 +5,15 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>Our Gongshang Story</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="2" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2025 uploads/P_Mrs_Stella_Kwan.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 uploads/school_website_Mrs_Kwan_.png">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<h4></h4>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>It is with great excitement and pride that we welcome the 2026 school
 year at Gongshang Primary School, following a truly meaningful year as
 we commemorated our 105th Anniversary in 2025. As we usher in the new year,
 we warmly welcome all Primary 1 and Kindergarten 1 students and their parents
 to our Gongshang family.</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p>The year 2025 was especially memorable as we celebrated this significant
 milestone alongside our former Principals, School Advisory Committee, Alumni,
 Parent Support Group and parents, highlighted by the official opening of
