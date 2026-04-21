@@ -84,7 +84,7 @@ and strive for social mobility through self-help and mutual support.</p>
 <p>Yayasan MENDAKI is a Self-Help Group and was set up in 1982 to uplift
 the academic performance of the Malay/Muslim community in Singapore through
 education and lifelong learning.</p>
-<p>Find out more about their <a href="https://www.mendaki.org.sg/assistance-landing/" rel="noopener nofollow" target="_blank">assistance programmes</a> here.</p>
+<p>Find out more about their <a href="https://www.mendaki.org.sg/scheme-listing?q=PrimarySecondary" rel="noopener nofollow" target="_blank">assistance programmes</a> here.</p>
 </td>
 </tr>
 <tr>
