@@ -169,7 +169,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2K<br></strong><a href="mailto:nurathirah_md_sharoni@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Nurathirah Aiman</a>
-<br><a href="mailto:yeo_soh_fang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jennifer Yeo</a>
 <br><a href="mailto:Kavitha_Senthil_Kumar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Kavitha Senthil Kumar</a>
 </p>
 </td>
@@ -228,7 +227,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>3R</strong>
-<br><a href="mailto:Egwin_Lian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Egwin Lian</a>
+<br><a href="mailto:ngiam_song_wee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Nigam Song Wee</a>
 <br><a href="mailto:foo_tseh_chyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Foo Tseh Chyn</a>
 </p>
 </td>
@@ -236,7 +235,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>3C</strong>
-<br><a href="mailto:chew_suat_ling_wendy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Wendy Chu</a>
+<br><a href="mailto:Deng_Kai_Xuan_Fae@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Deng</a>
 <br><a href="mailto:siti_normalis_mohamed_is@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti Normalis Bte Mohamed Ismail</a>
 </p>
 </td>
@@ -358,7 +357,7 @@ description: ""
 <p><strong>5R</strong>
 <br><a href="mailto:fong_shiyan_dorcas@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Dorcas Fong</a>
 <br><a href="mailto:hazmi_hasan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Hazmi B Hasan</a>
-<br><a href="mailto:lai_yao_khuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Scott Lai</a>
+<br>
 </p>
 </td>
 </tr>
