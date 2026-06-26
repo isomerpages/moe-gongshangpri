@@ -244,6 +244,8 @@ description: ""
 <br><a href="mailto:lim_choon_hong_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Choon Hong</a>
 <br><a href="mailto:huang_peiwen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Liu Peiwen</a>
 </p>
+<p><a href="mailto:azman_mohammed_noh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Azman</a>
+</p>
 </td>
 </tr>
 <tr>
