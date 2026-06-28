@@ -136,14 +136,16 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2I</strong>
-<br><a href="mailto:muhamad_fadzly_zainal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Muhd Fadzly B Zainal</a>
 <br><a href="mailto:tang_swee_har@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jessica Tang</a>
+<br><a href="mailto:muhamad_fadzly_zainal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Muhd Fadzly B Zainal</a>
+<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2R</strong>
-<br><a href="mailto:ng-thiam_siow_foon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Ng-Thiam Siow Foon</a>
 <br><a href="mailto:Horis_Hosri@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Horis Bin Hosri</a>
+<br><a href="mailto:ng-thiam_siow_foon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Ng-Thiam Siow Foon</a>
+<br>
 </p>
 </td>
 </tr>
@@ -156,8 +158,9 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2H</strong>
-<br><a href="mailto:widayu_kemat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Widayu Bte Kemat</a>
 <br><a href="mailto:lee_ser_meei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lee Ser Meei</a>
+<br><a href="mailto:widayu_kemat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Widayu Bte Kemat</a>
+<br>
 </p>
 </td>
 </tr>
@@ -375,8 +378,9 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>5H</strong>
-<br><a href="mailto:chan_beng_neo_melissa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Melissa Chan</a>
 <br><a href="mailto:Lye_kit_yeng_ada@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ada Lye</a>
+<br><a href="mailto:chan_beng_neo_melissa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Melissa Chan</a>
+<br>
 </p>
 </td>
 </tr>
