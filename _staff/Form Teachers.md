@@ -64,8 +64,9 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>1R</strong>
-<br><a href="mailto:siti_fadhilah_saneb@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti Fadhilah Binte Saneb</a>
 <br><a href="mailto:seng_jia_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Seng Jia Ying</a>
+<br><a href="mailto:siti_fadhilah_saneb@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti Fadhilah Binte Saneb</a>
+<br>
 </p>
 </td>
 </tr>
@@ -227,15 +228,16 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>3R</strong>
-<br><a href="mailto:ngiam_song_wee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Nigam Song Wee</a>
 <br><a href="mailto:foo_tseh_chyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Foo Tseh Chyn</a>
+<br><a href="mailto:ngiam_song_wee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ngiam Song Wee</a>
+<br>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>3C</strong>
-<br><a href="mailto:Deng_Kai_Xuan_Fae@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Deng</a>
+<br><a href="mailto:Deng_Kai_Xuan_Fae@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fae Deng</a>
 <br><a href="mailto:siti_normalis_mohamed_is@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti Normalis Bte Mohamed Ismail</a>
 </p>
 </td>
@@ -243,8 +245,7 @@ description: ""
 <p><strong>3H</strong>
 <br><a href="mailto:lim_choon_hong_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Choon Hong</a>
 <br><a href="mailto:huang_peiwen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Liu Peiwen</a>
-</p>
-<p><a href="mailto:azman_mohammed_noh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Azman</a>
+<br><a href="mailto:azman_mohammed_noh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Azman Bin Mohammed Noh</a>
 </p>
 </td>
 </tr>
@@ -351,14 +352,16 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>5I</strong>
-<br><a href="mailto:zheng_minghui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zheng Minghui</a>
 <br><a href="mailto:rosilah_abdullah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Rosilah Bte Abdullah</a>
+<br><a href="mailto:zheng_minghui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zheng Minghui</a>
+<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>5R</strong>
-<br><a href="mailto:mohamed_zafran_mohd_osman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Zafran</a>
 <br><a href="mailto:hazmi_hasan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Hazmi B Hasan</a>
+<br><a href="mailto:mohamed_zafran_mohd_osman@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Mohamed Zafran Bin Mohamed Osman</a>
+<br>
 <br>
 </p>
 </td>
