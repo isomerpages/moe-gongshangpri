@@ -73,8 +73,10 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>1C</strong>
-<br><a href="mailto:maragatham_sivalingam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Maragatham d/o Sivalingam</a>
 <br><a href="mailto:he_na@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm He Na</a>
+<br><a href="mailto:maragatham_sivalingam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Maragatham d/o Sivalingam</a>
+<br><a href="mailto:goh_chwee_yin_sarah@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Sarah Ang</a>
+<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -145,7 +147,7 @@ description: ""
 <p><strong>2R</strong>
 <br><a href="mailto:Horis_Hosri@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Horis Bin Hosri</a>
 <br><a href="mailto:ng-thiam_siow_foon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Ng-Thiam Siow Foon</a>
-<br>
+<br><a href="mailto:nadiah@gsps.edu.sg" rel="noopener nofollow" target="_blank">Miss Nadiah Binte Rosli</a>
 </p>
 </td>
 </tr>
@@ -217,6 +219,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>3T</strong>
+<br><a href="mailto:ng_bee_san@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Ng Bee San</a>
 <br><a href="mailto:Wang_Jingzi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Wang Jingzi</a>
 <br><a href="mailto:Suhaidah_Mokhtar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Suhaidah Bte Mokhtar</a>
 </p>
@@ -246,9 +249,10 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>3H</strong>
+<br><a href="mailto:azman_mohammed_noh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Azman Bin Mohammed Noh</a>
 <br><a href="mailto:lim_choon_hong_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Choon Hong</a>
 <br><a href="mailto:huang_peiwen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Liu Peiwen</a>
-<br><a href="mailto:azman_mohammed_noh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Azman Bin Mohammed Noh</a>
+<br>
 </p>
 </td>
 </tr>
@@ -299,6 +303,7 @@ description: ""
 <p><strong>4R</strong>
 <br><a href="mailto:muhammad_luqman_mohd_shapie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Muhd Luqman B Mohd Shapie</a>
 <br><a href="mailto:low_peggy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Peggy Low</a>
+<br><a href="mailto:Sarah_Mohamad_Sufian@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Sarah Bte Mohd Sufian</a>
 </p>
 </td>
 </tr>
@@ -363,6 +368,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>5R</strong>
 <br><a href="mailto:hazmi_hasan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Hazmi B Hasan</a>
+<br><a href="" rel="noopener nofollow" target="_blank">Mdm Sarifah Rahmah Binte Ahmad</a>
 <br><a href="mailto:mohamed_zafran_mohd_osman@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Mohamed Zafran Bin Mohamed Osman</a>
 <br>
 <br>
