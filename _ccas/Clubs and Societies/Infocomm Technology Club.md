@@ -35,7 +35,11 @@ cyberspace citizens.</p>
 <p></p>
 </li>
 </ul>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -50,7 +54,8 @@ cyberspace citizens.</p>
 <p>Ms Peggy Low (OIC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>peggy.low@gsps.edu.sg</p>
+<p><a href="mailto:low_peggy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_peggy@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -58,7 +63,8 @@ cyberspace citizens.</p>
 <p>Mr Yusri B Yunos</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yusri@gsps.edu.sg</p>
+<p><a href="mailto:yusri_yunos@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yusri_yunos@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -66,7 +72,8 @@ cyberspace citizens.</p>
 <p>Mr Henry Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>henry.lee@gsps.edu.sg</p>
+<p><a href="mailto:lee_hung_tong_henry@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_hung_tong_henry@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -81,7 +88,11 @@ cyberspace citizens.</p>
 </table>
 <p><strong>Training schedule:</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -90,9 +101,6 @@ cyberspace citizens.</p>
 <th rowspan="1" colspan="1">
 <p>Time</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Venue</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -100,9 +108,6 @@ cyberspace citizens.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.15 p.m. - 3.45 p.m.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Autumn Lab</p>
 </td>
 </tr>
 </tbody>

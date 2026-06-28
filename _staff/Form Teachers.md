@@ -244,6 +244,8 @@ description: ""
 <br><a href="mailto:lim_choon_hong_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Choon Hong</a>
 <br><a href="mailto:huang_peiwen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Liu Peiwen</a>
 </p>
+<p><a href="mailto:azman_mohammed_noh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Azman</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -355,7 +357,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>5R</strong>
-<br><a href="mailto:fong_shiyan_dorcas@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Dorcas Fong</a>
+<br><a href="mailto:mohamed_zafran_mohd_osman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Zafran</a>
 <br><a href="mailto:hazmi_hasan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Hazmi B Hasan</a>
 <br>
 </p>
@@ -430,7 +432,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>6R</strong>
 <br><a href="mailto:jennifer_jacob@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jennifer d/o Jacob</a>
-<br><a href="mailto:Kan_Yue_Lian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Kan Yue Lian</a>
+<br><a href="mailto:Kan_Yue_Lian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Kan Yue Lian</a>
 </p>
 </td>
 </tr>

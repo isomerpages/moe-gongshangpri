@@ -12,7 +12,7 @@ skills. Students are taught not only to develop their visual arts skills,
 but also to appreciate Art as a medium to express themselves. Budding artists
 in the Art Club seek to sharpen their artistic perspective, as well as
 to cultivate perseverance, patience and diligence. Activities include working
-with watercolour, acrylics and 3D sculptures.</p>
+with water-colour, acrylics and 3D sculptures.</p>
 <p><strong>Objectives of CCA:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -39,10 +39,11 @@ with watercolour, acrylics and 3D sculptures.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Scott Lai (OIC)</p>
+<p>Mrs Natalie Neo (OIC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lai_yao_khuan@moe.edu.sg</p>
+<p><a href="mailto:loh_hui_zhi_natalie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loh_hui_zhi_natalie@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -123,14 +124,14 @@ with watercolour, acrylics and 3D sculptures.</p>
 </p>
 <h4><strong>Competitions</strong></h4>
 <p>*The availability of competitions is dependent on external organizations.</p>
-<p>Below are some of the external competitions that the students will be
-participating in.&nbsp;
-<br>- Singapore Youth Festival (Bi-Annual) 2023
-<br>- Stamp Story Art Competition 2023</p>
+<p>Below are some of the external competitions that the students have participated
+in before:&nbsp;
+<br>- Singapore Youth Festival (Bi-Annual)
+<br>- Stamp Story Art Competition</p>
 <p>The school also organizes internal art competitions that are open to all
 pupils.
-<br>- Earth Day Competition 2023
-<br>- National Day Art Competition 2023</p>
+<br>- Earth Day Competition
+<br>- National Day Art Competition</p>
 <h4><strong>Pupils and teachers in action</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
