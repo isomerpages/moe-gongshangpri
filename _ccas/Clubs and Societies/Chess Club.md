@@ -36,18 +36,20 @@ make decisions both visually and analytically, and test their memory.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Kuah Siew Eng (OIC)</p>
+<p>Mr Muhd Luqman B Mohd Shapie (OIC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>kuah.siew.eng@gsps.edu.sg</p>
+<p><a href="mailto:muhammad_luqman_mohd_shapie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_luqman_mohd_shapie@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Razilah Bte Yahya</p>
+<p>Mrs Nurathirah Aiman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>razilah.yahya@gsps.edu.sg</p>
+<p><a href="mailto:nurathirah_md_sharoni@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurathirah_md_sharoni@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
