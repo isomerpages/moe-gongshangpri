@@ -131,7 +131,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mohamed_zafran_mohd_osman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Zafran</a>
+<p><a href="mailto:mohamed_zafran_mohd_osman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohamed Zafran Bin Mohamed Osman</a>
 </p>
 </td>
 </tr>
