@@ -179,4 +179,5 @@ Character Award.</p>
 <h4>Online Nomination</h4>
 <p>Fill in the online nomination form at <a href="https://go.gov.sg/gsps-echa" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/gsps-echa </u></a>or
 scan the QR Code below:</p><a class="isomer-image-wrapper" href="https://go.gov.sg/gsps-echa"><img style="width: 50%;" height="187" width="172" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe1RvlopkEuki0ZtanKBhTTVHR5uTvyehxeTicfJYwxfMXsot6Kd75MXKJbAq6US2H8Xq__YDR1LJDSH5JPdOjwiw-eswuP9DjtI9siSZq00ZmXStTTtPidq4xWv7FpWbZ0qBgMztAcdU8Vy-Rnhw?key=nGhDioWvXejX6AKKtpnuyw"></a>
-<p>The nomination for 2025 will end on Tuesday, 12 Aug 2025 at 5 pm</p>
+<p>The nomination for 2026 will end on Wednesday, 12 August 2026 at 5 pm</p>
+<p></p>
