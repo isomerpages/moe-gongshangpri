@@ -197,7 +197,7 @@ description: ""
 <p>Year Head:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:fadzillah_aslam_khan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Fadzillah Bte Aslam Khan</a>
+<p><a href="mailto:lee_yuet_sim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Shirley Puay</a>
 </p>
 </td>
 </tr>
