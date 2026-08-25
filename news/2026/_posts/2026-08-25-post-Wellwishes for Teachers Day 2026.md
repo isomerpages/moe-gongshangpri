@@ -11,3 +11,7 @@ variant: tiptap
 <p></p>
 <p>Click on the image below to do so!</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="teachers day wellwishes" src="/images/2026 uploads/Screenshot_2026_08_25_175543.png">
+</div>
+<p></p>
