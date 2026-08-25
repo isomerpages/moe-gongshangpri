@@ -5,7 +5,7 @@ date: 2026-08-25
 layout: post
 description: ""
 image: ""
-variant: tiptap
+variant: markdown
 ---
 <h2>Share a Thank You!</h2>
 <p>This Teachers’ Day, let us take a moment to thank a Gongshang Primary
@@ -15,7 +15,7 @@ Each submission counts as one entry. Multiple submissions are warmly welcomed.</
 <p>Click on the <a href="https://sites.google.com/gsps.edu.sg/gsps-staff-appreciation-portal/home" rel="noopener noreferrer nofollow" target="_blank">image below</a> to
 do so!</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="teachers day wellwishes" src="/images/2026 uploads/Screenshot_2026_08_25_175543.png">
+<div class="isomer-image-wrapper"><a href="https://sites.google.com/gsps.edu.sg/gsps-staff-appreciation-portal/home" rel="noopener noreferrer nofollow" target="_blank">
+<img style="width: 50%;" height="auto" width="100%" alt="teachers day wellwishes" src="/images/2026 uploads/Screenshot_2026_08_25_175543.png"></a>
 </div>
 <p></p>
