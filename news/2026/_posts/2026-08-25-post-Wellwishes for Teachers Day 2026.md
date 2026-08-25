@@ -9,7 +9,7 @@ variant: markdown
 ---
 <p>Share your wellwishes for Gongshang teachers this Teachers' Day 2026.</p>
 <p></p>
-<p>Click on the image below to do so!</p>
+<p>Click on the <a href="https://sites.google.com/gsps.edu.sg/gsps-staff-appreciation-portal/home">image below</a> to do so!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 	<a href="https://sites.google.com/gsps.edu.sg/gsps-staff-appreciation-portal/home">
