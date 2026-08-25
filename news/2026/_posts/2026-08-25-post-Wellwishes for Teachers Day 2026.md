@@ -12,6 +12,7 @@ variant: markdown
 <p>Click on the image below to do so!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="teachers day wellwishes" src="/images/2026 uploads/Screenshot_2026_08_25_175543.png">
+	<a href="https://sites.google.com/gsps.edu.sg/gsps-staff-appreciation-portal/home">
+<img style="width: 50%;" height="auto" width="100%" alt="teachers day wellwishes" src="/images/2026 uploads/Screenshot_2026_08_25_175543.png"></a>
 </div>
 <p></p>
